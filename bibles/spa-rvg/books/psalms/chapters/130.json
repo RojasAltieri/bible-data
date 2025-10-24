@@ -1,0 +1,39 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 130,
+  "data": [
+    {
+      "verse": 1,
+      "text": "De lo profundo, oh Jehová, a ti clamo."
+    },
+    {
+      "verse": 2,
+      "text": "Señor, oye mi voz; estén atentos tus oídos a la voz de mi súplica."
+    },
+    {
+      "verse": 3,
+      "text": "Si tú, Jehová, mirares a los pecados, ¿Quién, oh Señor, quedaría en pie?"
+    },
+    {
+      "verse": 4,
+      "text": "Pero en ti hay perdón, para que seas temido."
+    },
+    {
+      "verse": 5,
+      "text": "Esperé yo a Jehová, esperó mi alma; en su palabra he esperado."
+    },
+    {
+      "verse": 6,
+      "text": "Mi alma espera a Jehová más que los centinelas a la mañana; sí, más que los centinelas a la mañana."
+    },
+    {
+      "verse": 7,
+      "text": "Espere Israel a Jehová; porque en Jehová hay misericordia, y en Él hay abundante redención."
+    },
+    {
+      "verse": 8,
+      "text": "Él redimirá a Israel de todos sus pecados."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 127,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Si Jehová no edificare la casa, en vano trabajan los que la edifican; si Jehová no guardare la ciudad, en vano vela la guarda."
+    },
+    {
+      "verse": 2,
+      "text": "Por demás es que se levanten de madrugada, y vayan tarde a reposar, y que coman pan de dolores; pues que a su amado dará Dios el sueño."
+    },
+    {
+      "verse": 3,
+      "text": "He aquí, herencia de Jehová son los hijos: el fruto del vientre es su recompensa."
+    },
+    {
+      "verse": 4,
+      "text": "Como saetas en mano del valiente, así son los hijos habidos en la juventud."
+    },
+    {
+      "verse": 5,
+      "text": "Bienaventurado el hombre que llenó su aljaba de ellos: No será avergonzado cuando hable con los enemigos en la puerta."
+    }
+  ]
+}

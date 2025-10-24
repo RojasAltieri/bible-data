@@ -1,0 +1,295 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 78,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Escucha, pueblo mío, mi ley; inclinad vuestro oído a las palabras de mi boca."
+    },
+    {
+      "verse": 2,
+      "text": "En parábolas abriré mi boca; hablaré enigmas de la antigüedad:"
+    },
+    {
+      "verse": 3,
+      "text": "Las cuales hemos oído y conocido, y nuestros padres nos las contaron."
+    },
+    {
+      "verse": 4,
+      "text": "No las ocultaremos a sus hijos, contando a la generación venidera las alabanzas de Jehová, y su fortaleza, y las obras maravillosas que Él ha hecho."
+    },
+    {
+      "verse": 5,
+      "text": "Porque Él estableció un testimonio en Jacob, y puso una ley en Israel; la cual mandó a nuestros padres que la enseñasen a sus hijos;"
+    },
+    {
+      "verse": 6,
+      "text": "Para que lo sepa la generación venidera, y los hijos que nacerán; los cuales se levantarán y lo contarán a sus hijos;"
+    },
+    {
+      "verse": 7,
+      "text": "A fin de que pongan en Dios su esperanza, y no se olviden de las obras de Dios, sino que guarden sus mandamientos;"
+    },
+    {
+      "verse": 8,
+      "text": "y no sean como sus padres, una generación contumaz y rebelde; una generación que no dispuso su corazón, y cuyo espíritu no fue fiel para con Dios."
+    },
+    {
+      "verse": 9,
+      "text": "Los hijos de Efraín, arqueros armados, volvieron las espaldas el día de la batalla."
+    },
+    {
+      "verse": 10,
+      "text": "No guardaron el pacto de Dios, ni quisieron andar en su ley:"
+    },
+    {
+      "verse": 11,
+      "text": "Antes se olvidaron de sus obras, y de sus maravillas que les había mostrado."
+    },
+    {
+      "verse": 12,
+      "text": "Delante de sus padres hizo maravillas en la tierra de Egipto, en el campo de Zoán."
+    },
+    {
+      "verse": 13,
+      "text": "Dividió el mar y los hizo pasar; detuvo las aguas como en un montón."
+    },
+    {
+      "verse": 14,
+      "text": "Y los guió de día con nube, y toda la noche con resplandor de fuego."
+    },
+    {
+      "verse": 15,
+      "text": "Partió las rocas en el desierto; y les dio a beber como de grandes abismos;"
+    },
+    {
+      "verse": 16,
+      "text": "Sacó corrientes de la roca, e hizo descender aguas como ríos."
+    },
+    {
+      "verse": 17,
+      "text": "Pero aún siguieron pecando contra Él, provocando al Altísimo en el desierto."
+    },
+    {
+      "verse": 18,
+      "text": "Pues tentaron a Dios en su corazón, pidiendo comida a su gusto."
+    },
+    {
+      "verse": 19,
+      "text": "Y hablaron contra Dios, diciendo: ¿Podrá Dios poner mesa en el desierto?"
+    },
+    {
+      "verse": 20,
+      "text": "He aquí, Él hirió la roca, y brotaron las aguas, y las corrientes se desbordaron; ¿podrá también dar pan? ¿Podrá proveer carne para su pueblo?"
+    },
+    {
+      "verse": 21,
+      "text": "Por tanto, oyó Jehová, y se indignó: y se encendió el fuego contra Jacob, y el furor subió también contra Israel;"
+    },
+    {
+      "verse": 22,
+      "text": "Por cuanto no creyeron a Dios, ni confiaron en su salvación:"
+    },
+    {
+      "verse": 23,
+      "text": "A pesar de ello, mandó a las nubes de arriba, y abrió las puertas del cielo,"
+    },
+    {
+      "verse": 24,
+      "text": "e hizo llover sobre ellos maná para comer, y les dio trigo del cielo."
+    },
+    {
+      "verse": 25,
+      "text": "Pan de ángeles comió el hombre: Les envió comida hasta saciarles."
+    },
+    {
+      "verse": 26,
+      "text": "Hizo soplar en el cielo el viento del este, y trajo con su poder el viento del sur."
+    },
+    {
+      "verse": 27,
+      "text": "E hizo llover sobre ellos carne como polvo, y aves de alas como la arena del mar."
+    },
+    {
+      "verse": 28,
+      "text": "Las hizo caer en medio de su campamento, alrededor de sus tiendas."
+    },
+    {
+      "verse": 29,
+      "text": "Y comieron, y se saciaron mucho; les cumplió, pues, su deseo."
+    },
+    {
+      "verse": 30,
+      "text": "No habían quitado de sí su deseo, aún estaba la comida en su boca,"
+    },
+    {
+      "verse": 31,
+      "text": "cuando vino sobre ellos el furor de Dios, y mató a los más robustos de ellos, y derribó a los escogidos de Israel."
+    },
+    {
+      "verse": 32,
+      "text": "Con todo esto, pecaron aún, y no creyeron en sus obras maravillosas."
+    },
+    {
+      "verse": 33,
+      "text": "Por tanto, consumió sus días en vanidad, y sus años en tribulación."
+    },
+    {
+      "verse": 34,
+      "text": "Cuando los hería de muerte, entonces le buscaban; entonces se volvían solícitos en busca de Dios."
+    },
+    {
+      "verse": 35,
+      "text": "Y se acordaban que Dios era su Roca; y el Dios Altísimo su Redentor."
+    },
+    {
+      "verse": 36,
+      "text": "Pero le lisonjeaban con su boca, y con su lengua le mentían:"
+    },
+    {
+      "verse": 37,
+      "text": "Pues sus corazones no eran rectos para con Él, ni estuvieron firmes en su pacto."
+    },
+    {
+      "verse": 38,
+      "text": "Pero Él, lleno de compasión, perdonaba su iniquidad y no los destruía; muchas veces apartó su ira, y no despertó todo su enojo."
+    },
+    {
+      "verse": 39,
+      "text": "Se acordaba de que eran carne; un soplo que pasa y no vuelve."
+    },
+    {
+      "verse": 40,
+      "text": "¡Cuántas veces lo provocaron en la soledad, lo enojaron en el desierto!"
+    },
+    {
+      "verse": 41,
+      "text": "Y volvían y tentaban a Dios, y ponían límite al Santo de Israel."
+    },
+    {
+      "verse": 42,
+      "text": "No se acordaron de su mano, del día que los redimió del enemigo;"
+    },
+    {
+      "verse": 43,
+      "text": "cuando hizo sus señales en Egipto, y sus maravillas en el campo de Zoán;"
+    },
+    {
+      "verse": 44,
+      "text": "y convirtió sus ríos en sangre, y sus corrientes, para que no bebiesen."
+    },
+    {
+      "verse": 45,
+      "text": "Envió entre ellos enjambres de moscas que los devoraban, y ranas que los destruyeron."
+    },
+    {
+      "verse": 46,
+      "text": "Dio también al pulgón sus frutos, y sus labores a la langosta."
+    },
+    {
+      "verse": 47,
+      "text": "Sus viñas destruyó con granizo, y sus higuerales con escarcha;"
+    },
+    {
+      "verse": 48,
+      "text": "Y entregó al granizo sus ganados, y a los rayos sus rebaños."
+    },
+    {
+      "verse": 49,
+      "text": "Envió sobre ellos el furor de su ira, enojo, indignación y angustia, enviándoles ángeles destructores."
+    },
+    {
+      "verse": 50,
+      "text": "Dispuso un camino para su ira; no eximió el alma de ellos de la muerte, sino que entregó sus vidas a la mortandad."
+    },
+    {
+      "verse": 51,
+      "text": "E hizo morir a todo primogénito en Egipto, las primicias de su fuerza en las tiendas de Cam."
+    },
+    {
+      "verse": 52,
+      "text": "Pero hizo salir a su pueblo como ovejas, y los condujo por el desierto, como a un rebaño."
+    },
+    {
+      "verse": 53,
+      "text": "Y los guió con seguridad, de modo que no tuvieran miedo; pero el mar cubrió a sus enemigos."
+    },
+    {
+      "verse": 54,
+      "text": "Y los trajo a los términos de su santuario, a esta montaña que compró su diestra."
+    },
+    {
+      "verse": 55,
+      "text": "Y echó a las naciones de delante de ellos, y con cuerdas las repartió por herencia; e hizo habitar en sus tiendas a las tribus de Israel."
+    },
+    {
+      "verse": 56,
+      "text": "Pero ellos tentaron y provocaron al Dios Altísimo, y no guardaron sus testimonios;"
+    },
+    {
+      "verse": 57,
+      "text": "Sino que se volvieron, y se rebelaron como sus padres: Se volvieron como arco engañoso."
+    },
+    {
+      "verse": 58,
+      "text": "Y lo enojaron con sus lugares altos, y lo provocaron a celo con sus esculturas."
+    },
+    {
+      "verse": 59,
+      "text": "Lo oyó Dios, y se enojó, y en gran manera aborreció a Israel."
+    },
+    {
+      "verse": 60,
+      "text": "Dejó por tanto el tabernáculo de Silo, la tienda que levantó entre los hombres;"
+    },
+    {
+      "verse": 61,
+      "text": "Y entregó al cautiverio su poderío, y su gloria en mano del enemigo."
+    },
+    {
+      "verse": 62,
+      "text": "Entregó también su pueblo a la espada, y se indignó contra su heredad."
+    },
+    {
+      "verse": 63,
+      "text": "El fuego devoró a sus jóvenes, y sus vírgenes no fueron dadas en casamiento."
+    },
+    {
+      "verse": 64,
+      "text": "Sus sacerdotes cayeron a espada, y sus viudas no hicieron lamentación."
+    },
+    {
+      "verse": 65,
+      "text": "Entonces despertó el Señor como de un sueño, como un valiente que grita excitado por el vino:"
+    },
+    {
+      "verse": 66,
+      "text": "E hirió a sus enemigos en las partes posteriores; les dio afrenta perpetua."
+    },
+    {
+      "verse": 67,
+      "text": "Y desechó el tabernáculo de José, y no escogió a la tribu de Efraín."
+    },
+    {
+      "verse": 68,
+      "text": "Sino que escogió a la tribu de Judá, al monte de Sión, al cual amó."
+    },
+    {
+      "verse": 69,
+      "text": "Y edificó su santuario como altos palacios, como la tierra que estableció para siempre."
+    },
+    {
+      "verse": 70,
+      "text": "Y eligió a David su siervo, y lo tomó de las majadas de las ovejas."
+    },
+    {
+      "verse": 71,
+      "text": "De tras las paridas lo trajo, para que apacentase a Jacob, su pueblo, y a Israel, su heredad."
+    },
+    {
+      "verse": 72,
+      "text": "Y los apacentó conforme a la integridad de su corazón; y los guió con la destreza de sus manos."
+    }
+  ]
+}

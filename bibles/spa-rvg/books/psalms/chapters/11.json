@@ -1,0 +1,35 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 11,
+  "data": [
+    {
+      "verse": 1,
+      "text": "En Jehová he confiado; ¿Cómo decís a mi alma: Escapa a tu montaña cual ave?"
+    },
+    {
+      "verse": 2,
+      "text": "Porque he aquí, los malos tensan el arco, preparan su saeta sobre la cuerda, para disparar en oculto a los rectos de corazón."
+    },
+    {
+      "verse": 3,
+      "text": "Si los fundamentos fueren destruidos, ¿Qué podrá hacer el justo?"
+    },
+    {
+      "verse": 4,
+      "text": "Jehová está en su santo templo: El trono de Jehová está en el cielo: Sus ojos ven, sus párpados examinan a los hijos de los hombres."
+    },
+    {
+      "verse": 5,
+      "text": "Jehová prueba al justo; pero al malo y al que ama la violencia, su alma aborrece."
+    },
+    {
+      "verse": 6,
+      "text": "Sobre los malos lloverá lazos; fuego, azufre y terrible tempestad; esta será la porción de su copa."
+    },
+    {
+      "verse": 7,
+      "text": "Porque el justo Jehová ama la justicia; su rostro contempla a los rectos."
+    }
+  ]
+}

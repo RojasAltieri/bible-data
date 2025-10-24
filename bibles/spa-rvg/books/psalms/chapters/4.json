@@ -1,0 +1,39 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 4,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Escúchame cuando clamo, oh Dios de mi justicia; cuando yo estaba en angustia, tú me ensanchaste; ten misericordia de mí, y escucha mi oración."
+    },
+    {
+      "verse": 2,
+      "text": "Oh hijos de los hombres, ¿hasta cuándo volveréis mi gloria en vergüenza? ¿Hasta cuándo amaréis la vanidad, y buscaréis la mentira? (Selah)"
+    },
+    {
+      "verse": 3,
+      "text": "Sabed, pues, que Jehová apartó al piadoso para sí; Jehová oirá cuando yo a Él clamare."
+    },
+    {
+      "verse": 4,
+      "text": "Asombraos, y no pequéis: Meditad en vuestro corazón sobre vuestra cama, y callad. (Selah)"
+    },
+    {
+      "verse": 5,
+      "text": "Ofreced sacrificios de justicia, y confiad en Jehová."
+    },
+    {
+      "verse": 6,
+      "text": "Muchos dicen: ¿Quién nos mostrará el bien? Alza sobre nosotros, oh Jehová, la luz de tu rostro."
+    },
+    {
+      "verse": 7,
+      "text": "Tú pusiste alegría en mi corazón, mayor que la de ellos en el tiempo que se multiplicó su grano y su vino."
+    },
+    {
+      "verse": 8,
+      "text": "En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me haces vivir seguro."
+    }
+  ]
+}

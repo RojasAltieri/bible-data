@@ -1,0 +1,31 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 13,
+  "data": [
+    {
+      "verse": 1,
+      "text": "¿Hasta cuándo, oh Jehová? ¿Me olvidarás para siempre? ¿Hasta cuándo esconderás tu rostro de mí?"
+    },
+    {
+      "verse": 2,
+      "text": "¿Hasta cuándo pondré consejos en mi alma, con ansiedad en mi corazón cada día? ¿Hasta cuándo será enaltecido mi enemigo sobre mí?"
+    },
+    {
+      "verse": 3,
+      "text": "Mira, óyeme, oh Jehová Dios mío; alumbra mis ojos, para que no duerma en muerte;"
+    },
+    {
+      "verse": 4,
+      "text": "Para que no diga mi enemigo: Lo he vencido: Mis enemigos se alegrarán, si yo resbalare;"
+    },
+    {
+      "verse": 5,
+      "text": "mas yo en tu misericordia he confiado; Se alegrará mi corazón en tu salvación."
+    },
+    {
+      "verse": 6,
+      "text": "Cantaré a Jehová, porque me ha hecho bien."
+    }
+  ]
+}

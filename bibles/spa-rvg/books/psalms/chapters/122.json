@@ -1,0 +1,43 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 122,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Yo me alegré con los que me decían: A la casa de Jehová iremos."
+    },
+    {
+      "verse": 2,
+      "text": "Nuestros pies estarán en tus puertas, oh Jerusalén;"
+    },
+    {
+      "verse": 3,
+      "text": "Jerusalén, que se ha edificado como una ciudad que está bien unida entre sí."
+    },
+    {
+      "verse": 4,
+      "text": "Y allá subieron las tribus, las tribus de Jehová, conforme al testimonio dado a Israel, para dar gracias al nombre de Jehová."
+    },
+    {
+      "verse": 5,
+      "text": "Porque allá están los tronos del juicio, los tronos de la casa de David."
+    },
+    {
+      "verse": 6,
+      "text": "Orad por la paz de Jerusalén; serán prosperados los que te aman."
+    },
+    {
+      "verse": 7,
+      "text": "Haya paz dentro de tus muros, y prosperidad en tus palacios."
+    },
+    {
+      "verse": 8,
+      "text": "Por amor a mis hermanos y mis compañeros diré ahora: Haya paz en ti."
+    },
+    {
+      "verse": 9,
+      "text": "Por amor a la casa de Jehová nuestro Dios, procuraré tu bien."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 87,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Su cimiento está en el monte santo."
+    },
+    {
+      "verse": 2,
+      "text": "Ama Jehová las puertas de Sión más que todas las moradas de Jacob."
+    },
+    {
+      "verse": 3,
+      "text": "Cosas gloriosas se dicen de ti, oh ciudad de Dios. (Selah)"
+    },
+    {
+      "verse": 4,
+      "text": "Mencionaré a Rahab y a Babilonia entre los que me conocen. He aquí Filistea, y Tiro, con Etiopía: Este nació allá."
+    },
+    {
+      "verse": 5,
+      "text": "Y de Sión se dirá: Este y aquél nacieron en ella; y el Altísimo mismo la establecerá."
+    },
+    {
+      "verse": 6,
+      "text": "Jehová contará cuando Él inscriba a los pueblos: Este nació allí. (Selah)"
+    },
+    {
+      "verse": 7,
+      "text": "Y cantores y tañedores en ella dirán: Todas mis fuentes estarán en ti."
+    }
+  ]
+}

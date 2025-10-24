@@ -1,0 +1,27 @@
+{
+  "version": "spa-rvg",
+  "book": "psalms",
+  "chapter": 125,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Los que confían en Jehová son como el monte de Sión que no se mueve; sino que permanece para siempre."
+    },
+    {
+      "verse": 2,
+      "text": "Como Jerusalén tiene montañas alrededor de ella, así Jehová está alrededor de su pueblo desde ahora y para siempre."
+    },
+    {
+      "verse": 3,
+      "text": "Porque no reposará la vara de la impiedad sobre la heredad de los justos; para que no extiendan los justos sus manos a la iniquidad."
+    },
+    {
+      "verse": 4,
+      "text": "Haz bien, oh Jehová, a los buenos, y a los que son rectos en sus corazones."
+    },
+    {
+      "verse": 5,
+      "text": "Mas a los que se apartan tras sus perversidades, Jehová los llevará con los que obran iniquidad: Paz sea sobre Israel."
+    }
+  ]
+}
