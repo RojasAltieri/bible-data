@@ -1,0 +1,39 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 114,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Quand Israël sortit d'Égypte, et la maison de Jacob de chez le peuple barbare,"
+    },
+    {
+      "verse": 2,
+      "text": "Juda fut le sanctuaire de Dieu, Israël devint son empire."
+    },
+    {
+      "verse": 3,
+      "text": "La mer le vit et s'enfuit; le Jourdain retourna en arrière."
+    },
+    {
+      "verse": 4,
+      "text": "Les montagnes bondirent comme des béliers, et les collines comme des agneaux."
+    },
+    {
+      "verse": 5,
+      "text": "Qu'avais-tu, ô mer, pour t'enfuir? Et toi, Jourdain, pour retourner en arrière?"
+    },
+    {
+      "verse": 6,
+      "text": "Vous, montagnes, pour bondir comme des béliers, et vous, collines, comme des agneaux?"
+    },
+    {
+      "verse": 7,
+      "text": "Terre, tremble devant la face du Seigneur, devant la face du Dieu de Jacob,"
+    },
+    {
+      "verse": 8,
+      "text": "Qui change le rocher en étang, la pierre dure en sources d'eaux."
+    }
+  ]
+}

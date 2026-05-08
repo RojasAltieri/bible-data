@@ -1,0 +1,43 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 3,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Psaume de David, lorsqu'il fuyait devant Absalom, son fils."
+    },
+    {
+      "verse": 2,
+      "text": "Éternel, que mes ennemis sont nombreux! Combien de gens se lèvent contre moi!"
+    },
+    {
+      "verse": 3,
+      "text": "Combien, qui disent de mon âme: Point de salut pour lui auprès de Dieu! Sélah (pause)."
+    },
+    {
+      "verse": 4,
+      "text": "Mais toi, Éternel, tu es mon bouclier, ma gloire, et celui qui me fait lever la tête."
+    },
+    {
+      "verse": 5,
+      "text": "Je crie de ma voix à l'Éternel, et il me répond de sa montagne sainte. (Sélah.)"
+    },
+    {
+      "verse": 6,
+      "text": "Je me couche, je m'endors, et je me réveille; car l'Éternel me soutient."
+    },
+    {
+      "verse": 7,
+      "text": "Je ne crains point les milliers d'hommes qui se rangent de toute part contre moi."
+    },
+    {
+      "verse": 8,
+      "text": "Lève-toi, Éternel, sauve-moi, mon Dieu! Car tu as frappé à la joue tous mes ennemis, tu as brisé les dents des méchants."
+    },
+    {
+      "verse": 9,
+      "text": "Le salut vient de l'Éternel; ta bénédiction est sur ton peuple! (Sélah. )"
+    }
+  ]
+}

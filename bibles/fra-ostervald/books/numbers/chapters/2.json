@@ -1,0 +1,143 @@
+{
+  "version": "fra-ostervald",
+  "book": "numbers",
+  "chapter": 2,
+  "data": [
+    {
+      "verse": 1,
+      "text": "L'Éternel parla aussi à Moïse et à Aaron, en disant:"
+    },
+    {
+      "verse": 2,
+      "text": "Les enfants d'Israël camperont chacun sous sa bannière, près des enseignes des maisons de leurs pères; ils camperont vis-à-vis et tout autour du tabernacle d'assignation."
+    },
+    {
+      "verse": 3,
+      "text": "Ceux qui camperont en avant, vers l'Orient, ce sera la bannière du camp de Juda, selon ses armées, et le chef des enfants de Juda, Nahasshon, fils d'Amminadab,"
+    },
+    {
+      "verse": 4,
+      "text": "Et son armée, ses dénombrés: soixante-quatorze mille six cents."
+    },
+    {
+      "verse": 5,
+      "text": "Et la tribu d'Issacar campera auprès de lui; et le chef des enfants d'Issacar, Nathanaël, fils de Tsuar,"
+    },
+    {
+      "verse": 6,
+      "text": "Et son armée, ses dénombrés: cinquante-quatre mille quatre cents."
+    },
+    {
+      "verse": 7,
+      "text": "Puis la tribu de Zabulon, et le chef des enfants de Zabulon, Eliab, fils de Hélon,"
+    },
+    {
+      "verse": 8,
+      "text": "Et son armée, ses dénombrés: cinquante-sept mille quatre cents."
+    },
+    {
+      "verse": 9,
+      "text": "Tous les hommes dénombrés pour le camp de Juda sont cent quatre-vingt-six mille quatre cents, selon leurs armées. Ils partiront les premiers."
+    },
+    {
+      "verse": 10,
+      "text": "La bannière du camp de Ruben, selon ses armées, sera vers le Midi, avec le chef des enfants de Ruben, Elitsur, fils de Shedéur,"
+    },
+    {
+      "verse": 11,
+      "text": "Et son armée, et ses dénombrés: quarante-six mille cinq cents."
+    },
+    {
+      "verse": 12,
+      "text": "Et la tribu de Siméon campera auprès de lui, et le chef des enfants de Siméon, Shelumiel, fils de Tsurishaddaï,"
+    },
+    {
+      "verse": 13,
+      "text": "Et son armée, ses dénombrés: cinquante-neuf mille trois cents."
+    },
+    {
+      "verse": 14,
+      "text": "Puis la tribu de Gad, et le chef des enfants de Gad, Eliasaph, fils de Réhuel,"
+    },
+    {
+      "verse": 15,
+      "text": "Et son armée, ses dénombrés: quarante-cinq mille six cent cinquante."
+    },
+    {
+      "verse": 16,
+      "text": "Tous les hommes dénombrés pour le camp de Ruben sont cent cinquante et un mille quatre cent cinquante, selon leurs armées. Ils partiront les seconds."
+    },
+    {
+      "verse": 17,
+      "text": "Ensuite partira le tabernacle d'assignation, le camp des Lévites, au milieu des autres camps; ils partiront, comme ils auront campé, chacun à son rang, selon leurs bannières."
+    },
+    {
+      "verse": 18,
+      "text": "La bannière du camp d'Éphraïm, selon ses armées, sera vers l'Occident, avec le chef des enfants d'Éphraïm, Elishama, fils d'Ammihud,"
+    },
+    {
+      "verse": 19,
+      "text": "Et son armée, ses dénombrés: quarante mille cinq cents."
+    },
+    {
+      "verse": 20,
+      "text": "Et auprès de lui, la tribu de Manassé, et le chef des enfants de Manassé, Gamaliel, fils de Pedahtsur,"
+    },
+    {
+      "verse": 21,
+      "text": "Et son armée, ses dénombrés: trente-deux mille deux cents."
+    },
+    {
+      "verse": 22,
+      "text": "Puis la tribu de Benjamin, et le chef des enfants de Benjamin, Abidan, fils de Guideoni,"
+    },
+    {
+      "verse": 23,
+      "text": "Et son armée, ses dénombrés: trente-cinq mille quatre cents."
+    },
+    {
+      "verse": 24,
+      "text": "Tous les hommes dénombrés pour le camp d'Éphraïm sont cent huit mille et cent, selon leurs armées. Ils partiront les troisièmes."
+    },
+    {
+      "verse": 25,
+      "text": "La bannière du camp de Dan sera vers le Nord, selon ses armées, avec le chef des enfants de Dan, Ahiézer, fils d'Ammishaddaï,"
+    },
+    {
+      "verse": 26,
+      "text": "Et son armée, ses dénombrés: soixante-deux mille sept cents."
+    },
+    {
+      "verse": 27,
+      "text": "Et la tribu d'Asser campera auprès de lui, et le chef des enfants d'Asser, Paguiel, fils d'Ocran,"
+    },
+    {
+      "verse": 28,
+      "text": "Et son armée, ses dénombrés: quarante et un mille cinq cents."
+    },
+    {
+      "verse": 29,
+      "text": "Puis la tribu de Nephthali, et le chef des enfants de Nephthali, Ahira, fils d'Enan,"
+    },
+    {
+      "verse": 30,
+      "text": "Et son armée, ses dénombrés: cinquante-trois mille quatre cents."
+    },
+    {
+      "verse": 31,
+      "text": "Tous les hommes dénombrés pour le camp de Dan sont cent cinquante-sept mille six cents. Ils partiront les derniers, selon leurs bannières."
+    },
+    {
+      "verse": 32,
+      "text": "Ce sont là ceux des enfants d'Israël, dont on fit le dénombrement, selon les maisons de leurs pères. Tous les hommes dénombrés, formant les camps, selon leurs armées, furent six cent trois mille cinq cent cinquante."
+    },
+    {
+      "verse": 33,
+      "text": "Mais les Lévites ne furent point dénombrés au milieu des enfants d'Israël, d'après l'ordre que l'Éternel avait donné à Moïse."
+    },
+    {
+      "verse": 34,
+      "text": "Et les enfants d'Israël firent selon tout ce que l'Éternel avait commandé à Moïse; ils campèrent ainsi, selon leurs bannières, et partirent ainsi, chacun selon sa famille, selon la maison de ses pères."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": "fra-ostervald",
+  "book": "leviticus",
+  "chapter": 12,
+  "data": [
+    {
+      "verse": 1,
+      "text": "L'Éternel parla à Moïse, en disant:"
+    },
+    {
+      "verse": 2,
+      "text": "Parle aux enfants d'Israël, et dis: Quand une femme deviendra enceinte et enfantera un mâle, elle sera souillée sept jours; elle sera souillée comme au temps de l'impureté de son indisposition."
+    },
+    {
+      "verse": 3,
+      "text": "Et le huitième jour on circoncira la chair du prépuce de l'enfant."
+    },
+    {
+      "verse": 4,
+      "text": "Elle restera pendant trente-trois jours, à se purifier de son sang; elle ne touchera aucune chose sainte, et n'ira point au sanctuaire, jusqu'à ce que les jours de sa purification soient accomplis."
+    },
+    {
+      "verse": 5,
+      "text": "Et si elle enfante une fille, elle sera souillée deux semaines, comme pour son impureté, et elle restera soixante-six jours à se purifier de son sang."
+    },
+    {
+      "verse": 6,
+      "text": "Et quand les jours de sa purification seront accomplis, pour un fils ou pour une fille, elle présentera au sacrificateur un agneau de l'année, en holocauste, et un pigeonneau ou une tourterelle, en sacrifice pour le péché, à l'entrée du tabernacle d'assignation."
+    },
+    {
+      "verse": 7,
+      "text": "Le sacrificateur l'offrira devant l'Éternel, et fera l'expiation pour elle, et elle sera purifiée du flux de son sang. Telle est la loi touchant celle qui enfante un mâle ou une fille."
+    },
+    {
+      "verse": 8,
+      "text": "Mais si elle n'a pas le moyen de se procurer un agneau, elle prendra deux tourterelles ou deux pigeonneaux, l'un pour l'holocauste et l'autre pour le sacrifice pour le péché; et le sacrificateur fera l'expiation pour elle, et elle sera purifiée."
+    }
+  ]
+}

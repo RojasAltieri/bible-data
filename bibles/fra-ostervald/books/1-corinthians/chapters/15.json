@@ -1,0 +1,239 @@
+{
+  "version": "fra-ostervald",
+  "book": "1-corinthians",
+  "chapter": 15,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Je vous rappelle, frères, l'Évangile que je vous ai annoncé, et que vous avez reçu, et dans lequel vous persévérez,"
+    },
+    {
+      "verse": 2,
+      "text": "Et par lequel vous êtes sauvés, si vous le gardez tel que je vous l'ai annoncé; autrement, vous auriez cru en vain."
+    },
+    {
+      "verse": 3,
+      "text": "Or, je vous ai enseigné, avant toutes choses, ce que j'avais aussi reçu: que Christ est mort pour nos péchés, selon les Écritures;"
+    },
+    {
+      "verse": 4,
+      "text": "Et qu'il a été enseveli, et qu'il est ressuscité le troisième jour, selon les Écritures;"
+    },
+    {
+      "verse": 5,
+      "text": "Et qu'il a été vu de Céphas, puis des douze;"
+    },
+    {
+      "verse": 6,
+      "text": "Ensuite, il a été vu en une seule fois de plus de cinq cents frères, dont la plupart sont encore vivants, et dont quelques-uns sont morts."
+    },
+    {
+      "verse": 7,
+      "text": "Ensuite, il s'est fait voir à Jacques, et puis à tous les apôtres;"
+    },
+    {
+      "verse": 8,
+      "text": "Et après tous, il m'est apparu à moi aussi comme à un avorton."
+    },
+    {
+      "verse": 9,
+      "text": "Car je suis le moindre des apôtres, moi qui ne suis pas digne d'être appelé apôtre, parce que j'ai persécuté l'Église de Dieu."
+    },
+    {
+      "verse": 10,
+      "text": "Mais c'est par la grâce de Dieu que je suis ce que je suis; et sa grâce envers moi n'a pas été vaine; au contraire, j'ai travaillé beaucoup plus qu'eux tous; non pas moi pourtant, mais la grâce de Dieu qui est avec moi."
+    },
+    {
+      "verse": 11,
+      "text": "Soit donc moi, soit eux, nous prêchons ainsi, et vous avez cru ainsi."
+    },
+    {
+      "verse": 12,
+      "text": "Or, si l'on prêche que Christ est ressuscité des morts, comment quelques-uns parmi vous disent-ils qu'il n'y a point de résurrection des morts?"
+    },
+    {
+      "verse": 13,
+      "text": "Et s'il n'y a point de résurrection des morts, Christ aussi n'est point ressuscité."
+    },
+    {
+      "verse": 14,
+      "text": "Et si Christ n'est point ressuscité, notre prédication est donc vaine, et votre foi aussi est vaine."
+    },
+    {
+      "verse": 15,
+      "text": "Il se trouve même que nous sommes de faux témoins de Dieu; car nous avons rendu ce témoignage à l'égard de Dieu, qu'il a ressuscité Christ, lequel il n'a point ressuscité, si les morts ne ressuscitent point."
+    },
+    {
+      "verse": 16,
+      "text": "Car, si les morts ne ressuscitent point, Christ n'est pas non plus ressuscité."
+    },
+    {
+      "verse": 17,
+      "text": "Et si Christ n'est point ressuscité, votre foi est vaine, et vous êtes encore dans vos péchés."
+    },
+    {
+      "verse": 18,
+      "text": "Ceux donc qui sont morts en Christ, sont aussi perdus."
+    },
+    {
+      "verse": 19,
+      "text": "Si nous n'avons d'espérance en Christ que pour cette vie seulement, nous sommes de tous les hommes les plus misérables."
+    },
+    {
+      "verse": 20,
+      "text": "Mais maintenant, Christ est ressuscité, et il est devenu les prémices de ceux qui sont morts."
+    },
+    {
+      "verse": 21,
+      "text": "En effet, puisque la mort est venue par un homme, la résurrection des morts est venue aussi par un homme."
+    },
+    {
+      "verse": 22,
+      "text": "Car, comme tous meurent en Adam, de même tous revivront en Christ;"
+    },
+    {
+      "verse": 23,
+      "text": "Mais chacun en son propre rang; Christ est les prémices, ensuite ceux qui sont de Christ, à son avènement."
+    },
+    {
+      "verse": 24,
+      "text": "Après cela viendra la fin, quand il remettra le royaume à Dieu le Père, après avoir détruit tout empire, toute domination et toute puissance;"
+    },
+    {
+      "verse": 25,
+      "text": "Car il doit régner jusqu'à ce qu'il ait mis tous ses ennemis sous ses pieds."
+    },
+    {
+      "verse": 26,
+      "text": "L'ennemi qui sera détruit le dernier, c'est la mort;"
+    },
+    {
+      "verse": 27,
+      "text": "Car Dieu a mis toutes choses sous ses pieds. Or, quand il dit que toutes choses lui sont assujetties, il est évident que celui qui lui a assujetti toutes choses, est excepté."
+    },
+    {
+      "verse": 28,
+      "text": "Et après que toutes choses lui auront été assujetties, alors aussi le Fils même sera assujetti à celui qui lui a assujetti toutes choses, afin que Dieu soit tout en tous."
+    },
+    {
+      "verse": 29,
+      "text": "Autrement, que feront ceux qui sont baptisés pour les morts? Si absolument les morts ne ressuscitent point, pourquoi aussi sont-ils baptisés pour les morts?"
+    },
+    {
+      "verse": 30,
+      "text": "Et pourquoi nous-mêmes sommes-nous à toute heure en péril?"
+    },
+    {
+      "verse": 31,
+      "text": "Je meurs chaque jour; je vous l'atteste par le sujet que j'ai de me glorifier de vous en Jésus-Christ notre Seigneur."
+    },
+    {
+      "verse": 32,
+      "text": "Si j'ai combattu contre les bêtes à Éphèse dans des vues humaines, quel avantage en ai-je? Si les morts ne ressuscitent point, mangeons et buvons, car demain nous mourrons."
+    },
+    {
+      "verse": 33,
+      "text": "Ne vous abusez point: les mauvaises compagnies corrompent les bonnes mœurs."
+    },
+    {
+      "verse": 34,
+      "text": "Sortez de votre ivresse, pour vivre justement, et ne péchez point; car quelques-uns sont sans la connaissance de Dieu; je le dis à votre honte."
+    },
+    {
+      "verse": 35,
+      "text": "Mais quelqu'un dira: Comment les morts ressuscitent-ils? Avec quel corps viennent-ils?"
+    },
+    {
+      "verse": 36,
+      "text": "Insensé, ce que tu sèmes ne prend point vie, s'il ne meurt auparavant."
+    },
+    {
+      "verse": 37,
+      "text": "Et quant à ce que tu sèmes, tu ne sèmes pas le même corps qui doit naître, mais le grain nu, comme il se rencontre, de blé, ou de quelque autre semence."
+    },
+    {
+      "verse": 38,
+      "text": "Mais Dieu lui donne un corps comme il veut, et à chaque semence le corps qui lui est propre."
+    },
+    {
+      "verse": 39,
+      "text": "Toute chair n'est pas la même chair; mais autre est la chair des hommes, et autre la chair des bêtes; autre celle des poissons, et autre celle des oiseaux."
+    },
+    {
+      "verse": 40,
+      "text": "Il y a aussi des corps célestes, et des corps terrestres; mais autre est l'éclat des célestes, et autre celui des terrestres;"
+    },
+    {
+      "verse": 41,
+      "text": "Autre est l'éclat du soleil, autre l'éclat de la lune, et autre l'éclat des étoiles; car une étoile est différente d'une autre étoile par son éclat."
+    },
+    {
+      "verse": 42,
+      "text": "Telle est aussi la résurrection des morts. Le corps est semé corruptible, il ressuscite incorruptible;"
+    },
+    {
+      "verse": 43,
+      "text": "Il est semé méprisable, il ressuscite glorieux; il est semé infirme, il ressuscite plein de force;"
+    },
+    {
+      "verse": 44,
+      "text": "Il est semé corps animal, il ressuscite corps spirituel; il y a un corps animal, et il y a un corps spirituel,"
+    },
+    {
+      "verse": 45,
+      "text": "Suivant qu'il est écrit: Le premier homme, Adam, a été fait une âme vivante; mais le dernier Adam est un Esprit vivifiant;"
+    },
+    {
+      "verse": 46,
+      "text": "Or, ce n'est pas ce qui est spirituel, mais ce qui est animal, qui est le premier; ce qui est spirituel vient après."
+    },
+    {
+      "verse": 47,
+      "text": "Le premier homme, étant de la terre, est terrestre, et le second homme, le Seigneur, est du ciel."
+    },
+    {
+      "verse": 48,
+      "text": "Tel qu'est le terrestre, tels aussi sont les terrestres; et tel qu'est le céleste, tels aussi sont les célestes."
+    },
+    {
+      "verse": 49,
+      "text": "Et comme nous portons l'image du terrestre, nous porterons aussi l'image du céleste."
+    },
+    {
+      "verse": 50,
+      "text": "Or, je dis ceci, frères; c'est que la chair et le sang ne peuvent hériter le royaume de Dieu, et que la corruption n'hérite point l'incorruptibilité."
+    },
+    {
+      "verse": 51,
+      "text": "Voici, je vous dis un mystère: Nous ne mourrons pas tous, mais nous serons tous changés,"
+    },
+    {
+      "verse": 52,
+      "text": "En un moment, en un clin d'œil, à la dernière trompette; car la trompette sonnera, et les morts ressusciteront incorruptibles, et nous serons changés."
+    },
+    {
+      "verse": 53,
+      "text": "Car il faut que ce corps corruptible soit revêtu de l'incorruptibilité, et que ce corps mortel soit revêtu de l'immortalité."
+    },
+    {
+      "verse": 54,
+      "text": "Or, quand ce corps corruptible aura été revêtu de l'incorruptibilité, et que ce corps mortel aura été revêtu de l'immortalité, alors cette parole de l'Écriture sera accomplie: La mort est engloutie en victoire."
+    },
+    {
+      "verse": 55,
+      "text": "O mort! où est ton aiguillon? O enfer! où est ta victoire?"
+    },
+    {
+      "verse": 56,
+      "text": "Or, l'aiguillon de la mort, c'est le péché; et la puissance du péché, c'est la loi."
+    },
+    {
+      "verse": 57,
+      "text": "Mais grâces soient rendues à Dieu, qui nous a donné la victoire par notre Seigneur Jésus-Christ."
+    },
+    {
+      "verse": 58,
+      "text": "C'est pourquoi, mes frères bien-aimés, soyez fermes, inébranlables, abondant toujours dans l'œuvre du Seigneur, sachant que votre travail n'est pas vain dans le Seigneur."
+    }
+  ]
+}

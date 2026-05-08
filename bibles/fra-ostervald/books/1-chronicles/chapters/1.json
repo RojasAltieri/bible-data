@@ -1,0 +1,223 @@
+{
+  "version": "fra-ostervald",
+  "book": "1-chronicles",
+  "chapter": 1,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Adam, Seth, Énosh;"
+    },
+    {
+      "verse": 2,
+      "text": "Kénan, Mahalaléel, Jéred;"
+    },
+    {
+      "verse": 3,
+      "text": "Hénoc, Métushélah, Lémec;"
+    },
+    {
+      "verse": 4,
+      "text": "Noé, Sem, Cham et Japhet."
+    },
+    {
+      "verse": 5,
+      "text": "Fils de Japhet: Gomer, Magog, Madaï, Javan, Tubal, Méshec et Tiras."
+    },
+    {
+      "verse": 6,
+      "text": "Fils de Gomer: Ashkénaz, Diphath et Togarma."
+    },
+    {
+      "verse": 7,
+      "text": "Fils de Javan: Élisham, Tharshisha, Kittim et Rodanim."
+    },
+    {
+      "verse": 8,
+      "text": "Fils de Cham: Cush, Mitsraïm, Put et Canaan."
+    },
+    {
+      "verse": 9,
+      "text": "Fils de Cush: Séba, Havila, Sabta, Raema et Sabtéca. Fils de Raema: Shéba et Dédan."
+    },
+    {
+      "verse": 10,
+      "text": "Cush engendra Nimrod, qui commença à être puissant sur la terre."
+    },
+    {
+      "verse": 11,
+      "text": "Mitsraïm engendra les Ludim, les Anamin, les Léhabim, les Naphtuhim,"
+    },
+    {
+      "verse": 12,
+      "text": "Les Pathrusim, les Casluhim, d'où sont sortis les Philistins, et les Caphtorim."
+    },
+    {
+      "verse": 13,
+      "text": "Canaan engendra Sidon, son premier-né, et Heth,"
+    },
+    {
+      "verse": 14,
+      "text": "Les Jébusiens, les Amoréens, les Guirgasiens,"
+    },
+    {
+      "verse": 15,
+      "text": "Les Héviens, les Arkiens, les Siniens,"
+    },
+    {
+      "verse": 16,
+      "text": "Les Arvadiens, les Tsémariens et les Hamathiens."
+    },
+    {
+      "verse": 17,
+      "text": "Fils de Sem: Élam, Assur, Arpacshad, Lud, Aram, Uts, Hul, Guéther et Méshec."
+    },
+    {
+      "verse": 18,
+      "text": "Arpacshad engendra Shélach; et Shélach engendra Héber."
+    },
+    {
+      "verse": 19,
+      "text": "Deux fils naquirent à Héber: l'un s'appelait Péleg (partage), parce que de son temps la terre fut partagée; et le nom de son frère était Jockthan."
+    },
+    {
+      "verse": 20,
+      "text": "Jockthan engendra Almodad, Shéleph, Hatsarmaveth, Jérach,"
+    },
+    {
+      "verse": 21,
+      "text": "Hadoram, Uzal, Dikla,"
+    },
+    {
+      "verse": 22,
+      "text": "Ébal, Abimaël, Shéba,"
+    },
+    {
+      "verse": 23,
+      "text": "Ophir, Havila et Jobab; tous ceux-là furent fils de Jockthan."
+    },
+    {
+      "verse": 24,
+      "text": "Sem, Arpacshad, Shélach,"
+    },
+    {
+      "verse": 25,
+      "text": "Héber, Péleg, Réhu,"
+    },
+    {
+      "verse": 26,
+      "text": "Sérug, Nachor, Tharé,"
+    },
+    {
+      "verse": 27,
+      "text": "Abram, qui est Abraham."
+    },
+    {
+      "verse": 28,
+      "text": "Fils d'Abraham: Isaac et Ismaël."
+    },
+    {
+      "verse": 29,
+      "text": "Voici leur postérité: le premier-né d'Ismaël, Nébajoth; puis Kédar, Adbéel, Mibsam,"
+    },
+    {
+      "verse": 30,
+      "text": "Mishma, Duma, Massa, Hadan, Théma,"
+    },
+    {
+      "verse": 31,
+      "text": "Jéthur, Naphish et Kedma; ce sont là les fils d'Ismaël."
+    },
+    {
+      "verse": 32,
+      "text": "Fils de Kétura, concubine d'Abraham: Elle enfanta Zimran, Jokshan, Médan, Madian, Jishbak et Shuach. Fils de Jokshan: Shéba et Dédan."
+    },
+    {
+      "verse": 33,
+      "text": "Fils de Madian: Épha, Épher, Hanoc, Abida et Eldaa; tous ceux-là sont fils de Kétura."
+    },
+    {
+      "verse": 34,
+      "text": "Abraham engendra Isaac. Fils d'Isaac: Ésaü et Israël."
+    },
+    {
+      "verse": 35,
+      "text": "Fils d'Ésaü: Éliphaz, Réuël, Jéush, Jaelam et Korah."
+    },
+    {
+      "verse": 36,
+      "text": "Fils d'Éliphaz: Théman, Omar, Tséphi, Gaetham, Kénaz, Thimna et Amalek."
+    },
+    {
+      "verse": 37,
+      "text": "Fils de Réuël: Nahath, Zérach, Shamma et Mizza."
+    },
+    {
+      "verse": 38,
+      "text": "Fils de Séir: Lothan, Shobal, Tsibeon, Ana, Dishon, Etser et Dishan;"
+    },
+    {
+      "verse": 39,
+      "text": "Fils de Lothan: Hori et Homam. Sœur de Lothan: Thimna."
+    },
+    {
+      "verse": 40,
+      "text": "Fils de Shobal: Aljan, Manahath, Ébal, Shéphi et Onam. Fils de Tsibeon: Ajja et Ana."
+    },
+    {
+      "verse": 41,
+      "text": "Fils d'Ana: Dishon. Fils de Dishon: Hamran, Eshban, Jithran et Kéran."
+    },
+    {
+      "verse": 42,
+      "text": "Fils d'Etser: Bilhan, Zaavan et Jaakan. Fils de Dishan: Uts et Aran."
+    },
+    {
+      "verse": 43,
+      "text": "Voici les rois qui ont régné au pays d'Édom, avant qu'un roi régnât sur les enfants d'Israël: Béla, fils de Béor; et le nom de sa ville était Dinhaba."
+    },
+    {
+      "verse": 44,
+      "text": "Béla mourut, et Jobab, fils de Zérach, de Botsra, régna à sa place."
+    },
+    {
+      "verse": 45,
+      "text": "Jobab mourut, et Husham, du pays des Thémanites, régna à sa place."
+    },
+    {
+      "verse": 46,
+      "text": "Husham mourut, et Hadad, fils de Bédad, régna à sa place; il défit Madian au territoire de Moab. Le nom de sa ville était Avith."
+    },
+    {
+      "verse": 47,
+      "text": "Hadad mourut, et Samla de Masréka régna à sa place."
+    },
+    {
+      "verse": 48,
+      "text": "Samla mourut, et Saül de Réhoboth, sur le fleuve, régna à sa place."
+    },
+    {
+      "verse": 49,
+      "text": "Saül mourut, et Baal-Hanan, fils d'Acbor, régna à sa place."
+    },
+    {
+      "verse": 50,
+      "text": "Baal-Hanan mourut, et Hadad régna à sa place. Le nom de sa ville était Paï, et le nom de sa femme Méhétabéel, fille de Matred, fille de Mézahab."
+    },
+    {
+      "verse": 51,
+      "text": "Et Hadad mourut. Les chefs d'Édom furent: le chef Thimna, le chef Alja, le chef Jétheth,"
+    },
+    {
+      "verse": 52,
+      "text": "Le chef Oholibama, le chef Éla, le chef Pinon,"
+    },
+    {
+      "verse": 53,
+      "text": "Le chef Kénaz, le chef Théman, le chef Mibtsar,"
+    },
+    {
+      "verse": 54,
+      "text": "Le chef Magdiel et le chef Iram. Ce sont là les chefs d'Édom."
+    }
+  ]
+}

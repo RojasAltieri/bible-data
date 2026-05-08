@@ -1,0 +1,31 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 128,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Cantique de Maaloth. Heureux l'homme qui craint l'Éternel, et marche dans ses voies!"
+    },
+    {
+      "verse": 2,
+      "text": "Car tu mangeras du travail de tes mains, tu seras bienheureux et tu prospéreras."
+    },
+    {
+      "verse": 3,
+      "text": "Ta femme sera dans ta maison comme une vigne abondante en fruits, et tes enfants comme des plants d'olivier autour de ta table."
+    },
+    {
+      "verse": 4,
+      "text": "Oui, c'est ainsi que sera béni l'homme qui craint l'Éternel."
+    },
+    {
+      "verse": 5,
+      "text": "L'Éternel te bénira de Sion, et tu verras le bien de Jérusalem tous les jours de ta vie."
+    },
+    {
+      "verse": 6,
+      "text": "Et tu verras des enfants à tes enfants. Que la paix soit sur Israël!"
+    }
+  ]
+}

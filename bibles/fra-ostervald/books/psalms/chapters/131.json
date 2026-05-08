@@ -1,0 +1,19 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 131,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Cantique de Maaloth, de David. Éternel, mon cœur ne s'est point enflé; mes yeux ne se sont point élevés; et je n'ai point recherché des choses trop grandes et trop élevées pour moi."
+    },
+    {
+      "verse": 2,
+      "text": "N'ai-je pas soumis et fait taire mon âme, comme un enfant sevré fait envers sa mère? Mon âme est en moi comme un enfant sevré."
+    },
+    {
+      "verse": 3,
+      "text": "Israël, attends-toi à l'Éternel, dès maintenant et à toujours!"
+    }
+  ]
+}

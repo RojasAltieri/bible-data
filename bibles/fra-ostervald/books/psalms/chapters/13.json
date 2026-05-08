@@ -1,0 +1,31 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 13,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Au maître-chantre. Psaume de David."
+    },
+    {
+      "verse": 2,
+      "text": "Jusques à quand, ô Éternel, m'oublieras-tu toujours? Jusques à quand me cacheras-tu ta face?"
+    },
+    {
+      "verse": 3,
+      "text": "Jusques à quand formerai-je des projets dans mon âme, et aurai-je le chagrin au cœur tout le jour? Jusques à quand mon ennemi s'élèvera-t-il contre moi?"
+    },
+    {
+      "verse": 4,
+      "text": "Éternel, mon Dieu, regarde, exauce-moi; éclaire mes yeux, de peur que je ne m'endorme du sommeil de la mort;"
+    },
+    {
+      "verse": 5,
+      "text": "De peur que mon ennemi ne dise: J'ai eu le dessus; que mes adversaires ne se réjouissent, si j'étais ébranlé."
+    },
+    {
+      "verse": 6,
+      "text": "Pour moi, je me confie en ta bonté; mon cœur se réjouira de ton salut; je chanterai à l'Éternel, parce qu'il m'aura fait du bien."
+    }
+  ]
+}

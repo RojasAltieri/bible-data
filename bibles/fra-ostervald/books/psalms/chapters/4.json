@@ -1,0 +1,43 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 4,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Au maître-chantre. Avec instruments à cordes. Psaume de David."
+    },
+    {
+      "verse": 2,
+      "text": "Quand je crie, réponds-moi, ô Dieu de ma justice! Quand j'étais à l'étroit, tu m'as mis au large; aie pitié de moi, entends ma prière!"
+    },
+    {
+      "verse": 3,
+      "text": "Fils des hommes, jusques à quand ma gloire sera-t-elle mise en opprobre? Jusques à quand aimerez-vous la vanité, et rechercherez-vous le mensonge? (Sélah. )"
+    },
+    {
+      "verse": 4,
+      "text": "Sachez que l'Éternel s'est choisi un bien-aimé. L'Éternel m'entend quand je crie à lui."
+    },
+    {
+      "verse": 5,
+      "text": "Tremblez, et ne péchez point! Parlez en vos cœurs sur votre couche, et gardez le silence! (Sélah. )"
+    },
+    {
+      "verse": 6,
+      "text": "Offrez des sacrifices de justice, et confiez-vous en l'Éternel."
+    },
+    {
+      "verse": 7,
+      "text": "Plusieurs disent: Qui nous fera voir du bien? Fais lever sur nous la lumière de ta face, ô Éternel!"
+    },
+    {
+      "verse": 8,
+      "text": "Tu as mis dans mon cœur plus de joie, qu'ils n'en ont quand leur blé et leur vin sont abondants."
+    },
+    {
+      "verse": 9,
+      "text": "Je me coucherai, je m'endormirai aussi en paix; car toi seul, ô Éternel, tu me fais reposer en assurance."
+    }
+  ]
+}

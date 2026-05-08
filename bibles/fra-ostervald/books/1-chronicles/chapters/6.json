@@ -1,0 +1,331 @@
+{
+  "version": "fra-ostervald",
+  "book": "1-chronicles",
+  "chapter": 6,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Fils de Lévi: Guershon, Kéhath et Mérari."
+    },
+    {
+      "verse": 2,
+      "text": "Fils de Kéhath: Amram, Jitsehar, Hébron et Uziel."
+    },
+    {
+      "verse": 3,
+      "text": "Enfants d'Amram: Aaron, Moïse et Marie. Fils d'Aaron: Nadab, Abihu, Éléazar et Ithamar."
+    },
+    {
+      "verse": 4,
+      "text": "Éléazar engendra Phinées; Phinées engendra Abishua;"
+    },
+    {
+      "verse": 5,
+      "text": "Abishua engendra Bukki; Bukki engendra Uzzi;"
+    },
+    {
+      "verse": 6,
+      "text": "Uzzi engendra Zérachia; Zérachia engendra Mérajoth;"
+    },
+    {
+      "verse": 7,
+      "text": "Mérajoth engendra Amaria; Amaria engendra Achitub;"
+    },
+    {
+      "verse": 8,
+      "text": "Achitub engendra Tsadok; Tsadok engendra Achimaats;"
+    },
+    {
+      "verse": 9,
+      "text": "Achimaats engendra Azaria; Azaria engendra Jochanan;"
+    },
+    {
+      "verse": 10,
+      "text": "Jochanan engendra Azaria, qui exerça la sacrificature dans la maison que Salomon bâtit à Jérusalem."
+    },
+    {
+      "verse": 11,
+      "text": "Azaria engendra Amaria; Amaria engendra Achitub;"
+    },
+    {
+      "verse": 12,
+      "text": "Achitub engendra Tsadok; Tsadok engendra Shallum;"
+    },
+    {
+      "verse": 13,
+      "text": "Shallum engendra Hilkija; Hilkija engendra Azaria;"
+    },
+    {
+      "verse": 14,
+      "text": "Azaria engendra Séraja; Séraja engendra Jéhotsadak;"
+    },
+    {
+      "verse": 15,
+      "text": "Jéhotsadak s'en alla, quand l'Éternel transporta Juda et Jérusalem par Nébucadnetsar."
+    },
+    {
+      "verse": 16,
+      "text": "Fils de Lévi: Guershom, Kéhath et Mérari."
+    },
+    {
+      "verse": 17,
+      "text": "Voici les noms des fils de Guershom: Libni et Shimeï."
+    },
+    {
+      "verse": 18,
+      "text": "Fils de Kéhath: Amram, Jitsehar, Hébron et Uziel."
+    },
+    {
+      "verse": 19,
+      "text": "Fils de Mérari: Machli et Mushi. Ce sont là les familles de Lévi, selon les maisons de leurs pères."
+    },
+    {
+      "verse": 20,
+      "text": "De Guershom: Libni, son fils; Jachath, son fils; Zimma, son fils;"
+    },
+    {
+      "verse": 21,
+      "text": "Joach, son fils; Iddo, son fils; Zérach, son fils; Jéathraï, son fils."
+    },
+    {
+      "verse": 22,
+      "text": "Fils de Kéhath: Amminadab, son fils; Coré, son fils; Assir, son fils;"
+    },
+    {
+      "verse": 23,
+      "text": "Elkana, son fils; Ébiasaph, son fils; Assir, son fils;"
+    },
+    {
+      "verse": 24,
+      "text": "Tachath, son fils; Uriel, son fils; Uzzija, son fils; Saül, son fils."
+    },
+    {
+      "verse": 25,
+      "text": "Fils d'Elkana: Amasaï et Achimoth; Elkana, son fils;"
+    },
+    {
+      "verse": 26,
+      "text": "Elkana-Tsophaï, son fils; Nachath, son fils;"
+    },
+    {
+      "verse": 27,
+      "text": "Éliab, son fils; Jérocham, son fils; Elkana, son fils."
+    },
+    {
+      "verse": 28,
+      "text": "Et les fils de Samuel: le premier-né, Vashni, et Abija."
+    },
+    {
+      "verse": 29,
+      "text": "Fils de Mérari: Machli; Libni, son fils; Shimeï, son fils; Uzza, son fils;"
+    },
+    {
+      "verse": 30,
+      "text": "Shimea, son fils; Hagguija, son fils; Asaja, son fils."
+    },
+    {
+      "verse": 31,
+      "text": "Or voici ceux que David établit pour la direction du chant de la maison de l'Éternel, depuis que l'arche fut en lieu de repos."
+    },
+    {
+      "verse": 32,
+      "text": "Ils firent le service du chant devant la demeure du tabernacle d'assignation, jusqu'à ce que Salomon eût bâti la maison de l'Éternel à Jérusalem; et ils faisaient leur service suivant la règle qui était prescrite."
+    },
+    {
+      "verse": 33,
+      "text": "Voici ceux qui officiaient, avec leurs fils. D'entre les enfants des Kéhathites: Héman, le chantre, fils de Joël, fils de Samuel,"
+    },
+    {
+      "verse": 34,
+      "text": "Fils d'Elkana, fils de Jérocham, fils d'Éliel, fils de Thoach,"
+    },
+    {
+      "verse": 35,
+      "text": "Fils de Tsuph, fils d'Elkana, fils de Machath, fils d'Amasaï,"
+    },
+    {
+      "verse": 36,
+      "text": "Fils d'Elkana, fils de Joël, fils d'Azaria, fils de Sophonie,"
+    },
+    {
+      "verse": 37,
+      "text": "Fils de Tachath, fils d'Assir, fils d'Ébiasaph, fils de Coré,"
+    },
+    {
+      "verse": 38,
+      "text": "Fils de Jitsehar, fils de Kéhath, fils de Lévi, fils d'Israël."
+    },
+    {
+      "verse": 39,
+      "text": "Son frère Asaph, qui se tenait à sa droite. Asaph, fils de Bérekia, fils de Shimea,"
+    },
+    {
+      "verse": 40,
+      "text": "Fils de Micaël, fils de Baaséja, fils de Malkija,"
+    },
+    {
+      "verse": 41,
+      "text": "Fils d'Ethni, fils de Zérach, fils d'Adaja,"
+    },
+    {
+      "verse": 42,
+      "text": "Fils d'Éthan, fils de Zimma, fils de Shimeï,"
+    },
+    {
+      "verse": 43,
+      "text": "Fils de Jachath, fils de Guershom, fils de Lévi."
+    },
+    {
+      "verse": 44,
+      "text": "Enfants de Mérari, leurs frères, à la gauche: Éthan, fils de Kishi, fils d'Abdi, fils de Malluc,"
+    },
+    {
+      "verse": 45,
+      "text": "Fils de Hashabia, fils d'Amatsia, fils de Hilkija,"
+    },
+    {
+      "verse": 46,
+      "text": "Fils d'Amtsi, fils de Bani, fils de Shémer,"
+    },
+    {
+      "verse": 47,
+      "text": "Fils de Machli, fils de Mushi, fils de Mérari, fils de Lévi."
+    },
+    {
+      "verse": 48,
+      "text": "Leurs frères, les Lévites, étaient chargés de tout le service de la demeure de la maison de Dieu."
+    },
+    {
+      "verse": 49,
+      "text": "Aaron et ses fils faisaient fumer les oblations sur l'autel des holocaustes et sur l'autel des parfums, vaquant à toute l'œuvre du lieu très-saint, et faisant l'expiation pour Israël, selon tout ce qu'avait commandé Moïse, serviteur de Dieu."
+    },
+    {
+      "verse": 50,
+      "text": "Voici les enfants d'Aaron: Éléazar, son fils; Phinées, son fils; Abishua, son fils;"
+    },
+    {
+      "verse": 51,
+      "text": "Bukki, son fils; Uzzi, son fils; Zérachia, son fils;"
+    },
+    {
+      "verse": 52,
+      "text": "Mérajoth, son fils; Amaria, son fils; Achitub, son fils;"
+    },
+    {
+      "verse": 53,
+      "text": "Tsadok, son fils; Achimaats, son fils."
+    },
+    {
+      "verse": 54,
+      "text": "Voici leurs habitations, selon leurs enclaves, dans leurs limites. Aux enfants d'Aaron de la famille des Kéhathites (car le premier sort fut pour eux),"
+    },
+    {
+      "verse": 55,
+      "text": "On donna Hébron, au pays de Juda, et sa banlieue tout autour."
+    },
+    {
+      "verse": 56,
+      "text": "Mais on donna à Caleb, fils de Jéphunné, le territoire de la ville et ses villages."
+    },
+    {
+      "verse": 57,
+      "text": "Aux enfants d'Aaron on donna les villes de refuge Hébron, Libna et sa banlieue, Jatthir, Eshthémoa et sa banlieue,"
+    },
+    {
+      "verse": 58,
+      "text": "Hilen et sa banlieue, Débir et sa banlieue,"
+    },
+    {
+      "verse": 59,
+      "text": "Ashan et sa banlieue, Beth-Shémèsh et sa banlieue;"
+    },
+    {
+      "verse": 60,
+      "text": "Et de la tribu de Benjamin, Guéba et sa banlieue, Alémeth et sa banlieue, Anathoth et sa banlieue. Toutes leurs villes étaient treize en nombre, selon leurs familles."
+    },
+    {
+      "verse": 61,
+      "text": "Aux enfants de Kéhath qui restaient, on donna par le sort dix villes de la tribu d'Éphraïm, de la moitié de la tribu de Dan, et de la demi-tribu de Manassé."
+    },
+    {
+      "verse": 62,
+      "text": "Aux enfants de Guershom, d'après leurs familles, on donna treize villes, de la tribu d'Issacar, de la tribu d'Asser, de la tribu de Nephthali, et de la tribu de Manassé, en Bassan."
+    },
+    {
+      "verse": 63,
+      "text": "Aux enfants de Mérari, d'après leurs familles, on donna, par le sort, douze villes, de la tribu de Ruben, de la tribu de Gad, et de la tribu de Zabulon."
+    },
+    {
+      "verse": 64,
+      "text": "Les enfants d'Israël donnèrent aux Lévites ces villes et leurs banlieues."
+    },
+    {
+      "verse": 65,
+      "text": "Ils donnèrent par le sort, de la tribu des enfants de Juda, de la tribu des enfants de Siméon, et de la tribu des enfants de Benjamin, ces villes qu'ils désignèrent par leurs noms."
+    },
+    {
+      "verse": 66,
+      "text": "Et pour les autres familles des enfants de Kéhath, les villes de leur territoire furent de la tribu d'Éphraïm."
+    },
+    {
+      "verse": 67,
+      "text": "On leur donna les villes de refuge, Sichem et sa banlieue, dans la montagne d'Éphraïm, Guézer et sa banlieue,"
+    },
+    {
+      "verse": 68,
+      "text": "Jokméam et sa banlieue, Beth-Horon et sa banlieue,"
+    },
+    {
+      "verse": 69,
+      "text": "Ajalon et sa banlieue, et Gath-Rimmon et sa banlieue;"
+    },
+    {
+      "verse": 70,
+      "text": "Et de la demi-tribu de Manassé, Aner et sa banlieue, et Bileam et sa banlieue. On donna ces villes aux enfants des familles de Kéhath qui restaient."
+    },
+    {
+      "verse": 71,
+      "text": "Aux enfants de Guershom, on donna de la famille de la demi-tribu de Manassé, Golan en Bassan et sa banlieue, et Ashtharoth et sa banlieue;"
+    },
+    {
+      "verse": 72,
+      "text": "De la tribu d'Issacar, Kédès et sa banlieue, Dobrath et sa banlieue,"
+    },
+    {
+      "verse": 73,
+      "text": "Ramoth et sa banlieue, et Anem et sa banlieue;"
+    },
+    {
+      "verse": 74,
+      "text": "De la tribu d'Asser, Mashal et sa banlieue, Abdon et sa banlieue,"
+    },
+    {
+      "verse": 75,
+      "text": "Hukok et sa banlieue, Réhob et sa banlieue;"
+    },
+    {
+      "verse": 76,
+      "text": "Et de la tribu de Nephthali, Kédès en Galilée et sa banlieue, Hammon et sa banlieue, et Kirjathaïm et sa banlieue."
+    },
+    {
+      "verse": 77,
+      "text": "Aux enfants de Mérari qui restaient, on donna, de la tribu de Zabulon, Rimmono et sa banlieue, et Thabor et sa banlieue;"
+    },
+    {
+      "verse": 78,
+      "text": "Et au delà du Jourdain de Jérico, vers l'orient du Jourdain, de la tribu de Ruben, Betser au désert et sa banlieue, Jahtsa et sa banlieue,"
+    },
+    {
+      "verse": 79,
+      "text": "Kédémoth et sa banlieue, et Méphaath et sa banlieue;"
+    },
+    {
+      "verse": 80,
+      "text": "Et de la tribu de Gad, Ramoth en Galaad et sa banlieue, Mahanaïm et sa banlieue,"
+    },
+    {
+      "verse": 81,
+      "text": "Hesbon et sa banlieue, et Jaezer et sa banlieue."
+    }
+  ]
+}

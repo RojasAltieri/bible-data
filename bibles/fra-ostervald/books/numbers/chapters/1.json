@@ -1,0 +1,223 @@
+{
+  "version": "fra-ostervald",
+  "book": "numbers",
+  "chapter": 1,
+  "data": [
+    {
+      "verse": 1,
+      "text": "L'Éternel parla à Moïse, au désert de Sinaï, dans le tabernacle d'assignation, au premier jour du second mois, la seconde année de leur sortie du pays d'Égypte, en disant:"
+    },
+    {
+      "verse": 2,
+      "text": "Faites le compte de toute l'assemblée des enfants d'Israël, selon leurs familles, selon les maisons de leurs pères, en comptant par tête les noms de tous les mâles,"
+    },
+    {
+      "verse": 3,
+      "text": "Depuis l'âge de vingt ans et au-dessus, tous ceux d'Israël qui peuvent aller à la guerre; vous les dénombrerez selon leurs armées, toi et Aaron."
+    },
+    {
+      "verse": 4,
+      "text": "Et il y aura avec vous un homme par tribu, le chef de la maison de ses pères."
+    },
+    {
+      "verse": 5,
+      "text": "Et voici les noms des hommes qui vous assisteront: Pour la tribu de Ruben, Elitsur, fils de Shedéur;"
+    },
+    {
+      "verse": 6,
+      "text": "Pour celle de Siméon, Shelumiel, fils de Tsurishaddaï;"
+    },
+    {
+      "verse": 7,
+      "text": "Pour celle de Juda, Nahasshon, fils d'Amminadab;"
+    },
+    {
+      "verse": 8,
+      "text": "Pour celle d'Issacar, Nathanaël, fils de Tsuar;"
+    },
+    {
+      "verse": 9,
+      "text": "Pour celle de Zabulon, Eliab, fils de Hélon;"
+    },
+    {
+      "verse": 10,
+      "text": "Pour les enfants de Joseph, pour la tribu d'Éphraïm, Elishama, fils d'Ammihud; pour celle de Manassé, Gamaliel, fils de Pédahtsur;"
+    },
+    {
+      "verse": 11,
+      "text": "Pour la tribu de Benjamin, Abidan, fils de Guideoni;"
+    },
+    {
+      "verse": 12,
+      "text": "Pour celle de Dan, Ahiézer, fils d'Ammishaddaï;"
+    },
+    {
+      "verse": 13,
+      "text": "Pour celle d'Asser, Paguiel, fils d'Ocran;"
+    },
+    {
+      "verse": 14,
+      "text": "Pour celle de Gad, Eliasaph, fils de Déhuël;"
+    },
+    {
+      "verse": 15,
+      "text": "Pour celle de Nephthali, Ahira, fils d'Enan."
+    },
+    {
+      "verse": 16,
+      "text": "C'étaient là ceux qu'on appelait pour tenir l'assemblée, les princes des tribus de leurs pères, les chefs des milliers d'Israël."
+    },
+    {
+      "verse": 17,
+      "text": "Moïse et Aaron prirent donc ces hommes qui avaient été désignés par leurs noms;"
+    },
+    {
+      "verse": 18,
+      "text": "Et ils convoquèrent toute l'assemblée, le premier jour du second mois, et on les enregistra d'après leurs familles, selon la maison de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, et par têtes;"
+    },
+    {
+      "verse": 19,
+      "text": "Comme l'Éternel l'avait commandé à Moïse, il les dénombra au désert de Sinaï."
+    },
+    {
+      "verse": 20,
+      "text": "Les fils de Ruben, premier-né d'Israël, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms et par tête, tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 21,
+      "text": "Ceux de la tribu de Ruben, qui furent dénombrés, furent quarante-six mille cinq cents."
+    },
+    {
+      "verse": 22,
+      "text": "Les fils de Siméon, enregistrés selon leurs familles, selon les maisons de leurs pères, ceux qui furent dénombrés, en les comptant par leurs noms et par tête, tous les mâles depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 23,
+      "text": "Ceux de la tribu de Siméon, qui furent dénombrés, furent cinquante-neuf mille trois cents."
+    },
+    {
+      "verse": 24,
+      "text": "Les fils de Gad, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 25,
+      "text": "Ceux de la tribu de Gad, qui furent dénombrés, furent quarante-cinq mille six cent cinquante."
+    },
+    {
+      "verse": 26,
+      "text": "Les fils de Juda, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 27,
+      "text": "Ceux de la tribu de Juda, qui furent dénombrés, furent soixante-quatorze mille six cents."
+    },
+    {
+      "verse": 28,
+      "text": "Les fils d'Issacar, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 29,
+      "text": "Ceux de la tribu d'Issacar, qui furent dénombrés, furent cinquante-quatre mille quatre cents."
+    },
+    {
+      "verse": 30,
+      "text": "Les fils de Zabulon, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 31,
+      "text": "Ceux de la tribu de Zabulon, qui furent dénombrés, furent cinquante-sept mille quatre cents."
+    },
+    {
+      "verse": 32,
+      "text": "Quant aux fils de Joseph: les fils d'Éphraïm, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 33,
+      "text": "Ceux de la tribu d'Éphraïm, qui furent dénombrés, furent quarante mille cinq cents."
+    },
+    {
+      "verse": 34,
+      "text": "Les fils de Manassé, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 35,
+      "text": "Ceux de la tribu de Manassé, qui furent dénombrés, furent trente-deux mille deux cents."
+    },
+    {
+      "verse": 36,
+      "text": "Les fils de Benjamin, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 37,
+      "text": "Ceux de la tribu de Benjamin, qui furent dénombrés, furent trente-cinq mille quatre cents."
+    },
+    {
+      "verse": 38,
+      "text": "Les fils de Dan, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 39,
+      "text": "Ceux de la tribu de Dan, qui furent dénombrés, furent soixante-deux mille sept cents."
+    },
+    {
+      "verse": 40,
+      "text": "Les fils d'Asser, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 41,
+      "text": "Ceux de la tribu d'Asser, qui furent dénombrés, furent quarante et un mille cinq cents."
+    },
+    {
+      "verse": 42,
+      "text": "Les fils de Nephthali, enregistrés selon leurs familles, selon les maisons de leurs pères, en les comptant par leurs noms, depuis l'âge de vingt ans et au-dessus, tous ceux qui pouvaient aller à la guerre:"
+    },
+    {
+      "verse": 43,
+      "text": "Ceux de la tribu de Nephthali, qui furent dénombrés, furent cinquante-trois mille quatre cents."
+    },
+    {
+      "verse": 44,
+      "text": "Tel est le dénombrement que firent Moïse et Aaron, et les douze princes d'Israël; il y avait un homme pour chaque maison des pères."
+    },
+    {
+      "verse": 45,
+      "text": "Ainsi tous ceux des enfants d'Israël qui furent dénombrés, selon les maisons de leurs pères, depuis l'âge de vingt ans et au-dessus, tous les Israélites qui pouvaient aller à la guerre,"
+    },
+    {
+      "verse": 46,
+      "text": "Tous ceux qui furent dénombrés, furent six cent trois mille cinq cent cinquante."
+    },
+    {
+      "verse": 47,
+      "text": "Mais les Lévites, selon la tribu de leurs pères, ne furent point dénombrés avec eux."
+    },
+    {
+      "verse": 48,
+      "text": "Car l'Éternel avait parlé à Moïse, en disant:"
+    },
+    {
+      "verse": 49,
+      "text": "Tu ne dénombreras point la tribu de Lévi seulement, et tu n'en feras point le compte au milieu des enfants d'Israël;"
+    },
+    {
+      "verse": 50,
+      "text": "Mais donne aux Lévites la charge de la Demeure du Témoignage, et de tous ses ustensiles, et de tout ce qui lui appartient. Ce sont eux qui porteront la Demeure et tous ses ustensiles, et qui en feront le service; et ils camperont autour de la Demeure."
+    },
+    {
+      "verse": 51,
+      "text": "Et quand la Demeure partira, les Lévites la démonteront; et quand la Demeure campera, les Lévites la dresseront; et l'étranger qui en approchera sera puni de mort."
+    },
+    {
+      "verse": 52,
+      "text": "Or, les enfants d'Israël camperont chacun dans son camp, et chacun près de sa bannière, selon leurs armées."
+    },
+    {
+      "verse": 53,
+      "text": "Mais les Lévites camperont autour de la Demeure du Témoignage, afin qu'il n'y ait point d'indignation contre l'assemblée des enfants d'Israël; et les Lévites auront la garde de la Demeure du Témoignage."
+    },
+    {
+      "verse": 54,
+      "text": "Et les enfants d'Israël firent tout ce que l'Éternel avait commandé à Moïse; ils firent ainsi."
+    }
+  ]
+}

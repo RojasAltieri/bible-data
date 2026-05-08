@@ -1,0 +1,39 @@
+{
+  "version": "fra-ostervald",
+  "book": "psalms",
+  "chapter": 130,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Cantique de Maaloth. O Éternel, je t'invoque des lieux profonds."
+    },
+    {
+      "verse": 2,
+      "text": "Seigneur, écoute ma voix! Que tes oreilles soient attentives à la voix de mes supplications!"
+    },
+    {
+      "verse": 3,
+      "text": "Éternel, si tu prends garde aux iniquités, Seigneur, qui subsistera?"
+    },
+    {
+      "verse": 4,
+      "text": "Mais le pardon se trouve auprès de toi, afin qu'on te craigne."
+    },
+    {
+      "verse": 5,
+      "text": "J'ai attendu l'Éternel; mon âme l'a attendu, et j'ai eu mon espérance en sa parole."
+    },
+    {
+      "verse": 6,
+      "text": "Mon âme attend le Seigneur, plus que les sentinelles n'attendent le matin."
+    },
+    {
+      "verse": 7,
+      "text": "Israël, attends-toi à l'Éternel, car la miséricorde est auprès de l'Éternel, et la rédemption se trouve en abondance auprès de lui."
+    },
+    {
+      "verse": 8,
+      "text": "Et lui-même rachètera Israël de toutes ses iniquités."
+    }
+  ]
+}
