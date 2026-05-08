@@ -1,0 +1,39 @@
+{
+  "version": "deu-luther1912",
+  "book": "psalms",
+  "chapter": 67,
+  "data": [
+    {
+      "verse": 1,
+      "text": "Ein Psalmlied, vorzusingen, auf Saitenspiel."
+    },
+    {
+      "verse": 2,
+      "text": "Gott sei uns gnädig und segne uns; er lasse uns sein Antlitz leuchten (Sela),"
+    },
+    {
+      "verse": 3,
+      "text": "daß man auf Erden erkenne seinen Weg, unter allen Heiden sein Heil."
+    },
+    {
+      "verse": 4,
+      "text": "Es danken dir, Gott, die Völker; es danken dir alle Völker."
+    },
+    {
+      "verse": 5,
+      "text": "Die Völker freuen sich und jauchzen, daß du die Leute recht richtest und regierest die Leute auf Erden. (Sela.)"
+    },
+    {
+      "verse": 6,
+      "text": "Es danken dir, Gott, die Völker; es danken dir alle Völker."
+    },
+    {
+      "verse": 7,
+      "text": "Das Land gibt sein Gewächs. Es segne uns Gott, unser Gott."
+    },
+    {
+      "verse": 8,
+      "text": "Es segne uns Gott, und alle Welt fürchte ihn!"
+    }
+  ]
+}
