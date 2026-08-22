@@ -1,1 +1,551 @@
-{"version":"spa-vbl","book":"proverbs","chapter":22,"data":[{"verse":"1","text":"Tener una buena reputación es mejor que tener mucho dinero. El respeto es mejor que la plata y que el oro."},{"verse":"2","text":"Los ricos y los pobres tienen algo en común: el Señor es su creador."},{"verse":"3","text":"Si eres prudente, verás venir el peligro y te apartarás; pero los necios siguen sin cuidado y sufren las consecuencias."},{"verse":"4","text":"Si eres humilde y respetas al Señor, tu recompense será la riqueza, el honor y la vida."},{"verse":"5","text":"Solo hay espinas y trampas en el camino de los corruptos. Los que estiman sus vidas se mantendrán lejos de ellos."},{"verse":"6","text":"Enseña a los niños el modo correcto de vivir, y cuando crezcan, seguirán viviendo en rectitud."},{"verse":"7","text":"El rico gobierna al pobre, y los que piden dinero prestado son esclavos de los prestamistas."},{"verse":"8","text":"Los que siembran injusticia, cosecharán desastre. Y los golpes que dan a otros, cesarán."},{"verse":"9","text":"Si eres generoso, serás bendecido por compartir tu comida con los necesitados."},{"verse":"10","text":"Deshazte de los burlones y acabarás con el conflicto. Entonces no habrá discusiones ni insultos."},{"verse":"11","text":"Todo el que estima la sinceridad22:11.Literalmente, “pureza de corazón”. y habla con cortesía, tendrá al rey como amigo."},{"verse":"12","text":"El Señor cuida del conocimiento, pero se opone a las palabras de los mentirosos."},{"verse":"13","text":"Los perezosos dicen: “Hay un león allá afuera. ¡Si salgo podría morir!”"},{"verse":"14","text":"Las palabras seductoras de una mujer inmoral son como una trampa peligrosa. Si el Señor está enojado22:14.En otras palabras, si tienes una mala relación con el Señor, estarás propenso a caer en tales acciones pecaminosas. contigo, caerás en la trampa."},{"verse":"15","text":"Los niños son ignorantes por naturaleza. La corrección física les ayudará a entrar en razón."},{"verse":"16","text":"Si oprimes al pobre para hacerte rico, o si eres generoso con el rico, terminarás siendo pobre tú mismo.22:16.La traducción y el significado de este versículo son inciertos en el idioma hebreo."},{"verse":"17","text":"Atiende y escucha las palabras de los sabios. Medita cuidadosamente en mis enseñanzas,"},{"verse":"18","text":"porque es bueno que guardes estas palabras en tu mente para que estés listo para compartirlas."},{"verse":"19","text":"Hoy te explico hoy para que confíes en el Señor. ¡Sí, a ti!"},{"verse":"20","text":"¿Acaso no he escrito para ti treinta consejos de sabiduría?"},{"verse":"21","text":"Son para aclararte lo recto y verdadero, a fin de que puedas dar una explicación veraz a aquellos a que te enviaron."},{"verse":"22","text":"Pues no debes robarle al pobre solo porque es pobre; y no deberías sofocar en la corte a los de menos recursos,"},{"verse":"23","text":"porque el Señor peleará su caso, y recuperará lo que les hayan robado."},{"verse":"24","text":"No te hagas amigo de quien se enoja fácilmente. No se asocies con personas irascibles,"},{"verse":"25","text":"para que no aprendas a ser como ellos y no destruyas tu vida.22:25.Literalmente, “preso en una trampa”."},{"verse":"26","text":"No te comprometas con apretón de manos a ser fiador de otro,"},{"verse":"27","text":"porque si no puedes pagar, ¿por qué tendrían que embargar tu cama?"},{"verse":"28","text":"No muevas los hitos fronterizos que establecieron tus antepasados."},{"verse":"29","text":"Si ves a alguien con talento en su trabajo, notarás que trabajará para reyes y no para la gente común."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 22,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Tener una buena reputación es mejor que tener mucho dinero. El respeto es mejor que la plata y que el oro.",
+      "strong": [
+        "H1961",
+        "H0259",
+        "H2896",
+        "H1961",
+        "H2896",
+        "H0834",
+        "H1961",
+        "H7227",
+        "H3701",
+        "H1931",
+        "H1961",
+        "H2896",
+        "H0834",
+        "H1931",
+        "H3701",
+        "H1571",
+        "H0834",
+        "H1931",
+        "H2091"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Los ricos y los pobres tienen algo en común: el Señor es su creador.",
+      "strong": [
+        "H3605",
+        "H1571",
+        "H3605",
+        "H1800",
+        "H1992",
+        "H3920",
+        "H5921",
+        "H7230",
+        "H3605",
+        "H3068",
+        "H1961",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Si eres prudente, verás venir el peligro y te apartarás; pero los necios siguen sin cuidado y sufren las consecuencias.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H0995",
+        "H7200",
+        "H0935",
+        "H5674",
+        "H1571",
+        "H0859",
+        "H3588",
+        "H0582",
+        "H0995",
+        "H1980",
+        "H3808",
+        "H3027",
+        "H1571",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Si eres humilde y respetas al Señor, tu recompense será la riqueza, el honor y la vida.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H6041",
+        "H3519",
+        "H0413",
+        "H3068",
+        "H0859",
+        "H1961",
+        "H1931",
+        "H7399",
+        "H1931",
+        "H3519",
+        "H1931",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Solo hay espinas y trampas en el camino de los corruptos. Los que estiman sus vidas se mantendrán lejos de ellos.",
+      "strong": [
+        "H0910",
+        "H3426",
+        "H6791",
+        "H1571",
+        "H6341",
+        "H1992",
+        "H1870",
+        "H4480",
+        "H1992",
+        "H1992",
+        "H1992",
+        "H1992",
+        "H5315",
+        "H1992",
+        "H7368",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Enseña a los niños el modo correcto de vivir, y cuando crezcan, seguirán viviendo en rectitud.",
+      "strong": [
+        "H3384",
+        "H5921",
+        "H5921",
+        "H5288",
+        "H5921",
+        "H5352",
+        "H4480",
+        "H2421",
+        "H1571",
+        "H3588",
+        "H2416",
+        "H5921",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "El rico gobierna al pobre, y los que piden dinero prestado son esclavos de los prestamistas.",
+      "strong": [
+        "H1931",
+        "H6223",
+        "H3557",
+        "H0413",
+        "H7326",
+        "H1571",
+        "H0582",
+        "H0834",
+        "H3701",
+        "H1961",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los que siembran injusticia, cosecharán desastre. Y los golpes que dan a otros, cesarán.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H2555",
+        "H0611",
+        "H1571",
+        "H0582",
+        "H0834",
+        "H1835",
+        "H0413",
+        "H0312",
+        "H7673"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Si eres generoso, serás bendecido por compartir tu comida con los necesitados.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H7771",
+        "H1961",
+        "H3588",
+        "H0859",
+        "H3899",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Deshazte de los burlones y acabarás con el conflicto. Entonces no habrá discusiones ni insultos.",
+      "strong": [
+        "H4480",
+        "H0582",
+        "H4066",
+        "H5973",
+        "H1931",
+        "H0227",
+        "H3808",
+        "H1961",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Todo el que estima la sinceridad y habla con cortesía, tendrá al rey como amigo.",
+      "strong": [
+        "H3605",
+        "H1931",
+        "H0834",
+        "H2803",
+        "H1931",
+        "H1571",
+        "H8193",
+        "H5973",
+        "H1961",
+        "H4428",
+        "H4428",
+        "H0349",
+        "H7453"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El Señor cuida del conocimiento, pero se opone a las palabras de los mentirosos.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1875",
+        "H4480",
+        "H1847",
+        "H3588",
+        "H3045",
+        "H5869",
+        "H1992",
+        "H1697",
+        "H1697",
+        "H0582",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los perezosos dicen: “Hay un león allá afuera. ¡Si salgo podría morir!”",
+      "strong": [
+        "H0582",
+        "H0559",
+        "H3426",
+        "H0259",
+        "H0738",
+        "H8033",
+        "H2351",
+        "H0518",
+        "H3318",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Las palabras seductoras de una mujer inmoral son como una trampa peligrosa. Si el Señor está enojado contigo, caerás en la trampa.",
+      "strong": [
+        "H1992",
+        "H6310",
+        "H4480",
+        "H0259",
+        "H0802",
+        "H6310",
+        "H0349",
+        "H0259",
+        "H0518",
+        "H5307",
+        "H3068",
+        "H8033",
+        "H7107",
+        "H8033",
+        "H5307",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los niños son ignorantes por naturaleza. La corrección física les ayudará a entrar en razón.",
+      "strong": [
+        "H0582",
+        "H5288",
+        "H1961",
+        "H5530",
+        "H4480",
+        "H1931",
+        "H4148",
+        "H0413",
+        "H4480",
+        "H0935",
+        "H4480",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Si oprimes al pobre para hacerte rico, o si eres generoso con el rico, terminarás siendo pobre tú mismo.",
+      "strong": [
+        "H0518",
+        "H0413",
+        "H1800",
+        "H5414",
+        "H6223",
+        "H0176",
+        "H0518",
+        "H0859",
+        "H7771",
+        "H5973",
+        "H1931",
+        "H6223",
+        "H1931",
+        "H1800",
+        "H0859",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Atiende y escucha las palabras de los sabios. Medita cuidadosamente en mis enseñanzas,",
+      "strong": [
+        "H7181",
+        "H1571",
+        "H8085",
+        "H1992",
+        "H1697",
+        "H1697",
+        "H2450",
+        "H2450",
+        "H1897",
+        "H8085",
+        "H5921",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "porque es bueno que guardes estas palabras en tu mente para que estés listo para compartirlas.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2896",
+        "H3588",
+        "H8104",
+        "H0428",
+        "H1697",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H3588",
+        "H1961",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Hoy te explico hoy para que confíes en el Señor. ¡Sí, a ti!",
+      "strong": [
+        "H3117",
+        "H0859",
+        "H3117",
+        "H1961",
+        "H3045",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H1961",
+        "H3068",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¿Acaso no he escrito para ti treinta consejos de sabiduría?",
+      "strong": [
+        "H0194",
+        "H3808",
+        "H4392",
+        "H3789",
+        "H5704",
+        "H0859",
+        "H7970",
+        "H4156",
+        "H4480",
+        "H1847"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Son para aclararte lo recto y verdadero, a fin de que puedas dar una explicación veraz a aquellos a que te enviaron.",
+      "strong": [
+        "H1961",
+        "H5704",
+        "H1931",
+        "H3477",
+        "H1571",
+        "H0529",
+        "H0413",
+        "H7093",
+        "H4480",
+        "H3045",
+        "H3201",
+        "H5414",
+        "H0259",
+        "H0413",
+        "H0479",
+        "H0413",
+        "H3045",
+        "H0859",
+        "H7971"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Pues no debes robarle al pobre solo porque es pobre; y no deberías sofocar en la corte a los de menos recursos,",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0413",
+        "H1800",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H1800",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H7088",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "porque el Señor peleará su caso, y recuperará lo que les hayan robado.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3068",
+        "H3898",
+        "H3588",
+        "H3820",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "No te hagas amigo de quien se enoja fácilmente. No se asocies con personas irascibles,",
+      "strong": [
+        "H3808",
+        "H0859",
+        "H6213",
+        "H7453",
+        "H4480",
+        "H4310",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H5973",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "para que no aprendas a ser como ellos y no destruyas tu vida.",
+      "strong": [
+        "H5704",
+        "H6435",
+        "H6435",
+        "H3925",
+        "H0413",
+        "H5315",
+        "H0349",
+        "H1992",
+        "H1571",
+        "H6435",
+        "H7843",
+        "H0859",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "No te comprometas con apretón de manos a ser fiador de otro,",
+      "strong": [
+        "H1961",
+        "H0859",
+        "H5973",
+        "H4480",
+        "H3709",
+        "H0413",
+        "H5315",
+        "H4480",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "porque si no puedes pagar, ¿por qué tendrían que embargar tu cama?",
+      "strong": [
+        "H4100",
+        "H0518",
+        "H4100",
+        "H3546",
+        "H7999",
+        "H8478",
+        "H4100",
+        "H4100",
+        "H0859",
+        "H4904"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "No muevas los hitos fronterizos que establecieron tus antepasados.",
+      "strong": [
+        "H6213",
+        "H0582",
+        "H0834",
+        "H6965",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Si ves a alguien con talento en su trabajo, notarás que trabajará para reyes y no para la gente común.",
+      "strong": [
+        "H6440",
+        "H7200",
+        "H6440",
+        "H0376",
+        "H5973",
+        "H5921",
+        "H1931",
+        "H5999",
+        "H0834",
+        "H3320",
+        "H4428",
+        "H1571",
+        "H1077",
+        "H3320",
+        "H1931",
+        "H1471",
+        "H7230"
+      ]
+    }
+  ]
+}

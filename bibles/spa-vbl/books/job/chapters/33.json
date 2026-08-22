@@ -1,1 +1,605 @@
-{"version":"spa-vbl","book":"job","chapter":33,"data":[{"verse":"1","text":"“Ahora escúchame, Job. Presta atención a todo lo que tengo que decir."},{"verse":"2","text":"Mira, estoy a punto de hablar; mi boca está lista para hablar."},{"verse":"3","text":"Mis palabras salen de mi corazón recto; mis labios hablan con sinceridad de lo que sé."},{"verse":"4","text":"El espíritu de Dios me hizo, y el aliento del Todopoderoso me da vida."},{"verse":"5","text":"Contéstame, si puedes. Ponte delante de mí y prepárate para defenderte:"},{"verse":"6","text":"Ante Dios los dos somos iguales. Yo también fui hecho de un pedazo de arcilla."},{"verse":"7","text":"No tienes que tener miedo de mí, pues no seré demasiado duro contigo.33:7 Literalmente, “Mi mano no será pesada para ti”."},{"verse":"8","text":"Has hablado en mi oído y he escuchado todo lo que tenías que decir."},{"verse":"9","text":"Dices: ‘Estoy limpio, no he hecho nada malo; soy puro, no he pecado."},{"verse":"10","text":"Mira cómo Dios encuentra faltas en mí y me trata como su enemigo."},{"verse":"11","text":"Pone mis pies en el cepo y vigila todo lo que hago’."},{"verse":"12","text":"Pero te equivocas. Déjame explicarte: Dios es más grande que cualquier ser humano."},{"verse":"13","text":"¿Por qué luchas contra él, quejándote de que Dios no responde a tus preguntas?"},{"verse":"14","text":"Dios habla una y otra vez,33:14 Literalmente, “una y dos veces”, pero se trata de un paralelismo numérico que indica un número creciente. pero la gente no se da cuenta."},{"verse":"15","text":"A través de sueños y visiones en la noche, cuando la gente cae en el sueño profundo, descansando en sus camas,"},{"verse":"16","text":"Dios les habla con advertencias solemnes33:16 O “los aterroriza con advertencias”."},{"verse":"17","text":"para alejarlos de hacer el mal y evitar que se vuelvan orgullosos."},{"verse":"18","text":"Los salva de la tumba y los libra de la muerte violenta."},{"verse":"19","text":"La gente también es disciplinada en un lecho de dolor, con un dolor constante en sus huesos."},{"verse":"20","text":"No tienen deseos de comer; ni siquiera quieren sus platos favoritos."},{"verse":"21","text":"Su carne se desgasta hasta quedar en nada; todo lo que queda es piel y huesos."},{"verse":"22","text":"Están a punto de morir;33:22 Literalmente, “la fosa”. su vida se acerca al verdugo.33:22 Literalmente, “los destructores”, que podría referirse a los ángeles de la muerte o a las enfermedades terminales."},{"verse":"23","text":"“Pero si aparece un ángel, un mediador, uno de los miles de ángeles de Dios, para indicarle a alguien el camino correcto para ellos,"},{"verse":"24","text":"tendrá gracia con ellos. Les dirá: ‘Sálvenlos de bajar a la tumba, porque he encontrado un camino para liberarlos’.33:24 O “porque he encontrado un rescate”."},{"verse":"25","text":"Entonces sus cuerpos se renovarán como si fueran jóvenes de nuevo; serán tan fuertes como cuando estaban en la flor de la vida."},{"verse":"26","text":"Orarán a Dios, y él los aceptará; llegarán a la presencia de Dios con alegría, y él les arreglará las cosas."},{"verse":"27","text":"Cantarán y dirán a los demás: ‘He pecado, he desvirtuado lo que es justo, pero no me ha servido de nada.33:27 O “pero no se me pagó (castigó) como merecía”."},{"verse":"28","text":"Me salvó de bajar al sepulcro y viviré en la luz’."},{"verse":"29","text":"Mira, Dios hace esto una y otra vez33:29 Literalmente, “dos, tres veces”. para la gente;"},{"verse":"30","text":"los salva de la tumba para que vean la luz de la vida."},{"verse":"31","text":"“Presta atención, Job, y escúchame. Calla y déjame hablar."},{"verse":"32","text":"Pero si tienes algo que decir, habla."},{"verse":"33","text":"Si no, escúchame. Calla y te enseñaré la sabiduría”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 33,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“Ahora escúchame, Job. Presta atención a todo lo que tengo que decir.",
+      "strong": [
+        "H4994",
+        "H8085",
+        "H0347",
+        "H0413",
+        "H3605",
+        "H1697",
+        "H4994",
+        "H2803",
+        "H4994",
+        "H8085"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Mira, estoy a punto de hablar; mi boca está lista para hablar.",
+      "strong": [
+        "H2009",
+        "H1961",
+        "H6310",
+        "H4480",
+        "H1696",
+        "H2009",
+        "H6310",
+        "H2063",
+        "H5704",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Mis palabras salen de mi corazón recto; mis labios hablan con sinceridad de lo que sé.",
+      "strong": [
+        "H0589",
+        "H1697",
+        "H3318",
+        "H4480",
+        "H0589",
+        "H3820",
+        "H3477",
+        "H0589",
+        "H8193",
+        "H1696",
+        "H5973",
+        "H4480",
+        "H1931",
+        "H0834",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El espíritu de Dios me hizo, y el aliento del Todopoderoso me da vida.",
+      "strong": [
+        "H6213",
+        "H7307",
+        "H5397",
+        "H0430",
+        "H0413",
+        "H6213",
+        "H1571",
+        "H6213",
+        "H0553",
+        "H4480",
+        "H7706",
+        "H0413",
+        "H5414",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Contéstame, si puedes. Ponte delante de mí y prepárate para defenderte:",
+      "strong": [
+        "H6440",
+        "H3201",
+        "H3320",
+        "H6440",
+        "H6440",
+        "H0589",
+        "H1571",
+        "H3320"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Ante Dios los dos somos iguales. Yo también fui hecho de un pedazo de arcilla.",
+      "strong": [
+        "H6440",
+        "H0430",
+        "H0582",
+        "H8147",
+        "H1961",
+        "H0589",
+        "H1571",
+        "H1961",
+        "H6213",
+        "H4480",
+        "H0259",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "No tienes que tener miedo de mí, pues no seré demasiado duro contigo.",
+      "strong": [
+        "H3808",
+        "H5750",
+        "H3808",
+        "H1961",
+        "H4032",
+        "H5921",
+        "H5921",
+        "H3513",
+        "H3808",
+        "H3808",
+        "H7235",
+        "H7186",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Has hablado en mi oído y he escuchado todo lo que tenías que decir.",
+      "strong": [
+        "H4191",
+        "H1696",
+        "H5921",
+        "H0589",
+        "H8085",
+        "H1571",
+        "H4392",
+        "H3605",
+        "H4405",
+        "H0834",
+        "H1961",
+        "H0834",
+        "H8085"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Dices: ‘Estoy limpio, no he hecho nada malo; soy puro, no he pecado.",
+      "strong": [
+        "H0559",
+        "H1961",
+        "H2134",
+        "H3808",
+        "H4392",
+        "H6213",
+        "H3808",
+        "H5771",
+        "H0595",
+        "H2134",
+        "H3808",
+        "H4392",
+        "H5771"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Mira cómo Dios encuentra faltas en mí y me trata como su enemigo.",
+      "strong": [
+        "H2005",
+        "H5921",
+        "H0430",
+        "H2399",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1245",
+        "H5921",
+        "H1931",
+        "H0341"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Pone mis pies en el cepo y vigila todo lo que hago’.",
+      "strong": [
+        "H0589",
+        "H7272",
+        "H5921",
+        "H3605",
+        "H4115",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Pero te equivocas. Déjame explicarte: Dios es más grande que cualquier ser humano.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H7971",
+        "H0430",
+        "H3588",
+        "H3588",
+        "H7235",
+        "H3588",
+        "H3605",
+        "H5315",
+        "H0120"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¿Por qué luchas contra él, quejándote de que Dios no responde a tus preguntas?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5921",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0430",
+        "H3808",
+        "H6030",
+        "H3588",
+        "H0859",
+        "H7592"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Dios habla una y otra vez, pero la gente no se da cuenta.",
+      "strong": [
+        "H0430",
+        "H1696",
+        "H0259",
+        "H3588",
+        "H5750",
+        "H6471",
+        "H3588",
+        "H3588",
+        "H1471",
+        "H3808",
+        "H3808",
+        "H5414",
+        "H6485"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "A través de sueños y visiones en la noche, cuando la gente cae en el sueño profundo, descansando en sus camas,",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H2472",
+        "H5921",
+        "H2384",
+        "H5921",
+        "H5921",
+        "H3915",
+        "H3588",
+        "H5921",
+        "H1471",
+        "H5307",
+        "H5921",
+        "H5921",
+        "H2472",
+        "H8482",
+        "H5921",
+        "H1931",
+        "H4904"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Dios les habla con advertencias solemnes",
+      "strong": [
+        "H0430",
+        "H0413",
+        "H1696",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "para alejarlos de hacer el mal y evitar que se vuelvan orgullosos.",
+      "strong": [
+        "H5493",
+        "H4480",
+        "H6213",
+        "H1931",
+        "H7451",
+        "H1571",
+        "H0834",
+        "H3045",
+        "H7725"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Los salva de la tumba y los libra de la muerte violenta.",
+      "strong": [
+        "H0582",
+        "H3467",
+        "H4480",
+        "H1931",
+        "H1571",
+        "H0582",
+        "H5337",
+        "H4480",
+        "H1931",
+        "H4194",
+        "H2389"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "La gente también es disciplinada en un lecho de dolor, con un dolor constante en sus huesos.",
+      "strong": [
+        "H5921",
+        "H1471",
+        "H1571",
+        "H1961",
+        "H5921",
+        "H0259",
+        "H0587",
+        "H5921",
+        "H4341",
+        "H5921",
+        "H0259",
+        "H4341",
+        "H5921",
+        "H1931",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "No tienen deseos de comer; ni siquiera quieren sus platos favoritos.",
+      "strong": [
+        "H3808",
+        "H1992",
+        "H4480",
+        "H5315",
+        "H3808",
+        "H1931",
+        "H7086"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Su carne se desgasta hasta quedar en nada; todo lo que queda es piel y huesos.",
+      "strong": [
+        "H1931",
+        "H1320",
+        "H3808",
+        "H5704",
+        "H1961",
+        "H5921",
+        "H3808",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H7604",
+        "H1961",
+        "H5785",
+        "H1571",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Están a punto de morir; su vida se acerca al verdugo.",
+      "strong": [
+        "H1961",
+        "H0413",
+        "H4480",
+        "H4191",
+        "H1931",
+        "H5315",
+        "H3045",
+        "H5921",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "“Pero si aparece un ángel, un mediador, uno de los miles de ángeles de Dios, para indicarle a alguien el camino correcto para ellos,",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H0259",
+        "H4397",
+        "H0259",
+        "H0259",
+        "H4480",
+        "H5921",
+        "H0505",
+        "H4480",
+        "H4397",
+        "H4480",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H0376",
+        "H5921",
+        "H1870",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "tendrá gracia con ellos. Les dirá: ‘Sálvenlos de bajar a la tumba, porque he encontrado un camino para liberarlos’.",
+      "strong": [
+        "H1961",
+        "H2580",
+        "H5973",
+        "H1992",
+        "H0413",
+        "H0559",
+        "H4480",
+        "H0413",
+        "H1931",
+        "H3588",
+        "H4392",
+        "H0259",
+        "H1870",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Entonces sus cuerpos se renovarán como si fueran jóvenes de nuevo; serán tan fuertes como cuando estaban en la flor de la vida.",
+      "strong": [
+        "H3117",
+        "H1931",
+        "H1472",
+        "H3045",
+        "H0349",
+        "H0518",
+        "H4480",
+        "H2319",
+        "H1961",
+        "H3966",
+        "H4013",
+        "H0349",
+        "H3117",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H5322",
+        "H4480",
+        "H1931",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Orarán a Dios, y él los aceptará; llegarán a la presencia de Dios con alegría, y él les arreglará las cosas.",
+      "strong": [
+        "H6440",
+        "H0430",
+        "H1571",
+        "H1931",
+        "H0582",
+        "H7126",
+        "H6440",
+        "H1931",
+        "H6440",
+        "H6440",
+        "H0430",
+        "H5973",
+        "H8057",
+        "H1571",
+        "H1931",
+        "H0413",
+        "H1992",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Cantarán y dirán a los demás: ‘He pecado, he desvirtuado lo que es justo, pero no me ha servido de nada.",
+      "strong": [
+        "H7442",
+        "H5921",
+        "H0559",
+        "H5921",
+        "H5921",
+        "H1571",
+        "H4392",
+        "H2398",
+        "H4392",
+        "H3808",
+        "H3808",
+        "H1961",
+        "H6662",
+        "H3588",
+        "H3808",
+        "H5921",
+        "H3808",
+        "H5921",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Me salvó de bajar al sepulcro y viviré en la luz’.",
+      "strong": [
+        "H0413",
+        "H3467",
+        "H4480",
+        "H0413",
+        "H7845",
+        "H1571",
+        "H3885",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Mira, Dios hace esto una y otra vez para la gente;",
+      "strong": [
+        "H2005",
+        "H0430",
+        "H6213",
+        "H2063",
+        "H6471",
+        "H1571",
+        "H5750",
+        "H6471",
+        "H5973",
+        "H3605",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "los salva de la tumba para que vean la luz de la vida.",
+      "strong": [
+        "H0582",
+        "H3467",
+        "H4480",
+        "H1931",
+        "H4480",
+        "H4480",
+        "H2372",
+        "H1931",
+        "H0216",
+        "H4480",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "“Presta atención, Job, y escúchame. Calla y déjame hablar.",
+      "strong": [
+        "H0347",
+        "H1571",
+        "H8085",
+        "H2790",
+        "H1571",
+        "H7971",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Pero si tienes algo que decir, habla.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3426",
+        "H3920",
+        "H3588",
+        "H0559",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Si no, escúchame. Calla y te enseñaré la sabiduría”.",
+      "strong": [
+        "H0518",
+        "H3808",
+        "H8085",
+        "H2790",
+        "H1571",
+        "H0859",
+        "H3925",
+        "H2451",
+        "H2451"
+      ]
+    }
+  ]
+}

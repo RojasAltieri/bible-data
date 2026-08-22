@@ -1,1 +1,273 @@
-{"version":"spa-vbl","book":"psalms","chapter":36,"data":[{"verse":"1","text":"El mal36:1 La palabra usada aquí para personificar al mal es la que se usa cuando Dios habla. habla a los malvados, muy profundo en sus corazones, porque en sus ojos no tienen ninguna necesidad de respetar al Señor."},{"verse":"2","text":"Ellos son tan maravillosos ante sus propios ojos que no pueden ver sus pecados ni hacer algo al respecto.36:2 El hebreo usado en este versículo no explica esto con claridad."},{"verse":"3","text":"Cualquier cosa que dicen es deshonesta y engañosa. Nunca actúan con sabiduría ni hacen el bien."},{"verse":"4","text":"Incluso cuando están en su lecho traman planes malignos. Ellos se dedican a una forma de vida que no está bien. Escogen el mal, y no lo niegan."},{"verse":"5","text":"Señor, tu amor alcanza los cielos, tu fidelidad llega hasta las nubes."},{"verse":"6","text":"Tu bondad es como las más altas montañas, tu justicia como los océanos más profundos. Señor, tú salvas tanto a las personas como a los animales."},{"verse":"7","text":"Dios, ¡Cuán precioso es tu gran amor! Cualquiera puede encontrar protección bajo la sombra de tus alas."},{"verse":"8","text":"Ellos obtuvieron fuerzas gracias al gran banquete que proveíste en tu casa. Les diste bebidas de tu refrescante río."},{"verse":"9","text":"Eres la fuente de la vida; eres la luz por la cual podemos ver."},{"verse":"10","text":"Extiende tu gran amor a aquellos que te aman, y tu bondad a los que verdaderamente viven haciendo lo correcto."},{"verse":"11","text":"No permitas que el arrogante me pisotee; no permitas que el malvado me aleje."},{"verse":"12","text":"¡Ahora miren! Miren cómo aquellos que hacen el mal han caído a la tierra sin poder levantarse."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 36,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El mal habla a los malvados, muy profundo en sus corazones, porque en sus ojos no tienen ninguna necesidad de respetar al Señor.",
+      "strong": [
+        "H1931",
+        "H7451",
+        "H1696",
+        "H3068",
+        "H0582",
+        "H3966",
+        "H8482",
+        "H5921",
+        "H1931",
+        "H3824",
+        "H1732",
+        "H5921",
+        "H1931",
+        "H5869",
+        "H3808",
+        "H1992",
+        "H3605",
+        "H4480",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Ellos son tan maravillosos ante sus propios ojos que no pueden ver sus pecados ni hacer algo al respecto.",
+      "strong": [
+        "H1992",
+        "H1961",
+        "H3966",
+        "H6382",
+        "H6440",
+        "H1931",
+        "H5869",
+        "H6343",
+        "H7563",
+        "H3201",
+        "H7200",
+        "H1931",
+        "H6588",
+        "H3808",
+        "H6213",
+        "H3920",
+        "H7130",
+        "H3282"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cualquier cosa que dicen es deshonesta y engañosa. Nunca actúan con sabiduría ni hacen el bien.",
+      "strong": [
+        "H3605",
+        "H1697",
+        "H3588",
+        "H0559",
+        "H3588",
+        "H3588",
+        "H7423",
+        "H3588",
+        "H3588",
+        "H2451",
+        "H3808",
+        "H6213",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Incluso cuando están en su lecho traman planes malignos. Ellos se dedican a una forma de vida que no está bien. Escogen el mal, y no lo niegan.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H0587",
+        "H7489",
+        "H1992",
+        "H3045",
+        "H6310",
+        "H0259",
+        "H8389",
+        "H1697",
+        "H5315",
+        "H1697",
+        "H2308",
+        "H2063",
+        "H3190",
+        "H1931",
+        "H7451",
+        "H1571",
+        "H2308",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Señor, tu amor alcanza los cielos, tu fidelidad llega hasta las nubes.",
+      "strong": [
+        "H0113",
+        "H0859",
+        "H0160",
+        "H5921",
+        "H8064",
+        "H0859",
+        "H6293",
+        "H5921",
+        "H5921",
+        "H5387"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Tu bondad es como las más altas montañas, tu justicia como los océanos más profundos. Señor, tú salvas tanto a las personas como a los animales.",
+      "strong": [
+        "H0859",
+        "H2898",
+        "H1961",
+        "H5704",
+        "H1992",
+        "H5704",
+        "H0859",
+        "H6664",
+        "H5704",
+        "H0582",
+        "H5704",
+        "H6009",
+        "H3068",
+        "H0859",
+        "H3651",
+        "H5704",
+        "H1992",
+        "H5315",
+        "H5704",
+        "H5704",
+        "H0582",
+        "H0929"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Dios, ¡Cuán precioso es tu gran amor! Cualquiera puede encontrar protección bajo la sombra de tus alas.",
+      "strong": [
+        "H3068",
+        "H4100",
+        "H3368",
+        "H1961",
+        "H0859",
+        "H7227",
+        "H0160",
+        "H3605",
+        "H3201",
+        "H8478",
+        "H1931",
+        "H6738",
+        "H4480",
+        "H0859",
+        "H3671"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Ellos obtuvieron fuerzas gracias al gran banquete que proveíste en tu casa. Les diste bebidas de tu refrescante río.",
+      "strong": [
+        "H1992",
+        "H3581",
+        "H0413",
+        "H1419",
+        "H4960",
+        "H4100",
+        "H5921",
+        "H0859",
+        "H1004",
+        "H0413",
+        "H5414",
+        "H1121",
+        "H0859",
+        "H5104"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Eres la fuente de la vida; eres la luz por la cual podemos ver.",
+      "strong": [
+        "H0859",
+        "H1931",
+        "H4599",
+        "H4480",
+        "H1931",
+        "H5315",
+        "H0859",
+        "H1931",
+        "H0216",
+        "H5921",
+        "H1931",
+        "H4100",
+        "H3201",
+        "H7200"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Extiende tu gran amor a aquellos que te aman, y tu bondad a los que verdaderamente viven haciendo lo correcto.",
+      "strong": [
+        "H5186",
+        "H0859",
+        "H1419",
+        "H0160",
+        "H5973",
+        "H0479",
+        "H3588",
+        "H3588",
+        "H2001",
+        "H3588",
+        "H0859",
+        "H2898",
+        "H5973",
+        "H5973",
+        "H3588",
+        "H0403",
+        "H2416",
+        "H6213",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "No permitas que el arrogante me pisotee; no permitas que el malvado me aleje.",
+      "strong": [
+        "H3808",
+        "H3045",
+        "H1931",
+        "H0413",
+        "H3808",
+        "H3045",
+        "H1931",
+        "H7451",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¡Ahora miren! Miren cómo aquellos que hacen el mal han caído a la tierra sin poder levantarse.",
+      "strong": [
+        "H6258",
+        "H5027",
+        "H5027",
+        "H7272",
+        "H0479",
+        "H3027",
+        "H6213",
+        "H1931",
+        "H7563",
+        "H4191",
+        "H5307",
+        "H0413",
+        "H1931",
+        "H0776",
+        "H3808",
+        "H3027",
+        "H6965"
+      ]
+    }
+  ]
+}

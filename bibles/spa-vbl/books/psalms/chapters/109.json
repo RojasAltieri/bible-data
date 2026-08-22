@@ -1,1 +1,635 @@
-{"version":"spa-vbl","book":"psalms","chapter":109,"data":[{"verse":"1","text":"¡Oh Dios! Eres el único al que rindo alabanza, por favor no permanezcas en silencio ahora,"},{"verse":"2","text":"porque la gente malvada y engañosa me está atacando, diciendo mentiras sobre mí"},{"verse":"3","text":"Me rodean con palabras de odio, pelean contra mí sin razón."},{"verse":"4","text":"Los amo, pero ellos me responden con hostilidad, ¡Incluso cuando estoy orando por ellos!"},{"verse":"5","text":"Me devuelven el bien con el mal, el amor con el odio109:5 Hay un cambio entre los versículos 5 y 6. El salmista se refiere a sus enemigos como “ellos”, pero de los versículos 6 al 19, la persona a la que se dirige es “él”. Si bien no hay ninguna indicación en el texto de que esté hablando una persona diferente, parece muy probable que el salmista esté citando las palabras de sus enemigos contra él. (Las comillas no formaban parte de la puntuación antigua). Esto es más convincente cuando se examina el contenido de lo que se dice. Si bien los escritores de los salmos ciertamente condenan a sus enemigos y le piden a Dios que actúe en contra de ellos, en ningún otro salmo hay una solicitud de acción inapropiada, como la perversión de la justicia al emitir un veredicto de culpabilidad o contar las oraciones como pecados. Además, el contexto proporcionado por los versículos 1 al 5 revela que todo el tema es de mentiras y engaños practicados por los enemigos del salmista. Por estas razones, los versículos 6 al 19 se colocan entre comillas, creyendo que estas palabras se originan de parte de aquellos que acusan al salmista."},{"verse":"6","text":"“Pon a alguien malo sobre él. Ten a alguien de pie acusándolo."},{"verse":"7","text":"Que cuando sea juzgado y sentenciado, sea hallado culpable. Que sus plegarias sean contadas como pecados."},{"verse":"8","text":"Ojalá se acorten sus vidas; y que alguien más tome su lugar."},{"verse":"9","text":"Que sus hijos queden huérfanos, y su esposa viuda."},{"verse":"10","text":"Y que sus hijos queden desamparados, sin hogar, vagando de aquí para allá, expulsados de sus casas en ruinas."},{"verse":"11","text":"Que los acreedores les quiten todo lo que poseen; y que los ladrones se lleven todo por lo cual han trabajado."},{"verse":"12","text":"Que nadie los trate bien; que nadie sienta lástima por sus hijos desamparados."},{"verse":"13","text":"Que todos sus descendientes mueran; que el nombre de su familia sea borrado en la siguiente generación."},{"verse":"14","text":"Que el Señor recuerde los pecados de sus padres; que los pecados de sus madres no sean borrados."},{"verse":"15","text":"Que sus errores permanezcan constantemente ante el Señor; y que su nombre sea olvidado completamente por el pueblo."},{"verse":"16","text":"Porque no pensó en ser amable con otros, y en su lugar, acosó y mató a los pobres, a lo necesitados y a los de corazón roto."},{"verse":"17","text":"Le encantaba maldecir a otros, ¡Que caiga sobre él ahora la maldición! Más no tenía tiempo para bendecir, ¡Así que ojalá nunca reciba una sola bendición!"},{"verse":"18","text":"Maldecía tan a menudo como cambiaba de ropa. Ojalá se trague sus maldiciones como bebe el agua, como el aceite que frota sobre su piel y llega hasta sus huesos."},{"verse":"19","text":"Que las maldiciones que ha lanzado se peguen a él como la ropa, que lo aprieten todo el tiempo como un cinto”."},{"verse":"20","text":"Que todo esto sea el castigo del Señor sobre mis enemigos, sobre aquellos que hablan mal de mí.109:20 En este verso, el salmista vuelve a hablar de sus enemigos y desea que todo lo que se ha dicho rebote sobre ellos."},{"verse":"21","text":"Pero a mí, Señor, trátame bien, por tu nombre. Sálvame porque eres leal y bueno."},{"verse":"22","text":"Porque estoy pobre y necesitado, y mi corazón se rompe."},{"verse":"23","text":"Me estoy desvaneciendo como una sombra nocturna; soy como una langosta que se sacude."},{"verse":"24","text":"Estoy tan débil por la falta de comida que mis piernas ya no dan más; Mi cuerpo es solo piel y huesos."},{"verse":"25","text":"¡La gente me ridiculiza, me miran y menean la cabeza!"},{"verse":"26","text":"Ayúdame, Dios mío; sálvame por tu gran amor."},{"verse":"27","text":"Que los demás reconozcan que esto es lo que haces, que tú eres el único que me salva."},{"verse":"28","text":"Cuando me maldigan, tú me bendecirás. Cuando me ataquen, tú los destruirás. Y yo, tu siervo, me alegraré."},{"verse":"29","text":"Que todos los que me acusan sean revestidos con desgracias; que se cubran a sí mismos con capas de vergüenza."},{"verse":"30","text":"Pero yo seguiré agradeciendo al Señor, alabándolo frente a todos los que me rodean."},{"verse":"31","text":"Porque él defiende al necesitado, y lo salva de aquellos que lo condenan."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 109,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Oh Dios! Eres el único al que rindo alabanza, por favor no permanezcas en silencio ahora,",
+      "strong": [
+        "H1945",
+        "H0430",
+        "H0859",
+        "H1931",
+        "H3173",
+        "H0413",
+        "H0834",
+        "H8416",
+        "H5921",
+        "H7522",
+        "H3808",
+        "H5921",
+        "H6258"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "porque la gente malvada y engañosa me está atacando, diciendo mentiras sobre mí",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H1471",
+        "H3588",
+        "H4820",
+        "H5921",
+        "H5921",
+        "H1696",
+        "H8267",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Me rodean con palabras de odio, pelean contra mí sin razón.",
+      "strong": [
+        "H0413",
+        "H5439",
+        "H5973",
+        "H1697",
+        "H1697",
+        "H8135",
+        "H3898",
+        "H5921",
+        "H0589",
+        "H3808",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Los amo, pero ellos me responden con hostilidad, ¡Incluso cuando estoy orando por ellos!",
+      "strong": [
+        "H0582",
+        "H0157",
+        "H3588",
+        "H1992",
+        "H0413",
+        "H5973",
+        "H3588",
+        "H1961",
+        "H1156",
+        "H8478",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Me devuelven el bien con el mal, el amor con el odio",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H2896",
+        "H5921",
+        "H5921",
+        "H7451",
+        "H5921",
+        "H0160",
+        "H5921",
+        "H5921",
+        "H8135"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "“Pon a alguien malo sobre él. Ten a alguien de pie acusándolo.",
+      "strong": [
+        "H6485",
+        "H5921",
+        "H0376",
+        "H7451",
+        "H5921",
+        "H5921",
+        "H3045",
+        "H5921",
+        "H0376",
+        "H5921",
+        "H5975"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Que cuando sea juzgado y sentenciado, sea hallado culpable. Que sus plegarias sean contadas como pecados.",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H1961",
+        "H8199",
+        "H1571",
+        "H1961",
+        "H4672",
+        "H1961",
+        "H1931",
+        "H1961",
+        "H1961",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Ojalá se acorten sus vidas; y que alguien más tome su lugar.",
+      "strong": [
+        "H3863",
+        "H1961",
+        "H1931",
+        "H5315",
+        "H1571",
+        "H3117",
+        "H0376",
+        "H5750",
+        "H3947",
+        "H1931",
+        "H4725"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Que sus hijos queden huérfanos, y su esposa viuda.",
+      "strong": [
+        "H1121",
+        "H1931",
+        "H1121",
+        "H3490",
+        "H1571",
+        "H1931",
+        "H3618",
+        "H0490"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Y que sus hijos queden desamparados, sin hogar, vagando de aquí para allá, expulsados de sus casas en ruinas.",
+      "strong": [
+        "H1571",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H3808",
+        "H1121",
+        "H6311",
+        "H5128",
+        "H8033",
+        "H1121",
+        "H1931",
+        "H1004",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Que los acreedores les quiten todo lo que poseen; y que los ladrones se lleven todo por lo cual han trabajado.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H5386",
+        "H0413",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H1590",
+        "H3045",
+        "H5375",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H4100",
+        "H4191",
+        "H3811"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Que nadie los trate bien; que nadie sienta lástima por sus hijos desamparados.",
+      "strong": [
+        "H1961",
+        "H0376",
+        "H1961",
+        "H2896",
+        "H1961",
+        "H0376",
+        "H5921",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Que todos sus descendientes mueran; que el nombre de su familia sea borrado en la siguiente generación.",
+      "strong": [
+        "H1961",
+        "H3605",
+        "H1931",
+        "H6631",
+        "H4191",
+        "H1961",
+        "H1931",
+        "H8034",
+        "H4480",
+        "H1931",
+        "H1004",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H0312",
+        "H1755"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Que el Señor recuerde los pecados de sus padres; que los pecados de sus madres no sean borrados.",
+      "strong": [
+        "H0834",
+        "H1931",
+        "H3068",
+        "H0582",
+        "H2403",
+        "H4480",
+        "H1931",
+        "H0001",
+        "H0834",
+        "H0582",
+        "H2403",
+        "H4480",
+        "H1931",
+        "H0517",
+        "H3808",
+        "H1961",
+        "H3680"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Que sus errores permanezcan constantemente ante el Señor; y que su nombre sea olvidado completamente por el pueblo.",
+      "strong": [
+        "H1961",
+        "H1931",
+        "H6440",
+        "H1931",
+        "H3068",
+        "H1571",
+        "H1961",
+        "H1931",
+        "H8034",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Porque no pensó en ser amable con otros, y en su lugar, acosó y mató a los pobres, a lo necesitados y a los de corazón roto.",
+      "strong": [
+        "H3282",
+        "H3808",
+        "H2161",
+        "H5921",
+        "H5315",
+        "H3700",
+        "H5973",
+        "H0312",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H4725",
+        "H1571",
+        "H4191",
+        "H0413",
+        "H7291",
+        "H1800",
+        "H0413",
+        "H3808",
+        "H1571",
+        "H0413",
+        "H7291",
+        "H4480",
+        "H3824"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Le encantaba maldecir a otros, ¡Que caiga sobre él ahora la maldición! Más no tenía tiempo para bendecir, ¡Así que ojalá nunca reciba una sola bendición!",
+      "strong": [
+        "H0413",
+        "H4480",
+        "H0312",
+        "H4480",
+        "H5307",
+        "H4480",
+        "H1931",
+        "H6258",
+        "H1931",
+        "H7045",
+        "H4480",
+        "H3808",
+        "H1961",
+        "H6256",
+        "H4480",
+        "H3541",
+        "H4480",
+        "H3863",
+        "H3808",
+        "H1319",
+        "H0259",
+        "H1565",
+        "H1293"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Maldecía tan a menudo como cambiaba de ropa. Ojalá se trague sus maldiciones como bebe el agua, como el aceite que frota sobre su piel y llega hasta sus huesos.",
+      "strong": [
+        "H3966",
+        "H0413",
+        "H1851",
+        "H0349",
+        "H3847",
+        "H8071",
+        "H3863",
+        "H3045",
+        "H1104",
+        "H1931",
+        "H3994",
+        "H0349",
+        "H8354",
+        "H1931",
+        "H4325",
+        "H0349",
+        "H1931",
+        "H8081",
+        "H4325",
+        "H5921",
+        "H1931",
+        "H5785",
+        "H1571",
+        "H6293",
+        "H5704",
+        "H1931",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Que las maldiciones que ha lanzado se peguen a él como la ropa, que lo aprieten todo el tiempo como un cinto”.",
+      "strong": [
+        "H1961",
+        "H1992",
+        "H3994",
+        "H1961",
+        "H3541",
+        "H1961",
+        "H0413",
+        "H1931",
+        "H1961",
+        "H1931",
+        "H8071",
+        "H1961",
+        "H1931",
+        "H3605",
+        "H1931",
+        "H6256",
+        "H1961",
+        "H0259",
+        "H0232"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Que todo esto sea el castigo del Señor sobre mis enemigos, sobre aquellos que hablan mal de mí.",
+      "strong": [
+        "H5921",
+        "H3605",
+        "H2063",
+        "H1961",
+        "H5921",
+        "H7451",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H0589",
+        "H0341",
+        "H5921",
+        "H0479",
+        "H5921",
+        "H1696",
+        "H7451",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Pero a mí, Señor, trátame bien, por tu nombre. Sálvame porque eres leal y bueno.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0589",
+        "H0113",
+        "H2896",
+        "H3588",
+        "H6213",
+        "H8034",
+        "H3467",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Porque estoy pobre y necesitado, y mi corazón se rompe.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H6041",
+        "H3588",
+        "H4270",
+        "H3588",
+        "H2490",
+        "H3820",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Me estoy desvaneciendo como una sombra nocturna; soy como una langosta que se sacude.",
+      "strong": [
+        "H0413",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H6738",
+        "H3915",
+        "H0595",
+        "H0349",
+        "H0259",
+        "H0697",
+        "H0834",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Estoy tan débil por la falta de comida que mis piernas ya no dan más; Mi cuerpo es solo piel y huesos.",
+      "strong": [
+        "H1961",
+        "H3966",
+        "H5921",
+        "H1931",
+        "H3971",
+        "H4480",
+        "H6720",
+        "H0834",
+        "H0589",
+        "H3767",
+        "H3528",
+        "H3808",
+        "H1835",
+        "H5750",
+        "H0589",
+        "H5038",
+        "H1961",
+        "H0910",
+        "H5785",
+        "H1571",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "¡La gente me ridiculiza, me miran y menean la cabeza!",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H0413",
+        "H0413",
+        "H7200",
+        "H1571",
+        "H5128",
+        "H1931",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Ayúdame, Dios mío; sálvame por tu gran amor.",
+      "strong": [
+        "H5826",
+        "H3068",
+        "H0589",
+        "H3467",
+        "H5921",
+        "H0859",
+        "H1419",
+        "H0160"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Que los demás reconozcan que esto es lo que haces, que tú eres el único que me salva.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1571",
+        "H3045",
+        "H3588",
+        "H2063",
+        "H3027",
+        "H6213",
+        "H3588",
+        "H6213",
+        "H3588",
+        "H6213",
+        "H0859",
+        "H3588",
+        "H3173",
+        "H3588",
+        "H3588",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Cuando me maldigan, tú me bendecirás. Cuando me ataquen, tú los destruirás. Y yo, tu siervo, me alegraré.",
+      "strong": [
+        "H5650",
+        "H0413",
+        "H7043",
+        "H0859",
+        "H0413",
+        "H1288",
+        "H5650",
+        "H0413",
+        "H0859",
+        "H1992",
+        "H5595",
+        "H1571",
+        "H0589",
+        "H0859",
+        "H5650",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Que todos los que me acusan sean revestidos con desgracias; que se cubran a sí mismos con capas de vergüenza.",
+      "strong": [
+        "H0834",
+        "H3605",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H1961",
+        "H5973",
+        "H0834",
+        "H3045",
+        "H0413",
+        "H0518",
+        "H1992",
+        "H5973",
+        "H3847",
+        "H3639"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Pero yo seguiré agradeciendo al Señor, alabándolo frente a todos los que me rodean.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H7291",
+        "H0413",
+        "H3068",
+        "H5048",
+        "H6310",
+        "H3605",
+        "H0582",
+        "H6310",
+        "H0413",
+        "H5439"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Porque él defiende al necesitado, y lo salva de aquellos que lo condenan.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H8199",
+        "H0413",
+        "H4270",
+        "H3588",
+        "H1931",
+        "H3467",
+        "H3588",
+        "H0479",
+        "H3588",
+        "H1931"
+      ]
+    }
+  ]
+}

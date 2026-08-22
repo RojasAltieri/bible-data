@@ -1,1 +1,313 @@
-{"version":"spa-vbl","book":"psalms","chapter":83,"data":[{"verse":"1","text":"¡Por favor, no permanezcas en silencio, Dios! ¡No puedes permanecer inmóvil! Dios, ¡No te quedes callado!"},{"verse":"2","text":"¿No escuchas el rugido de tus enemigos? ¿No ves cómo los que te odian levantan sus cabezas desafiantemente?"},{"verse":"3","text":"Inventan planes astutos para conspirar contra tu pueblo; traman cosas contra los que atesoras."},{"verse":"4","text":"Dicen, “¡Vamos! Destruyamos su nación para que el nombre ‘Israel’ sea completamente olvidado”."},{"verse":"5","text":"Todos ellos están de acuerdo en su conspiración; han hecho un trato para atacarte—"},{"verse":"6","text":"el pueblo de Edom, los Ismaelitas, Moab, y los ismaelitas;"},{"verse":"7","text":"el pueblo de Gebal y Ammon y Amalek, Filistea, y los habitantes de Tiro."},{"verse":"8","text":"Asiria también se les ha unido, se ha aliado con los descendientes de Lot. Selah."},{"verse":"9","text":"Hazles lo que le hiciste a Madián, lo que le hiciste a Sisera y Jabin83:9 Sísara y Jabín: ver Jueces 4. y el río Kishon."},{"verse":"10","text":"Fueron destruidos en Endor y se convirtieron en estiércol para fertilizar la tierra."},{"verse":"11","text":"Haz a sus líderes como Oreb y Zeeb; todos sus gobernadores como Zeba y Zalmuna,83:11 Ooreb y Zeeb; Zeba y Zalmuna: ver Jueces 6 y Jueces 7."},{"verse":"12","text":"porque ellos dijeron, “¡Tomemos los pastos de Dios para nosotros mismos!”"},{"verse":"13","text":"Dios mío, hazlos como torbellinos que giran, como pajas arrasadas por el viento."},{"verse":"14","text":"Como fuego que quema el bosque, como una lama que le prende fuego a las montañas,"},{"verse":"15","text":"de la misma forma, derríbalos con tu tormenta, aterrorízalos con tu torbellino."},{"verse":"16","text":"¡Avergüénzalos con la derrota83:16 Literalmente, “llena sus rostros de vergüenza”. para que vengan a ti, Señor!"},{"verse":"17","text":"¡Avergüénzalos! ¡Aterrorízalos para siempre, para que mueran en desgracia!"},{"verse":"18","text":"Permite que entiendan que solo tú, llamado el Señor, eres el gran Altísimo que rige sobre la tierra."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 83,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Por favor, no permanezcas en silencio, Dios! ¡No puedes permanecer inmóvil! Dios, ¡No te quedes callado!",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H3808",
+        "H5921",
+        "H0430",
+        "H3808",
+        "H3546",
+        "H0430",
+        "H3808",
+        "H0859",
+        "H3885"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¿No escuchas el rugido de tus enemigos? ¿No ves cómo los que te odian levantan sus cabezas desafiantemente?",
+      "strong": [
+        "H3808",
+        "H8252",
+        "H4480",
+        "H0859",
+        "H0341",
+        "H3808",
+        "H7200",
+        "H0349",
+        "H0582",
+        "H0834",
+        "H0859",
+        "H5375",
+        "H1931",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Inventan planes astutos para conspirar contra tu pueblo; traman cosas contra los que atesoras.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H0859",
+        "H5971",
+        "H1697",
+        "H5921",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Dicen, “¡Vamos! Destruyamos su nación para que el nombre ‘Israel’ sea completamente olvidado”.",
+      "strong": [
+        "H0559",
+        "H3212",
+        "H7843",
+        "H1931",
+        "H1471",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8034",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Todos ellos están de acuerdo en su conspiración; han hecho un trato para atacarte—",
+      "strong": [
+        "H3605",
+        "H1992",
+        "H1961",
+        "H5750",
+        "H2374",
+        "H5750",
+        "H1931",
+        "H4191",
+        "H6213",
+        "H0259",
+        "H0559",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "el pueblo de Edom, los Ismaelitas, Moab, y los ismaelitas;",
+      "strong": [
+        "H5921",
+        "H5971",
+        "H5921",
+        "H0123",
+        "H5921",
+        "H4124",
+        "H3588",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "el pueblo de Gebal y Ammon y Amalek, Filistea, y los habitantes de Tiro.",
+      "strong": [
+        "H1931",
+        "H5971",
+        "H4480",
+        "H1381",
+        "H1571",
+        "H5983",
+        "H1571",
+        "H6429",
+        "H1571",
+        "H0582",
+        "H3427",
+        "H4480",
+        "H6865"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Asiria también se les ha unido, se ha aliado con los descendientes de Lot. Selah.",
+      "strong": [
+        "H0804",
+        "H1571",
+        "H3045",
+        "H5973",
+        "H3541",
+        "H3162",
+        "H3045",
+        "H3541",
+        "H5973",
+        "H3427",
+        "H6631",
+        "H5973",
+        "H3876",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Hazles lo que le hiciste a Madián, lo que le hiciste a Sisera y Jabin y el río Kishon.",
+      "strong": [
+        "H6213",
+        "H1931",
+        "H1571",
+        "H5973",
+        "H6213",
+        "H5973",
+        "H4080",
+        "H1931",
+        "H1571",
+        "H5973",
+        "H6213",
+        "H5973",
+        "H1571",
+        "H2985",
+        "H1571",
+        "H5973",
+        "H5104"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Fueron destruidos en Endor y se convirtieron en estiércol para fertilizar la tierra.",
+      "strong": [
+        "H1961",
+        "H2040",
+        "H5921",
+        "H1571",
+        "H1992",
+        "H5921",
+        "H6569",
+        "H5704",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Haz a sus líderes como Oreb y Zeeb; todos sus gobernadores como Zeba y Zalmuna,",
+      "strong": [
+        "H6213",
+        "H0413",
+        "H1931",
+        "H1961",
+        "H6159",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H0324",
+        "H1961",
+        "H2078",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "porque ellos dijeron, “¡Tomemos los pastos de Dios para nosotros mismos!”",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H0559",
+        "H3605",
+        "H4829",
+        "H4480",
+        "H0430",
+        "H5704",
+        "H3605",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Dios mío, hazlos como torbellinos que giran, como pajas arrasadas por el viento.",
+      "strong": [
+        "H0430",
+        "H0589",
+        "H0349",
+        "H0834",
+        "H0349",
+        "H5921",
+        "H1931",
+        "H7307"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Como fuego que quema el bosque, como una lama que le prende fuego a las montañas,",
+      "strong": [
+        "H0349",
+        "H0784",
+        "H0834",
+        "H1931",
+        "H0842",
+        "H0349",
+        "H0259",
+        "H0834",
+        "H0413",
+        "H0784",
+        "H6440",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "de la misma forma, derríbalos con tu tormenta, aterrorízalos con tu torbellino.",
+      "strong": [
+        "H4480",
+        "H1197",
+        "H4927",
+        "H8389",
+        "H5973",
+        "H0859",
+        "H5973",
+        "H0859",
+        "H5492"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "¡Avergüénzalos con la derrota para que vengan a ti, Señor!",
+      "strong": [
+        "H5973",
+        "H1931",
+        "H5704",
+        "H5591",
+        "H0935",
+        "H0413",
+        "H0859",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "¡Avergüénzalos! ¡Aterrorízalos para siempre, para que mueran en desgracia!",
+      "strong": [
+        "H5704",
+        "H5769",
+        "H5704",
+        "H0834",
+        "H4191",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Permite que entiendan que solo tú, llamado el Señor, eres el gran Altísimo que rige sobre la tierra.",
+      "strong": [
+        "H5704",
+        "H3045",
+        "H5704",
+        "H0910",
+        "H0859",
+        "H8034",
+        "H1931",
+        "H0113",
+        "H0859",
+        "H1931",
+        "H1419",
+        "H5945",
+        "H5704",
+        "H5921",
+        "H1931",
+        "H0776"
+      ]
+    }
+  ]
+}

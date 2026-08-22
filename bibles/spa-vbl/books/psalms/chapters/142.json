@@ -1,1 +1,173 @@
-{"version":"spa-vbl","book":"psalms","chapter":142,"data":[{"verse":"1","text":"Clamo al Señor por ayuda, y le ruego por su misericordia."},{"verse":"2","text":"A él expongo mis quejas y le cuento mis problemas."},{"verse":"3","text":"Cuando estoy agobiado, tú conoces el camino que debo tomar. Pero donde quiera que voy, las personas me tienden trampas."},{"verse":"4","text":"Miro a mi diestra buscando a alguien que venga a ayudarme, pero no hay nadie allí. No tengo un lugar seguro, y a nadie le importa lo que me pasa."},{"verse":"5","text":"Clamo a ti, Señor, pidiendo tu ayuda, diciendo “Eres mi refugio. Eres todo lo que necesito en mi vida.142:5 Literalmente, “eres mi porción en la tierra de los vivientes”."},{"verse":"6","text":"Por favor, escucha mi triste clamor, porque estoy muy deprimido. Sálvame de los que me persiguen, porque son más fuertes que yo."},{"verse":"7","text":"Libérame de mi prisión para que pueda alabar tu nombre. Los que viven en justicia se reunirán a mi alrededor porque tú me tratas con bondad”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 142,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Clamo al Señor por ayuda, y le ruego por su misericordia.",
+      "strong": [
+        "H7121",
+        "H0413",
+        "H0113",
+        "H5921",
+        "H5828",
+        "H1571",
+        "H0413",
+        "H8467",
+        "H5921",
+        "H1931",
+        "H2617"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "A él expongo mis quejas y le cuento mis problemas.",
+      "strong": [
+        "H3068",
+        "H1931",
+        "H0589",
+        "H1571",
+        "H0413",
+        "H4557",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando estoy agobiado, tú conoces el camino que debo tomar. Pero donde quiera que voy, las personas me tienden trampas.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H0859",
+        "H3045",
+        "H1931",
+        "H1870",
+        "H0834",
+        "H3947",
+        "H3588",
+        "H0834",
+        "H2654",
+        "H0834",
+        "H1980",
+        "H1992",
+        "H5315",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Miro a mi diestra buscando a alguien que venga a ayudarme, pero no hay nadie allí. No tengo un lugar seguro, y a nadie le importa lo que me pasa.",
+      "strong": [
+        "H7200",
+        "H5921",
+        "H5921",
+        "H3225",
+        "H1245",
+        "H5921",
+        "H0376",
+        "H2098",
+        "H0935",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H3426",
+        "H0376",
+        "H8033",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H4725",
+        "H0983",
+        "H5921",
+        "H5921",
+        "H0376",
+        "H5921",
+        "H5921",
+        "H2098",
+        "H5921",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Clamo a ti, Señor, pidiendo tu ayuda, diciendo “Eres mi refugio. Eres todo lo que necesito en mi vida.",
+      "strong": [
+        "H7121",
+        "H4480",
+        "H4480",
+        "H0113",
+        "H7592",
+        "H0859",
+        "H5828",
+        "H0559",
+        "H0859",
+        "H5315",
+        "H4498",
+        "H0859",
+        "H3605",
+        "H1931",
+        "H4480",
+        "H4480",
+        "H5315",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Por favor, escucha mi triste clamor, porque estoy muy deprimido. Sálvame de los que me persiguen, porque son más fuertes que yo.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H0238",
+        "H0589",
+        "H5620",
+        "H6818",
+        "H3588",
+        "H1961",
+        "H3966",
+        "H3467",
+        "H4480",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H7291",
+        "H3588",
+        "H1961",
+        "H5750",
+        "H4013",
+        "H0834",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Libérame de mi prisión para que pueda alabar tu nombre. Los que viven en justicia se reunirán a mi alrededor porque tú me tratas con bondad”.",
+      "strong": [
+        "H4480",
+        "H0589",
+        "H4525",
+        "H3588",
+        "H3588",
+        "H3201",
+        "H1984",
+        "H0859",
+        "H8034",
+        "H7291",
+        "H3588",
+        "H2416",
+        "H4480",
+        "H6664",
+        "H4480",
+        "H4480",
+        "H0589",
+        "H4480",
+        "H3588",
+        "H0859",
+        "H4480",
+        "H4480",
+        "H2898"
+      ]
+    }
+  ]
+}

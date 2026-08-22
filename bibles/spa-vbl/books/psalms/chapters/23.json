@@ -1,1 +1,143 @@
-{"version":"spa-vbl","book":"psalms","chapter":23,"data":[{"verse":"1","text":"El Señor es mi pastor, y por ello tengo todo lo que necesito."},{"verse":"2","text":"Me da descanso en verdes pastos. Me guía a corrientes tranquilas."},{"verse":"3","text":"Me consuela, me guía por el camino correcto, por su nombre."},{"verse":"4","text":"Incluso cuando camino por el valle oscuro de la muerte, no tengo miedo de ningún mal, porque tú estás ahí conmigo. Tu vara y tu bastón me protegen."},{"verse":"5","text":"Preparas un banquete para mí en presencia mis enemigos. Me honras ungiendo mi cabeza con aceite. ¡Mi copa está tan llena que se desborda!"},{"verse":"6","text":"Estoy completamente seguro de que tu bondad y tu amor inagotable estarán conmigo toda mi vida, y viviré para siempre en la casa del Señor."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 23,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El Señor es mi pastor, y por ello tengo todo lo que necesito.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1961",
+        "H0589",
+        "H7462",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H2803",
+        "H3605",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Me da descanso en verdes pastos. Me guía a corrientes tranquilas.",
+      "strong": [
+        "H5921",
+        "H5414",
+        "H4496",
+        "H5921",
+        "H3892",
+        "H4829",
+        "H5921",
+        "H5090",
+        "H5921",
+        "H5140"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Me consuela, me guía por el camino correcto, por su nombre.",
+      "strong": [
+        "H0413",
+        "H5162",
+        "H0413",
+        "H5090",
+        "H4616",
+        "H1931",
+        "H4570",
+        "H4616",
+        "H1931",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Incluso cuando camino por el valle oscuro de la muerte, no tengo miedo de ningún mal, porque tú estás ahí conmigo. Tu vara y tu bastón me protegen.",
+      "strong": [
+        "H3588",
+        "H7451",
+        "H3588",
+        "H3588",
+        "H1516",
+        "H3588",
+        "H1571",
+        "H6757",
+        "H3808",
+        "H2803",
+        "H3372",
+        "H3588",
+        "H3808",
+        "H7451",
+        "H3588",
+        "H0859",
+        "H1992",
+        "H8033",
+        "H5978",
+        "H0859",
+        "H7626",
+        "H1571",
+        "H0859",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Preparas un banquete para mí en presencia mis enemigos. Me honras ungiendo mi cabeza con aceite. ¡Mi copa está tan llena que se desborda!",
+      "strong": [
+        "H3651",
+        "H0259",
+        "H4960",
+        "H5704",
+        "H0589",
+        "H5921",
+        "H6440",
+        "H0589",
+        "H0341",
+        "H0413",
+        "H0589",
+        "H7218",
+        "H5973",
+        "H8081",
+        "H0589",
+        "H7105",
+        "H2063",
+        "H3966",
+        "H4392",
+        "H0834",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Estoy completamente seguro de que tu bondad y tu amor inagotable estarán conmigo toda mi vida, y viviré para siempre en la casa del Señor.",
+      "strong": [
+        "H1961",
+        "H0983",
+        "H4480",
+        "H3117",
+        "H0859",
+        "H2898",
+        "H1571",
+        "H0859",
+        "H0160",
+        "H3427",
+        "H0854",
+        "H3605",
+        "H0589",
+        "H2416",
+        "H1571",
+        "H3885",
+        "H5704",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H1004",
+        "H4480",
+        "H3068"
+      ]
+    }
+  ]
+}

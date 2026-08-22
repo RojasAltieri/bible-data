@@ -1,1 +1,406 @@
-{"version":"spa-vbl","book":"psalms","chapter":51,"data":[{"verse":"1","text":"Ten mimsericordia de mi, ¡Oh, Dios! Por tu gran amor, por tu infinita bondad, por favor, limpia mis pecados."},{"verse":"2","text":"Lava toda mi culpa; límpiame de mi pecado."},{"verse":"3","text":"Admito mi rebelión; mi pecado siempre me golpea a la cara."},{"verse":"4","text":"He pecado contra ti, solamente contra ti. He hecho el mal ante tus ojos. Por eso, lo que dices está bien, y lo que me juzgas es correcto."},{"verse":"5","text":"Es verdad que nací siendo culpable, pecador desde el momento en que fui concebido."},{"verse":"6","text":"Pero tú quieres confiar en lo que hay en el interior; me has enseñado sabiduría desde lo más profundo."},{"verse":"7","text":"Purifícame con hisopo51:7 Una planta usada para la limpieza, pero para muchos esta no es la imagen más útil. para que pueda quedar limpio; lávame para que pueda ser blanco como la nieve."},{"verse":"8","text":"Por favor, permíteme escuchar alegría y felicidad otra vez; permite que los huesos que has roto se gocen una vez más."},{"verse":"9","text":"Aparta tu cara de ver mis pecados; por favor, limpia mi culpa."},{"verse":"10","text":"Crea en mí, oh Dios, un corazón puro, y hazme fiel otra vez."},{"verse":"11","text":"No me expulses de tu presencia; no alejes tu Santo Espíritu de mí."},{"verse":"12","text":"Dame una vez más la alegría de tu salvación. Ayúdame a tener un carácter dispuesto."},{"verse":"13","text":"Para entonces poder mostrarle tus caminos a los rebeldes, y los pecadores volverán a ti."},{"verse":"14","text":"Perdóname, ¡Oh, Dios! Por toda la sangre que he derramado, y cantaré de alegría por tu bondad, Dios de mi salvación."},{"verse":"15","text":"¡Abre mis labios para que pueda alabarte!"},{"verse":"16","text":"Porque los sacrificios no te hacen feliz. Si así fuera, te hubiera traído uno. Pero los holocaustos no te alegran."},{"verse":"17","text":"Los “sacrificios” que Dios quiere son los que nacen desde el interior, el arrepentimiento sincero. Dios no rechazará un corazón quebrantado y triste."},{"verse":"18","text":"Sé bueno con Sión. Ayuda a la ciudad. Reconstruye los muros de Jerusalén."},{"verse":"19","text":"Te alegrarás con los sacrificios que te damos con el espíritu correcto; te alegrarás por todos los tipos de sacrificios, y los becerros serán sacrificados en tu altar una vez más.51:19 Algunos creen que las últimos dos versículos se agregaron más tarde."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 51,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Ten mimsericordia de mi, ¡Oh, Dios! Por tu gran amor, por tu infinita bondad, por favor, limpia mis pecados.",
+      "strong": [
+        "H3045",
+        "H4480",
+        "H0589",
+        "H1945",
+        "H0430",
+        "H5921",
+        "H0859",
+        "H1419",
+        "H0160",
+        "H5921",
+        "H0859",
+        "H2898",
+        "H5921",
+        "H7522",
+        "H2889",
+        "H0589",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Lava toda mi culpa; límpiame de mi pecado.",
+      "strong": [
+        "H3526",
+        "H3605",
+        "H0589",
+        "H5352",
+        "H4480",
+        "H0589",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Admito mi rebelión; mi pecado siempre me golpea a la cara.",
+      "strong": [
+        "H0589",
+        "H6588",
+        "H0589",
+        "H6588",
+        "H5769",
+        "H0413",
+        "H0413",
+        "H1931",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "He pecado contra ti, solamente contra ti. He hecho el mal ante tus ojos. Por eso, lo que dices está bien, y lo que me juzgas es correcto.",
+      "strong": [
+        "H4392",
+        "H2403",
+        "H5921",
+        "H0859",
+        "H7535",
+        "H5921",
+        "H0859",
+        "H4392",
+        "H6213",
+        "H1931",
+        "H7451",
+        "H6440",
+        "H0859",
+        "H5869",
+        "H5921",
+        "H3651",
+        "H1931",
+        "H0834",
+        "H0559",
+        "H2063",
+        "H2896",
+        "H1571",
+        "H1931",
+        "H0834",
+        "H0413",
+        "H7235"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Es verdad que nací siendo culpable, pecador desde el momento en que fui concebido.",
+      "strong": [
+        "H3588",
+        "H0571",
+        "H3588",
+        "H3205",
+        "H1931",
+        "H2403",
+        "H4480",
+        "H3588",
+        "H7281",
+        "H3588",
+        "H3588",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Pero tú quieres confiar en lo que hay en el interior; me has enseñado sabiduría desde lo más profundo.",
+      "strong": [
+        "H3588",
+        "H8199",
+        "H2654",
+        "H0982",
+        "H5921",
+        "H6213",
+        "H4616",
+        "H3426",
+        "H5921",
+        "H6213",
+        "H6442",
+        "H0413",
+        "H4191",
+        "H8199",
+        "H4480",
+        "H6213",
+        "H5750",
+        "H8482"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Purifícame con hisopo para que pueda quedar limpio; lávame para que pueda ser blanco como la nieve.",
+      "strong": [
+        "H2398",
+        "H5973",
+        "H0231",
+        "H5704",
+        "H0834",
+        "H3201",
+        "H1961",
+        "H2889",
+        "H3526",
+        "H5704",
+        "H0834",
+        "H3201",
+        "H5315",
+        "H3836",
+        "H5771",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Por favor, permíteme escuchar alegría y felicidad otra vez; permite que los huesos que has roto se gocen una vez más.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H8085",
+        "H8057",
+        "H1571",
+        "H5750",
+        "H6471",
+        "H3045",
+        "H0582",
+        "H6106",
+        "H3045",
+        "H4191",
+        "H3045",
+        "H0259",
+        "H6471",
+        "H2451"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Aparta tu cara de ver mis pecados; por favor, limpia mi culpa.",
+      "strong": [
+        "H5493",
+        "H0859",
+        "H6440",
+        "H4480",
+        "H7200",
+        "H0589",
+        "H2403",
+        "H5921",
+        "H7522",
+        "H2891",
+        "H0589",
+        "H5352"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Crea en mí, oh Dios, un corazón puro, y hazme fiel otra vez.",
+      "strong": [
+        "H1254",
+        "H5921",
+        "H0589",
+        "H1945",
+        "H0430",
+        "H0259",
+        "H3820",
+        "H2889",
+        "H1571",
+        "H6213",
+        "H0539",
+        "H5750",
+        "H6471"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "No me expulses de tu presencia; no alejes tu Santo Espíritu de mí.",
+      "strong": [
+        "H6440",
+        "H0413",
+        "H6440",
+        "H0859",
+        "H6440",
+        "H6440",
+        "H0859",
+        "H6918",
+        "H7307",
+        "H6440",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Dame una vez más la alegría de tu salvación. Ayúdame a tener un carácter dispuesto.",
+      "strong": [
+        "H5414",
+        "H0259",
+        "H6471",
+        "H5750",
+        "H1931",
+        "H8057",
+        "H4480",
+        "H0859",
+        "H6413",
+        "H5826",
+        "H0413",
+        "H1961",
+        "H0259",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Para entonces poder mostrarle tus caminos a los rebeldes, y los pecadores volverán a ti.",
+      "strong": [
+        "H4480",
+        "H0227",
+        "H3027",
+        "H0859",
+        "H1870",
+        "H4480",
+        "H0582",
+        "H4784",
+        "H1571",
+        "H0582",
+        "H2400",
+        "H7725",
+        "H4480",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Perdóname, ¡Oh, Dios! Por toda la sangre que he derramado, y cantaré de alegría por tu bondad, Dios de mi salvación.",
+      "strong": [
+        "H1945",
+        "H0430",
+        "H5921",
+        "H3605",
+        "H1931",
+        "H1818",
+        "H0834",
+        "H4392",
+        "H8210",
+        "H1571",
+        "H7891",
+        "H4480",
+        "H8057",
+        "H5921",
+        "H0859",
+        "H2898",
+        "H0430",
+        "H4480",
+        "H0589",
+        "H6413"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "¡Abre mis labios para que pueda alabarte!",
+      "strong": [
+        "H6605",
+        "H0589",
+        "H8193",
+        "H5704",
+        "H0834",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Porque los sacrificios no te hacen feliz. Si así fuera, te hubiera traído uno. Pero los holocaustos no te alegran.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H2077",
+        "H3808",
+        "H0859",
+        "H6213",
+        "H0518",
+        "H3541",
+        "H2351",
+        "H0859",
+        "H0935",
+        "H0259",
+        "H3588",
+        "H0582",
+        "H5930",
+        "H3808",
+        "H0859",
+        "H8055"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Los “sacrificios” que Dios quiere son los que nacen desde el interior, el arrepentimiento sincero. Dios no rechazará un corazón quebrantado y triste.",
+      "strong": [
+        "H0582",
+        "H2077",
+        "H6310",
+        "H0430",
+        "H2654",
+        "H6310",
+        "H0582",
+        "H6310",
+        "H4480",
+        "H1931",
+        "H6442",
+        "H1931",
+        "H5164",
+        "H0430",
+        "H3808",
+        "H0259",
+        "H3820",
+        "H7665",
+        "H1571",
+        "H5620"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Sé bueno con Sión. Ayuda a la ciudad. Reconstruye los muros de Jerusalén.",
+      "strong": [
+        "H3808",
+        "H2896",
+        "H3588",
+        "H6726",
+        "H5828",
+        "H3588",
+        "H3588",
+        "H5892",
+        "H3588",
+        "H2346",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Te alegrarás con los sacrificios que te damos con el espíritu correcto; te alegrarás por todos los tipos de sacrificios, y los becerros serán sacrificados en tu altar una vez más.",
+      "strong": [
+        "H0859",
+        "H5973",
+        "H0582",
+        "H2077",
+        "H3808",
+        "H0859",
+        "H5973",
+        "H1931",
+        "H7307",
+        "H0859",
+        "H5921",
+        "H3605",
+        "H0582",
+        "H4480",
+        "H2077",
+        "H1571",
+        "H0582",
+        "H6499",
+        "H1961",
+        "H5921",
+        "H0859",
+        "H4196",
+        "H0259",
+        "H6471",
+        "H3808"
+      ]
+    }
+  ]
+}

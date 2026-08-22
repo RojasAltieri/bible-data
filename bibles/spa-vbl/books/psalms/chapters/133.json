@@ -1,1 +1,77 @@
-{"version":"spa-vbl","book":"psalms","chapter":133,"data":[{"verse":"1","text":"¡Cuán bueno y delicioso es que las personas vivan juntas en armonía!"},{"verse":"2","text":"Es tan precioso como el aceite utilizado para ungir a Aarón, deslizándose desde su cabeza hasta su barba, y sobre sus vestiduras."},{"verse":"3","text":"Es como el rocío de Hermón que cae sobre las montañas de Sión. Es ahí donde Dios da su bendición y la vida eterna."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 133,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Cuán bueno y delicioso es que las personas vivan juntas en armonía!",
+      "strong": [
+        "H4100",
+        "H2896",
+        "H1571",
+        "H5273",
+        "H1961",
+        "H4100",
+        "H1992",
+        "H5315",
+        "H3162",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Es tan precioso como el aceite utilizado para ungir a Aarón, deslizándose desde su cabeza hasta su barba, y sobre sus vestiduras.",
+      "strong": [
+        "H1961",
+        "H3966",
+        "H3368",
+        "H5921",
+        "H5921",
+        "H8081",
+        "H5921",
+        "H5921",
+        "H0175",
+        "H5921",
+        "H1931",
+        "H7218",
+        "H5921",
+        "H1931",
+        "H2206",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H0899"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Es como el rocío de Hermón que cae sobre las montañas de Sión. Es ahí donde Dios da su bendición y la vida eterna.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5921",
+        "H2919",
+        "H5921",
+        "H2768",
+        "H3588",
+        "H5307",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6726",
+        "H3588",
+        "H8033",
+        "H8033",
+        "H3068",
+        "H5414",
+        "H3588",
+        "H1293",
+        "H3588",
+        "H5921",
+        "H2416",
+        "H5769"
+      ]
+    }
+  ]
+}

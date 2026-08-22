@@ -1,1 +1,133 @@
-{"version":"spa-vbl","book":"psalms","chapter":125,"data":[{"verse":"1","text":"Los que confían en el Señor son como el monte Sión, porque es inquebrantable y dura para siempre."},{"verse":"2","text":"Del mismo modo en que las montañas rodean a Jerusalén, el Señor rodea a su pueblo, ahora y siempre."},{"verse":"3","text":"Los impíos no gobernarán para siempre125:3 Literalmente, “el cetro de la maldad”. sobre la tierra de los fieles, porque de otra forma, los fieles terminarían haciendo el mal."},{"verse":"4","text":"Señor, sé bueno con aquellos que hacen el bien, aquellos que, de forma sincera, hacen lo correcto."},{"verse":"5","text":"Mas, en cuanto a los que se desvían para seguir sus propios caminos, Dios los llevará lejos donde están los otros que hacen el mal.125:5 Parece que aquí hay dos grupos: los israelitas infieles y los extranjeros paganos que hacen el mal. ¡Que haya paz en Israel!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 125,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los que confían en el Señor son como el monte Sión, porque es inquebrantable y dura para siempre.",
+      "strong": [
+        "H3427",
+        "H3808",
+        "H5564",
+        "H5921",
+        "H3427",
+        "H3068",
+        "H3808",
+        "H0349",
+        "H3427",
+        "H2022",
+        "H6726",
+        "H3808",
+        "H1961",
+        "H1571",
+        "H7186",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Del mismo modo en que las montañas rodean a Jerusalén, el Señor rodea a su pueblo, ahora y siempre.",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H5352",
+        "H5704",
+        "H6258",
+        "H1992",
+        "H5439",
+        "H5704",
+        "H1931",
+        "H3068",
+        "H5704",
+        "H1931",
+        "H5971",
+        "H6258",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Los impíos no gobernarán para siempre sobre la tierra de los fieles, porque de otra forma, los fieles terminarían haciendo el mal.",
+      "strong": [
+        "H5921",
+        "H7563",
+        "H3808",
+        "H4616",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H5921",
+        "H0539",
+        "H3588",
+        "H5921",
+        "H5750",
+        "H8389",
+        "H5921",
+        "H0539",
+        "H6213",
+        "H5921",
+        "H7562"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Señor, sé bueno con aquellos que hacen el bien, aquellos que, de forma sincera, hacen lo correcto.",
+      "strong": [
+        "H3068",
+        "H3045",
+        "H2896",
+        "H5973",
+        "H0479",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H0479",
+        "H0834",
+        "H4480",
+        "H8389",
+        "H6213",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Mas, en cuanto a los que se desvían para seguir sus propios caminos, Dios los llevará lejos donde están los otros que hacen el mal. ¡Que haya paz en Israel!",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0935",
+        "H1931",
+        "H1870",
+        "H3068",
+        "H5921",
+        "H3212",
+        "H7350",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H0312",
+        "H5921",
+        "H6466",
+        "H5921",
+        "H6466",
+        "H5921",
+        "H1961",
+        "H7965",
+        "H5921",
+        "H3478"
+      ]
+    }
+  ]
+}

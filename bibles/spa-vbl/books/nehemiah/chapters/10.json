@@ -1,1 +1,739 @@
-{"version":"spa-vbl","book":"nehemiah","chapter":10,"data":[{"verse":"1","text":"El documento fue sellado por: Nehemías el gobernador, hijo de Hacalías."},{"verse":"2","text":"Seraías, Azarías, Jeremías,"},{"verse":"3","text":"Pasur, Amarías, Malquías,"},{"verse":"4","text":"Hatús, Sebanías, Maluc,"},{"verse":"5","text":"Harim, Meremot, Obadías,"},{"verse":"6","text":"Daniel, Ginetón, Baruc,"},{"verse":"7","text":"Mesulam, Abías, Mijamín,"},{"verse":"8","text":"Maazías, Bilgai y Semaías; estos eran sacerdotes."},{"verse":"9","text":"Los levitas: Jesúa hijo de Azanías, Binúi, de los hijos de Henadad, Cadmiel,"},{"verse":"10","text":"y sus hermanos Sebanías, Hodías, Kelita, Pelaías, Hanán,"},{"verse":"11","text":"Micaía, Rehob, Hasabías,"},{"verse":"12","text":"Zacur, Serebías, Sebanías,"},{"verse":"13","text":"Hodías, Bani y Beninu."},{"verse":"14","text":"Los líderes del pueblo: Paros, Pahat-moab, Elam, Zatu, Bani,"},{"verse":"15","text":"Buni, Azgad, Bebai,"},{"verse":"16","text":"Adonías, Bigvai, Adin,"},{"verse":"17","text":"Ater, Ezequías, Azur,"},{"verse":"18","text":"Hodías, Hasum, Bezai,"},{"verse":"19","text":"Harif, Anatot, Nebai,"},{"verse":"20","text":"Magpías, Mesulam, Hezir,"},{"verse":"21","text":"Mesezabeel, Sadoc, Jadúa,"},{"verse":"22","text":"Pelatías, Hanán, Anaías,"},{"verse":"23","text":"Oseas, Ananías, Hasub,"},{"verse":"24","text":"Halohes, Pilha, Sobec,"},{"verse":"25","text":"Rehum, Hasabna, Maasías,"},{"verse":"26","text":"Ahías, Hanán, Anán,"},{"verse":"27","text":"Maluc, Harim y Baana."},{"verse":"28","text":"El resto del pueblo, incluidos los sacerdotes, los levitas, los porteros, los cantores y los servidores del Templo, y todos los que se habían separado del pueblo de la tierra10:28.“El pueblo de la tierra”: refiriéndose principalmente a los pueblos cananeos que anteriormente habían gobernado la tierra. para guardar la Ley de Dios, así como sus esposas y todos sus hijos e hijas que tuvieran edad suficiente para entender,"},{"verse":"29","text":"se unieron a los líderes para jurar seguir la Ley de Dios dada a través de Moisés, el siervo de Dios, para prestar atención y llevar a cabo todos los mandatos del Señor, nuestro Dios, sus normas y reglamentos."},{"verse":"30","text":"“Prometemos no permitir que nuestras hijas se casen con el pueblo de la tierra, y no permitir que nuestros hijos se casen con sus hijas."},{"verse":"31","text":"Cuando los pueblos de la tierra traigan mercancías y toda clase de alimentos para venderlos en el santo día de reposo, no les compraremos nada en el día de reposo ni en los demás días sagrados. Cada siete años dejaremos que la tierradescanse,10:31.Literalmente, “dejar el séptimo año”, siguiendo el reglamento del “año sabático” que cada siete años los campos utilizados para producir cosechas debían dejarse en “descanso”. Éxodo 23:10-11. y anularemos todas las deudas."},{"verse":"32","text":"“Aceptamos la obligación de pagar un tercio de siclo para el funcionamiento del Templo de Dios,"},{"verse":"33","text":"para el pan de la proposición, para las ofrendas regulares de grano y los holocaustos, para las ofrendas del sábado, para la luna nueva y las fiestas anuales, para las ofrendas sagradas, para las ofrendas por el pecado para hacer expiación por Israel, en fin, todo lo que tiene lugar en el Templo de nuestro Dios."},{"verse":"34","text":"“Hemos repartido por sorteo entre los sacerdotes, los levitas y el pueblo, para determinar quiénes traerán leña al Templo de nuestro Dios para quemarla en el altar del Señor, nuestro Dios, en determinados momentos del año, como lo exige la Ley."},{"verse":"35","text":"“También prometemos traer cada año al Templo del Señor la primera parte de los productos de nuestros campos y de todos los árboles frutales."},{"verse":"36","text":"Llevaremos los primogénitos de nuestros hijos y de nuestro ganado y de nuestras manadas y rebaños al Templo de nuestro Dios, a los sacerdotes que allí ejercen su ministerio, como lo exige la Ley."},{"verse":"37","text":"Llevaremos a los almacenes del Templo de nuestro Dios, para los sacerdotes, la primera parte de nuestra harina molida, de nuestras ofrendas de grano, del fruto de todos nuestros árboles, y de nuestro vino nuevo y aceite de oliva. También llevaremos el diezmo de nuestros productos a los levitas, porque los levitas son los que recogen los diezmos en todas las ciudades agrícolas."},{"verse":"38","text":"“Un sacerdote descendiente de Aarón acompañará a los levitas cuando recojan el diezmo, y los levitas deberán llevar un diezmo de estos diezmos a las salas del almacén del Templo de nuestro Dios."},{"verse":"39","text":"“El pueblo de Israel y los levitas llevarán las ofrendas de grano, vino nuevo y aceite de oliva a los almacenes donde se guardan los objetos del santuario, donde están los sacerdotes ministrantes, los porteros y los cantores. No olvidaremos el Templo de nuestro Dios”."}]}
+{
+  "version": "spa-vbl",
+  "book": "nehemiah",
+  "chapter": 10,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El documento fue sellado por: Nehemías el gobernador, hijo de Hacalías.",
+      "strong": [
+        "H5921",
+        "H1961",
+        "H2856",
+        "H5921",
+        "H5166",
+        "H5921",
+        "H8269",
+        "H1121",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Seraías, Azarías, Jeremías,",
+      "strong": [
+        "H8304",
+        "H5838",
+        "H3414"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Pasur, Amarías, Malquías,",
+      "strong": [
+        "H0568"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Hatús, Sebanías, Maluc,",
+      "strong": [
+        "H7645"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Harim, Meremot, Obadías,",
+      "strong": [
+        "H2766",
+        "H5662"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Daniel, Ginetón, Baruc,",
+      "strong": [
+        "H1840"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Mesulam, Abías, Mijamín,",
+      "strong": [
+        "H0029"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Maazías, Bilgai y Semaías; estos eran sacerdotes.",
+      "strong": [
+        "H4590",
+        "H1084",
+        "H1571",
+        "H8098",
+        "H0428",
+        "H1961",
+        "H3548"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los levitas: Jesúa hijo de Azanías, Binúi, de los hijos de Henadad, Cadmiel,",
+      "strong": [
+        "H0582",
+        "H3881",
+        "H3442",
+        "H1121",
+        "H4480",
+        "H4480",
+        "H0582",
+        "H1121",
+        "H4480",
+        "H6934"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "y sus hermanos Sebanías, Hodías, Kelita, Pelaías, Hanán,",
+      "strong": [
+        "H1571",
+        "H1931",
+        "H0251",
+        "H7645",
+        "H6411",
+        "H2605"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Micaía, Rehob, Hasabías,",
+      "strong": [
+        "H7340",
+        "H2811"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Zacur, Serebías, Sebanías,",
+      "strong": [
+        "H8274",
+        "H7645"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Hodías, Bani y Beninu.",
+      "strong": [
+        "H1137",
+        "H1571",
+        "H1148"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Los líderes del pueblo: Paros, Pahat-moab, Elam, Zatu, Bani,",
+      "strong": [
+        "H0582",
+        "H4480",
+        "H5971",
+        "H5867",
+        "H1137"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Buni, Azgad, Bebai,",
+      "strong": [
+        "H1138",
+        "H5803",
+        "H0893"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Adonías, Bigvai, Adin,",
+      "strong": [
+        "H0138",
+        "H0902",
+        "H5720"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Ater, Ezequías, Azur,",
+      "strong": [
+        "H0333",
+        "H5809"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Hodías, Hasum, Bezai,",
+      "strong": [
+        "H2828"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Harif, Anatot, Nebai,",
+      "strong": [
+        "H5109"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Magpías, Mesulam, Hezir,",
+      "strong": [
+        "H4047",
+        "H2387"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Mesezabeel, Sadoc, Jadúa,",
+      "strong": [
+        "H4898",
+        "H6659",
+        "H3037"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Pelatías, Hanán, Anaías,",
+      "strong": [
+        "H6410",
+        "H2605",
+        "H6043"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Oseas, Ananías, Hasub,",
+      "strong": [
+        "H1954",
+        "H2608"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Halohes, Pilha, Sobec,",
+      "strong": [
+        "H6401",
+        "H7733"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Rehum, Hasabna, Maasías,",
+      "strong": [
+        "H7348",
+        "H2812",
+        "H4641"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Ahías, Hanán, Anán,",
+      "strong": [
+        "H0281",
+        "H2605",
+        "H2605"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Maluc, Harim y Baana.",
+      "strong": [
+        "H2766",
+        "H1571",
+        "H1196"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "El resto del pueblo, incluidos los sacerdotes, los levitas, los porteros, los cantores y los servidores del Templo, y todos los que se habían separado del pueblo de la tierra para guardar la Ley de Dios, así como sus esposas y todos sus hijos e hijas que tuvieran edad suficiente para entender,",
+      "strong": [
+        "H1931",
+        "H3499",
+        "H4480",
+        "H5971",
+        "H0582",
+        "H3548",
+        "H0582",
+        "H3881",
+        "H0582",
+        "H7778",
+        "H0582",
+        "H7891",
+        "H1571",
+        "H0582",
+        "H4480",
+        "H1964",
+        "H1571",
+        "H3605",
+        "H0582",
+        "H0834",
+        "H3045",
+        "H0834",
+        "H4480",
+        "H5971",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H5704",
+        "H3322",
+        "H1931",
+        "H8451",
+        "H4480",
+        "H0430",
+        "H3541",
+        "H0349",
+        "H1931",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H1121",
+        "H0834",
+        "H1323",
+        "H0834",
+        "H6967",
+        "H8505",
+        "H5704",
+        "H7919"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "se unieron a los líderes para jurar seguir la Ley de Dios dada a través de Moisés, el siervo de Dios, para prestar atención y llevar a cabo todos los mandatos del Señor, nuestro Dios, sus normas y reglamentos.",
+      "strong": [
+        "H3045",
+        "H0413",
+        "H1121",
+        "H5971",
+        "H0935",
+        "H3605",
+        "H8451",
+        "H1121",
+        "H0430",
+        "H5414",
+        "H0413",
+        "H1121",
+        "H4872",
+        "H3605",
+        "H5650",
+        "H1121",
+        "H0430",
+        "H5971",
+        "H5647",
+        "H1571",
+        "H0935",
+        "H0413",
+        "H7097",
+        "H3605",
+        "H1121",
+        "H4480",
+        "H0113",
+        "H0587",
+        "H0430",
+        "H1931",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "“Prometemos no permitir que nuestras hijas se casen con el pueblo de la tierra, y no permitir que nuestros hijos se casen con sus hijas.",
+      "strong": [
+        "H6213",
+        "H5921",
+        "H0587",
+        "H1323",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5971",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H0587",
+        "H1121",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H1323"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Cuando los pueblos de la tierra traigan mercancías y toda clase de alimentos para venderlos en el santo día de reposo, no les compraremos nada en el día de reposo ni en los demás días sagrados. Cada siete años dejaremos que la tierradescanse, y anularemos todas las deudas.",
+      "strong": [
+        "H3588",
+        "H1121",
+        "H5971",
+        "H1121",
+        "H1931",
+        "H0776",
+        "H3947",
+        "H1571",
+        "H3605",
+        "H1121",
+        "H0400",
+        "H5414",
+        "H5921",
+        "H1121",
+        "H6918",
+        "H1121",
+        "H1121",
+        "H7673",
+        "H3808",
+        "H0413",
+        "H3808",
+        "H5921",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H7673",
+        "H3808",
+        "H5921",
+        "H1121",
+        "H1571",
+        "H3117",
+        "H1961",
+        "H3605",
+        "H7651",
+        "H8141",
+        "H7604",
+        "H3808",
+        "H1931",
+        "H1571",
+        "H3605",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "“Aceptamos la obligación de pagar un tercio de siclo para el funcionamiento del Templo de Dios,",
+      "strong": [
+        "H3605",
+        "H0631",
+        "H5971",
+        "H7999",
+        "H0259",
+        "H5971",
+        "H8255",
+        "H5971",
+        "H3605",
+        "H4480",
+        "H1964",
+        "H5971",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "para el pan de la proposición, para las ofrendas regulares de grano y los holocaustos, para las ofrendas del sábado, para la luna nueva y las fiestas anuales, para las ofrendas sagradas, para las ofrendas por el pecado para hacer expiación por Israel, en fin, todo lo que tiene lugar en el Templo de nuestro Dios.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H3899",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4979",
+        "H5921",
+        "H1715",
+        "H5921",
+        "H5921",
+        "H5930",
+        "H5921",
+        "H5921",
+        "H4979",
+        "H5921",
+        "H7676",
+        "H5921",
+        "H5921",
+        "H3394",
+        "H2319",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4979",
+        "H6944",
+        "H5921",
+        "H5921",
+        "H4979",
+        "H5921",
+        "H5921",
+        "H2403",
+        "H5921",
+        "H6213",
+        "H3722",
+        "H5921",
+        "H3478",
+        "H5921",
+        "H7093",
+        "H3605",
+        "H5921",
+        "H5921",
+        "H3426",
+        "H4725",
+        "H5921",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H0587",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "“Hemos repartido por sorteo entre los sacerdotes, los levitas y el pueblo, para determinar quiénes traerán leña al Templo de nuestro Dios para quemarla en el altar del Señor, nuestro Dios, en determinados momentos del año, como lo exige la Ley.",
+      "strong": [
+        "H0935",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3548",
+        "H5921",
+        "H3881",
+        "H5921",
+        "H5921",
+        "H5971",
+        "H5921",
+        "H4310",
+        "H0935",
+        "H6086",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H0587",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4196",
+        "H5921",
+        "H0113",
+        "H0587",
+        "H0430",
+        "H5921",
+        "H2163",
+        "H5921",
+        "H8141",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8451"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "“También prometemos traer cada año al Templo del Señor la primera parte de los productos de nuestros campos y de todos los árboles frutales.",
+      "strong": [
+        "H1571",
+        "H5375",
+        "H8141",
+        "H8141",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H7223",
+        "H2677",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0587",
+        "H7704",
+        "H5921",
+        "H5921",
+        "H8141",
+        "H5921",
+        "H6086"
+      ]
+    },
+    {
+      "verse": "36",
+      "text": "Llevaremos los primogénitos de nuestros hijos y de nuestro ganado y de nuestras manadas y rebaños al Templo de nuestro Dios, a los sacerdotes que allí ejercen su ministerio, como lo exige la Ley.",
+      "strong": [
+        "H0935",
+        "H3605",
+        "H1060",
+        "H4480",
+        "H0587",
+        "H1121",
+        "H1571",
+        "H4480",
+        "H0587",
+        "H4735",
+        "H1571",
+        "H4480",
+        "H0587",
+        "H1571",
+        "H5739",
+        "H0413",
+        "H1004",
+        "H4480",
+        "H0587",
+        "H3068",
+        "H3068",
+        "H3605",
+        "H3548",
+        "H3605",
+        "H8033",
+        "H1931",
+        "H5656",
+        "H0349",
+        "H3605",
+        "H3605",
+        "H8451"
+      ]
+    },
+    {
+      "verse": "37",
+      "text": "Llevaremos a los almacenes del Templo de nuestro Dios, para los sacerdotes, la primera parte de nuestra harina molida, de nuestras ofrendas de grano, del fruto de todos nuestros árboles, y de nuestro vino nuevo y aceite de oliva. También llevaremos el diezmo de nuestros productos a los levitas, porque los levitas son los que recogen los diezmos en todas las ciudades agrícolas.",
+      "strong": [
+        "H0935",
+        "H0413",
+        "H1121",
+        "H3627",
+        "H4480",
+        "H1004",
+        "H1121",
+        "H0587",
+        "H0430",
+        "H5704",
+        "H1121",
+        "H3548",
+        "H1931",
+        "H7223",
+        "H2677",
+        "H1121",
+        "H0587",
+        "H1217",
+        "H1121",
+        "H0587",
+        "H4979",
+        "H1121",
+        "H1715",
+        "H4480",
+        "H6529",
+        "H1121",
+        "H3605",
+        "H0587",
+        "H6086",
+        "H1241",
+        "H1121",
+        "H0587",
+        "H0935",
+        "H2319",
+        "H1241",
+        "H8081",
+        "H1121",
+        "H1571",
+        "H0935",
+        "H1121",
+        "H1121",
+        "H0587",
+        "H0413",
+        "H1121",
+        "H3881",
+        "H3588",
+        "H1121",
+        "H3881",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H3950",
+        "H1121",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H5892"
+      ]
+    },
+    {
+      "verse": "38",
+      "text": "“Un sacerdote descendiente de Aarón acompañará a los levitas cuando recojan el diezmo, y los levitas deberán llevar un diezmo de estos diezmos a las salas del almacén del Templo de nuestro Dios.",
+      "strong": [
+        "H0259",
+        "H3548",
+        "H4480",
+        "H0175",
+        "H0413",
+        "H1992",
+        "H3881",
+        "H3588",
+        "H3605",
+        "H1571",
+        "H1992",
+        "H3881",
+        "H0935",
+        "H0259",
+        "H4480",
+        "H1992",
+        "H0413",
+        "H1992",
+        "H5944",
+        "H4480",
+        "H4480",
+        "H1004",
+        "H4480",
+        "H0587",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "39",
+      "text": "“El pueblo de Israel y los levitas llevarán las ofrendas de grano, vino nuevo y aceite de oliva a los almacenes donde se guardan los objetos del santuario, donde están los sacerdotes ministrantes, los porteros y los cantores. No olvidaremos el Templo de nuestro Dios”.",
+      "strong": [
+        "H5973",
+        "H5973",
+        "H5973",
+        "H3478",
+        "H1571",
+        "H1121",
+        "H3881",
+        "H5375",
+        "H1992",
+        "H4979",
+        "H5973",
+        "H1715",
+        "H1961",
+        "H2319",
+        "H1571",
+        "H8081",
+        "H5973",
+        "H5973",
+        "H1121",
+        "H3627",
+        "H0834",
+        "H1961",
+        "H8104",
+        "H1121",
+        "H5973",
+        "H4720",
+        "H0834",
+        "H1961",
+        "H1121",
+        "H3548",
+        "H1121",
+        "H7778",
+        "H1571",
+        "H1121",
+        "H7891",
+        "H1961",
+        "H5973",
+        "H1004",
+        "H5973",
+        "H0587",
+        "H0430"
+      ]
+    }
+  ]
+}

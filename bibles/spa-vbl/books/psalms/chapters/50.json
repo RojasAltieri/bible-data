@@ -1,1 +1,465 @@
-{"version":"spa-vbl","book":"psalms","chapter":50,"data":[{"verse":"1","text":"¡El Señor, el Dios todopoderoso, habla! Él convoca a todos en la tierra, desde el este hasta el oeste."},{"verse":"2","text":"Dios brilla desde el monte de Sión, perfecto en belleza."},{"verse":"3","text":"Nuestro Dios llegará, y no se quedará quieto. Llamas de fuego vienen detrás de él, quemando todo a su alrededor; una feroz tormenta se mueve alrededor de él."},{"verse":"4","text":"Invoca a los cielos sobre la tierra para que presencien el juicio de su pueblo."},{"verse":"5","text":"“Tráiganme a los que confían en mí, aquellos que cumplieron mi pacto50:5 Literalmente, “pacto”, también en el versículo 16. conmigo como sacrificio”."},{"verse":"6","text":"Los cielos declaran que sus decisiones están bien, porque Dios mismo es el juez. Selah."},{"verse":"7","text":"“Mi pueblo, escuchen lo que tengo para decir. Traigo cargos en su contra, Israel. ¡Yo soy Dios, su Dios!"},{"verse":"8","text":"No estoy hablando de sacrificios ni de ofrendas quemadas que me ofrecen todo el tiempo."},{"verse":"9","text":"No necesito toros de sus graneros ni cabras de sus corrales,"},{"verse":"10","text":"porque míos son todos los animales del bosque, y el ganado de miles de cerros me pertenece."},{"verse":"11","text":"Conozco a cada pájaro de la montaña; todas las cosas vivientes en los campos son mías."},{"verse":"12","text":"Si estuviera hambriento, no te lo diría, porque la tierra y todo lo que hay en ella es mío."},{"verse":"13","text":"¿Me como yo la carne de los toros y bebo la sangre de las cabras?"},{"verse":"14","text":"Den ofrendas de agradecimiento a Dios; mantengan las promesas que le hicieron al Altísimo,"},{"verse":"15","text":"y llámenme cuando estén en problemas. Los rescataré, y me agradecerán”."},{"verse":"16","text":"Pero a los malvados Dios les dice, “¿Cuál es el objetivo de repetir mi ley y hacer promesas vacías sobre obedecer mi pacto?"},{"verse":"17","text":"Odias mi disciplina,50:17 O “enseñanza”. y desechas mis palabras."},{"verse":"18","text":"Cuando ves a la gente robando los admiras y te asocias con adúlteros."},{"verse":"19","text":"Con tu boca dices cosas malas; usas tu lengua para esparcir mentiras."},{"verse":"20","text":"Te sientas y comienzas a hablar en contra de tu hermano, calumniando al hijo de tu propia madre."},{"verse":"21","text":"Yo me quedo callado cuando haces esas cosas. Tú pensaste que yo era alguien como tú. Pero ahora te confronto, y traigo mis cargos en contra tuya."},{"verse":"22","text":"Piensen otra vez, ustedes que menosprecian a Dios, o los haré trizas, y nadie podrá salvarlos."},{"verse":"23","text":"Pero aquellos que dan ofrendas de agradecimiento me honran, y a aquellos que siguen el bien les mostraré mi salvación”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 50,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡El Señor, el Dios todopoderoso, habla! Él convoca a todos en la tierra, desde el este hasta el oeste.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1931",
+        "H3068",
+        "H7706",
+        "H1696",
+        "H1931",
+        "H5704",
+        "H3605",
+        "H5704",
+        "H1931",
+        "H0776",
+        "H5704",
+        "H1931",
+        "H4217",
+        "H5704",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Dios brilla desde el monte de Sión, perfecto en belleza.",
+      "strong": [
+        "H0430",
+        "H4480",
+        "H1931",
+        "H2022",
+        "H4480",
+        "H6726",
+        "H8003",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Nuestro Dios llegará, y no se quedará quieto. Llamas de fuego vienen detrás de él, quemando todo a su alrededor; una feroz tormenta se mueve alrededor de él.",
+      "strong": [
+        "H0587",
+        "H0430",
+        "H0935",
+        "H1571",
+        "H6440",
+        "H3045",
+        "H3498",
+        "H7599",
+        "H3852",
+        "H6440",
+        "H0784",
+        "H0935",
+        "H0310",
+        "H6440",
+        "H1931",
+        "H5439",
+        "H6440",
+        "H1931",
+        "H5439",
+        "H0259",
+        "H3045",
+        "H2654",
+        "H5439",
+        "H6440",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Invoca a los cielos sobre la tierra para que presencien el juicio de su pueblo.",
+      "strong": [
+        "H0413",
+        "H0582",
+        "H8064",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H5971",
+        "H5971",
+        "H1931",
+        "H4941",
+        "H5971",
+        "H1931",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "“Tráiganme a los que confían en mí, aquellos que cumplieron mi pacto conmigo como sacrificio”.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5564",
+        "H5921",
+        "H5921",
+        "H0479",
+        "H5921",
+        "H5921",
+        "H1285",
+        "H0854",
+        "H5921",
+        "H2077"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los cielos declaran que sus decisiones están bien, porque Dios mismo es el juez. Selah.",
+      "strong": [
+        "H1931",
+        "H8064",
+        "H3588",
+        "H1931",
+        "H1961",
+        "H3588",
+        "H3588",
+        "H0430",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H8199",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Mi pueblo, escuchen lo que tengo para decir. Traigo cargos en su contra, Israel. ¡Yo soy Dios, su Dios!",
+      "strong": [
+        "H0589",
+        "H5971",
+        "H8085",
+        "H1931",
+        "H5971",
+        "H1696",
+        "H5971",
+        "H8085",
+        "H0935",
+        "H5921",
+        "H1931",
+        "H3478",
+        "H3478",
+        "H0589",
+        "H0595",
+        "H0430",
+        "H1931",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "No estoy hablando de sacrificios ni de ofrendas quemadas que me ofrecen todo el tiempo.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H1696",
+        "H5921",
+        "H2077",
+        "H3808",
+        "H5921",
+        "H4979",
+        "H3341",
+        "H3808",
+        "H5921",
+        "H7126",
+        "H3605",
+        "H5921",
+        "H6256"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "No necesito toros de sus graneros ni cabras de sus corrales,",
+      "strong": [
+        "H3808",
+        "H6499",
+        "H4480",
+        "H1931",
+        "H4200",
+        "H3808",
+        "H5795",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "porque míos son todos los animales del bosque, y el ganado de miles de cerros me pertenece.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H3588",
+        "H3605",
+        "H3605",
+        "H2416",
+        "H4480",
+        "H3293",
+        "H3588",
+        "H3588",
+        "H4735",
+        "H3588",
+        "H0505",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Conozco a cada pájaro de la montaña; todas las cosas vivientes en los campos son mías.",
+      "strong": [
+        "H3045",
+        "H0413",
+        "H3605",
+        "H6833",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H1992",
+        "H3045",
+        "H2416",
+        "H5921",
+        "H3605",
+        "H7704",
+        "H1961",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Si estuviera hambriento, no te lo diría, porque la tierra y todo lo que hay en ella es mío.",
+      "strong": [
+        "H3588",
+        "H3426",
+        "H8264",
+        "H3808",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3605",
+        "H3808",
+        "H3588",
+        "H3426",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¿Me como yo la carne de los toros y bebo la sangre de las cabras?",
+      "strong": [
+        "H0413",
+        "H0349",
+        "H0589",
+        "H1931",
+        "H1320",
+        "H1818",
+        "H0582",
+        "H6499",
+        "H1571",
+        "H1931",
+        "H1818",
+        "H1818",
+        "H1992",
+        "H5795"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Den ofrendas de agradecimiento a Dios; mantengan las promesas que le hicieron al Altísimo,",
+      "strong": [
+        "H7760",
+        "H4979",
+        "H4480",
+        "H0413",
+        "H0430",
+        "H1992",
+        "H0834",
+        "H0413",
+        "H6213",
+        "H0413",
+        "H5945"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "y llámenme cuando estén en problemas. Los rescataré, y me agradecerán”.",
+      "strong": [
+        "H1571",
+        "H3117",
+        "H1961",
+        "H5921",
+        "H0582",
+        "H1571",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Pero a los malvados Dios les dice, “¿Cuál es el objetivo de repetir mi ley y hacer promesas vacías sobre obedecer mi pacto?",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5002",
+        "H4100",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H2706",
+        "H5921",
+        "H6213",
+        "H7387",
+        "H5921",
+        "H8085",
+        "H5921",
+        "H1285"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Odias mi disciplina, y desechas mis palabras.",
+      "strong": [
+        "H1941",
+        "H0589",
+        "H1571",
+        "H2186",
+        "H0589",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Cuando ves a la gente robando los admiras y te asocias con adúlteros.",
+      "strong": [
+        "H3588",
+        "H7200",
+        "H5973",
+        "H1931",
+        "H1471",
+        "H5973",
+        "H1571",
+        "H5973",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Con tu boca dices cosas malas; usas tu lengua para esparcir mentiras.",
+      "strong": [
+        "H5973",
+        "H0859",
+        "H6310",
+        "H0559",
+        "H7451",
+        "H7451",
+        "H0859",
+        "H3956",
+        "H5704",
+        "H3576"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Te sientas y comienzas a hablar en contra de tu hermano, calumniando al hijo de tu propia madre.",
+      "strong": [
+        "H0859",
+        "H1571",
+        "H0413",
+        "H1696",
+        "H5921",
+        "H5921",
+        "H1121",
+        "H0859",
+        "H0251",
+        "H0413",
+        "H1121",
+        "H1121",
+        "H0859",
+        "H0517"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Yo me quedo callado cuando haces esas cosas. Tú pensaste que yo era alguien como tú. Pero ahora te confronto, y traigo mis cargos en contra tuya.",
+      "strong": [
+        "H6213",
+        "H0413",
+        "H1961",
+        "H1961",
+        "H6213",
+        "H1697",
+        "H6213",
+        "H1961",
+        "H6213",
+        "H1961",
+        "H0376",
+        "H3644",
+        "H6213",
+        "H3588",
+        "H6258",
+        "H5869",
+        "H1571",
+        "H0935",
+        "H0589",
+        "H5921",
+        "H1961",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Piensen otra vez, ustedes que menosprecian a Dios, o los haré trizas, y nadie podrá salvarlos.",
+      "strong": [
+        "H5750",
+        "H6471",
+        "H4994",
+        "H0413",
+        "H0430",
+        "H0176",
+        "H0582",
+        "H6213",
+        "H1571",
+        "H0376",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Pero aquellos que dan ofrendas de agradecimiento me honran, y a aquellos que siguen el bien les mostraré mi salvación”.",
+      "strong": [
+        "H3588",
+        "H0479",
+        "H0834",
+        "H1835",
+        "H4979",
+        "H4480",
+        "H0413",
+        "H1571",
+        "H7760",
+        "H0479",
+        "H0834",
+        "H1980",
+        "H1931",
+        "H7200",
+        "H0413",
+        "H7200",
+        "H0589",
+        "H6413"
+      ]
+    }
+  ]
+}

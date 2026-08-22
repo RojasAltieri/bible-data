@@ -1,1 +1,513 @@
-{"version":"spa-vbl","book":"psalms","chapter":136,"data":[{"verse":"1","text":"¡Den gracias al Señor, porque Él es bueno! Porque su gran amor perdura para siempre."},{"verse":"2","text":"¡Den gracias al Señor, el Dios de dioses! Porque su gran amor perdura para siempre."},{"verse":"3","text":"¡Den gracias al Señor de señores! Porque su gran amor perdura para siempre."},{"verse":"4","text":"¡A Él, que solo hace cosas maravillosas! Porque su gran amor perdura para siempre."},{"verse":"5","text":"A Él, que supo cómo hacer los cielos y la tierra. Porque su gran amor perdura para siempre."},{"verse":"6","text":"A Él, que expandió la tierra sobre las aguas. Porque su gran amor perdura para siempre."},{"verse":"7","text":"A Él, que hizo las lumbreras en el cielo. Porque su gran amor perdura para siempre."},{"verse":"8","text":"El sol, para iluminar en el día. Porque su gran amor perdura para siempre."},{"verse":"9","text":"La luna y las estrellas para dar luz en la noche. Porque su gran amor perdura para siempre."},{"verse":"10","text":"A Él, que hirió a los primogénitos de Egipto. Porque su gran amor perdura para siempre."},{"verse":"11","text":"Él guió a su pueblo fuera de Egipto.136:11 “Fuera de Egipto”: Literalmente, “de entre ellos”. Porque su gran amor perdura para siempre."},{"verse":"12","text":"Hizo todo este con su mano fuerte y con su brazo extendido. Porque su gran amor perdura para siempre."},{"verse":"13","text":"A Él, que dividió el Mar Rojo. Porque su gran amor perdura para siempre,"},{"verse":"14","text":"y guió a Israel a través de él. Porque su gran amor perdura para siempre."},{"verse":"15","text":"Pero arrojó a Faraón y a su ejército al Mar Rojo. Porque su gran amor perdura para siempre."},{"verse":"16","text":"A Él, que guió a su pueblo a través del desierto. Porque su gran amor perdura para siempre."},{"verse":"17","text":"A Él, quien derribó a reyes con gran poderío. Porque su gran amor perdura para siempre."},{"verse":"18","text":"A Él, que mató a reyes poderosos Porque su gran amor perdura para siempre."},{"verse":"19","text":"Sijón, rey de los Amorreos. Porque su gran amor perdura para siempre."},{"verse":"20","text":"Og, rey de Baján. Porque su gran amor perdura para siempre."},{"verse":"21","text":"Le dio a Israel136:21 Implícito. sus tierras como herencia. Porque su gran amor perdura para siempre."},{"verse":"22","text":"Se la concedió a su siervo Israel. Porque su gran amor perdura para siempre."},{"verse":"23","text":"Se acordó de nosotros, incluso aunque estábamos siendo humillados. Porque su gran amor perdura para siempre."},{"verse":"24","text":"Nos rescató de nuestros enemigos. Porque su gran amor perdura para siempre."},{"verse":"25","text":"Al único que provee alimento a todo ser viviente. Porque su gran amor perdura para siempre."},{"verse":"26","text":"¡Den gracias al Dios de los cielos! Porque su gran amor perdura para siempre."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 136,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Den gracias al Señor, porque Él es bueno! Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H7760",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2896",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Den gracias al Señor, el Dios de dioses! Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H7760",
+        "H0413",
+        "H0113",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Den gracias al Señor de señores! Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H7760",
+        "H0413",
+        "H0113",
+        "H3588",
+        "H0113",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡A Él, que solo hace cosas maravillosas! Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0910",
+        "H6213",
+        "H1697",
+        "H6381",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "A Él, que supo cómo hacer los cielos y la tierra. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H6213",
+        "H3588",
+        "H8064",
+        "H3588",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "A Él, que expandió la tierra sobre las aguas. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H5921",
+        "H4325",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H5921",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "A Él, que hizo las lumbreras en el cielo. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H6213",
+        "H1992",
+        "H3974",
+        "H3588",
+        "H3588",
+        "H8064",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "El sol, para iluminar en el día. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H8121",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3117",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "La luna y las estrellas para dar luz en la noche. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3394",
+        "H3588",
+        "H1992",
+        "H3556",
+        "H3588",
+        "H5414",
+        "H0216",
+        "H3588",
+        "H3588",
+        "H3915",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "A Él, que hirió a los primogénitos de Egipto. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5221",
+        "H3588",
+        "H3588",
+        "H1060",
+        "H3588",
+        "H4714",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Él guió a su pueblo fuera de Egipto. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3212",
+        "H3588",
+        "H3588",
+        "H5971",
+        "H3318",
+        "H3588",
+        "H4714",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Hizo todo este con su mano fuerte y con su brazo extendido. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H6213",
+        "H3605",
+        "H2088",
+        "H3588",
+        "H3588",
+        "H3027",
+        "H2389",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2220",
+        "H5186",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "A Él, que dividió el Mar Rojo. Porque su gran amor perdura para siempre,",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3220",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "y guió a Israel a través de él. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3212",
+        "H3588",
+        "H3478",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Pero arrojó a Faraón y a su ejército al Mar Rojo. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H2904",
+        "H3588",
+        "H6547",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2428",
+        "H0413",
+        "H3220",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "A Él, que guió a su pueblo a través del desierto. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3212",
+        "H3588",
+        "H3588",
+        "H5971",
+        "H3588",
+        "H4480",
+        "H4057",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "A Él, quien derribó a reyes con gran poderío. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H4310",
+        "H5422",
+        "H3588",
+        "H4428",
+        "H3588",
+        "H1419",
+        "H1935",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "A Él, que mató a reyes poderosos Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2026",
+        "H3588",
+        "H4428",
+        "H7989",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Sijón, rey de los Amorreos. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H4428",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Og, rey de Baján. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H5747",
+        "H4428",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Le dio a Israel sus tierras como herencia. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H0413",
+        "H5414",
+        "H3588",
+        "H3478",
+        "H1931",
+        "H0776",
+        "H3588",
+        "H5159",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Se la concedió a su siervo Israel. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3045",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5650",
+        "H3478",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Se acordó de nosotros, incluso aunque estábamos siendo humillados. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H3045",
+        "H3289",
+        "H3588",
+        "H0587",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Nos rescató de nuestros enemigos. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H0587",
+        "H6561",
+        "H3588",
+        "H0587",
+        "H6862",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Al único que provee alimento a todo ser viviente. Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H0413",
+        "H3173",
+        "H3588",
+        "H7200",
+        "H0400",
+        "H3588",
+        "H3605",
+        "H5315",
+        "H2416",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "¡Den gracias al Dios de los cielos! Porque su gran amor perdura para siempre.",
+      "strong": [
+        "H7760",
+        "H0413",
+        "H0430",
+        "H3588",
+        "H3588",
+        "H8064",
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    }
+  ]
+}

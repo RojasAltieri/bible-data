@@ -1,1 +1,133 @@
-{"version":"spa-vbl","book":"psalms","chapter":54,"data":[{"verse":"1","text":"¡Sálvame! ¡Oh, Dios! Por tu carácter, 54:1 Literalmente, “nombre”. por favor ¡Sálvame! ¡Reivindícame por tu poder!"},{"verse":"2","text":"Por favor, Dios, escucha mi oración; escucha lo que digo."},{"verse":"3","text":"Porque extraños están viniendo a atacarme. Hombres violentos que no creen en Dios están intentando matarme. Selah."},{"verse":"4","text":"Pero Dios me ayuda; ¡El Señor salva mi vida!"},{"verse":"5","text":"El mal que mis enemigos han hecho vendrá sobre ellos. Dependo de ti para destruirlos."},{"verse":"6","text":"Felizmente ofreceré sacrificio a ti; te alabaré, 54:6 Literalmente, “tu nombre”. Señor, porque tú eres bueno."},{"verse":"7","text":"Porque él me ha salvado de todos mis problemas; y he visto a todos los que me odiaban vencidos.54:7 “Derrotado”: implícito. Literalmente, “with my eye I have looked at those who hate me”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 54,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Sálvame! ¡Oh, Dios! Por tu carácter, por favor ¡Sálvame! ¡Reivindícame por tu poder!",
+      "strong": [
+        "H3467",
+        "H1945",
+        "H0430",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H7522",
+        "H3467",
+        "H5921",
+        "H0859",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Por favor, Dios, escucha mi oración; escucha lo que digo.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H0430",
+        "H0238",
+        "H0589",
+        "H8605",
+        "H0238",
+        "H3808",
+        "H3808",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Porque extraños están viniendo a atacarme. Hombres violentos que no creen en Dios están intentando matarme. Selah.",
+      "strong": [
+        "H3588",
+        "H2213",
+        "H1961",
+        "H0935",
+        "H0413",
+        "H0376",
+        "H0834",
+        "H3808",
+        "H5921",
+        "H0430",
+        "H1961",
+        "H2026",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero Dios me ayuda; ¡El Señor salva mi vida!",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H0413",
+        "H5828",
+        "H1931",
+        "H0113",
+        "H3467",
+        "H0589",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El mal que mis enemigos han hecho vendrá sobre ellos. Dependo de ti para destruirlos.",
+      "strong": [
+        "H5921",
+        "H7451",
+        "H3588",
+        "H0589",
+        "H0341",
+        "H4191",
+        "H5315",
+        "H0935",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7843"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Felizmente ofreceré sacrificio a ti; te alabaré, Señor, porque tú eres bueno.",
+      "strong": [
+        "H5927",
+        "H2077",
+        "H0413",
+        "H0859",
+        "H5315",
+        "H3034",
+        "H0113",
+        "H2009",
+        "H0859",
+        "H0859",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Porque él me ha salvado de todos mis problemas; y he visto a todos los que me odiaban vencidos.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H0413",
+        "H3541",
+        "H7451",
+        "H3605",
+        "H0589",
+        "H1571",
+        "H4392",
+        "H7200",
+        "H0413",
+        "H3605",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H5062"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,118 @@
-{"version":"spa-vbl","book":"job","chapter":25,"data":[{"verse":"1","text":"Entonces Bildad el Suhita habló y dijo:"},{"verse":"2","text":"“El dominio y el temor pertenecen a Dios. Él trae la paz25:2 El término utilizado aquí es para traer la paz donde hay conflicto. a sus cielos."},{"verse":"3","text":"¿Quién puede contar sus ejércitos? ¿Hay algún lugar donde no brille su luz?"},{"verse":"4","text":"¿Cómo puede un ser humano ser justo ante Dios? ¿Puede alguien nacido de mujer ser puro?"},{"verse":"5","text":"Si a los ojos de Dios ni siquiera la luna brilla, y las estrellas no son puras,"},{"verse":"6","text":"¡cuánto menos un ser humano, que en comparación es como un gusano o una lombriz!”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 25,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Bildad el Suhita habló y dijo:",
+      "strong": [
+        "H0227",
+        "H1085",
+        "H1931",
+        "H7747",
+        "H6030",
+        "H1571",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“El dominio y el temor pertenecen a Dios. Él trae la paz a sus cielos.",
+      "strong": [
+        "H5973",
+        "H1571",
+        "H5973",
+        "H6343",
+        "H5973",
+        "H0430",
+        "H5973",
+        "H0935",
+        "H1931",
+        "H7965",
+        "H5973",
+        "H1931",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Quién puede contar sus ejércitos? ¿Hay algún lugar donde no brille su luz?",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H5608",
+        "H1931",
+        "H1416",
+        "H3426",
+        "H0259",
+        "H4725",
+        "H5921",
+        "H3808",
+        "H1931",
+        "H0216"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Cómo puede un ser humano ser justo ante Dios? ¿Puede alguien nacido de mujer ser puro?",
+      "strong": [
+        "H4100",
+        "H3201",
+        "H0259",
+        "H5315",
+        "H0120",
+        "H5315",
+        "H6662",
+        "H6440",
+        "H0430",
+        "H3201",
+        "H0376",
+        "H3205",
+        "H5973",
+        "H0802",
+        "H5315",
+        "H2889"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Si a los ojos de Dios ni siquiera la luna brilla, y las estrellas no son puras,",
+      "strong": [
+        "H2005",
+        "H5704",
+        "H0582",
+        "H5869",
+        "H5704",
+        "H0430",
+        "H3808",
+        "H1931",
+        "H3394",
+        "H5704",
+        "H1992",
+        "H3556",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¡cuánto menos un ser humano, que en comparación es como un gusano o una lombriz!”",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0259",
+        "H5315",
+        "H0120",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0259",
+        "H8438",
+        "H0176",
+        "H0259"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,223 @@
-{"version":"spa-vbl","book":"psalms","chapter":76,"data":[{"verse":"1","text":"Dios tiene honra en Judá. Su nombre es grande en todo Israel."},{"verse":"2","text":"Él vive en Jerusalén y habita en Sión."},{"verse":"3","text":"Allí quebró las fechas encendidas, los escudos, la espada y las armas de guerra. Selah."},{"verse":"4","text":"Tu luz es gloriosa y eres más majestuoso que las montañas eternas.76:4 Lectura de la Septuaginta. En el hebreo dice: “montes de caza”."},{"verse":"5","text":"Nuestros enemigos más valientes han sido saqueados. Ya duermen el sueño de la muerte. Incluso los más fuertes entre ellos no pudieron levantar una mano contra nosotros."},{"verse":"6","text":"A tu voz, Dios de Jacob, tanto el caballo como el jinete caen muertos."},{"verse":"7","text":"Todos te temen. ¿Quién podría mantenerse en pie ante tu ira?"},{"verse":"8","text":"Anunciaste juicio desde el cielo. Todos en la tierra se espantaron y quedaron inmóviles"},{"verse":"9","text":"cuando te levantaste para pronunciar juicio y salvar a los oprimidos de la tierra. Selah."},{"verse":"10","text":"Incluso la ira humana contra ti te hace brillar, porque la usas como corona.76:10 El texto hebreo no está claro. La interpretación es que la hostilidad humana hacia Dios termina mostrando cómo él es por su forma de tratar con ello."},{"verse":"11","text":"Haz promesas a Dios y asegúrate de cumplirlas. Todos rinden tributo al Temible."},{"verse":"12","text":"Porque él humilla a los líderes orgullosos. Y aterroriza a los reyes de la tierra."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 76,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios tiene honra en Judá. Su nombre es grande en todo Israel.",
+      "strong": [
+        "H0430",
+        "H3426",
+        "H3513",
+        "H5921",
+        "H3063",
+        "H1931",
+        "H8034",
+        "H1961",
+        "H1419",
+        "H5921",
+        "H3605",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Él vive en Jerusalén y habita en Sión.",
+      "strong": [
+        "H1931",
+        "H2416",
+        "H5921",
+        "H1571",
+        "H3427",
+        "H5921",
+        "H6726"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Allí quebró las fechas encendidas, los escudos, la espada y las armas de guerra. Selah.",
+      "strong": [
+        "H8033",
+        "H7665",
+        "H1992",
+        "H1961",
+        "H4043",
+        "H1931",
+        "H2719",
+        "H1571",
+        "H1992",
+        "H5402",
+        "H4480",
+        "H4421",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tu luz es gloriosa y eres más majestuoso que las montañas eternas.",
+      "strong": [
+        "H0859",
+        "H0216",
+        "H1961",
+        "H1571",
+        "H0859",
+        "H5750",
+        "H0834",
+        "H1992",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Nuestros enemigos más valientes han sido saqueados. Ya duermen el sueño de la muerte. Incluso los más fuertes entre ellos no pudieron levantar una mano contra nosotros.",
+      "strong": [
+        "H0587",
+        "H0341",
+        "H5750",
+        "H1368",
+        "H4191",
+        "H1961",
+        "H0962",
+        "H3528",
+        "H3462",
+        "H1931",
+        "H2472",
+        "H4480",
+        "H1931",
+        "H4194",
+        "H0582",
+        "H5750",
+        "H4013",
+        "H0996",
+        "H1992",
+        "H3808",
+        "H3201",
+        "H6965",
+        "H0259",
+        "H3027",
+        "H5921",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "A tu voz, Dios de Jacob, tanto el caballo como el jinete caen muertos.",
+      "strong": [
+        "H0413",
+        "H0859",
+        "H6963",
+        "H0430",
+        "H4480",
+        "H3290",
+        "H3651",
+        "H3605",
+        "H5483",
+        "H0349",
+        "H3605",
+        "H7901",
+        "H2491"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Todos te temen. ¿Quién podría mantenerse en pie ante tu ira?",
+      "strong": [
+        "H3605",
+        "H0859",
+        "H3372",
+        "H4310",
+        "H5921",
+        "H3247",
+        "H6440",
+        "H0859",
+        "H2534"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Anunciaste juicio desde el cielo. Todos en la tierra se espantaron y quedaron inmóviles",
+      "strong": [
+        "H4941",
+        "H6440",
+        "H4310",
+        "H8064",
+        "H3605",
+        "H5975",
+        "H1931",
+        "H0776",
+        "H3045",
+        "H1571",
+        "H7604"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "cuando te levantaste para pronunciar juicio y salvar a los oprimidos de la tierra. Selah.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H5704",
+        "H1779",
+        "H1571",
+        "H3467",
+        "H0413",
+        "H0582",
+        "H6231",
+        "H3372",
+        "H1931",
+        "H0776",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Incluso la ira humana contra ti te hace brillar, porque la usas como corona.",
+      "strong": [
+        "H3605",
+        "H2534",
+        "H0376",
+        "H5921",
+        "H0859",
+        "H0859",
+        "H6213",
+        "H3588",
+        "H3605",
+        "H0349",
+        "H5852"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Haz promesas a Dios y asegúrate de cumplirlas. Todos rinden tributo al Temible.",
+      "strong": [
+        "H6213",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H4522",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Porque él humilla a los líderes orgullosos. Y aterroriza a los reyes de la tierra.",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H8213",
+        "H3068",
+        "H3605",
+        "H1571",
+        "H3068",
+        "H3605",
+        "H4428",
+        "H4480",
+        "H3605",
+        "H0776"
+      ]
+    }
+  ]
+}

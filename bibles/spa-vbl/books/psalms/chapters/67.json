@@ -1,1 +1,150 @@
-{"version":"spa-vbl","book":"psalms","chapter":67,"data":[{"verse":"1","text":"Que Dios sea misericordioso con nosotros y nos bendiga. Que hallemos gracia ante sus ojos. Selah."},{"verse":"2","text":"Que todos los habitantes de la tierra conozcan tus caminos y tu salvación en medio de todos los pueblos."},{"verse":"3","text":"Que todos te alaben, Dios. Sí, que todas las naciones te alaben."},{"verse":"4","text":"Que todos se alegren y canten de gozo porque tú haces juicio justo, y guías a todos los habitantes de la tierra. Selah."},{"verse":"5","text":"Que todos te alaben, Dios. Sí, que todas las naciones te alaben."},{"verse":"6","text":"La tierra ha producido su cosecha; y Dios, nuestro Dios, nos ha bendecido.67:6 O “Que la tierra produzca sus cosechas; que Dios, nuestro Dios nos bendiga”."},{"verse":"7","text":"Dios nos bendecirá, y todos los habitantes de la tierra lo respetarán.67:7 Literalmente, “temerán”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 67,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Que Dios sea misericordioso con nosotros y nos bendiga. Que hallemos gracia ante sus ojos. Selah.",
+      "strong": [
+        "H0834",
+        "H0430",
+        "H1961",
+        "H7349",
+        "H5973",
+        "H0587",
+        "H1571",
+        "H0587",
+        "H1288",
+        "H0834",
+        "H4672",
+        "H2580",
+        "H6440",
+        "H1931",
+        "H5869",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Que todos los habitantes de la tierra conozcan tus caminos y tu salvación en medio de todos los pueblos.",
+      "strong": [
+        "H0834",
+        "H3605",
+        "H0582",
+        "H3427",
+        "H6440",
+        "H1931",
+        "H0776",
+        "H3045",
+        "H0859",
+        "H1870",
+        "H1571",
+        "H0859",
+        "H6413",
+        "H5921",
+        "H8432",
+        "H6440",
+        "H3605",
+        "H0582",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Que todos te alaben, Dios. Sí, que todas las naciones te alaben.",
+      "strong": [
+        "H3045",
+        "H3605",
+        "H0859",
+        "H3034",
+        "H0430",
+        "H0518",
+        "H3045",
+        "H3605",
+        "H1992",
+        "H1471",
+        "H0859",
+        "H3034"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Que todos se alegren y canten de gozo porque tú haces juicio justo, y guías a todos los habitantes de la tierra. Selah.",
+      "strong": [
+        "H5971",
+        "H3605",
+        "H5971",
+        "H1571",
+        "H7442",
+        "H5971",
+        "H8057",
+        "H3588",
+        "H0859",
+        "H6213",
+        "H4941",
+        "H6662",
+        "H1571",
+        "H0413",
+        "H3605",
+        "H3605",
+        "H3427",
+        "H5971",
+        "H3605",
+        "H0776",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Que todos te alaben, Dios. Sí, que todas las naciones te alaben.",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3034",
+        "H0430",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H1992",
+        "H1471",
+        "H3588",
+        "H3034"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "La tierra ha producido su cosecha; y Dios, nuestro Dios, nos ha bendecido.",
+      "strong": [
+        "H3605",
+        "H0776",
+        "H3541",
+        "H1931",
+        "H1571",
+        "H0430",
+        "H0587",
+        "H0430",
+        "H0587",
+        "H3541"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Dios nos bendecirá, y todos los habitantes de la tierra lo respetarán.",
+      "strong": [
+        "H0430",
+        "H0587",
+        "H1288",
+        "H1571",
+        "H3605",
+        "H0582",
+        "H3427",
+        "H5414",
+        "H1931",
+        "H0776",
+        "H1931"
+      ]
+    }
+  ]
+}

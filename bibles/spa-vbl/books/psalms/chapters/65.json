@@ -1,1 +1,289 @@
-{"version":"spa-vbl","book":"psalms","chapter":65,"data":[{"verse":"1","text":"Dios, tú mereces ser alabado y en Sión cumpliremos las promesas que te hemos hecho.65:1 O “un voto a ti se cumplirá en Sión”."},{"verse":"2","text":"Tú escuchas nuestras oraciones y todos acuden a ti."},{"verse":"3","text":"Aunque nos estemos ahogando en nuestros pecados y desobediencia, tú nos perdonas."},{"verse":"4","text":"Felices los que tú eliges para que estén cerca de ti, los que viven en tus cortes. ¡Nos deleitamos con las bendiciones que recibimos en tu casa, tu Santo Templo!"},{"verse":"5","text":"En tu bondad nos respondes a través de las cosas maravillosas que haces, oh Dios, por nuestra salvación. Todos los habitantes de la tierra pueden confiar en ti, incluso los que navegan en océanos lejanos."},{"verse":"6","text":"Tú hiciste las montañas con tu poder, porque eres fuerte.65:6 Literalmente, “estás ceñido con poder”."},{"verse":"7","text":"Tú calmas los mares embravecidos y el fuerte oleaje. Silencias el ruido que causan las naciones."},{"verse":"8","text":"Todos, incluso los que viven lejos, se maravillan de tus maravillas, de Este a Oeste todos cantan de alegría."},{"verse":"9","text":"Tú cuidas de la tierra y la riegas con la lluvia. Haces que produzca fruto. Dios, tu río está lleno de agua para hacer crecer el grano. Así lo has hecho."},{"verse":"10","text":"Tú llenas de agua los surcos del arado y suavizas las crestas. Así también bendices las cosechas."},{"verse":"11","text":"Tú haces que en la mejor temporada del año se produzca una cosecha maravillosa, y llenas los carros con bienes. 65:11 Literalmente, “Tu coronas el año con tu botín. Tus remolques destilan abundancia”."},{"verse":"12","text":"Los pastos del desierto crecen abundantes, y las laderas se visten de flores brillantes."},{"verse":"13","text":"Los prados se cubren de rebaños de ovejas y los valles con campos de trigo. Todo canta de alegría triunfante."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 65,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios, tú mereces ser alabado y en Sión cumpliremos las promesas que te hemos hecho.",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H5315",
+        "H1571",
+        "H5921",
+        "H6726",
+        "H6213",
+        "H1992",
+        "H0834",
+        "H0859",
+        "H0935",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Tú escuchas nuestras oraciones y todos acuden a ti.",
+      "strong": [
+        "H0859",
+        "H0587",
+        "H1571",
+        "H3605",
+        "H0413",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Aunque nos estemos ahogando en nuestros pecados y desobediencia, tú nos perdonas.",
+      "strong": [
+        "H5704",
+        "H0587",
+        "H7126",
+        "H5704",
+        "H0587",
+        "H2403",
+        "H5704",
+        "H0859",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Felices los que tú eliges para que estén cerca de ti, los que viven en tus cortes. ¡Nos deleitamos con las bendiciones que recibimos en tu casa, tu Santo Templo!",
+      "strong": [
+        "H0582",
+        "H4480",
+        "H0859",
+        "H4480",
+        "H4480",
+        "H1961",
+        "H7138",
+        "H4480",
+        "H4480",
+        "H0582",
+        "H4480",
+        "H2416",
+        "H4480",
+        "H0859",
+        "H4480",
+        "H4480",
+        "H1992",
+        "H1293",
+        "H4480",
+        "H4480",
+        "H0859",
+        "H1004",
+        "H0859",
+        "H6918",
+        "H1964"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "En tu bondad nos respondes a través de las cosas maravillosas que haces, oh Dios, por nuestra salvación. Todos los habitantes de la tierra pueden confiar en ti, incluso los que navegan en océanos lejanos.",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H2898",
+        "H0587",
+        "H6030",
+        "H0413",
+        "H7646",
+        "H1992",
+        "H1697",
+        "H6381",
+        "H2691",
+        "H6213",
+        "H1945",
+        "H0430",
+        "H5921",
+        "H0587",
+        "H6413",
+        "H3605",
+        "H0582",
+        "H3427",
+        "H7646",
+        "H7646",
+        "H0776",
+        "H3201",
+        "H0982",
+        "H5921",
+        "H0859",
+        "H0582",
+        "H2691",
+        "H5921",
+        "H7350"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Tú hiciste las montañas con tu poder, porque eres fuerte.",
+      "strong": [
+        "H0859",
+        "H6213",
+        "H1992",
+        "H5973",
+        "H0859",
+        "H3027",
+        "H3588",
+        "H0859",
+        "H2389"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tú calmas los mares embravecidos y el fuerte oleaje. Silencias el ruido que causan las naciones.",
+      "strong": [
+        "H0859",
+        "H0582",
+        "H3220",
+        "H1571",
+        "H1931",
+        "H2389",
+        "H1931",
+        "H6963",
+        "H3581",
+        "H1992",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Todos, incluso los que viven lejos, se maravillan de tus maravillas, de Este a Oeste todos cantan de alegría.",
+      "strong": [
+        "H3605",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H7350",
+        "H3045",
+        "H4480",
+        "H0859",
+        "H6381",
+        "H4480",
+        "H2088",
+        "H0413",
+        "H3605",
+        "H7891",
+        "H4480",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Tú cuidas de la tierra y la riegas con la lluvia. Haces que produzca fruto. Dios, tu río está lleno de agua para hacer crecer el grano. Así lo has hecho.",
+      "strong": [
+        "H0859",
+        "H3372",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H1931",
+        "H5973",
+        "H1931",
+        "H4306",
+        "H6213",
+        "H0834",
+        "H1877",
+        "H6529",
+        "H0430",
+        "H0859",
+        "H5104",
+        "H3427",
+        "H4390",
+        "H3372",
+        "H4325",
+        "H5704",
+        "H6213",
+        "H3427",
+        "H1715",
+        "H3541",
+        "H1931",
+        "H4191",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Tú llenas de agua los surcos del arado y suavizas las crestas. Así también bendices las cosechas.",
+      "strong": [
+        "H0859",
+        "H4390",
+        "H3588",
+        "H4325",
+        "H3588",
+        "H5772",
+        "H4480",
+        "H3588",
+        "H1992",
+        "H3651",
+        "H3651",
+        "H1288",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Tú haces que en la mejor temporada del año se produzca una cosecha maravillosa, y llenas los carros con bienes.",
+      "strong": [
+        "H0859",
+        "H6213",
+        "H0834",
+        "H5921",
+        "H1931",
+        "H2896",
+        "H4480",
+        "H8141",
+        "H3045",
+        "H1877",
+        "H0259",
+        "H1571",
+        "H4392",
+        "H0582",
+        "H7393",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Los pastos del desierto crecen abundantes, y las laderas se visten de flores brillantes.",
+      "strong": [
+        "H0582",
+        "H4829",
+        "H4480",
+        "H4057",
+        "H1396",
+        "H1571",
+        "H1992",
+        "H3045",
+        "H4480",
+        "H4026"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los prados se cubren de rebaños de ovejas y los valles con campos de trigo. Todo canta de alegría triunfante.",
+      "strong": [
+        "H0582",
+        "H3045",
+        "H3680",
+        "H4480",
+        "H5739",
+        "H4480",
+        "H6629",
+        "H1571",
+        "H0582",
+        "H6010",
+        "H5973",
+        "H7704",
+        "H4480",
+        "H1715",
+        "H3605",
+        "H7442",
+        "H4480",
+        "H8057"
+      ]
+    }
+  ]
+}

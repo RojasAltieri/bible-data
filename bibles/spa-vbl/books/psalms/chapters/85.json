@@ -1,1 +1,268 @@
-{"version":"spa-vbl","book":"psalms","chapter":85,"data":[{"verse":"1","text":"Señor, le has mostrado tu bondad a la tierra; has restaurado la prosperidad de Jacob.85:1 Por el contexto parece que este salmo fue escrito después del cautiverio en Babilonia."},{"verse":"2","text":"Quitaste la culpa de tu pueblo; perdonaste todos sus pecados. Selah."},{"verse":"3","text":"Retiraste tu furia; y te alejaste de tu feroz ira."},{"verse":"4","text":"Acércanos otra vez a ti, ¡Dios de nuestra salvación! Aleja tu ira de nosotros."},{"verse":"5","text":"¿Vas a estar furioso con nosotros para siempre? ¿Permanecerás airado con todas nuestras generaciones futuras?"},{"verse":"6","text":"¿No restaurarás nuestras vidas, de tal modo que tu pueblo pueda hallar felicidad en ti?"},{"verse":"7","text":"¡Señor, muéstranos tu misericordioso amor! ¡Danos tu salvación!"},{"verse":"8","text":"Déjame escuchar la voluntad de Dios. Dios habla paz a su pueblo, a aquellos que confían en él. Pero ellos no deben volver por sus caminos necios."},{"verse":"9","text":"Verdaderamente que la salvación de Dios está con los que hacen lo que él ordena. Su presencia gloriosa vivirá con nosotros en nuestra tierra."},{"verse":"10","text":"El amor y la verdad se encontrarán; la bondad y la paz se besarán mutuamente."},{"verse":"11","text":"Lo que es verdad crecerá de la tierra; y lo que es justo se dejará ver desde los cielos."},{"verse":"12","text":"Dios nos dará ciertamente todo lo que es bueno, y nuestra tierra producirá finos cultivos."},{"verse":"13","text":"La verdad y la justicia saldrán de él para prepararle camino y que pueda pasar."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 85,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, le has mostrado tu bondad a la tierra; has restaurado la prosperidad de Jacob.",
+      "strong": [
+        "H0113",
+        "H0413",
+        "H4191",
+        "H0859",
+        "H2898",
+        "H0413",
+        "H1931",
+        "H0776",
+        "H4191",
+        "H1931",
+        "H7959",
+        "H1121",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Quitaste la culpa de tu pueblo; perdonaste todos sus pecados. Selah.",
+      "strong": [
+        "H1931",
+        "H5352",
+        "H4480",
+        "H0859",
+        "H5971",
+        "H2550",
+        "H3605",
+        "H1931",
+        "H2403",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Retiraste tu furia; y te alejaste de tu feroz ira.",
+      "strong": [
+        "H4513",
+        "H0859",
+        "H1571",
+        "H0859",
+        "H5971",
+        "H0859",
+        "H2534"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Acércanos otra vez a ti, ¡Dios de nuestra salvación! Aleja tu ira de nosotros.",
+      "strong": [
+        "H5750",
+        "H6471",
+        "H0413",
+        "H0859",
+        "H0430",
+        "H4480",
+        "H0587",
+        "H6413",
+        "H7368",
+        "H0859",
+        "H2740",
+        "H4480",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¿Vas a estar furioso con nosotros para siempre? ¿Permanecerás airado con todas nuestras generaciones futuras?",
+      "strong": [
+        "H3212",
+        "H5973",
+        "H5973",
+        "H5973",
+        "H5973",
+        "H5769",
+        "H3427",
+        "H2194",
+        "H5973",
+        "H3605",
+        "H0587",
+        "H1755"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¿No restaurarás nuestras vidas, de tal modo que tu pueblo pueda hallar felicidad en ti?",
+      "strong": [
+        "H3808",
+        "H0587",
+        "H5315",
+        "H4480",
+        "H3651",
+        "H5352",
+        "H0834",
+        "H0859",
+        "H5971",
+        "H3201",
+        "H4672",
+        "H5921",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¡Señor, muéstranos tu misericordioso amor! ¡Danos tu salvación!",
+      "strong": [
+        "H0113",
+        "H7200",
+        "H0859",
+        "H7349",
+        "H0160",
+        "H5414",
+        "H0859",
+        "H6413"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Déjame escuchar la voluntad de Dios. Dios habla paz a su pueblo, a aquellos que confían en él. Pero ellos no deben volver por sus caminos necios.",
+      "strong": [
+        "H7971",
+        "H8085",
+        "H1931",
+        "H7522",
+        "H5414",
+        "H3068",
+        "H3068",
+        "H1696",
+        "H7965",
+        "H3068",
+        "H1931",
+        "H5971",
+        "H3068",
+        "H0479",
+        "H0834",
+        "H5564",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H1992",
+        "H3808",
+        "H7725",
+        "H5414",
+        "H1931",
+        "H1870",
+        "H0995"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Verdaderamente que la salvación de Dios está con los que hacen lo que él ordena. Su presencia gloriosa vivirá con nosotros en nuestra tierra.",
+      "strong": [
+        "H0403",
+        "H3588",
+        "H3588",
+        "H6413",
+        "H3588",
+        "H3068",
+        "H2063",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H6213",
+        "H4100",
+        "H3588",
+        "H3588",
+        "H6680",
+        "H3588",
+        "H6440",
+        "H2421",
+        "H3588",
+        "H0587",
+        "H3588",
+        "H0587",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El amor y la verdad se encontrarán; la bondad y la paz se besarán mutuamente.",
+      "strong": [
+        "H1931",
+        "H0160",
+        "H3519",
+        "H1931",
+        "H0571",
+        "H3045",
+        "H1931",
+        "H2898",
+        "H3519",
+        "H1931",
+        "H7965",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Lo que es verdad crecerá de la tierra; y lo que es justo se dejará ver desde los cielos.",
+      "strong": [
+        "H1931",
+        "H0834",
+        "H1961",
+        "H0571",
+        "H5927",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H6662",
+        "H3045",
+        "H5414",
+        "H7200",
+        "H4480",
+        "H0582",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Dios nos dará ciertamente todo lo que es bueno, y nuestra tierra producirá finos cultivos.",
+      "strong": [
+        "H0430",
+        "H0587",
+        "H5414",
+        "H0389",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H2896",
+        "H1571",
+        "H0587",
+        "H0776",
+        "H6779"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "La verdad y la justicia saldrán de él para prepararle camino y que pueda pasar.",
+      "strong": [
+        "H1571",
+        "H0571",
+        "H1571",
+        "H1571",
+        "H6664",
+        "H3318",
+        "H5414",
+        "H1571",
+        "H5414",
+        "H1870",
+        "H1571",
+        "H1571",
+        "H3201",
+        "H5674"
+      ]
+    }
+  ]
+}

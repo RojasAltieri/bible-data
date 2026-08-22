@@ -1,1 +1,529 @@
-{"version":"spa-vbl","book":"proverbs","chapter":4,"data":[{"verse":"1","text":"Escuchen, hijos, la instrucción de un padre. Estén atentos al sano juicio,"},{"verse":"2","text":"porque lo que les diré es consejo fiel. No rechacen mis enseñanzas."},{"verse":"3","text":"Porque yo también fui hijo de mi padre, un joven tierno, e hijo único de mi madre"},{"verse":"4","text":"y él fue quien me instruyó. Me dijo: “Presta atención a las palabras que te digo y no las olvides. Haz lo que te digo y vivirás."},{"verse":"5","text":"Obtén sabiduría, busca el sano juicio. No olvides mis palabras, ni las desprecies."},{"verse":"6","text":"“No abandones la sabiduría porque ella te mantendrá a salvo. Ama la sabiduría y ella te protegerá."},{"verse":"7","text":"Lo primero que debes hacer para ser sabio es obtener sabiduría. Junto a todo lo que obtengas, procura obtener inteligencia."},{"verse":"8","text":"Atesora la sabiduría y ella te alabará. Abrázala y ella te honrará."},{"verse":"9","text":"Colocará sobre tu cabeza una corona de gracia, y te ofrecerá una corona de gloria”."},{"verse":"10","text":"Escucha, hijo mío. Si aceptas lo que te digo, vivirás larga vida."},{"verse":"11","text":"Te he explicado el camino de la sabiduría. Te he guiado por los caminos de rectitud."},{"verse":"12","text":"No habrá obstáculos cuando camines, ni tropezarás al correr."},{"verse":"13","text":"Aférrate a estas instrucciones, y no las dejes ir. Protégelas, porque son el cimiento de la vida."},{"verse":"14","text":"No andes por el camino de los malvados, ni sigas el ejemplo de los que hacen el mal."},{"verse":"15","text":"Evítalos por completo y no vayas por allí. Da la vuelta y sigue tu camino."},{"verse":"16","text":"Los malvados no descansan hasta haber cometido maldad. No pueden dormir sin haber engañado a alguna persona."},{"verse":"17","text":"Porque comen del pan de la maldad y beben del vino de la violencia."},{"verse":"18","text":"La vida de los que hacen el bien es como la luz de la aurora, que va en aumento hasta que su luz llega a plenitud del día."},{"verse":"19","text":"Pero la vida de los malvados es como la total oscuridad, en la que no pueden ver con qué tropiezan."},{"verse":"20","text":"Hijo mío, presta atención a lo que te digo y escucha mis palabras."},{"verse":"21","text":"No las pierdas de vista y reflexiona sobre ellas,"},{"verse":"22","text":"porque son vida para quien las encuentra, y traen sanidad a todo el cuerpo."},{"verse":"23","text":"Por encima de todas las cosas, protege tu mente, pues todo en la vida procede de ella."},{"verse":"24","text":"Nunca mientas, ni hables con deshonestidad."},{"verse":"25","text":"Enfócate en lo que está delante de ti, mira lo que tienes adelante."},{"verse":"26","text":"Pon tu atención en el camino que te has propuesto, y estarás seguro donde vayas."},{"verse":"27","text":"No te apartes ni a la derecha, ni a la izquierda, y aléjate del mal."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 4,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Escuchen, hijos, la instrucción de un padre. Estén atentos al sano juicio,",
+      "strong": [
+        "H8085",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H0259",
+        "H0001",
+        "H1961",
+        "H7181",
+        "H0413",
+        "H7495",
+        "H4941"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "porque lo que les diré es consejo fiel. No rechacen mis enseñanzas.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3588",
+        "H0413",
+        "H0559",
+        "H3588",
+        "H6098",
+        "H0539",
+        "H3588",
+        "H5414"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Porque yo también fui hijo de mi padre, un joven tierno, e hijo único de mi madre",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1571",
+        "H1961",
+        "H1121",
+        "H3588",
+        "H1961",
+        "H0001",
+        "H0259",
+        "H0970",
+        "H7390",
+        "H1961",
+        "H1121",
+        "H3173",
+        "H3588",
+        "H1961",
+        "H0517"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "y él fue quien me instruyó. Me dijo: “Presta atención a las palabras que te digo y no las olvides. Haz lo que te digo y vivirás.",
+      "strong": [
+        "H1571",
+        "H1931",
+        "H1961",
+        "H4310",
+        "H0413",
+        "H0413",
+        "H0559",
+        "H0413",
+        "H1992",
+        "H1697",
+        "H1697",
+        "H0859",
+        "H0559",
+        "H1571",
+        "H3808",
+        "H1992",
+        "H7911",
+        "H6213",
+        "H1697",
+        "H1697",
+        "H0859",
+        "H0559",
+        "H1571",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Obtén sabiduría, busca el sano juicio. No olvides mis palabras, ni las desprecies.",
+      "strong": [
+        "H2451",
+        "H1245",
+        "H1931",
+        "H7495",
+        "H4941",
+        "H3808",
+        "H7911",
+        "H0589",
+        "H6310",
+        "H3808",
+        "H1992",
+        "H5203"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "“No abandones la sabiduría porque ella te mantendrá a salvo. Ama la sabiduría y ella te protegerá.",
+      "strong": [
+        "H3808",
+        "H8104",
+        "H2451",
+        "H3588",
+        "H1931",
+        "H0859",
+        "H0413",
+        "H3467",
+        "H0157",
+        "H8104",
+        "H2451",
+        "H1571",
+        "H1931",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Lo primero que debes hacer para ser sabio es obtener sabiduría. Junto a todo lo que obtengas, procura obtener inteligencia.",
+      "strong": [
+        "H3605",
+        "H7223",
+        "H3605",
+        "H6213",
+        "H5704",
+        "H5315",
+        "H2450",
+        "H1961",
+        "H2451",
+        "H5921",
+        "H0413",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H1245",
+        "H0998"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Atesora la sabiduría y ella te alabará. Abrázala y ella te honrará.",
+      "strong": [
+        "H3588",
+        "H2451",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H1984",
+        "H3588",
+        "H1931",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Colocará sobre tu cabeza una corona de gracia, y te ofrecerá una corona de gloria”.",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H7218",
+        "H0259",
+        "H5850",
+        "H5414",
+        "H2580",
+        "H1571",
+        "H0859",
+        "H7126",
+        "H0259",
+        "H5850",
+        "H5414",
+        "H8597"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Escucha, hijo mío. Si aceptas lo que te digo, vivirás larga vida.",
+      "strong": [
+        "H8085",
+        "H1121",
+        "H0589",
+        "H0518",
+        "H1931",
+        "H1121",
+        "H0859",
+        "H0559",
+        "H2421",
+        "H7342",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Te he explicado el camino de la sabiduría. Te he guiado por los caminos de rectitud.",
+      "strong": [
+        "H0859",
+        "H4392",
+        "H1931",
+        "H1870",
+        "H4480",
+        "H2451",
+        "H2451",
+        "H0859",
+        "H4392",
+        "H1870",
+        "H0582",
+        "H1870",
+        "H4480",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "No habrá obstáculos cuando camines, ni tropezarás al correr.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H3588",
+        "H3808",
+        "H3782",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Aférrate a estas instrucciones, y no las dejes ir. Protégelas, porque son el cimiento de la vida.",
+      "strong": [
+        "H3588",
+        "H0428",
+        "H3588",
+        "H3588",
+        "H1992",
+        "H5146",
+        "H3212",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H3245",
+        "H3588",
+        "H1931",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "No andes por el camino de los malvados, ni sigas el ejemplo de los que hacen el mal.",
+      "strong": [
+        "H1870",
+        "H3212",
+        "H1870",
+        "H1931",
+        "H1870",
+        "H7451",
+        "H0582",
+        "H3808",
+        "H1931",
+        "H7451",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Evítalos por completo y no vayas por allí. Da la vuelta y sigue tu camino.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3212",
+        "H5921",
+        "H8033",
+        "H5414",
+        "H5921",
+        "H2015",
+        "H5921",
+        "H1214",
+        "H0859",
+        "H1870"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los malvados no descansan hasta haber cometido maldad. No pueden dormir sin haber engañado a alguna persona.",
+      "strong": [
+        "H3588",
+        "H3808",
+        "H5117",
+        "H5704",
+        "H3808",
+        "H5771",
+        "H3808",
+        "H3201",
+        "H3808",
+        "H3808",
+        "H8524",
+        "H3588",
+        "H3605",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Porque comen del pan de la maldad y beben del vino de la violencia.",
+      "strong": [
+        "H3588",
+        "H3899",
+        "H8354",
+        "H3899",
+        "H3588",
+        "H3588",
+        "H5771",
+        "H3588",
+        "H8354",
+        "H8354",
+        "H3196",
+        "H3588",
+        "H3588",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "La vida de los que hacen el bien es como la luz de la aurora, que va en aumento hasta que su luz llega a plenitud del día.",
+      "strong": [
+        "H1931",
+        "H3117",
+        "H5704",
+        "H0582",
+        "H5704",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1961",
+        "H5704",
+        "H1931",
+        "H0216",
+        "H5704",
+        "H1931",
+        "H5704",
+        "H1980",
+        "H5704",
+        "H8636",
+        "H5704",
+        "H5704",
+        "H1931",
+        "H0216",
+        "H6293",
+        "H5704",
+        "H4480",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Pero la vida de los malvados es como la total oscuridad, en la que no pueden ver con qué tropiezan.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H5315",
+        "H4480",
+        "H0582",
+        "H1961",
+        "H4100",
+        "H1931",
+        "H0653",
+        "H5921",
+        "H1931",
+        "H4100",
+        "H3808",
+        "H3201",
+        "H7200",
+        "H5973",
+        "H4100",
+        "H3782"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Hijo mío, presta atención a lo que te digo y escucha mis palabras.",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H0413",
+        "H1697",
+        "H1697",
+        "H0859",
+        "H0559",
+        "H1571",
+        "H7181",
+        "H0589",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "No las pierdas de vista y reflexiona sobre ellas,",
+      "strong": [
+        "H3808",
+        "H1992",
+        "H5869",
+        "H4758",
+        "H1571",
+        "H5921",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "porque son vida para quien las encuentra, y traen sanidad a todo el cuerpo.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2416",
+        "H3588",
+        "H3605",
+        "H1992",
+        "H3588",
+        "H0935",
+        "H0724",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H5038"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Por encima de todas las cosas, protege tu mente, pues todo en la vida procede de ella.",
+      "strong": [
+        "H3588",
+        "H4605",
+        "H4480",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H0859",
+        "H3588",
+        "H3605",
+        "H4480",
+        "H3588",
+        "H2416",
+        "H4480",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Nunca mientas, ni hables con deshonestidad.",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H1696",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Enfócate en lo que está delante de ti, mira lo que tienes adelante.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H0834",
+        "H2063",
+        "H5048",
+        "H5048",
+        "H0859",
+        "H5027",
+        "H1931",
+        "H0834",
+        "H5750",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Pon tu atención en el camino que te has propuesto, y estarás seguro donde vayas.",
+      "strong": [
+        "H7760",
+        "H0859",
+        "H5921",
+        "H3605",
+        "H1870",
+        "H3605",
+        "H0859",
+        "H4191",
+        "H1571",
+        "H1961",
+        "H0983",
+        "H0834",
+        "H3212"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "No te apartes ni a la derecha, ni a la izquierda, y aléjate del mal.",
+      "strong": [
+        "H3808",
+        "H0859",
+        "H5186",
+        "H3808",
+        "H0413",
+        "H1931",
+        "H3225",
+        "H3808",
+        "H0413",
+        "H1931",
+        "H8040",
+        "H1571",
+        "H4480",
+        "H7451"
+      ]
+    }
+  ]
+}

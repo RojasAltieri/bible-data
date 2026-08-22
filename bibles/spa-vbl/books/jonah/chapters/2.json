@@ -1,1 +1,237 @@
-{"version":"spa-vbl","book":"jonah","chapter":2,"data":[{"verse":"1","text":"Entonces Jonás oró2:1 Es de gran importancia que no se registra que Jonás estuviera orando hasta este punto de la historia. al Señor su Dios desde el vientre del pez."},{"verse":"2","text":"Comenzó así: “En mi agonía clamé al Señor y él me respondió. Desde las profundidades del Seol2:2 Seol: El lugar de los muertos.  supliqué por ayuda, y tú me respondiste."},{"verse":"3","text":"Me lanzaste a lo profundo, al fondo del mar.2:3 Literalmente, “el corazón del mar”. El agua me cubrió por complete, y tus olas poderosas rodaban sobre me."},{"verse":"4","text":"Y me dije a mi mismo: ‘El Señor me ha expulsado de su presencia. ¿Podré ver tu santo Templo otra vez?’2:4 O, “pero aún así veré tu santo Templo otra vez”."},{"verse":"5","text":"El agua formó un torbellino sobre mi y no podría respirar. Las profundidades me arrastraban, y las algas se enredaban en mi cabeza."},{"verse":"6","text":"Me hundí hasta la base de las montañas; la tierra me cerró sus puertas para siempre. Pero tu, mi Señor, mi Dios, me sacaste del abismo."},{"verse":"7","text":"“Mientras mi vida se desvanecía, me acordé del Señor, y mi oración llegó a tu santo Templo."},{"verse":"8","text":"Los que adoran a los ídolos vanos, renuncian a su confianza en la bondad de Dios."},{"verse":"9","text":"Pero yo te ofreceré sacrificios, y gritaré mi gratitud. Guardaré las promesas que te he hecho, porque la salvación viene del Señor”."},{"verse":"10","text":"Entonces el Señor mandó al pez a que vomitara a Jonás en la orilla."}]}
+{
+  "version": "spa-vbl",
+  "book": "jonah",
+  "chapter": 2,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Jonás oró al Señor su Dios desde el vientre del pez.",
+      "strong": [
+        "H3117",
+        "H3124",
+        "H2091",
+        "H0413",
+        "H3068",
+        "H1931",
+        "H3068",
+        "H4480",
+        "H1931",
+        "H0990",
+        "H4480",
+        "H1709"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Comenzó así: “En mi agonía clamé al Señor y él me respondió. Desde las profundidades del Seol supliqué por ayuda, y tú me respondiste.",
+      "strong": [
+        "H2490",
+        "H3541",
+        "H5921",
+        "H0589",
+        "H7121",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H1931",
+        "H0413",
+        "H0559",
+        "H4480",
+        "H1992",
+        "H4480",
+        "H2470",
+        "H5921",
+        "H5828",
+        "H1571",
+        "H0859",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Me lanzaste a lo profundo, al fondo del mar. El agua me cubrió por complete, y tus olas poderosas rodaban sobre me.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1931",
+        "H8482",
+        "H0413",
+        "H0068",
+        "H4480",
+        "H3220",
+        "H1931",
+        "H4325",
+        "H0413",
+        "H3680",
+        "H5921",
+        "H1571",
+        "H0859",
+        "H5921",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Y me dije a mi mismo: ‘El Señor me ha expulsado de su presencia. ¿Podré ver tu santo Templo otra vez?’",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H0559",
+        "H5921",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H0113",
+        "H5921",
+        "H3541",
+        "H5921",
+        "H1931",
+        "H6440",
+        "H3201",
+        "H7200",
+        "H0859",
+        "H6918",
+        "H1964",
+        "H5750",
+        "H6471"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El agua formó un torbellino sobre mi y no podría respirar. Las profundidades me arrastraban, y las algas se enredaban en mi cabeza.",
+      "strong": [
+        "H1931",
+        "H4325",
+        "H3335",
+        "H0259",
+        "H5492",
+        "H5048",
+        "H0589",
+        "H1571",
+        "H3808",
+        "H1992",
+        "H0413",
+        "H1571",
+        "H1992",
+        "H3045",
+        "H5921",
+        "H0589",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Me hundí hasta la base de las montañas; la tierra me cerró sus puertas para siempre. Pero tu, mi Señor, mi Dios, me sacaste del abismo.",
+      "strong": [
+        "H0413",
+        "H5704",
+        "H1931",
+        "H5704",
+        "H1992",
+        "H1931",
+        "H0776",
+        "H0413",
+        "H5462",
+        "H1931",
+        "H1817",
+        "H5704",
+        "H5769",
+        "H3588",
+        "H0859",
+        "H5315",
+        "H0113",
+        "H5315",
+        "H0430",
+        "H0413",
+        "H3318",
+        "H4480",
+        "H8415"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Mientras mi vida se desvanecía, me acordé del Señor, y mi oración llegó a tu santo Templo.",
+      "strong": [
+        "H5704",
+        "H0589",
+        "H2416",
+        "H3045",
+        "H0413",
+        "H4480",
+        "H3068",
+        "H1571",
+        "H0589",
+        "H8605",
+        "H5927",
+        "H1157",
+        "H0859",
+        "H6918",
+        "H1964"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los que adoran a los ídolos vanos, renuncian a su confianza en la bondad de Dios.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H7812",
+        "H5921",
+        "H5921",
+        "H0457",
+        "H0205",
+        "H5921",
+        "H1931",
+        "H4009",
+        "H5921",
+        "H5921",
+        "H2898",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Pero yo te ofreceré sacrificios, y gritaré mi gratitud. Guardaré las promesas que te he hecho, porque la salvación viene del Señor”.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H0859",
+        "H5927",
+        "H2077",
+        "H1571",
+        "H0589",
+        "H8104",
+        "H1992",
+        "H0834",
+        "H0859",
+        "H4392",
+        "H6213",
+        "H3588",
+        "H8104",
+        "H6413",
+        "H0935",
+        "H4480",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Entonces el Señor mandó al pez a que vomitara a Jonás en la orilla.",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H3068",
+        "H6680",
+        "H0413",
+        "H1709",
+        "H3068",
+        "H0834",
+        "H3068",
+        "H3124",
+        "H5921",
+        "H1931"
+      ]
+    }
+  ]
+}

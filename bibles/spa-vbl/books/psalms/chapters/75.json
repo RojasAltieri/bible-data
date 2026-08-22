@@ -1,1 +1,201 @@
-{"version":"spa-vbl","book":"psalms","chapter":75,"data":[{"verse":"1","text":"Te agradecemos, oh Dios, porque estás junto a nosotros.75:1 “Estás junto a nosotros”, Literalmente, “tu nombre está cerca”. Toda la gente habla sobre tus maravillas."},{"verse":"2","text":"Dios dice: “Cuando decida el momento, juzgaré con justicia."},{"verse":"3","text":"Cuando la tierra tiemble, así como sus habitantes, yo la mantendré firme.75:3 Literalmente, “sostengan sus pilares firmes”. Selah."},{"verse":"4","text":"A los que se jactan dije: ‘¡No se jacten!’ Le dije a los malvados: ‘¡Dejen el orgullo!’75:4 “No sean orgullosos”: Literalmente, “No levanten sus cuernos”."},{"verse":"5","text":"No, no sean arrogantes y orgullosos, insultando al cielo”.75:5 La expresión hebrea aquí debe reestructurarse. Literalmente, el texto dice “No deben alzar su cuerno; no deben hablar con cuello erguido en arrogancia”."},{"verse":"6","text":"Porque nadie, ni en el este o en el oeste, o incluso en el desierto debe pensar de sí mismo con justicia."},{"verse":"7","text":"Dios es el que decide quién se levantará y quién caerá."},{"verse":"8","text":"Porque el Señor tiene una copa en su mano, llena de vino espumoso mezclado con especias. Él vierte el vino,75:8 En juicio. y todos los malvados lo beberán, hasta la última gota."},{"verse":"9","text":"Pero yo hablaré de ti para siempre. Cantaré alabanzas al Dios de Jacob."},{"verse":"10","text":"Porque Dios dice: “Quebraré el poder de los malvados, pero aumentaré el poder de los justos”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 75,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Te agradecemos, oh Dios, porque estás junto a nosotros. Toda la gente habla sobre tus maravillas.",
+      "strong": [
+        "H0859",
+        "H1945",
+        "H0430",
+        "H3588",
+        "H0428",
+        "H5921",
+        "H0413",
+        "H0587",
+        "H3605",
+        "H1931",
+        "H1471",
+        "H1696",
+        "H5921",
+        "H0859",
+        "H6381"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Dios dice: “Cuando decida el momento, juzgaré con justicia.",
+      "strong": [
+        "H0430",
+        "H5002",
+        "H3588",
+        "H1931",
+        "H7281",
+        "H8199",
+        "H5973",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando la tierra tiemble, así como sus habitantes, yo la mantendré firme. Selah.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H3427",
+        "H3588",
+        "H3588",
+        "H3559",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "A los que se jactan dije: ‘¡No se jacten!’ Le dije a los malvados: ‘¡Dejen el orgullo!’",
+      "strong": [
+        "H0413",
+        "H3427",
+        "H3605",
+        "H3045",
+        "H0559",
+        "H3808",
+        "H3045",
+        "H0413",
+        "H0559",
+        "H0413",
+        "H3427",
+        "H2308",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "No, no sean arrogantes y orgullosos, insultando al cielo”.",
+      "strong": [
+        "H7563",
+        "H7563",
+        "H1961",
+        "H1571",
+        "H0413",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Porque nadie, ni en el este o en el oeste, o incluso en el desierto debe pensar de sí mismo con justicia.",
+      "strong": [
+        "H3588",
+        "H0376",
+        "H3808",
+        "H5921",
+        "H1931",
+        "H2088",
+        "H0176",
+        "H5921",
+        "H1931",
+        "H0176",
+        "H5921",
+        "H1931",
+        "H4057",
+        "H4135",
+        "H4480",
+        "H0518",
+        "H1931",
+        "H5973",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Dios es el que decide quién se levantará y quién caerá.",
+      "strong": [
+        "H0430",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H4310",
+        "H3808",
+        "H7311",
+        "H3588",
+        "H4310",
+        "H5307"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Porque el Señor tiene una copa en su mano, llena de vino espumoso mezclado con especias. Él vierte el vino, y todos los malvados lo beberán, hasta la última gota.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0113",
+        "H3426",
+        "H0259",
+        "H7105",
+        "H3588",
+        "H3588",
+        "H3027",
+        "H4392",
+        "H3588",
+        "H0935",
+        "H6151",
+        "H3588",
+        "H1314",
+        "H3588",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H2088",
+        "H8354",
+        "H2088",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Pero yo hablaré de ti para siempre. Cantaré alabanzas al Dios de Jacob.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1696",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H3605",
+        "H7891",
+        "H8426",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Porque Dios dice: “Quebraré el poder de los malvados, pero aumentaré el poder de los justos”.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H5002",
+        "H7665",
+        "H1931",
+        "H3027",
+        "H4480",
+        "H0582",
+        "H3588",
+        "H1931",
+        "H3027",
+        "H4480",
+        "H0582",
+        "H6662"
+      ]
+    }
+  ]
+}

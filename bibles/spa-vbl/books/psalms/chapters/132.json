@@ -1,1 +1,350 @@
-{"version":"spa-vbl","book":"psalms","chapter":132,"data":[{"verse":"1","text":"Señor, acuérdate de David, y todo por lo que él pasó."},{"verse":"2","text":"Él hizo una promesa al Señor, un pacto al Dios de Jacob:"},{"verse":"3","text":"“No iré a casa, no iré a la cama,"},{"verse":"4","text":"no me iré a dormir, ni tomaré una siesta,"},{"verse":"5","text":"hasta que haya encontrado un lugar donde el Señor pueda vivir, un hogar para el Dios de Jacob”."},{"verse":"6","text":"En Efrata, oímos hablar del arca del pacto, y la encontramos en los campos de Yagar.132:6 Kiriath Jearim. Ver 1 Samuel 7."},{"verse":"7","text":"Vayamos al lugar donde mora el Señor y postrémonos ante sus pies en adoración."},{"verse":"8","text":"Ven, Señor, y entra a tu casa,132:8 Literalmente, “lugar de descanso”, pero en el sentido de que este es el sitio donde alguien vive, es decir, su “hogar”. tú y tu arca poderosa."},{"verse":"9","text":"Que tus sacerdotes se revistan de bondad; que los que te son leales griten de alegría."},{"verse":"10","text":"Por el bien David, tu siervo, no le des a la espalda a tu ungido."},{"verse":"11","text":"El Señor le hizo una promesa solemne a David, una que él una rompería, “pondré a uno de tus descendientes en tu trono."},{"verse":"12","text":"Si tus hijos siguen mis leyes y los acuerdos que les enseñe, también sus descendientes se sentarán en el trono para siempre”."},{"verse":"13","text":"Porque el Señor ha escogido a Sión, y quiso hacer su trono allí, diciendo:"},{"verse":"14","text":"“Esta siempre será mi casa; aquí es donde he de morar."},{"verse":"15","text":"Proveeré a las personas de la ciudad todo lo que necesiten; alimentaré al pobre."},{"verse":"16","text":"Revestiré a sus sacerdotes con salvación; y los que le son leales gritarán de alegría."},{"verse":"17","text":"Haré el linaje de David aún más poderoso.132:17 Literalmente, “Haré brotar un cuerno para David”. He preparado una lámpara para mi ungido."},{"verse":"18","text":"Humillaré a sus enemigos, pero las coronas que él use brillarán fuertemente”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 132,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, acuérdate de David, y todo por lo que él pasó.",
+      "strong": [
+        "H3068",
+        "H2142",
+        "H4480",
+        "H1732",
+        "H1571",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Él hizo una promesa al Señor, un pacto al Dios de Jacob:",
+      "strong": [
+        "H1931",
+        "H6213",
+        "H0259",
+        "H5087",
+        "H0413",
+        "H3068",
+        "H0259",
+        "H1285",
+        "H0413",
+        "H3068",
+        "H4480",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "“No iré a casa, no iré a la cama,",
+      "strong": [
+        "H5921",
+        "H5927",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H5927",
+        "H5921",
+        "H5921",
+        "H6210"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "no me iré a dormir, ni tomaré una siesta,",
+      "strong": [
+        "H3808",
+        "H0413",
+        "H3212",
+        "H5869",
+        "H3808",
+        "H3947",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "hasta que haya encontrado un lugar donde el Señor pueda vivir, un hogar para el Dios de Jacob”.",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H1961",
+        "H0259",
+        "H4725",
+        "H4725",
+        "H1931",
+        "H3068",
+        "H3201",
+        "H2421",
+        "H0259",
+        "H5704",
+        "H1931",
+        "H3068",
+        "H5704",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "En Efrata, oímos hablar del arca del pacto, y la encontramos en los campos de Yagar.",
+      "strong": [
+        "H5921",
+        "H8085",
+        "H1696",
+        "H4480",
+        "H8392",
+        "H4480",
+        "H1285",
+        "H1571",
+        "H1931",
+        "H7125",
+        "H5921",
+        "H0582",
+        "H7704",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Vayamos al lugar donde mora el Señor y postrémonos ante sus pies en adoración.",
+      "strong": [
+        "H3212",
+        "H0413",
+        "H4725",
+        "H0834",
+        "H8271",
+        "H1931",
+        "H0113",
+        "H1571",
+        "H6440",
+        "H1931",
+        "H7272",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Ven, Señor, y entra a tu casa, tú y tu arca poderosa.",
+      "strong": [
+        "H3212",
+        "H3068",
+        "H5797",
+        "H0935",
+        "H3068",
+        "H0859",
+        "H1004",
+        "H0859",
+        "H5797",
+        "H0859",
+        "H8392",
+        "H2389"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Que tus sacerdotes se revistan de bondad; que los que te son leales griten de alegría.",
+      "strong": [
+        "H0834",
+        "H0859",
+        "H3548",
+        "H3045",
+        "H3847",
+        "H2898",
+        "H0834",
+        "H0582",
+        "H0834",
+        "H0859",
+        "H1961",
+        "H3847",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Por el bien David, tu siervo, no le des a la espalda a tu ungido.",
+      "strong": [
+        "H6440",
+        "H1931",
+        "H2896",
+        "H1732",
+        "H0859",
+        "H5650",
+        "H6440",
+        "H0413",
+        "H5414",
+        "H6440",
+        "H1931",
+        "H0310",
+        "H6440",
+        "H0859",
+        "H4899"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "El Señor le hizo una promesa solemne a David, una que él una rompería, “pondré a uno de tus descendientes en tu trono.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0413",
+        "H6213",
+        "H0259",
+        "H5087",
+        "H4480",
+        "H1732",
+        "H0259",
+        "H4480",
+        "H1931",
+        "H0259",
+        "H7896",
+        "H4480",
+        "H0259",
+        "H4480",
+        "H0859",
+        "H6631",
+        "H4480",
+        "H0859",
+        "H3678"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Si tus hijos siguen mis leyes y los acuerdos que les enseñe, también sus descendientes se sentarán en el trono para siempre”.",
+      "strong": [
+        "H1571",
+        "H0859",
+        "H1121",
+        "H1980",
+        "H0589",
+        "H8451",
+        "H1571",
+        "H3427",
+        "H1571",
+        "H0413",
+        "H3384",
+        "H1571",
+        "H1931",
+        "H6631",
+        "H3045",
+        "H5921",
+        "H1121",
+        "H3678",
+        "H5703",
+        "H5703"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Porque el Señor ha escogido a Sión, y quiso hacer su trono allí, diciendo:",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3068",
+        "H3541",
+        "H0977",
+        "H3588",
+        "H6726",
+        "H3588",
+        "H0014",
+        "H6213",
+        "H3588",
+        "H3678",
+        "H8033",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "“Esta siempre será mi casa; aquí es donde he de morar.",
+      "strong": [
+        "H2063",
+        "H5703",
+        "H1961",
+        "H0589",
+        "H1004",
+        "H6311",
+        "H3588",
+        "H0834",
+        "H4392",
+        "H3588",
+        "H3427"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Proveeré a las personas de la ciudad todo lo que necesiten; alimentaré al pobre.",
+      "strong": [
+        "H0413",
+        "H1992",
+        "H5315",
+        "H7646",
+        "H7646",
+        "H5892",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H3605",
+        "H0413",
+        "H1800"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Revestiré a sus sacerdotes con salvación; y los que le son leales gritarán de alegría.",
+      "strong": [
+        "H0413",
+        "H1931",
+        "H3548",
+        "H5973",
+        "H6413",
+        "H1571",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H1961",
+        "H6030",
+        "H3847",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Haré el linaje de David aún más poderoso. He preparado una lámpara para mi ungido.",
+      "strong": [
+        "H6213",
+        "H1931",
+        "H2233",
+        "H4480",
+        "H1732",
+        "H5750",
+        "H5750",
+        "H1368",
+        "H4392",
+        "H0259",
+        "H5216",
+        "H5704",
+        "H0589",
+        "H4899"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Humillaré a sus enemigos, pero las coronas que él use brillarán fuertemente”.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H0341",
+        "H3588",
+        "H5921",
+        "H5852",
+        "H5921",
+        "H5921",
+        "H2393"
+      ]
+    }
+  ]
+}

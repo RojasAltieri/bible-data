@@ -1,1 +1,691 @@
-{"version":"spa-vbl","book":"proverbs","chapter":8,"data":[{"verse":"1","text":"¿No llama la sabiduría? ¿No alza su voz el entendimiento?"},{"verse":"2","text":"En lo alto de la colina, se pone en pie junto al camino, y sobre en las encrucijadas."},{"verse":"3","text":"A las puertas de la ciudad, en la entrada grita:"},{"verse":"4","text":"“¡Los estoy llamando a todos ustedes! ¡A todos los habitantes del mundo!"},{"verse":"5","text":"Si eres inmaduro, aprende a crecer. Si eres tonto, aprende y vuélvete inteligente."},{"verse":"6","text":"Escúchame porque tengo valiosas cosas que explicarte."},{"verse":"7","text":"Yo digo lo correcto, porque digo la verdad y odio la maldad en todas sus formas."},{"verse":"8","text":"Todas mis palabras son verdaderas, y ninguna es falsa ni engañosa."},{"verse":"9","text":"Mis palabras son fáciles de entender para todo el que tiene entendimiento. Son rectas para el que tiene conocimiento."},{"verse":"10","text":"Elige mi enseñanza por encima de la plata; elige el conocimiento más que el oro puro."},{"verse":"11","text":"Porque la sabiduría es más valiosa que los rubíes. ¡Nada de lo que puedas desear se compara a ella!"},{"verse":"12","text":"“Yo, la sabiduría, vivo con las buenas decisiones. Sé como hallar el conocimiento y el discernimiento."},{"verse":"13","text":"Honrar al Señor significa aborrecer el mal. Por ello aborrezco el orgullo y la arrogancia, la conducta malvada y el decir mentiras."},{"verse":"14","text":"Tengo el consejo y el buen juicio. Conmigo está la inteligencia y el poder."},{"verse":"15","text":"Gracias a mi los reyes reinan, y los gobernantes emiten decretos justos."},{"verse":"16","text":"Gracias a mi los líderes y nobles pueden gobernar, así como todos los que gobiernan con justicia."},{"verse":"17","text":"Amo a los que me aman, y los que me buscan de corazón me encontrarán."},{"verse":"18","text":"Conmigo está la riqueza y el honor, así como la riqueza y prosperidad duraderas."},{"verse":"19","text":"El fruto que produzco es mejor que el oro, incluso que el oro puro, y mi cosecha es mejor que la plata más fina."},{"verse":"20","text":"Vivo con rectitud, y sigo los caminos de la justicia."},{"verse":"21","text":"Yo otorgo riqueza a los que me aman, y lleno sus almacenes de tesoros."},{"verse":"22","text":"“El Señor me creó desde el principio. Fui creada antes que cualquier otra cosa."},{"verse":"23","text":"Fui formada hace mucho tiempo, desde el principio, y antes de que el mundo existiera."},{"verse":"24","text":"Nací cuando no había profundidades en el océano, cuando no había fuentes de aguas."},{"verse":"25","text":"Nací antes de que se formaran las montañas y colinas,"},{"verse":"26","text":"aun antes de que él hiciera la tierra y sus campos, o siquiera el polvo de la tierra."},{"verse":"27","text":"Estuve allí cuando los cielos fueron puestos en su lugar, cuando él dibujó el horizonte sobre el océano,"},{"verse":"28","text":"cuando puso las nubes arriba en el cielo, y cuando creó las fuentes de los océanos."},{"verse":"29","text":"Cuando estableció los límites del mar para que no se saliera más allá de su voluntad, y cuando estableció los fundamentos de la tierra."},{"verse":"30","text":"En ese tiempo estaba a su lado, como maestro artesano. Lo alegraba todos los días, y yo sentía siempre alegría en su presencia."},{"verse":"31","text":"Estuve muy feliz en el mundo que creó, y celebrábamos juntos con los seres humanos."},{"verse":"32","text":"“Ahora, hijos míos, escúchenme, porque los que siguen mis caminos son felices."},{"verse":"33","text":"Escuchen mis instrucciones y sean sabios. No rechacen mi instrucción"},{"verse":"34","text":"Felices son los que me escuchan, los que están pendientes en mi puerta para verme llegar."},{"verse":"35","text":"Porque los que me encuentran, encuentran la vida, y son aceptados por el Señor."},{"verse":"36","text":"Pero los que no me encuentran se hacen daño a sí mismos, pues todos los que me aborrecen aman la muerte”."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 8,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¿No llama la sabiduría? ¿No alza su voz el entendimiento?",
+      "strong": [
+        "H3808",
+        "H7121",
+        "H2451",
+        "H2451",
+        "H3808",
+        "H5375",
+        "H1931",
+        "H6963",
+        "H1931",
+        "H8394"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "En lo alto de la colina, se pone en pie junto al camino, y sobre en las encrucijadas.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H4791",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3247",
+        "H5921",
+        "H5921",
+        "H1870",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "A las puertas de la ciudad, en la entrada grita:",
+      "strong": [
+        "H6310",
+        "H1992",
+        "H8179",
+        "H4480",
+        "H1931",
+        "H5892",
+        "H5921",
+        "H1931",
+        "H3996",
+        "H6963"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "“¡Los estoy llamando a todos ustedes! ¡A todos los habitantes del mundo!",
+      "strong": [
+        "H1121",
+        "H1961",
+        "H7121",
+        "H0413",
+        "H3605",
+        "H0413",
+        "H3605",
+        "H1121",
+        "H3427",
+        "H4480",
+        "H8398"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Si eres inmaduro, aprende a crecer. Si eres tonto, aprende y vuélvete inteligente.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H3045",
+        "H0413",
+        "H0518",
+        "H0859",
+        "H3045",
+        "H1571",
+        "H7725"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Escúchame porque tengo valiosas cosas que explicarte.",
+      "strong": [
+        "H8085",
+        "H3588",
+        "H1696",
+        "H1697",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Yo digo lo correcto, porque digo la verdad y odio la maldad en todas sus formas.",
+      "strong": [
+        "H3588",
+        "H0559",
+        "H1931",
+        "H3588",
+        "H0559",
+        "H3588",
+        "H0571",
+        "H3588",
+        "H4895",
+        "H3588",
+        "H5771",
+        "H3588",
+        "H3605",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Todas mis palabras son verdaderas, y ninguna es falsa ni engañosa.",
+      "strong": [
+        "H3605",
+        "H0589",
+        "H6310",
+        "H6310",
+        "H0571",
+        "H1571",
+        "H3605",
+        "H1961",
+        "H8267",
+        "H3808",
+        "H7423"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Mis palabras son fáciles de entender para todo el que tiene entendimiento. Son rectas para el que tiene conocimiento.",
+      "strong": [
+        "H0589",
+        "H1697",
+        "H1961",
+        "H5228",
+        "H7919",
+        "H5704",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H3426",
+        "H7922",
+        "H1961",
+        "H5228",
+        "H5704",
+        "H3605",
+        "H3605",
+        "H3426",
+        "H1847"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Elige mi enseñanza por encima de la plata; elige el conocimiento más que el oro puro.",
+      "strong": [
+        "H0589",
+        "H4148",
+        "H5921",
+        "H4605",
+        "H4480",
+        "H1931",
+        "H3701",
+        "H1931",
+        "H1847",
+        "H5750",
+        "H0834",
+        "H1931",
+        "H2091",
+        "H2889"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Porque la sabiduría es más valiosa que los rubíes. ¡Nada de lo que puedas desear se compara a ella!",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2451",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H3808",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3201",
+        "H3808",
+        "H3588",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "“Yo, la sabiduría, vivo con las buenas decisiones. Sé como hallar el conocimiento y el discernimiento.",
+      "strong": [
+        "H0589",
+        "H2451",
+        "H2451",
+        "H2416",
+        "H5973",
+        "H1992",
+        "H2896",
+        "H3045",
+        "H7931",
+        "H4672",
+        "H1931",
+        "H1847",
+        "H1571",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Honrar al Señor significa aborrecer el mal. Por ello aborrezco el orgullo y la arrogancia, la conducta malvada y el decir mentiras.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1931",
+        "H7451",
+        "H1870",
+        "H1931",
+        "H8130",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H0559",
+        "H3576"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Tengo el consejo y el buen juicio. Conmigo está la inteligencia y el poder.",
+      "strong": [
+        "H2803",
+        "H1931",
+        "H6098",
+        "H1571",
+        "H1931",
+        "H2896",
+        "H4941",
+        "H0854",
+        "H2063",
+        "H1931",
+        "H0998",
+        "H1571",
+        "H1931",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Gracias a mi los reyes reinan, y los gobernantes emiten decretos justos.",
+      "strong": [
+        "H0413",
+        "H0589",
+        "H0582",
+        "H4428",
+        "H1571",
+        "H0582",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Gracias a mi los líderes y nobles pueden gobernar, así como todos los que gobiernan con justicia.",
+      "strong": [
+        "H0413",
+        "H0589",
+        "H3605",
+        "H1571",
+        "H7991",
+        "H3201",
+        "H8199",
+        "H3541",
+        "H0349",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H5973",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Amo a los que me aman, y los que me buscan de corazón me encontrarán.",
+      "strong": [
+        "H0157",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H2001",
+        "H1571",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H1245",
+        "H4480",
+        "H3820",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Conmigo está la riqueza y el honor, así como la riqueza y prosperidad duraderas.",
+      "strong": [
+        "H0854",
+        "H2063",
+        "H1931",
+        "H1952",
+        "H3519",
+        "H1931",
+        "H3541",
+        "H0349",
+        "H1931",
+        "H1952",
+        "H3519",
+        "H7959"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "El fruto que produzco es mejor que el oro, incluso que el oro puro, y mi cosecha es mejor que la plata más fina.",
+      "strong": [
+        "H1931",
+        "H6529",
+        "H0834",
+        "H1961",
+        "H2896",
+        "H0834",
+        "H1931",
+        "H6337",
+        "H0834",
+        "H1931",
+        "H6337",
+        "H2889",
+        "H1571",
+        "H0589",
+        "H1961",
+        "H2896",
+        "H0834",
+        "H1931",
+        "H3701",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Vivo con rectitud, y sigo los caminos de la justicia.",
+      "strong": [
+        "H2416",
+        "H5973",
+        "H3559",
+        "H1571",
+        "H0582",
+        "H1870",
+        "H4480",
+        "H1931",
+        "H6666"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Yo otorgo riqueza a los que me aman, y lleno sus almacenes de tesoros.",
+      "strong": [
+        "H0589",
+        "H7399",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H2001",
+        "H1571",
+        "H4390",
+        "H1931",
+        "H3627",
+        "H4480",
+        "H0214"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "“El Señor me creó desde el principio. Fui creada antes que cualquier otra cosa.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0413",
+        "H4480",
+        "H1931",
+        "H7225",
+        "H1961",
+        "H6924",
+        "H0834",
+        "H3605",
+        "H5750",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Fui formada hace mucho tiempo, desde el principio, y antes de que el mundo existiera.",
+      "strong": [
+        "H1961",
+        "H6213",
+        "H3966",
+        "H6256",
+        "H4480",
+        "H1931",
+        "H7225",
+        "H1571",
+        "H6924",
+        "H4480",
+        "H0834",
+        "H1931",
+        "H8398"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Nací cuando no había profundidades en el océano, cuando no había fuentes de aguas.",
+      "strong": [
+        "H3205",
+        "H3588",
+        "H3808",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H3808",
+        "H1961",
+        "H3595",
+        "H4325",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Nací antes de que se formaran las montañas y colinas,",
+      "strong": [
+        "H3205",
+        "H6440",
+        "H6440",
+        "H0834",
+        "H3045",
+        "H1992",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "aun antes de que él hiciera la tierra y sus campos, o siquiera el polvo de la tierra.",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H5704",
+        "H3808",
+        "H6213",
+        "H1931",
+        "H6083",
+        "H5704",
+        "H1931",
+        "H7704",
+        "H5704",
+        "H6213",
+        "H6083",
+        "H5704",
+        "H1931",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Estuve allí cuando los cielos fueron puestos en su lugar, cuando él dibujó el horizonte sobre el océano,",
+      "strong": [
+        "H5975",
+        "H8033",
+        "H3588",
+        "H5921",
+        "H8064",
+        "H1961",
+        "H2026",
+        "H5921",
+        "H1931",
+        "H4725",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "cuando puso las nubes arriba en el cielo, y cuando creó las fuentes de los océanos.",
+      "strong": [
+        "H3588",
+        "H7760",
+        "H1992",
+        "H5387",
+        "H4605",
+        "H5921",
+        "H1931",
+        "H8064",
+        "H1571",
+        "H3588",
+        "H1992",
+        "H5869",
+        "H5869",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Cuando estableció los límites del mar para que no se saliera más allá de su voluntad, y cuando estableció los fundamentos de la tierra.",
+      "strong": [
+        "H3588",
+        "H5414",
+        "H0582",
+        "H4480",
+        "H3220",
+        "H5704",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H3318",
+        "H3808",
+        "H8033",
+        "H4325",
+        "H1931",
+        "H7522",
+        "H1571",
+        "H3588",
+        "H5414",
+        "H0582",
+        "H4325",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "En ese tiempo estaba a su lado, como maestro artesano. Lo alegraba todos los días, y yo sentía siempre alegría en su presencia.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H6256",
+        "H1961",
+        "H6440",
+        "H1931",
+        "H3802",
+        "H1961",
+        "H8269",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H3117",
+        "H1571",
+        "H0589",
+        "H3605",
+        "H8057",
+        "H5921",
+        "H1931",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Estuve muy feliz en el mundo que creó, y celebrábamos juntos con los seres humanos.",
+      "strong": [
+        "H5975",
+        "H3966",
+        "H5921",
+        "H1121",
+        "H8398",
+        "H1121",
+        "H1571",
+        "H3162",
+        "H5973",
+        "H1121",
+        "H5315",
+        "H1397"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "“Ahora, hijos míos, escúchenme, porque los que siguen mis caminos son felices.",
+      "strong": [
+        "H6258",
+        "H1121",
+        "H1992",
+        "H3588",
+        "H1121",
+        "H6258",
+        "H1980",
+        "H0589",
+        "H1870",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Escuchen mis instrucciones y sean sabios. No rechacen mi instrucción",
+      "strong": [
+        "H8085",
+        "H0589",
+        "H1571",
+        "H1961",
+        "H2450",
+        "H3808",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Felices son los que me escuchan, los que están pendientes en mi puerta para verme llegar.",
+      "strong": [
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8085",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H6607",
+        "H5921",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "Porque los que me encuentran, encuentran la vida, y son aceptados por el Señor.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2416",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "36",
+      "text": "Pero los que no me encuentran se hacen daño a sí mismos, pues todos los que me aborrecen aman la muerte”.",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H3605",
+        "H3808",
+        "H0413",
+        "H3045",
+        "H6213",
+        "H8442",
+        "H0413",
+        "H5315",
+        "H1992",
+        "H3588",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H0413",
+        "H8130",
+        "H2001",
+        "H3605",
+        "H4194"
+      ]
+    }
+  ]
+}

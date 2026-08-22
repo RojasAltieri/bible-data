@@ -1,1 +1,263 @@
-{"version":"spa-vbl","book":"psalms","chapter":56,"data":[{"verse":"1","text":"Ten misericordia de mi, Dios, porque algunas personas me persiguen; mis enemigos pelean contra mí todo el día."},{"verse":"2","text":"Me persiguen todo el tiempo, y son muchos, me atacan con su altivez.56:2 La palabra que se usa aquí significa “altura” y se refiere a superioridad o arrogancia."},{"verse":"3","text":"Pero cuando tengo miedo, confío en ti."},{"verse":"4","text":"Agradezco a Dios por sus promesas. Confío en Dios, así que, ¿Por qué debería temer? ¿Qué pueden hacerme los simples seres humanos?56:4 Literalmente, “carne”."},{"verse":"5","text":"Constantemente cambian mis palabras en mi contra; pasan todo el día pensando en qué cosas malas pueden hacerme."},{"verse":"6","text":"Se reúnen en sus escondites para espiarme, esperando a matarme."},{"verse":"7","text":"¿Escaparán cuando hayan hecho mucho mal? Dios, ¡Derriba a esta gente con furia!"},{"verse":"8","text":"Has mantenido la pista de todas mis andanzas. Has recogido todas mis lágrimas en tu botella.56:8 Para registrar el grado de tristeza del salmista. Has mantenido un registro de cada una."},{"verse":"9","text":"Entonces todos aquellos que me odian huirán cuando clame a ti pidiendo ayuda. Porque esto sé: ¡Dios siempre está para mí!"},{"verse":"10","text":"Agradezco a Dios por sus promesas. Agradezco al Señor por sus promesas."},{"verse":"11","text":"Confío en el Señor, así que, ¿Por qué debería temer? ¿Qué pueden los simples humanos hacerme?"},{"verse":"12","text":"Dios, mantendré mis promesas. Te daré ofrendas de agradecimiento,"},{"verse":"13","text":"porque me has salvado de la muerte y me has sostenido para que no caiga. Ahora camino en la presencia de Dios, en la luz que da vida."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 56,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Ten misericordia de mi, Dios, porque algunas personas me persiguen; mis enemigos pelean contra mí todo el día.",
+      "strong": [
+        "H3045",
+        "H2617",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5315",
+        "H5921",
+        "H7291",
+        "H0589",
+        "H0341",
+        "H3898",
+        "H5921",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Me persiguen todo el tiempo, y son muchos, me atacan con su altivez.",
+      "strong": [
+        "H3588",
+        "H7291",
+        "H3605",
+        "H3588",
+        "H3117",
+        "H3588",
+        "H3588",
+        "H7227",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7311"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Pero cuando tengo miedo, confío en ti.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2803",
+        "H4032",
+        "H0982",
+        "H3588",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Agradezco a Dios por sus promesas. Confío en Dios, así que, ¿Por qué debería temer? ¿Qué pueden hacerme los simples seres humanos?",
+      "strong": [
+        "H0413",
+        "H0430",
+        "H5921",
+        "H1931",
+        "H0982",
+        "H5921",
+        "H0430",
+        "H3541",
+        "H3117",
+        "H5921",
+        "H3117",
+        "H3117",
+        "H3201",
+        "H6213",
+        "H0582",
+        "H6612",
+        "H5315",
+        "H1397"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Constantemente cambian mis palabras en mi contra; pasan todo el día pensando en qué cosas malas pueden hacerme.",
+      "strong": [
+        "H0589",
+        "H1697",
+        "H5921",
+        "H0589",
+        "H5921",
+        "H5674",
+        "H3605",
+        "H6213",
+        "H3117",
+        "H5921",
+        "H4100",
+        "H1697",
+        "H7451",
+        "H3201",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Se reúnen en sus escondites para espiarme, esperando a matarme.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H1931",
+        "H5921",
+        "H6960",
+        "H5921",
+        "H2026"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¿Escaparán cuando hayan hecho mucho mal? Dios, ¡Derriba a esta gente con furia!",
+      "strong": [
+        "H4422",
+        "H3588",
+        "H5315",
+        "H3966",
+        "H7451",
+        "H0430",
+        "H3381",
+        "H0413",
+        "H1992",
+        "H1471",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Has mantenido la pista de todas mis andanzas. Has recogido todas mis lágrimas en tu botella. Has mantenido un registro de cada una.",
+      "strong": [
+        "H4191",
+        "H5921",
+        "H5921",
+        "H3605",
+        "H0589",
+        "H4191",
+        "H0622",
+        "H3605",
+        "H0589",
+        "H1832",
+        "H5921",
+        "H0859",
+        "H4191",
+        "H0259",
+        "H5921",
+        "H3605",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Entonces todos aquellos que me odian huirán cuando clame a ti pidiendo ayuda. Porque esto sé: ¡Dios siempre está para mí!",
+      "strong": [
+        "H0227",
+        "H3605",
+        "H0479",
+        "H3808",
+        "H0413",
+        "H5251",
+        "H3588",
+        "H7121",
+        "H7760",
+        "H0859",
+        "H7592",
+        "H5828",
+        "H3808",
+        "H2063",
+        "H3808",
+        "H0430",
+        "H5769",
+        "H2063",
+        "H5704",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Agradezco a Dios por sus promesas. Agradezco al Señor por sus promesas.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H3588",
+        "H1931",
+        "H0413",
+        "H0113",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Confío en el Señor, así que, ¿Por qué debería temer? ¿Qué pueden los simples humanos hacerme?",
+      "strong": [
+        "H0982",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H3541",
+        "H1697",
+        "H1697",
+        "H1697",
+        "H1697",
+        "H3201",
+        "H0582",
+        "H6612",
+        "H1397",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Dios, mantendré mis promesas. Te daré ofrendas de agradecimiento,",
+      "strong": [
+        "H0430",
+        "H0589",
+        "H0859",
+        "H5414",
+        "H4979",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "porque me has salvado de la muerte y me has sostenido para que no caiga. Ahora camino en la presencia de Dios, en la luz que da vida.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H4191",
+        "H5921",
+        "H5921",
+        "H4194",
+        "H5921",
+        "H5921",
+        "H4191",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5307",
+        "H6258",
+        "H1870",
+        "H5921",
+        "H5921",
+        "H6440",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H0216",
+        "H5921",
+        "H5414",
+        "H5315"
+      ]
+    }
+  ]
+}

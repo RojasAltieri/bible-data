@@ -1,1 +1,550 @@
-{"version":"spa-vbl","book":"proverbs","chapter":17,"data":[{"verse":"1","text":"Mejor es comer un trozo seco de comida en paz, que un banquete en una casa llena de conflictos."},{"verse":"2","text":"Un siervo que actúa con sabiduría se hará cargo del hijo que ha caído en desgracia, y compartirá la herencia de la familia con los hermanos."},{"verse":"3","text":"El crisol sirve para probar la plata, y un horno para probar el oro; pero el Señor prueba las mentes."},{"verse":"4","text":"Las personas malvadas escuchan las palabras dañinas; y los mentirosos escuchan las palabras de maldad."},{"verse":"5","text":"Todo aquél que oprime al pobre, insulta a su Hacedor; y el que disfruta viendo el sufrimiento de otros será castigado."},{"verse":"6","text":"Los ancianos se alegran de sus nietos, y los hijos sienten orgullo de sus padres."},{"verse":"7","text":"Las palabras sofisticadas no lucen en la boca de los tontos; mucho menos las mentiras deben estar en labios de un gobernante."},{"verse":"8","text":"Los que practican el soborno creen que tienen una piedra mágica, y creen que tendrán éxito dondequiera que vayan."},{"verse":"9","text":"Si perdonas un mal, cosecharás una amistad; pero si sigues hablando de la ofensa, perderás a tu amigo."},{"verse":"10","text":"Duele más un solo reproche al que es inteligente, que cien golpes a un tonto."},{"verse":"11","text":"Los malvados solo piensan en rebelarse, por eso un mensajero cruel17:11.“Mensajero cruel”: quizás refiriéndose a la muerte. será enviado para atacarlos."},{"verse":"12","text":"Mejor es encontrarte con una madre oso a quien le han robado sus hijos, que con una persona estúpida."},{"verse":"13","text":"Si pagas con mal el bien, el mal nunca saldrá de tu casa."},{"verse":"14","text":"El comienzo de una discordia es como la primera grieta en una presa de agua, así que abandónala antes de que la discusión estalle."},{"verse":"15","text":"El Señor odia cuando los malvados son absueltos y los inocentes son condenados."},{"verse":"16","text":"¿Tiene sentido que los tontos traten de comprar sabiduría cuando ni siquiera quieren aprender?"},{"verse":"17","text":"Un verdadero amigo estará siempre allí para amarte, y la familia17:17.“Familia”: Literalmente, “un hermano”. te ayudará en momentos de tribulación."},{"verse":"18","text":"No es sabio comprometerse y ser fiador de la deuda del prójimo."},{"verse":"19","text":"A los que aman el pecado les gusta el pleito. Los que construyen muros altos invitan a la destrucción.17:19.El significado de la segunda línea no está claro en el original."},{"verse":"20","text":"Las personas con mentes perversas no tendrán éxito; Los mentirosos se meterán en problemas."},{"verse":"21","text":"Un hijo tonto acarrea tristeza para tu padre; el padre de un hijo que actúa con necedad no vivirá con alegría."},{"verse":"22","text":"Un corazón alegre es buena medicina; pero el desánimo te enfermará.17:22.“Te enfermará”: Literalmente, “seca los huesos”."},{"verse":"23","text":"Los malvados toman botines ocultos para tergiversar el curso de la justicia."},{"verse":"24","text":"Los prudentes están atentos a la sabiduría, pero los ojos de los tontos siempre están divagando."},{"verse":"25","text":"Un hijo tonto acarrea vergüenza a su padre, y tristeza a la madre que lo parió."},{"verse":"26","text":"No es correcto imponer una multa a una persona inocente ni flagelar a los líderes buenos por su honestidad."},{"verse":"27","text":"Si eres sabio, cuidarás tus palabras; y si eres prudente, cuidarás tu temperamento."},{"verse":"28","text":"Hasta los tontos son considerados sabios cuando callan; y al no decir nada, aparentan inteligencia."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 17,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Mejor es comer un trozo seco de comida en paz, que un banquete en una casa llena de conflictos.",
+      "strong": [
+        "H2896",
+        "H1961",
+        "H0398",
+        "H0259",
+        "H2720",
+        "H4480",
+        "H6720",
+        "H5921",
+        "H7965",
+        "H0834",
+        "H0259",
+        "H4960",
+        "H5921",
+        "H0259",
+        "H1004",
+        "H4392",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Un siervo que actúa con sabiduría se hará cargo del hijo que ha caído en desgracia, y compartirá la herencia de la familia con los hermanos.",
+      "strong": [
+        "H0259",
+        "H5650",
+        "H1121",
+        "H5973",
+        "H2451",
+        "H3045",
+        "H6213",
+        "H3027",
+        "H4480",
+        "H1121",
+        "H1121",
+        "H3541",
+        "H5307",
+        "H8432",
+        "H1571",
+        "H1931",
+        "H5159",
+        "H1121",
+        "H1931",
+        "H1004",
+        "H5973",
+        "H1121",
+        "H0251"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El crisol sirve para probar la plata, y un horno para probar el oro; pero el Señor prueba las mentes.",
+      "strong": [
+        "H1931",
+        "H3276",
+        "H5704",
+        "H1931",
+        "H3701",
+        "H1571",
+        "H0259",
+        "H8574",
+        "H5704",
+        "H1931",
+        "H2091",
+        "H3588",
+        "H1931",
+        "H3068",
+        "H0974",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Las personas malvadas escuchan las palabras dañinas; y los mentirosos escuchan las palabras de maldad.",
+      "strong": [
+        "H5921",
+        "H5315",
+        "H7181",
+        "H5921",
+        "H1697",
+        "H5921",
+        "H5921",
+        "H8267",
+        "H7181",
+        "H5921",
+        "H1697",
+        "H5921",
+        "H5771"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Todo aquél que oprime al pobre, insulta a su Hacedor; y el que disfruta viendo el sufrimiento de otros será castigado.",
+      "strong": [
+        "H3605",
+        "H6213",
+        "H3808",
+        "H5352",
+        "H7326",
+        "H0413",
+        "H1931",
+        "H6213",
+        "H1571",
+        "H6213",
+        "H3808",
+        "H7200",
+        "H6213",
+        "H4480",
+        "H0312",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los ancianos se alegran de sus nietos, y los hijos sienten orgullo de sus padres.",
+      "strong": [
+        "H1121",
+        "H2205",
+        "H3045",
+        "H8055",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1931",
+        "H0001"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Las palabras sofisticadas no lucen en la boca de los tontos; mucho menos las mentiras deben estar en labios de un gobernante.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H8193",
+        "H3588",
+        "H3588",
+        "H3499",
+        "H3588",
+        "H1992",
+        "H8267",
+        "H3588",
+        "H8193",
+        "H3588",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los que practican el soborno creen que tienen una piedra mágica, y creen que tendrán éxito dondequiera que vayan.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H3605",
+        "H7810",
+        "H3605",
+        "H1992",
+        "H0259",
+        "H0068",
+        "H1571",
+        "H3605",
+        "H1961",
+        "H3605",
+        "H3212"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Si perdonas un mal, cosecharás una amistad; pero si sigues hablando de la ofensa, perderás a tu amigo.",
+      "strong": [
+        "H0518",
+        "H0259",
+        "H7451",
+        "H0259",
+        "H0160",
+        "H3588",
+        "H0518",
+        "H1696",
+        "H8138",
+        "H1931",
+        "H6588",
+        "H0413",
+        "H0859",
+        "H7453"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Duele más un solo reproche al que es inteligente, que cien golpes a un tonto.",
+      "strong": [
+        "H5750",
+        "H0259",
+        "H0910",
+        "H0413",
+        "H0834",
+        "H1961",
+        "H0834",
+        "H3967",
+        "H0413",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Los malvados solo piensan en rebelarse, por eso un mensajero cruel será enviado para atacarlos.",
+      "strong": [
+        "H0582",
+        "H0910",
+        "H1897",
+        "H5921",
+        "H5921",
+        "H3651",
+        "H0259",
+        "H4397",
+        "H0393",
+        "H1961",
+        "H7971",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Mejor es encontrarte con una madre oso a quien le han robado sus hijos, que con una persona estúpida.",
+      "strong": [
+        "H2896",
+        "H1961",
+        "H5973",
+        "H0259",
+        "H0517",
+        "H1677",
+        "H0413",
+        "H4310",
+        "H0413",
+        "H4191",
+        "H1931",
+        "H1121",
+        "H0834",
+        "H5973",
+        "H0259",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Si pagas con mal el bien, el mal nunca saldrá de tu casa.",
+      "strong": [
+        "H3808",
+        "H7999",
+        "H5973",
+        "H7451",
+        "H1931",
+        "H2896",
+        "H1931",
+        "H7451",
+        "H3808",
+        "H3318",
+        "H8478",
+        "H0859",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "El comienzo de una discordia es como la primera grieta en una presa de agua, así que abandónala antes de que la discusión estalle.",
+      "strong": [
+        "H1931",
+        "H2490",
+        "H6440",
+        "H0259",
+        "H1961",
+        "H0349",
+        "H1931",
+        "H7223",
+        "H5921",
+        "H0259",
+        "H0957",
+        "H6440",
+        "H4325",
+        "H3541",
+        "H4325",
+        "H6440",
+        "H6440",
+        "H4325",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "El Señor odia cuando los malvados son absueltos y los inocentes son condenados.",
+      "strong": [
+        "H1571",
+        "H3068",
+        "H1571",
+        "H0582",
+        "H1961",
+        "H1571",
+        "H0582",
+        "H1961",
+        "H5377"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "¿Tiene sentido que los tontos traten de comprar sabiduría cuando ni siquiera quieren aprender?",
+      "strong": [
+        "H7069",
+        "H4100",
+        "H0582",
+        "H4480",
+        "H2451",
+        "H4100",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Un verdadero amigo estará siempre allí para amarte, y la familia te ayudará en momentos de tribulación.",
+      "strong": [
+        "H0259",
+        "H0529",
+        "H7453",
+        "H3605",
+        "H3605",
+        "H8033",
+        "H5704",
+        "H1571",
+        "H3605",
+        "H1004",
+        "H0859",
+        "H5921",
+        "H6256",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "No es sabio comprometerse y ser fiador de la deuda del prójimo.",
+      "strong": [
+        "H6440",
+        "H1961",
+        "H2450",
+        "H1571",
+        "H5315",
+        "H6440",
+        "H1931",
+        "H3027",
+        "H4480",
+        "H7453"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "A los que aman el pecado les gusta el pleito. Los que construyen muros altos invitan a la destrucción.",
+      "strong": [
+        "H0413",
+        "H0582",
+        "H0834",
+        "H2001",
+        "H1931",
+        "H6588",
+        "H0413",
+        "H2938",
+        "H1931",
+        "H6588",
+        "H0582",
+        "H0834",
+        "H2346",
+        "H1116",
+        "H0413",
+        "H1931",
+        "H7701"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Las personas con mentes perversas no tendrán éxito; Los mentirosos se meterán en problemas.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H5973",
+        "H3808",
+        "H1961",
+        "H0582",
+        "H8267",
+        "H3808",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Un hijo tonto acarrea tristeza para tu padre; el padre de un hijo que actúa con necedad no vivirá con alegría.",
+      "strong": [
+        "H0259",
+        "H3205",
+        "H5414",
+        "H3015",
+        "H5704",
+        "H0859",
+        "H0001",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H0259",
+        "H3205",
+        "H3808",
+        "H5973",
+        "H0200",
+        "H3808",
+        "H2421",
+        "H5973",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Un corazón alegre es buena medicina; pero el desánimo te enfermará.",
+      "strong": [
+        "H0259",
+        "H3820",
+        "H8056",
+        "H1961",
+        "H2896",
+        "H0724",
+        "H3588",
+        "H1931",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Los malvados toman botines ocultos para tergiversar el curso de la justicia.",
+      "strong": [
+        "H0582",
+        "H5375",
+        "H5704",
+        "H1931",
+        "H4480",
+        "H1931",
+        "H4941"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los prudentes están atentos a la sabiduría, pero los ojos de los tontos siempre están divagando.",
+      "strong": [
+        "H0582",
+        "H0998",
+        "H1961",
+        "H7181",
+        "H5869",
+        "H2451",
+        "H2451",
+        "H3588",
+        "H0582",
+        "H5869",
+        "H6440",
+        "H0582",
+        "H5769",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Un hijo tonto acarrea vergüenza a su padre, y tristeza a la madre que lo parió.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H5414",
+        "H0955",
+        "H0413",
+        "H1931",
+        "H0001",
+        "H1571",
+        "H3015",
+        "H0413",
+        "H1931",
+        "H0517",
+        "H1121",
+        "H1931",
+        "H3205"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "No es correcto imponer una multa a una persona inocente ni flagelar a los líderes buenos por su honestidad.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H0259",
+        "H5921",
+        "H0259",
+        "H5315",
+        "H5355",
+        "H3808",
+        "H5921",
+        "H5921",
+        "H2896",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Si eres sabio, cuidarás tus palabras; y si eres prudente, cuidarás tu temperamento.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H2450",
+        "H0859",
+        "H1697",
+        "H1571",
+        "H0518",
+        "H0859",
+        "H8394",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Hasta los tontos son considerados sabios cuando callan; y al no decir nada, aparentan inteligencia.",
+      "strong": [
+        "H5704",
+        "H2450",
+        "H1961",
+        "H2450",
+        "H1571",
+        "H1571",
+        "H0413",
+        "H3808",
+        "H0559",
+        "H3808",
+        "H0998"
+      ]
+    }
+  ]
+}

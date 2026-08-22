@@ -1,1 +1,777 @@
-{"version":"spa-vbl","book":"1-chronicles","chapter":7,"data":[{"verse":"1","text":"Los hijos de Isacar: Tola, Púa, Jasub y Simrón, un total de cuatro."},{"verse":"2","text":"Los hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Ibsam y Samuel, quienes eran jefes de sus familias. En la época de David, los descendientes de Tola enumeraban en su genealogía un total de 22.600 guerreros."},{"verse":"3","text":"El hijo de Uzi: Israhías."},{"verse":"4","text":"Tenían muchas esposas e hijos, por lo que en su genealogía figuran 36.000 hombres de combate listos para la batalla."},{"verse":"5","text":"Los parientes guerreros de todas las familias de Isacar, según su genealogía, eran 87.000 en total."},{"verse":"6","text":"Tres hijos de Benjamín: Bela, Bequer y Jediael."},{"verse":"7","text":"Los hijos de Bela: Ezbón, Uzi, Uziel, Jerimot e Iri, quienes eran jefes de sus familias, y eran un total de cinco. Tenían 22.034 combatientes según su genealogía."},{"verse":"8","text":"Los hijos de Bequer: Zemira, Joás, Eliezer, Elioenai, Omrí, Jerimot, Abías, Anatot y Alemet. Todos ellos fueron los hijos de Bequer."},{"verse":"9","text":"Su genealogía incluía a los jefes de familia y a 20.200 combatientes."},{"verse":"10","text":"El hijo de Jediael: Bilhán."},{"verse":"11","text":"Todos estos hijos de Jediael eran jefes de sus familias. Tenían 17.200 guerreros listos para la batalla."},{"verse":"12","text":"Supim y Hupim eran los hijos de Ir, y Husim era hijo de Aher."},{"verse":"13","text":"Los hijos de Neftalí: Jahziel, Guni, Jezer y Salum,7:13.“Salum”: o “Silem”. quienes eran los descendientes de Bilha."},{"verse":"14","text":"Los hijos de Manasés: Asriel, cuya madre era su concubina aramea. También fue la madre de Maquir, el padre de Galaad."},{"verse":"15","text":"Maquir encontró una esposa para Hupim y otra para Suppim. Su hermana se llamaba Maaca. La segunda se llamaba Zelofehad. Él solo tuvo hijas.7:15.El texto hebreo de este verso es muy poco claro."},{"verse":"16","text":"Maaca, la esposa de Maquir, tuvo un hijo y lo llamó Peres. Su hermano se llamaba Seres, y sus hijos fueron Ulam y Raquem."},{"verse":"17","text":"El hijo de Ulam: Bedan."},{"verse":"18","text":"Su hermana Hamolequet fue la madre de Isod, Abiezer y Mahala."},{"verse":"19","text":"Los hijos de Semida fueron: Ahian, Siquem, Likhi y Aniam."},{"verse":"20","text":"Los descendientes de Efraín fueron: Sutela, su hijo Bered, su hijo Tahat, su hijo Elead, su hijo Tahat,"},{"verse":"21","text":"su hijo Zabad y su hijo Sutela. Ezer y Elead fueron asesinados por los hombres que vivían en Gat cuando fueron allí a tratar de robar su ganado."},{"verse":"22","text":"Su padre Efraín los lloró durante mucho tiempo, y sus parientes fueron a consolarlo."},{"verse":"23","text":"Luego volvió a acostarse con su mujer. Ella quedó embarazada y dio a luz un hijo, al que llamó Bería por esta tragedia familiar."},{"verse":"24","text":"Seera, su hija, fundó la parte baja y alta de Bet Horon junto con Uzen-Seera."},{"verse":"25","text":"Sus desciendientes fueron: Refa su hioj, Resef su hijo,7:25.“Su hijo”: Lectura de la Septuaginta. Falta en el texto hebreo. Telah su hijo, Tahan su hijo,"},{"verse":"26","text":"Ladan su hijo, Amiud su hijo, Elisama su hijo,"},{"verse":"27","text":"Nun su hijo y Josué su hijo."},{"verse":"28","text":"La tierra que poseían y los lugares donde vivían incluían Betel y las ciudades cercanas, desde Naarán al este hasta Gezer y sus ciudades al oeste, y Siquem y sus ciudades hasta Aya y sus ciudades."},{"verse":"29","text":"En la frontera con Manasés estaban Bet-San, Taanac, Meguido y Dor, junto con sus ciudades. Estas eran las ciudades donde vivían los descendientes de José hijo de Israel."},{"verse":"30","text":"Los hijos de Aser: Imna, Isúa, Isúi y Bería. Su hermana era Sera."},{"verse":"31","text":"Los hijos de Bería: Heber y Malquiel, el padre de Birzavit."},{"verse":"32","text":"Heber fue el padre de Jaflet, Somer y Hotam, y de su hermana Súa."},{"verse":"33","text":"Los hijos de Jaflet: Pasac, Bimhal y Asvat. Todos estos fueron Los hijos de Jaflet."},{"verse":"34","text":"Los hijos de Somer: Ahi,7:34.“Los hijos de Somer: Ahí:” o “Los hijos de Somer, su hermano:” Rohga, Jeúba y Aram."},{"verse":"35","text":"Los hijos de su hermano Helem: Zofa, Imna, Seles y Amal."},{"verse":"36","text":"Los hijos de Zofa: Súa, Harnefer, Súal, Beri, Imra,"},{"verse":"37","text":"Beser, Hod, Sama, Silsa, Itrán y Beera."},{"verse":"38","text":"Los hijos de Jeter fueron Jefone, Pispa y Ara."},{"verse":"39","text":"Los hijos de Ula fueron Ara, Haniel y Rezia."},{"verse":"40","text":"Todos ellos eran descendientes de los jefes de familia de Aser, hombres selectos, fuertes guerreros y grandes líderes. Según su genealogía, tenían 26.000 guerreros listos para la batalla."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-chronicles",
+  "chapter": 7,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los hijos de Isacar: Tola, Púa, Jasub y Simrón, un total de cuatro.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H8439",
+        "H3437",
+        "H1571",
+        "H0259",
+        "H1121",
+        "H0702"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Los hijos de Tola: Uzi, Refaías, Jeriel, Jahmai, Ibsam y Samuel, quienes eran jefes de sus familias. En la época de David, los descendientes de Tola enumeraban en su genealogía un total de 22.600 guerreros.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H8439",
+        "H3400",
+        "H1571",
+        "H8050",
+        "H4310",
+        "H1961",
+        "H7218",
+        "H1121",
+        "H1931",
+        "H1004",
+        "H5921",
+        "H1931",
+        "H1121",
+        "H1732",
+        "H1121",
+        "H6631",
+        "H1121",
+        "H8439",
+        "H5921",
+        "H1931",
+        "H0259",
+        "H1121",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El hijo de Uzi: Israhías. Los hijos de Israhías: Miguel, Obadías, Joel e Isías. Los cinco eran jefes de familia.",
+      "strong": [
+        "H3605",
+        "H1121",
+        "H2568",
+        "H1121",
+        "H1121",
+        "H2568",
+        "H4317",
+        "H5662",
+        "H3100",
+        "H0834",
+        "H3449",
+        "H1121",
+        "H2568",
+        "H1961",
+        "H7218",
+        "H2568",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tenían muchas esposas e hijos, por lo que en su genealogía figuran 36.000 hombres de combate listos para la batalla.",
+      "strong": [
+        "H1961",
+        "H7235",
+        "H0834",
+        "H1121",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H3588",
+        "H1121",
+        "H5921",
+        "H4634",
+        "H5921",
+        "H5921",
+        "H4421"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los parientes guerreros de todas las familias de Isacar, según su genealogía, eran 87.000 en total.",
+      "strong": [
+        "H3605",
+        "H6213",
+        "H4480",
+        "H3605",
+        "H1992",
+        "H4940",
+        "H4480",
+        "H5921",
+        "H1931",
+        "H1961",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Tres hijos de Benjamín: Bela, Bequer y Jediael.",
+      "strong": [
+        "H7969",
+        "H1121",
+        "H4480",
+        "H1144",
+        "H1106",
+        "H1571",
+        "H3043"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los hijos de Bela: Ezbón, Uzi, Uziel, Jerimot e Iri, quienes eran jefes de sus familias, y eran un total de cinco. Tenían 22.034 combatientes según su genealogía.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H2568",
+        "H1106",
+        "H0834",
+        "H4310",
+        "H1961",
+        "H7218",
+        "H2568",
+        "H1931",
+        "H1004",
+        "H1571",
+        "H1961",
+        "H0259",
+        "H2568",
+        "H2568",
+        "H1961",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los hijos de Bequer: Zemira, Joás, Eliezer, Elioenai, Omrí, Jerimot, Abías, Anatot y Alemet. Todos ellos fueron los hijos de Bequer.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2160",
+        "H3135",
+        "H0461",
+        "H0454",
+        "H6018",
+        "H0029",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Su genealogía incluía a los jefes de familia y a 20.200 combatientes.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H0582",
+        "H7218",
+        "H4480",
+        "H1004",
+        "H1571",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El hijo de Jediael: Bilhán. Los hijos de Bilhán: Jeús, Benjamín, Aod, Quenaana, Zetán, Tarsis y Ahisahar.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3043",
+        "H1092",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1092",
+        "H3266",
+        "H1144",
+        "H0164",
+        "H8659",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Todos estos hijos de Jediael eran jefes de sus familias. Tenían 17.200 guerreros listos para la batalla.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H1121",
+        "H1121",
+        "H3043",
+        "H1961",
+        "H7218",
+        "H1121",
+        "H1931",
+        "H4940",
+        "H1961",
+        "H6213",
+        "H5704",
+        "H3605",
+        "H4421"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Supim y Hupim eran los hijos de Ir, y Husim era hijo de Aher.",
+      "strong": [
+        "H1571",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3212",
+        "H1571",
+        "H2366",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los hijos de Neftalí: Jahziel, Guni, Jezer y Salum, quienes eran los descendientes de Bilha.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3337",
+        "H7967",
+        "H1571",
+        "H4310",
+        "H1961",
+        "H1121",
+        "H6631",
+        "H1121",
+        "H1090"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Los hijos de Manasés: Asriel, cuya madre era su concubina aramea. También fue la madre de Maquir, el padre de Galaad.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H4519",
+        "H0844",
+        "H0834",
+        "H0517",
+        "H1121",
+        "H1931",
+        "H6370",
+        "H1571",
+        "H1961",
+        "H1931",
+        "H0517",
+        "H1121",
+        "H1121",
+        "H0001",
+        "H1121",
+        "H1568"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Maquir encontró una esposa para Hupim y otra para Suppim. Su hermana se llamaba Maaca. La segunda se llamaba Zelofehad. Él solo tuvo hijas.",
+      "strong": [
+        "H0259",
+        "H3618",
+        "H1961",
+        "H1571",
+        "H8145",
+        "H1961",
+        "H1931",
+        "H0269",
+        "H1961",
+        "H8034",
+        "H1931",
+        "H8145",
+        "H1961",
+        "H8034",
+        "H1931",
+        "H0910",
+        "H1961",
+        "H1323"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Maaca, la esposa de Maquir, tuvo un hijo y lo llamó Peres. Su hermano se llamaba Seres, y sus hijos fueron Ulam y Raquem.",
+      "strong": [
+        "H1931",
+        "H3618",
+        "H1121",
+        "H1961",
+        "H0259",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H7121",
+        "H6570",
+        "H1931",
+        "H0251",
+        "H3045",
+        "H7121",
+        "H5315",
+        "H1571",
+        "H1931",
+        "H1121",
+        "H1961",
+        "H0198",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "El hijo de Ulam: Bedan. Todos estos fueron los hijos de Galaad, hijo de Maquir, hijo de Manasés.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H0198",
+        "H3605",
+        "H0428",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1568",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H4519"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Su hermana Hamolequet fue la madre de Isod, Abiezer y Mahala.",
+      "strong": [
+        "H1931",
+        "H0269",
+        "H1961",
+        "H1931",
+        "H0517",
+        "H4480",
+        "H0044",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Los hijos de Semida fueron: Ahian, Siquem, Likhi y Aniam.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1961",
+        "H0291",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Los descendientes de Efraín fueron: Sutela, su hijo Bered, su hijo Tahat, su hijo Elead, su hijo Tahat,",
+      "strong": [
+        "H1121",
+        "H6631",
+        "H1121",
+        "H1961",
+        "H1931",
+        "H1121",
+        "H1260",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "su hijo Zabad y su hijo Sutela. Ezer y Elead fueron asesinados por los hombres que vivían en Gat cuando fueron allí a tratar de robar su ganado.",
+      "strong": [
+        "H3588",
+        "H1121",
+        "H2066",
+        "H3588",
+        "H3588",
+        "H1121",
+        "H5827",
+        "H3588",
+        "H1961",
+        "H3588",
+        "H1121",
+        "H1121",
+        "H3588",
+        "H3427",
+        "H3588",
+        "H3588",
+        "H1961",
+        "H8033",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H4735"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Su padre Efraín los lloró durante mucho tiempo, y sus parientes fueron a consolarlo.",
+      "strong": [
+        "H1931",
+        "H0001",
+        "H0582",
+        "H1058",
+        "H7227",
+        "H3117",
+        "H1571",
+        "H1931",
+        "H1961",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Luego volvió a acostarse con su mujer. Ella quedó embarazada y dio a luz un hijo, al que llamó Bería por esta tragedia familiar.",
+      "strong": [
+        "H4994",
+        "H7725",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0802",
+        "H1931",
+        "H1961",
+        "H2029",
+        "H3588",
+        "H5414",
+        "H3588",
+        "H0216",
+        "H0259",
+        "H1121",
+        "H0413",
+        "H3588",
+        "H7121",
+        "H1283",
+        "H3588",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Seera, su hija, fundó la parte baja y alta de Bet Horon junto con Uzen-Seera.",
+      "strong": [
+        "H1931",
+        "H1323",
+        "H1129",
+        "H1931",
+        "H2677",
+        "H8482",
+        "H1571",
+        "H1419",
+        "H4480",
+        "H5921",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Sus desciendientes fueron: Refa su hioj, Resef su hijo, Telah su hijo, Tahan su hijo,",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H1931",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Ladan su hijo, Amiud su hijo, Elisama su hijo,",
+      "strong": [
+        "H3936",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H0476",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Nun su hijo y Josué su hijo.",
+      "strong": [
+        "H5126",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H3091",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "La tierra que poseían y los lugares donde vivían incluían Betel y las ciudades cercanas, desde Naarán al este hasta Gezer y sus ciudades al oeste, y Siquem y sus ciudades hasta Aya y sus ciudades.",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H5704",
+        "H5704",
+        "H0582",
+        "H5892",
+        "H0834",
+        "H3427",
+        "H5704",
+        "H1992",
+        "H5892",
+        "H5704",
+        "H5295",
+        "H5704",
+        "H4217",
+        "H5704",
+        "H1507",
+        "H5704",
+        "H1931",
+        "H5892",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H1931",
+        "H5892",
+        "H5704",
+        "H5704",
+        "H1931",
+        "H5892"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "En la frontera con Manasés estaban Bet-San, Taanac, Meguido y Dor, junto con sus ciudades. Estas eran las ciudades donde vivían los descendientes de José hijo de Israel.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4519",
+        "H3427",
+        "H5921",
+        "H1756",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H5892",
+        "H0428",
+        "H1961",
+        "H5921",
+        "H5892",
+        "H5921",
+        "H3427",
+        "H3427",
+        "H6631",
+        "H5921",
+        "H3130",
+        "H1121",
+        "H5921",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Los hijos de Aser: Imna, Isúa, Isúi y Bería. Su hermana era Sera.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H0836",
+        "H3232",
+        "H3438",
+        "H3440",
+        "H1571",
+        "H1283",
+        "H1931",
+        "H0269",
+        "H1121",
+        "H8294"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Los hijos de Bería: Heber y Malquiel, el padre de Birzavit.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1283",
+        "H2268",
+        "H1571",
+        "H1931",
+        "H0001",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Heber fue el padre de Jaflet, Somer y Hotam, y de su hermana Súa.",
+      "strong": [
+        "H2268",
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H1571",
+        "H1571",
+        "H4480",
+        "H1931",
+        "H0269",
+        "H7770"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Los hijos de Jaflet: Pasac, Bimhal y Asvat. Todos estos fueron Los hijos de Jaflet.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H6457",
+        "H1118",
+        "H1571",
+        "H3605",
+        "H0428",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Los hijos de Somer: Ahi, Rohga, Jeúba y Harán.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H8033",
+        "H1571",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "Los hijos de su hermano Helem: Zofa, Imna, Seles y Amal.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1931",
+        "H0251",
+        "H3234",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "36",
+      "text": "Los hijos de Zofa: Súa, Harnefer, Súal, Beri, Imra,",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5477",
+        "H7777",
+        "H1275",
+        "H3236"
+      ]
+    },
+    {
+      "verse": "37",
+      "text": "Beser, Hod, Sama, Silsa, Itrán y Beera.",
+      "strong": [
+        "H1221",
+        "H1936",
+        "H8030",
+        "H1571",
+        "H0880"
+      ]
+    },
+    {
+      "verse": "38",
+      "text": "Los hijos de Jeter fueron Jefone, Pispa y Ara.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3500",
+        "H1961",
+        "H6462",
+        "H1571",
+        "H2790"
+      ]
+    },
+    {
+      "verse": "39",
+      "text": "Los hijos de Ula fueron Ara, Haniel y Rezia.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1961",
+        "H2790",
+        "H2592",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "40",
+      "text": "Todos ellos eran descendientes de los jefes de familia de Aser, hombres selectos, fuertes guerreros y grandes líderes. Según su genealogía, tenían 26.000 guerreros listos para la batalla.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H1961",
+        "H6631",
+        "H1121",
+        "H1121",
+        "H7218",
+        "H1121",
+        "H1004",
+        "H1121",
+        "H0836",
+        "H1368",
+        "H2428",
+        "H6213",
+        "H1571",
+        "H1419",
+        "H5921",
+        "H1931",
+        "H1961",
+        "H6213",
+        "H5704",
+        "H3605",
+        "H4421"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,309 @@
-{"version":"spa-vbl","book":"job","chapter":23,"data":[{"verse":"1","text":"Job contestó:"},{"verse":"2","text":"“De todos modos, mis quejas hoy siguen siendo amargas. A pesar de mis gemidos, me sigue castigando.23:2 Literalmente, “su mano pesa sobre mí”."},{"verse":"3","text":"Si supiera dónde puedo encontrarlo para ir a donde se sienta a juzgar."},{"verse":"4","text":"Allí expondría mi caso ante él y presentaría todos mis argumentos en su totalidad."},{"verse":"5","text":"Descubriría cómo me respondería y aprendería lo que tiene que decirme."},{"verse":"6","text":"¿Lucharía contra mí usando su poderosa fuerza? No, prestaría atención a lo que tengo que decir."},{"verse":"7","text":"Allí una buena23:7 O “recta”. persona podría razonar con él, y yo sería absuelto para siempre por mi juez."},{"verse":"8","text":"Si voy al este, él no está; si voy al oeste, no lo encuentro."},{"verse":"9","text":"Si está trabajando en el norte, no lo distingo; si va al sur, no lo veo."},{"verse":"10","text":"“Sin embargo, él siempre sabe a dónde voy. Cuando me haya probado, saldré brillante como el oro.23:10 La imagen es la de una prueba de oro en un crisol: una vez quemadas las impurezas, el oro líquido tiene una superficie brillante."},{"verse":"11","text":"Me he mantenido al paso con él; he seguido su camino sin desviarme."},{"verse":"12","text":"No he descuidado sus mandatos, porque valoro más lo que me ha ordenado que el alimento que como cada día."},{"verse":"13","text":"“Pero Dios es inmutable: ¿quién puede desviarlo de sus propósitos? Él hace todo lo que quiere hacer."},{"verse":"14","text":"Así que terminará lo que ha planeado para mí, y tiene muchos planes para mí."},{"verse":"15","text":"Por eso me aterra encontrarme con él;23:15 Literalmente, “su presencia”. cuando pienso en él tiemblo de miedo."},{"verse":"16","text":"Dios me ha hecho desfallecer; el Todopoderoso me ha hecho morir de miedo."},{"verse":"17","text":"Sin embargo, sigo aquí a pesar de la oscuridad, aunque no pueda ver a través de la oscuridad total”.23:17 El hebreo aquí es difícil: “Porque no estoy aislado a causa de las tinieblas y de mi rostro que las densas tinieblas cubren”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 23,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job contestó:",
+      "strong": [
+        "H0347"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“De todos modos, mis quejas hoy siguen siendo amargas. A pesar de mis gemidos, me sigue castigando.",
+      "strong": [
+        "H5921",
+        "H3605",
+        "H0589",
+        "H3117",
+        "H1980",
+        "H1931",
+        "H4751",
+        "H5921",
+        "H5921",
+        "H0589",
+        "H5921",
+        "H1214"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Si supiera dónde puedo encontrarlo para ir a donde se sienta a juzgar.",
+      "strong": [
+        "H0518",
+        "H0834",
+        "H3201",
+        "H5704",
+        "H3212",
+        "H5704",
+        "H0834",
+        "H3045",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Allí expondría mi caso ante él y presentaría todos mis argumentos en su totalidad.",
+      "strong": [
+        "H8033",
+        "H0589",
+        "H3820",
+        "H6440",
+        "H1931",
+        "H1571",
+        "H3605",
+        "H0589",
+        "H8394",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Descubriría cómo me respondería y aprendería lo que tiene que decirme.",
+      "strong": [
+        "H4100",
+        "H0413",
+        "H1571",
+        "H4100",
+        "H4100",
+        "H3426",
+        "H4100",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¿Lucharía contra mí usando su poderosa fuerza? No, prestaría atención a lo que tengo que decir.",
+      "strong": [
+        "H5921",
+        "H0589",
+        "H1931",
+        "H2389",
+        "H3581",
+        "H3808",
+        "H7760",
+        "H1931",
+        "H1931",
+        "H2803",
+        "H1931",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Allí una buena persona podría razonar con él, y yo sería absuelto para siempre por mi juez.",
+      "strong": [
+        "H8033",
+        "H0259",
+        "H2896",
+        "H5315",
+        "H3198",
+        "H5973",
+        "H5973",
+        "H1571",
+        "H0589",
+        "H1961",
+        "H5352",
+        "H5973",
+        "H5769",
+        "H5921",
+        "H0589",
+        "H8199"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Si voy al este, él no está; si voy al oeste, no lo encuentro.",
+      "strong": [
+        "H2005",
+        "H1980",
+        "H0413",
+        "H2088",
+        "H1931",
+        "H3808",
+        "H2063",
+        "H2005",
+        "H1980",
+        "H0413",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Si está trabajando en el norte, no lo distingo; si va al sur, no lo veo.",
+      "strong": [
+        "H3808",
+        "H2063",
+        "H5921",
+        "H6213",
+        "H6828",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H1980",
+        "H0413",
+        "H3808",
+        "H3808",
+        "H7200"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "“Sin embargo, él siempre sabe a dónde voy. Cuando me haya probado, saldré brillante como el oro.",
+      "strong": [
+        "H3808",
+        "H3588",
+        "H5769",
+        "H3045",
+        "H3588",
+        "H0834",
+        "H1980",
+        "H3588",
+        "H3588",
+        "H1961",
+        "H5254",
+        "H3318",
+        "H3588",
+        "H3588",
+        "H2091"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Me he mantenido al paso con él; he seguido su camino sin desviarme.",
+      "strong": [
+        "H0413",
+        "H4392",
+        "H0413",
+        "H5674",
+        "H5973",
+        "H1931",
+        "H4392",
+        "H1931",
+        "H1870",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "No he descuidado sus mandatos, porque valoro más lo que me ha ordenado que el alimento que como cada día.",
+      "strong": [
+        "H3808",
+        "H4392",
+        "H6923",
+        "H1931",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H3808",
+        "H1961",
+        "H3808",
+        "H1931",
+        "H0400",
+        "H3808",
+        "H0349",
+        "H3605",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "“Pero Dios es inmutable: ¿quién puede desviarlo de sus propósitos? Él hace todo lo que quiere hacer.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H1931",
+        "H4310",
+        "H3201",
+        "H4480",
+        "H1931",
+        "H1931",
+        "H6213",
+        "H3605",
+        "H1931",
+        "H4310",
+        "H2654",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Así que terminará lo que ha planeado para mí, y tiene muchos planes para mí.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2007",
+        "H3588",
+        "H3541",
+        "H3588",
+        "H0589",
+        "H3588",
+        "H3426",
+        "H7227",
+        "H3588",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Por eso me aterra encontrarme con él; cuando pienso en él tiemblo de miedo.",
+      "strong": [
+        "H5921",
+        "H3651",
+        "H4480",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H2803",
+        "H5921",
+        "H5921",
+        "H4480",
+        "H6342"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Dios me ha hecho desfallecer; el Todopoderoso me ha hecho morir de miedo.",
+      "strong": [
+        "H0430",
+        "H0413",
+        "H3541",
+        "H6213",
+        "H1931",
+        "H7706",
+        "H0413",
+        "H3541",
+        "H6213",
+        "H4191",
+        "H4480",
+        "H4032"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Sin embargo, sigo aquí a pesar de la oscuridad, aunque no pueda ver a través de la oscuridad total”.",
+      "strong": [
+        "H3808",
+        "H6311",
+        "H6440",
+        "H3588",
+        "H3588",
+        "H2822",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H7200",
+        "H6440",
+        "H3588",
+        "H3588",
+        "H2822"
+      ]
+    }
+  ]
+}

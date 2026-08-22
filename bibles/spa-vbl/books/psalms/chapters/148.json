@@ -1,1 +1,290 @@
-{"version":"spa-vbl","book":"psalms","chapter":148,"data":[{"verse":"1","text":"¡Alaben al Señor! ¡Alaben al Señor del cielo! ¡Alábenlo en las alturas!"},{"verse":"2","text":"¡Alábenle todos sus ángeles! ¡Alábenle todos sus ejércitos celestiales!"},{"verse":"3","text":"¡Alábenle el sol y la luna! ¡Alábenle todas las estrellas!"},{"verse":"4","text":"¡Alábenle los cielos y las aguas que están sobre los cielos!148:4 Entendido como la cúpula celestial de arriba, de donde vino la lluvia."},{"verse":"5","text":"Todos alaben el carácter148:5 Literalmente, “nombre”. del Señor, porque él les puso orden en el cielo y por él fueron creados."},{"verse":"6","text":"Él designó a cada uno en su lugar por siempre y para siempre. Estableció una ley que nunca tendrá fin."},{"verse":"7","text":"Alaben al Señor desde la tierra, y las criaturas de todas las profundidades de los mares,"},{"verse":"8","text":"Que le alaben los relámpagos,148:8 O “fuego”. el granizo, la nieve, las nubes, y los vientos tormentosos, así como todos los que obedecen su voz de mando."},{"verse":"9","text":"Las montañas y las colinas, los árboles frutales y los árboles del bosque,"},{"verse":"10","text":"los animales y el ganado, los reptiles y las aves silvestres,"},{"verse":"11","text":"los reyes de la tierra y todos los pueblos; así como los líderes y gobernantes del mundo,"},{"verse":"12","text":"los hombres y mujeres jóvenes, los ancianos y los niños,"},{"verse":"13","text":"Que todos alaben al Señor y su reputación148:13 Literalmente, “nombre”. inigualable. Su gloria sobrepasa todo lo que existe en la tierra y el cielo."},{"verse":"14","text":"Él le ha dado a su pueblo una fuente de fortaleza,148:14 Literalmente, “él ha elevado un cuerno por su pueblo”. y ha dado honra a sus seguidores fieles, al pueblo de Israel a quien ama. ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 148,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor! ¡Alaben al Señor del cielo! ¡Alábenlo en las alturas!",
+      "strong": [
+        "H1984",
+        "H4480",
+        "H3068",
+        "H1984",
+        "H4480",
+        "H3068",
+        "H4480",
+        "H8064",
+        "H4480",
+        "H1992",
+        "H4791"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Alábenle todos sus ángeles! ¡Alábenle todos sus ejércitos celestiales!",
+      "strong": [
+        "H3605",
+        "H1931",
+        "H4397",
+        "H3605",
+        "H1931",
+        "H6635"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Alábenle el sol y la luna! ¡Alábenle todas las estrellas!",
+      "strong": [
+        "H3605",
+        "H8121",
+        "H1571",
+        "H3605",
+        "H3394",
+        "H3605",
+        "H1992",
+        "H3556"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡Alábenle los cielos y las aguas que están sobre los cielos!",
+      "strong": [
+        "H5921",
+        "H8064",
+        "H5921",
+        "H5921",
+        "H4325",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Todos alaben el carácter del Señor, porque él les puso orden en el cielo y por él fueron creados.",
+      "strong": [
+        "H3605",
+        "H1984",
+        "H1931",
+        "H4480",
+        "H3068",
+        "H3588",
+        "H1931",
+        "H6680",
+        "H7760",
+        "H6680",
+        "H3588",
+        "H1931",
+        "H8064",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Él designó a cada uno en su lugar por siempre y para siempre. Estableció una ley que nunca tendrá fin.",
+      "strong": [
+        "H5674",
+        "H0413",
+        "H3605",
+        "H0259",
+        "H5975",
+        "H1931",
+        "H4725",
+        "H5703",
+        "H5769",
+        "H1571",
+        "H5703",
+        "H5769",
+        "H5414",
+        "H0259",
+        "H2706",
+        "H3808",
+        "H3808",
+        "H1961",
+        "H7093"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Alaben al Señor desde la tierra, y las criaturas de todas las profundidades de los mares,",
+      "strong": [
+        "H1984",
+        "H4480",
+        "H3068",
+        "H4480",
+        "H3605",
+        "H0776",
+        "H1571",
+        "H1992",
+        "H4480",
+        "H3605",
+        "H1992",
+        "H4480",
+        "H3605",
+        "H3220"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Que le alaben los relámpagos, el granizo, la nieve, las nubes, y los vientos tormentosos, así como todos los que obedecen su voz de mando.",
+      "strong": [
+        "H1697",
+        "H0413",
+        "H3034",
+        "H0582",
+        "H1300",
+        "H6213",
+        "H1259",
+        "H1931",
+        "H1992",
+        "H5387",
+        "H1571",
+        "H0582",
+        "H7307",
+        "H3541",
+        "H0349",
+        "H3605",
+        "H0582",
+        "H1697",
+        "H8085",
+        "H1931",
+        "H6963",
+        "H1697",
+        "H6680"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Las montañas y las colinas, los árboles frutales y los árboles del bosque,",
+      "strong": [
+        "H1992",
+        "H1571",
+        "H1992",
+        "H3605",
+        "H6086",
+        "H1571",
+        "H3605",
+        "H6086",
+        "H4480",
+        "H0842"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "los animales y el ganado, los reptiles y las aves silvestres,",
+      "strong": [
+        "H3605",
+        "H2416",
+        "H1571",
+        "H3605",
+        "H4735",
+        "H3605",
+        "H7431",
+        "H1571",
+        "H1992",
+        "H5775",
+        "H7704"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "los reyes de la tierra y todos los pueblos; así como los líderes y gobernantes del mundo,",
+      "strong": [
+        "H3605",
+        "H4428",
+        "H8269",
+        "H3605",
+        "H0776",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H3816",
+        "H3541",
+        "H0349",
+        "H3605",
+        "H1571",
+        "H4480",
+        "H8398"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "los hombres y mujeres jóvenes, los ancianos y los niños,",
+      "strong": [
+        "H5973",
+        "H0376",
+        "H1571",
+        "H0802",
+        "H5973",
+        "H2205",
+        "H1571",
+        "H5973",
+        "H5288"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Que todos alaben al Señor y su reputación inigualable. Su gloria sobrepasa todo lo que existe en la tierra y el cielo.",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H1984",
+        "H5921",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1935",
+        "H3605",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H3588",
+        "H5921",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Él le ha dado a su pueblo una fuente de fortaleza, y ha dado honra a sus seguidores fieles, al pueblo de Israel a quien ama. ¡Alaben al Señor!",
+      "strong": [
+        "H3605",
+        "H0413",
+        "H3541",
+        "H5414",
+        "H0413",
+        "H1931",
+        "H5971",
+        "H0259",
+        "H4599",
+        "H1121",
+        "H5797",
+        "H1571",
+        "H3541",
+        "H5414",
+        "H3513",
+        "H0413",
+        "H1931",
+        "H0539",
+        "H0413",
+        "H5971",
+        "H1121",
+        "H3478",
+        "H0413",
+        "H3605",
+        "H0157",
+        "H1984",
+        "H0413",
+        "H0113"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,569 @@
-{"version":"spa-vbl","book":"proverbs","chapter":28,"data":[{"verse":"1","text":"Los malvados huyen, incluso cuando nadie los persigue, pero los justos tienen la audacia confiada de los leones."},{"verse":"2","text":"Cuando un país está en rebelión, tiene muchos gobernantes; pero un gobernante sabio e inteligente proporciona fuerza y continuidad."},{"verse":"3","text":"Cuando un pobre oprime a los pobres, es como una lluvia fuerte que golpea las cosechas."},{"verse":"4","text":"Los que rechazan la ley alaban a los malvados, pero los que guardan la ley luchan contra ellos."},{"verse":"5","text":"Los lavados no entienden nada acerca de la justicia, pero los que siguen al Señor, la entienden por completo."},{"verse":"6","text":"Mejor es ser pobre y tener integridad, que ser tramposo y rico."},{"verse":"7","text":"Si guardas la ley, eres un hijo sabio; pero si te juntas con malas compañías28:7. “Malas compañías”: Literalmente, “compañero de glotones”. serás vergüenza de tu padre."},{"verse":"8","text":"Cualquiera que se haga rico cobrando intereses y ganancias, lo estará ahorrando para alguien que es bondadoso con los pobres."},{"verse":"9","text":"Dios odia las oraciones de los que ignoran la ley."},{"verse":"10","text":"Los que conducen a los justos por malos caminos, caerán en sus propias trampas; pero los inocentes recibirán una buena recompensa."},{"verse":"11","text":"Los ricos se ven a sí mismos como sabios, pero los pobres con inteligencia pueden verlos como son en realidad."},{"verse":"12","text":"Cuando los justos ganan, todos celebran; pero cuando los malvados llegan al poder, la gente se esconde."},{"verse":"13","text":"Los que ocultan sus pecados no prosperarán; pero los que confiesan y se apartan de sus pecados, serán tratados con bondad."},{"verse":"14","text":"Benditos son los que siempre respetan al Señor, pero los obstinados terminarán en gran tribulación."},{"verse":"15","text":"Un gobernante malvado que extorsiona a los pobres es como un león rugiente o un oso."},{"verse":"16","text":"Un gobernante malvado que extorsiona a su pueblo, pero se niega a sacar provecho ilegalmente, vivirá mucho tiempo."},{"verse":"17","text":"El culpable de asesinato seguirá huyendo de lo que hizo hasta morir. No trates de detenerlo.28:17. El texto hebreo en este versículo no está claro."},{"verse":"18","text":"Si tienes integridad, estarás a salvo; pero si vives una vida torcida, caerás."},{"verse":"19","text":"Si cultivas la tierra, tendrás abundante alimento; pero si sales a cazar fantasías, terminarás con las manos vacías."},{"verse":"20","text":"Si eres digno de confianza, serás recompensado ricamente; pero si tratas de hacer dinero rápido, no quedarás sin castigo."},{"verse":"21","text":"Mostrar favoritismo no es bueno, pero algunos harán el mal por un trozo de pan."},{"verse":"22","text":"Los envidiosos28:22.“Los envidiosos”: Literalmente “un hombre con ojos malvados”. se apresuran para volverse ricos; no se dan cuenta de que terminarán pobres."},{"verse":"23","text":"La crítica honesta es de mayor estima que la adulación."},{"verse":"24","text":"El hombre que roba a su madre y a su madre, y dice “no es un crimen”, está a un solo paso de volverse un asesino.28:24.Literalmente, “es colaborador de un hombre destructor”."},{"verse":"25","text":"Los avaros crean problemas, pero los que confían en el Señor prosperarán."},{"verse":"26","text":"Los que confían en su propia mente son necios, pero los que siguen caminos sabios se mantendrán a salvo."},{"verse":"27","text":"Si das al pobre, no tendrás necesidad; pero si ignoras su necesidad, caerán muchas maldiciones sobre ti."},{"verse":"28","text":"Cuando los malvados llegan al poder, la gente se esconde; pero cuando caen, a los justos les va bien."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 28,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los malvados huyen, incluso cuando nadie los persigue, pero los justos tienen la audacia confiada de los leones.",
+      "strong": [
+        "H7291",
+        "H5251",
+        "H3588",
+        "H0376",
+        "H7291",
+        "H7291",
+        "H3588",
+        "H7291",
+        "H6662",
+        "H1992",
+        "H1931",
+        "H0983",
+        "H6662",
+        "H7291",
+        "H0738"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Cuando un país está en rebelión, tiene muchos gobernantes; pero un gobernante sabio e inteligente proporciona fuerza y continuidad.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H0776",
+        "H3651",
+        "H5921",
+        "H6588",
+        "H3426",
+        "H7227",
+        "H3588",
+        "H0259",
+        "H2450",
+        "H0834",
+        "H3581",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando un pobre oprime a los pobres, es como una lluvia fuerte que golpea las cosechas.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H1800",
+        "H0413",
+        "H0582",
+        "H1800",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H4306",
+        "H2389",
+        "H0834",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Los que rechazan la ley alaban a los malvados, pero los que guardan la ley luchan contra ellos.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H8104",
+        "H8451",
+        "H1984",
+        "H0413",
+        "H0582",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H8104",
+        "H8104",
+        "H8451",
+        "H5921",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los lavados no entienden nada acerca de la justicia, pero los que siguen al Señor, la entienden por completo.",
+      "strong": [
+        "H3605",
+        "H3808",
+        "H0995",
+        "H3808",
+        "H5921",
+        "H7451",
+        "H3605",
+        "H4941",
+        "H3588",
+        "H3605",
+        "H3808",
+        "H1980",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H0995",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Mejor es ser pobre y tener integridad, que ser tramposo y rico.",
+      "strong": [
+        "H2896",
+        "H1931",
+        "H5315",
+        "H7326",
+        "H1571",
+        "H1961",
+        "H8537",
+        "H1931",
+        "H5315",
+        "H1571",
+        "H6223"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Si guardas la ley, eres un hijo sabio; pero si te juntas con malas compañías serás vergüenza de tu padre.",
+      "strong": [
+        "H0518",
+        "H5341",
+        "H1931",
+        "H8451",
+        "H0859",
+        "H0259",
+        "H1121",
+        "H2450",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H3162",
+        "H5973",
+        "H7451",
+        "H7218",
+        "H1961",
+        "H3637",
+        "H1121",
+        "H0859",
+        "H0001"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Cualquiera que se haga rico cobrando intereses y ganancias, lo estará ahorrando para alguien que es bondadoso con los pobres.",
+      "strong": [
+        "H3605",
+        "H1952",
+        "H3045",
+        "H6213",
+        "H1419",
+        "H1571",
+        "H6908",
+        "H1961",
+        "H5704",
+        "H0376",
+        "H1952",
+        "H7235",
+        "H5973",
+        "H0582",
+        "H1800"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Dios odia las oraciones de los que ignoran la ley.",
+      "strong": [
+        "H0430",
+        "H1992",
+        "H4480",
+        "H0582",
+        "H1571",
+        "H1571",
+        "H8451"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los que conducen a los justos por malos caminos, caerán en sus propias trampas; pero los inocentes recibirán una buena recompensa.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H0413",
+        "H1931",
+        "H6662",
+        "H1870",
+        "H7451",
+        "H1870",
+        "H5307",
+        "H8549",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H0259",
+        "H2896",
+        "H6468"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Los ricos se ven a sí mismos como sabios, pero los pobres con inteligencia pueden verlos como son en realidad.",
+      "strong": [
+        "H2450",
+        "H3045",
+        "H3212",
+        "H5869",
+        "H0518",
+        "H1992",
+        "H0349",
+        "H2450",
+        "H3588",
+        "H2450",
+        "H1800",
+        "H5973",
+        "H0998",
+        "H3201",
+        "H0349",
+        "H1961",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Cuando los justos ganan, todos celebran; pero cuando los malvados llegan al poder, la gente se esconde.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H6662",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H0582",
+        "H0413",
+        "H3027",
+        "H1931",
+        "H1471",
+        "H3045",
+        "H5641"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los que ocultan sus pecados no prosperarán; pero los que confiesan y se apartan de sus pecados, serán tratados con bondad.",
+      "strong": [
+        "H0582",
+        "H3808",
+        "H1931",
+        "H6588",
+        "H3808",
+        "H7919",
+        "H3588",
+        "H0582",
+        "H3808",
+        "H1571",
+        "H3808",
+        "H7311",
+        "H4480",
+        "H1931",
+        "H6588",
+        "H1961",
+        "H5973",
+        "H2898"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Benditos son los que siempre respetan al Señor, pero los obstinados terminarán en gran tribulación.",
+      "strong": [
+        "H1288",
+        "H1961",
+        "H0582",
+        "H0834",
+        "H8548",
+        "H0413",
+        "H0113",
+        "H3588",
+        "H0582",
+        "H2388",
+        "H5921",
+        "H1419",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Un gobernante malvado que extorsiona a los pobres es como un león rugiente o un oso.",
+      "strong": [
+        "H0259",
+        "H7451",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1800",
+        "H1961",
+        "H5921",
+        "H0259",
+        "H0738",
+        "H5098",
+        "H0176",
+        "H0259",
+        "H1677"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Un gobernante malvado que extorsiona a su pueblo, pero se niega a sacar provecho ilegalmente, vivirá mucho tiempo.",
+      "strong": [
+        "H0259",
+        "H7451",
+        "H3117",
+        "H0413",
+        "H1931",
+        "H7227",
+        "H3588",
+        "H3045",
+        "H0413",
+        "H5267",
+        "H1215",
+        "H2421",
+        "H7227",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "El culpable de asesinato seguirá huyendo de lo que hizo hasta morir. No trates de detenerlo.",
+      "strong": [
+        "H1931",
+        "H5704",
+        "H5251",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H6213",
+        "H5704",
+        "H4191",
+        "H3808",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Si tienes integridad, estarás a salvo; pero si vives una vida torcida, caerás.",
+      "strong": [
+        "H0518",
+        "H5750",
+        "H8537",
+        "H1961",
+        "H0413",
+        "H3467",
+        "H3588",
+        "H0518",
+        "H2416",
+        "H0259",
+        "H5315",
+        "H6618",
+        "H5307"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Si cultivas la tierra, tendrás abundante alimento; pero si sales a cazar fantasías, terminarás con las manos vacías.",
+      "strong": [
+        "H0518",
+        "H7646",
+        "H0776",
+        "H1961",
+        "H4306",
+        "H0400",
+        "H3588",
+        "H0518",
+        "H3318",
+        "H0413",
+        "H5973",
+        "H1992",
+        "H3027",
+        "H7387"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Si eres digno de confianza, serás recompensado ricamente; pero si tratas de hacer dinero rápido, no quedarás sin castigo.",
+      "strong": [
+        "H3808",
+        "H0859",
+        "H4480",
+        "H4009",
+        "H1961",
+        "H3588",
+        "H3808",
+        "H4480",
+        "H6213",
+        "H3701",
+        "H3808",
+        "H3808",
+        "H5352"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Mostrar favoritismo no es bueno, pero algunos harán el mal por un trozo de pan.",
+      "strong": [
+        "H2324",
+        "H3808",
+        "H1961",
+        "H2896",
+        "H3588",
+        "H0582",
+        "H6213",
+        "H5921",
+        "H7451",
+        "H5921",
+        "H0259",
+        "H5921",
+        "H3899"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los envidiosos se apresuran para volverse ricos; no se dan cuenta de que terminarán pobres.",
+      "strong": [
+        "H3588",
+        "H3045",
+        "H3588",
+        "H7725",
+        "H3808",
+        "H3045",
+        "H1835",
+        "H6485",
+        "H3588",
+        "H3588",
+        "H1800"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "La crítica honesta es de mayor estima que la adulación.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H4480",
+        "H1419",
+        "H2803",
+        "H0834",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El hombre que roba a su madre y a su madre, y dice “no es un crimen”, está a un solo paso de volverse un asesino.",
+      "strong": [
+        "H1931",
+        "H0376",
+        "H1931",
+        "H0413",
+        "H1931",
+        "H0517",
+        "H1571",
+        "H0413",
+        "H1931",
+        "H0517",
+        "H1571",
+        "H5002",
+        "H7843",
+        "H1931",
+        "H0259",
+        "H1931",
+        "H0413",
+        "H0259",
+        "H1931",
+        "H5674",
+        "H4480",
+        "H7725",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Los avaros crean problemas, pero los que confían en el Señor prosperarán.",
+      "strong": [
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5564",
+        "H5921",
+        "H5921",
+        "H3068",
+        "H7919"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Los que confían en su propia mente son necios, pero los que siguen caminos sabios se mantendrán a salvo.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H5564",
+        "H5921",
+        "H1931",
+        "H1961",
+        "H0995",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H1980",
+        "H1870",
+        "H2450",
+        "H1931",
+        "H0413",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Si das al pobre, no tendrás necesidad; pero si ignoras su necesidad, caerán muchas maldiciones sobre ti.",
+      "strong": [
+        "H0518",
+        "H5414",
+        "H0413",
+        "H7326",
+        "H3808",
+        "H5414",
+        "H3588",
+        "H0518",
+        "H3808",
+        "H1931",
+        "H5307",
+        "H7227",
+        "H3994",
+        "H5921",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Cuando los malvados llegan al poder, la gente se esconde; pero cuando caen, a los justos les va bien.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H0413",
+        "H3027",
+        "H1931",
+        "H1471",
+        "H3045",
+        "H5641",
+        "H3588",
+        "H3588",
+        "H7901",
+        "H0413",
+        "H0582",
+        "H6662",
+        "H0413",
+        "H1980",
+        "H2896"
+      ]
+    }
+  ]
+}

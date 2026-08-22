@@ -1,1 +1,277 @@
-{"version":"spa-vbl","book":"psalms","chapter":143,"data":[{"verse":"1","text":"Señor, escucha por favor mi oración. Por tu fidelidad, escucha mi petición de súplica. Respóndeme porque tú eres justo."},{"verse":"2","text":"Por favor, no pongas a tu siervo bajo juicio porque nadie queda inocente ante tu vista."},{"verse":"3","text":"El enemigo me ha perseguido y me ha tirado al suelo. Me hace vivir en oscuridad como los que murieron ya hace mucho tiempo."},{"verse":"4","text":"Me siento desvanecer por dentro. Me siento sobrecogido por la desolación."},{"verse":"5","text":"Recuerdo los días de antaño, y al meditar en lo que has hecho, pienso en lo que has logrado en el pasado."},{"verse":"6","text":"Levanto mis manos hacia ti, sediento de ti como la tierra seca. Selah."},{"verse":"7","text":"¡Por favor, respóndeme pronto Señor, porque muero! No te apartes de mi, porque entonces iré también a la tumba."},{"verse":"8","text":"Háblame cada mañana de tu amor y fidelidad, porque en ti he puesto mi confianza. Muéstrame el camino que debo seguir porque a ti me he dedicado."},{"verse":"9","text":"Sálvame de los que me odian, Señor. Corro hacia ti buscando tu protección."},{"verse":"10","text":"Enséñame tu voluntad porque tú eres mi Dios. Que tu espíritu de bondad me guíe y allane mi camino."},{"verse":"11","text":"Por la bondad que hay en tu nombre, déjame seguir viviendo. Porque eres justo siempre, sácame de esta angustia."},{"verse":"12","text":"En tu amor fiel, acaba con los que me odian, destruye a todos mis enemigos, porque soy tu siervo."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 143,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, escucha por favor mi oración. Por tu fidelidad, escucha mi petición de súplica. Respóndeme porque tú eres justo.",
+      "strong": [
+        "H3068",
+        "H8085",
+        "H5921",
+        "H7522",
+        "H6030",
+        "H8605",
+        "H5921",
+        "H0859",
+        "H8085",
+        "H6030",
+        "H7596",
+        "H4480",
+        "H8467",
+        "H6030",
+        "H1732",
+        "H0859",
+        "H0859",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Por favor, no pongas a tu siervo bajo juicio porque nadie queda inocente ante tu vista.",
+      "strong": [
+        "H3588",
+        "H7522",
+        "H3808",
+        "H7896",
+        "H6440",
+        "H0859",
+        "H5650",
+        "H8478",
+        "H4941",
+        "H3588",
+        "H3808",
+        "H7604",
+        "H5355",
+        "H6440",
+        "H0859",
+        "H4758"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El enemigo me ha perseguido y me ha tirado al suelo. Me hace vivir en oscuridad como los que murieron ya hace mucho tiempo.",
+      "strong": [
+        "H3588",
+        "H0341",
+        "H3588",
+        "H3541",
+        "H3588",
+        "H3588",
+        "H3541",
+        "H0413",
+        "H3588",
+        "H6213",
+        "H2421",
+        "H3588",
+        "H0653",
+        "H3588",
+        "H3427",
+        "H3588",
+        "H4191",
+        "H3528",
+        "H6213",
+        "H3966",
+        "H6256"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Me siento desvanecer por dentro. Me siento sobrecogido por la desolación.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H8432",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Recuerdo los días de antaño, y al meditar en lo que has hecho, pienso en lo que has logrado en el pasado.",
+      "strong": [
+        "H2146",
+        "H3605",
+        "H3117",
+        "H4480",
+        "H1571",
+        "H0413",
+        "H5921",
+        "H3605",
+        "H3117",
+        "H4191",
+        "H4639",
+        "H2803",
+        "H5921",
+        "H3605",
+        "H3117",
+        "H4191",
+        "H5921",
+        "H3605",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Levanto mis manos hacia ti, sediento de ti como la tierra seca. Selah.",
+      "strong": [
+        "H5375",
+        "H0589",
+        "H3027",
+        "H0413",
+        "H0859",
+        "H4480",
+        "H0859",
+        "H0349",
+        "H1931",
+        "H0776",
+        "H6723",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¡Por favor, respóndeme pronto Señor, porque muero! No te apartes de mi, porque entonces iré también a la tumba.",
+      "strong": [
+        "H4480",
+        "H7522",
+        "H6030",
+        "H4118",
+        "H3068",
+        "H6440",
+        "H4191",
+        "H6440",
+        "H4480",
+        "H5186",
+        "H4480",
+        "H6030",
+        "H6440",
+        "H0227",
+        "H3212",
+        "H1571",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Háblame cada mañana de tu amor y fidelidad, porque en ti he puesto mi confianza. Muéstrame el camino que debo seguir porque a ti me he dedicado.",
+      "strong": [
+        "H3605",
+        "H1242",
+        "H3588",
+        "H0859",
+        "H0160",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0859",
+        "H4392",
+        "H3588",
+        "H5375",
+        "H4009",
+        "H3045",
+        "H3588",
+        "H1870",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H4392",
+        "H6944"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Sálvame de los que me odian, Señor. Corro hacia ti buscando tu protección.",
+      "strong": [
+        "H3467",
+        "H4480",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H3068",
+        "H0413",
+        "H0859",
+        "H1245",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Enséñame tu voluntad porque tú eres mi Dios. Que tu espíritu de bondad me guíe y allane mi camino.",
+      "strong": [
+        "H3925",
+        "H6213",
+        "H7522",
+        "H3588",
+        "H6213",
+        "H0859",
+        "H0589",
+        "H0430",
+        "H3588",
+        "H6213",
+        "H7307",
+        "H3588",
+        "H2898",
+        "H3588",
+        "H3588",
+        "H1237",
+        "H0589",
+        "H1870"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Por la bondad que hay en tu nombre, déjame seguir viviendo. Porque eres justo siempre, sácame de esta angustia.",
+      "strong": [
+        "H4616",
+        "H1931",
+        "H2898",
+        "H4616",
+        "H3426",
+        "H3318",
+        "H0859",
+        "H8034",
+        "H7971",
+        "H0935",
+        "H2416",
+        "H4616",
+        "H0859",
+        "H6662",
+        "H5769",
+        "H3318",
+        "H4480",
+        "H2063",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "En tu amor fiel, acaba con los que me odian, destruye a todos mis enemigos, porque soy tu siervo.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0160",
+        "H0539",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H2717",
+        "H3588",
+        "H3605",
+        "H0589",
+        "H0341",
+        "H3588",
+        "H0595",
+        "H0859",
+        "H5650"
+      ]
+    }
+  ]
+}

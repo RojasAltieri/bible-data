@@ -1,1 +1,307 @@
-{"version":"spa-vbl","book":"psalms","chapter":91,"data":[{"verse":"1","text":"Los que viven bajo la protección del Altísimo, permanecerán seguros con el Todopoderoso."},{"verse":"2","text":"Esto es lo que diré del Señor: “Él es el único que me protege y me defiende. Él es mi Dios, y confío en él”."},{"verse":"3","text":"Porque él te salvará de trampas escondidas y de enfermedades mortales.91:3 “Transpas escondidas y enfermedades mortales”: Literalmente, “el lazo del cazador y la plaga de destrucción”."},{"verse":"4","text":"Te esconderá bajo sus plumas, y te abrigará bajo sus alas. Su verdad te protegerá y te escudará."},{"verse":"5","text":"No tendrás miedo del terror nocturno, ni de las flechas que vuelan por el día,"},{"verse":"6","text":"o de las enfermedades que atacan en la noche, o de catástrofes que caen al mediodía."},{"verse":"7","text":"Porque mil caerán a tu lado, y diez mil morirán a tu derecha, pero tú no serás dañado."},{"verse":"8","text":"Solo tendrás que abrir los ojos para que veas cómo los malos reciben su merecido."},{"verse":"9","text":"Ya que has hecho del Señor tu protección, y del Altísimo tu morada,"},{"verse":"10","text":"nada malo te pasará; ninguna plaga se acercará donde vives."},{"verse":"11","text":"Porque él mandará a sus ángeles para que te cuiden en todo lo que hagas."},{"verse":"12","text":"Te sostendrán con sus manos para que no tropieces y caigas."},{"verse":"13","text":"Pisotearás leones y serpientes; hollarás crías de leones y víboras."},{"verse":"14","text":"Yo91:14 El Señor está hablando. salvaré a todo el que me ame; protegeré a todo el que me acepte."},{"verse":"15","text":"Cuando clamen a mí pro ayuda, Responderé; cuando estén en problemas, Estaré con ellos. Los salvaré y los honraré."},{"verse":"16","text":"Les daré una larga vida, y les mostraré mi salvación."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 91,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los que viven bajo la protección del Altísimo, permanecerán seguros con el Todopoderoso.",
+      "strong": [
+        "H3427",
+        "H0834",
+        "H2416",
+        "H8478",
+        "H1931",
+        "H4480",
+        "H5945",
+        "H3498",
+        "H0983",
+        "H5973",
+        "H3427",
+        "H7706"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Esto es lo que diré del Señor: “Él es el único que me protege y me defiende. Él es mi Dios, y confío en él”.",
+      "strong": [
+        "H2063",
+        "H1961",
+        "H1931",
+        "H0834",
+        "H0559",
+        "H4480",
+        "H3068",
+        "H1931",
+        "H1961",
+        "H1931",
+        "H3173",
+        "H0834",
+        "H0413",
+        "H1571",
+        "H0413",
+        "H8199",
+        "H1931",
+        "H1961",
+        "H0589",
+        "H3068",
+        "H1571",
+        "H0982",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Porque él te salvará de trampas escondidas y de enfermedades mortales.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3588",
+        "H3467",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2483"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Te esconderá bajo sus plumas, y te abrigará bajo sus alas. Su verdad te protegerá y te escudará.",
+      "strong": [
+        "H0859",
+        "H8478",
+        "H1931",
+        "H5133",
+        "H1571",
+        "H0859",
+        "H8478",
+        "H1931",
+        "H3671",
+        "H1931",
+        "H0571",
+        "H0859",
+        "H1571",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "No tendrás miedo del terror nocturno, ni de las flechas que vuelan por el día,",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H6343",
+        "H4480",
+        "H6343",
+        "H3808",
+        "H3372",
+        "H1992",
+        "H3808",
+        "H5774",
+        "H1931",
+        "H3119"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "o de las enfermedades que atacan en la noche, o de catástrofes que caen al mediodía.",
+      "strong": [
+        "H0176",
+        "H4480",
+        "H1992",
+        "H2483",
+        "H0834",
+        "H5921",
+        "H1931",
+        "H3915",
+        "H0176",
+        "H4480",
+        "H0834",
+        "H7901",
+        "H0413",
+        "H5045"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Porque mil caerán a tu lado, y diez mil morirán a tu derecha, pero tú no serás dañado.",
+      "strong": [
+        "H3808",
+        "H7233",
+        "H5307",
+        "H0413",
+        "H0859",
+        "H6654",
+        "H1571",
+        "H6235",
+        "H7233",
+        "H4191",
+        "H0413",
+        "H0859",
+        "H3225",
+        "H3588",
+        "H0859",
+        "H3808",
+        "H1961",
+        "H7665"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Solo tendrás que abrir los ojos para que veas cómo los malos reciben su merecido.",
+      "strong": [
+        "H7535",
+        "H1961",
+        "H0834",
+        "H0582",
+        "H5869",
+        "H7535",
+        "H0834",
+        "H7200",
+        "H0349",
+        "H0582",
+        "H7451",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Ya que has hecho del Señor tu protección, y del Altísimo tu morada,",
+      "strong": [
+        "H3528",
+        "H3588",
+        "H4191",
+        "H6213",
+        "H4480",
+        "H3068",
+        "H0859",
+        "H3588",
+        "H4480",
+        "H5945",
+        "H0859",
+        "H4583"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "nada malo te pasará; ninguna plaga se acercará donde vives.",
+      "strong": [
+        "H3808",
+        "H7451",
+        "H0859",
+        "H5674",
+        "H3808",
+        "H5061",
+        "H3808",
+        "H0834",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Porque él mandará a sus ángeles para que te cuiden en todo lo que hagas.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H6680",
+        "H3588",
+        "H1931",
+        "H4397",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H3605",
+        "H3588",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Te sostendrán con sus manos para que no tropieces y caigas.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H1931",
+        "H3709",
+        "H5921",
+        "H5921",
+        "H6435",
+        "H3369",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Pisotearás leones y serpientes; hollarás crías de leones y víboras.",
+      "strong": [
+        "H0738",
+        "H5921",
+        "H5175",
+        "H1869",
+        "H5921",
+        "H0738",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Yo salvaré a todo el que me ame; protegeré a todo el que me acepte.",
+      "strong": [
+        "H3588",
+        "H5414",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0157",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7306"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Cuando clamen a mí pro ayuda, Responderé; cuando estén en problemas, Estaré con ellos. Los salvaré y los honraré.",
+      "strong": [
+        "H3588",
+        "H5973",
+        "H6030",
+        "H5828",
+        "H6030",
+        "H3588",
+        "H1961",
+        "H5973",
+        "H5324",
+        "H5973",
+        "H1992",
+        "H5973",
+        "H5414",
+        "H1571",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Les daré una larga vida, y les mostraré mi salvación.",
+      "strong": [
+        "H0413",
+        "H5414",
+        "H0259",
+        "H7342",
+        "H3117",
+        "H1571",
+        "H0413",
+        "H7200",
+        "H0589",
+        "H6413"
+      ]
+    }
+  ]
+}

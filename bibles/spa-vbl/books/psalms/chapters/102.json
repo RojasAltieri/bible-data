@@ -1,1 +1,544 @@
-{"version":"spa-vbl","book":"psalms","chapter":102,"data":[{"verse":"1","text":"Por favor, Señor, ¡escucha mi oración! ¡Escucha mi clamor a ti pidiendo ayuda!"},{"verse":"2","text":"¡No escondas tu rostro de mí en mis horas de angustia! Vuélvete y escúchame, y responde rápido cuando llamo."},{"verse":"3","text":"¡Porque mi vida está desapareciendo como el humo; siento como si mi cuerpo estuviera en llamas!"},{"verse":"4","text":"¡Soy como la grama que se secó, y se marchitó, ya ni recuerdo cuándo debo comer!"},{"verse":"5","text":"Mis gemidos me han revestido; mis huesos se dejan ver a través de mi piel."},{"verse":"6","text":"Soy como un búho del desierto,102:6 “búho”: algunos lo identifican como un pelícano o cormorán. como una pequeña lechuza entre las ruinas."},{"verse":"7","text":"No puedo conciliar el sueño. Soy como un pájaro solitario en la azotea."},{"verse":"8","text":"Mis enemigos se mofan de mí. Se burlan y maldicen en mi nombre."},{"verse":"9","text":"Las cenizas son mi comida; mis lágrimas gotean encima de mi bebida,"},{"verse":"10","text":"Por tu hostilidad y tu enojo, me recogiste y me volviste arrojar bien lejos."},{"verse":"11","text":"Mi vida se desvanece lentamente como sombras nocturnas, me estoy marchitando como la grama."},{"verse":"12","text":"Pero tú, Señor, reinarás102:12 Literalmente, “te sientas”. para siempre, tu gloria perdurará por todas las generaciones."},{"verse":"13","text":"Te levantarás y tendrás piedad de Jerusalén, porque es tiempo de que seas gentil con la ciudad, el tiempo ha llegado."},{"verse":"14","text":"Porque las personas que te siguen aman sus piedras; ¡valoran incluso su polvo!"},{"verse":"15","text":"Entonces las naciones te temerán, Señor; todos los reyes de la tierra se postrarán ante tu presencia."},{"verse":"16","text":"Porque el Señor reconstruirá Jerusalén; y aparecerá con gloria."},{"verse":"17","text":"Atenderá las oraciones de los desamparados; no ignorará sus pedidos."},{"verse":"18","text":"Que esto sea recordado por las generaciones futuras, para que las personas que aún no han nacido alaben al Señor:"},{"verse":"19","text":"Porque él mira desde los cielos, desde lo más alto de su lugar santo; él observa a la tierra desde su trono,"},{"verse":"20","text":"para responder a los lamentos de los prisioneros, para liberar a los hijos de la muerte.102:20 Quiere decir “los condenados a morir”."},{"verse":"21","text":"Y como resultadoj la maravillosa naturaleza del Señor será alabada en Jerusalén con alabanzas,"},{"verse":"22","text":"cuando las personas de todos los reinos se reúnan para adorar al Señor."},{"verse":"23","text":"Pero, en cuanto a mí,102:23 Añadido para brindar más claridad. él me quitó la salud cuando era joven, acortando mi vida."},{"verse":"24","text":"Clamé al Señor, “Mi Dios, ¡No me arrebates mi vida mientras aún soy joven! Tú eres el único que vive para siempre."},{"verse":"25","text":"Hace mucho tiempo creaste la tierra; hiciste los cielos."},{"verse":"26","text":"Y ellos llegarán a su fin, pero tú no. Todos ellos se desgastarán como la ropa, y tú los cambiarás y los tirarás."},{"verse":"27","text":"Pero tú eres el único que vive para siempre;102:27 “Tú eres el único que vive para siempre”: Literalmente, “tú eres él”. tus años nunca llegarán a un fin."},{"verse":"28","text":"Nuestros hijos vivirán contigo, y los hijos de nuestros hijos crecerán en tu presencia”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 102,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Por favor, Señor, ¡escucha mi oración! ¡Escucha mi clamor a ti pidiendo ayuda!",
+      "strong": [
+        "H3588",
+        "H7522",
+        "H3068",
+        "H8605",
+        "H0589",
+        "H8605",
+        "H8605",
+        "H0589",
+        "H6818",
+        "H6440",
+        "H0859",
+        "H7592",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡No escondas tu rostro de mí en mis horas de angustia! Vuélvete y escúchame, y responde rápido cuando llamo.",
+      "strong": [
+        "H3808",
+        "H5641",
+        "H0859",
+        "H6440",
+        "H4480",
+        "H0589",
+        "H5921",
+        "H0589",
+        "H4480",
+        "H6869",
+        "H7725",
+        "H1571",
+        "H8085",
+        "H1571",
+        "H6030",
+        "H3588",
+        "H7121"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Porque mi vida está desapareciendo como el humo; siento como si mi cuerpo estuviera en llamas!",
+      "strong": [
+        "H6440",
+        "H6030",
+        "H3117",
+        "H2063",
+        "H0349",
+        "H1931",
+        "H6227",
+        "H0349",
+        "H6440",
+        "H6030",
+        "H5038",
+        "H3426",
+        "H4480",
+        "H3852"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡Soy como la grama que se secó, y se marchitó, ya ni recuerdo cuándo debo comer!",
+      "strong": [
+        "H0595",
+        "H3588",
+        "H3588",
+        "H2682",
+        "H3588",
+        "H3045",
+        "H3001",
+        "H3588",
+        "H3045",
+        "H3528",
+        "H3808",
+        "H2146",
+        "H3588",
+        "H0398"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Mis gemidos me han revestido; mis huesos se dejan ver a través de mi piel.",
+      "strong": [
+        "H0589",
+        "H3588",
+        "H4191",
+        "H0589",
+        "H6106",
+        "H3045",
+        "H2308",
+        "H7200",
+        "H3588",
+        "H3588",
+        "H0589",
+        "H5785"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Soy como un búho del desierto, como una pequeña lechuza entre las ruinas.",
+      "strong": [
+        "H0595",
+        "H0349",
+        "H0259",
+        "H4480",
+        "H4057",
+        "H0349",
+        "H0259",
+        "H6996",
+        "H0996",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "No puedo conciliar el sueño. Soy como un pájaro solitario en la azotea.",
+      "strong": [
+        "H1961",
+        "H3201",
+        "H1931",
+        "H2472",
+        "H1961",
+        "H1961",
+        "H0259",
+        "H6833",
+        "H0909",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Mis enemigos se mofan de mí. Se burlan y maldicen en mi nombre.",
+      "strong": [
+        "H0589",
+        "H0341",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Las cenizas son mi comida; mis lágrimas gotean encima de mi bebida,",
+      "strong": [
+        "H1992",
+        "H1961",
+        "H0589",
+        "H6720",
+        "H0589",
+        "H1832",
+        "H4605",
+        "H4480",
+        "H0589",
+        "H7941"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Por tu hostilidad y tu enojo, me recogiste y me volviste arrojar bien lejos.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H3588",
+        "H0859",
+        "H2534",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7725",
+        "H3588",
+        "H7350"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Mi vida se desvanece lentamente como sombras nocturnas, me estoy marchitando como la grama.",
+      "strong": [
+        "H5375",
+        "H5315",
+        "H3045",
+        "H3588",
+        "H3915",
+        "H3588",
+        "H1961",
+        "H3588",
+        "H3588",
+        "H2682"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Pero tú, Señor, reinarás para siempre, tu gloria perdurará por todas las generaciones.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0113",
+        "H4427",
+        "H5704",
+        "H5769",
+        "H0859",
+        "H3519",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H1755"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Te levantarás y tendrás piedad de Jerusalén, porque es tiempo de que seas gentil con la ciudad, el tiempo ha llegado.",
+      "strong": [
+        "H0859",
+        "H6965",
+        "H1571",
+        "H1961",
+        "H4480",
+        "H3588",
+        "H1961",
+        "H6256",
+        "H4480",
+        "H0834",
+        "H1961",
+        "H5973",
+        "H1931",
+        "H5892",
+        "H3427",
+        "H6256",
+        "H3541",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Porque las personas que te siguen aman sus piedras; ¡valoran incluso su polvo!",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H5315",
+        "H3588",
+        "H3588",
+        "H1980",
+        "H2001",
+        "H1931",
+        "H0068",
+        "H3588",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Entonces las naciones te temerán, Señor; todos los reyes de la tierra se postrarán ante tu presencia.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H1471",
+        "H3588",
+        "H3372",
+        "H0113",
+        "H3605",
+        "H3588",
+        "H4428",
+        "H3588",
+        "H3588",
+        "H6083",
+        "H3045",
+        "H6440",
+        "H0859",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Porque el Señor reconstruirá Jerusalén; y aparecerá con gloria.",
+      "strong": [
+        "H4428",
+        "H3605",
+        "H3068",
+        "H3519",
+        "H7200",
+        "H5973",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Atenderá las oraciones de los desamparados; no ignorará sus pedidos.",
+      "strong": [
+        "H7181",
+        "H1992",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Que esto sea recordado por las generaciones futuras, para que las personas que aún no han nacido alaben al Señor:",
+      "strong": [
+        "H3808",
+        "H2063",
+        "H1961",
+        "H5921",
+        "H1992",
+        "H1755",
+        "H5704",
+        "H3808",
+        "H1992",
+        "H5315",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H4191",
+        "H3211",
+        "H3034",
+        "H0413",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Porque él mira desde los cielos, desde lo más alto de su lugar santo; él observa a la tierra desde su trono,",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H7200",
+        "H4480",
+        "H0582",
+        "H8064",
+        "H4480",
+        "H1931",
+        "H5750",
+        "H1364",
+        "H5971",
+        "H1931",
+        "H4725",
+        "H6918",
+        "H1931",
+        "H0413",
+        "H2063",
+        "H0776",
+        "H4480",
+        "H1931",
+        "H3678"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "para responder a los lamentos de los prisioneros, para liberar a los hijos de la muerte.",
+      "strong": [
+        "H3588",
+        "H7725",
+        "H3588",
+        "H3588",
+        "H1065",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1121",
+        "H3588",
+        "H3588",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Y como resultadoj la maravillosa naturaleza del Señor será alabada en Jerusalén con alabanzas,",
+      "strong": [
+        "H1571",
+        "H0349",
+        "H1931",
+        "H4480",
+        "H0113",
+        "H1961",
+        "H5921",
+        "H5973",
+        "H8426"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "cuando las personas de todos los reinos se reúnan para adorar al Señor.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H5315",
+        "H4480",
+        "H3605",
+        "H0582",
+        "H4467",
+        "H3045",
+        "H5704",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Pero, en cuanto a mí, él me quitó la salud cuando era joven, acortando mi vida.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H0834",
+        "H3068",
+        "H0589",
+        "H1931",
+        "H0413",
+        "H5493",
+        "H1931",
+        "H3444",
+        "H3588",
+        "H1961",
+        "H0970",
+        "H0589",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Clamé al Señor, “Mi Dios, ¡No me arrebates mi vida mientras aún soy joven! Tú eres el único que vive para siempre.",
+      "strong": [
+        "H7121",
+        "H0413",
+        "H0113",
+        "H0589",
+        "H0430",
+        "H1870",
+        "H0413",
+        "H0589",
+        "H3117",
+        "H5704",
+        "H5750",
+        "H0595",
+        "H0970",
+        "H0859",
+        "H0859",
+        "H1931",
+        "H3173",
+        "H3117",
+        "H2416",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Hace mucho tiempo creaste la tierra; hiciste los cielos.",
+      "strong": [
+        "H6213",
+        "H3966",
+        "H3117",
+        "H1931",
+        "H0776",
+        "H6213",
+        "H0582",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Y ellos llegarán a su fin, pero tú no. Todos ellos se desgastarán como la ropa, y tú los cambiarás y los tirarás.",
+      "strong": [
+        "H1571",
+        "H3027",
+        "H7126",
+        "H6440",
+        "H1931",
+        "H7093",
+        "H3588",
+        "H0859",
+        "H6440",
+        "H3605",
+        "H3027",
+        "H3045",
+        "H0349",
+        "H1931",
+        "H8071",
+        "H1571",
+        "H0859",
+        "H0582",
+        "H1571",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Pero tú eres el único que vive para siempre; tus años nunca llegarán a un fin.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0859",
+        "H3605",
+        "H3173",
+        "H1992",
+        "H2416",
+        "H5704",
+        "H3605",
+        "H0859",
+        "H8141",
+        "H3808",
+        "H7126",
+        "H0413",
+        "H0259",
+        "H7093"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Nuestros hijos vivirán contigo, y los hijos de nuestros hijos crecerán en tu presencia”.",
+      "strong": [
+        "H0587",
+        "H1121",
+        "H2421",
+        "H5973",
+        "H1571",
+        "H1931",
+        "H1121",
+        "H4480",
+        "H0587",
+        "H1121",
+        "H3254",
+        "H5921",
+        "H0859",
+        "H6440"
+      ]
+    }
+  ]
+}

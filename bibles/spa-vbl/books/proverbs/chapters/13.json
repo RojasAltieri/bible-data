@@ -1,1 +1,482 @@
-{"version":"spa-vbl","book":"proverbs","chapter":13,"data":[{"verse":"1","text":"Un hijo sabio acepta la disciplina de su padre, pero el burlador no escuchará la corrección."},{"verse":"2","text":"Recibirás recompensa por usar las palabras correctas; pero las personas deshonestas procuran la violencia."},{"verse":"3","text":"Cuida lo que dices y salvaras tu vida; decir mucho conlleva al desastre."},{"verse":"4","text":"Los perezosos desean muchas cosas pero no reciben nada; pero si trabajas duro serás recompensado."},{"verse":"5","text":"Las personas de bien odian las mentiras; pero los malvados hieden y solo aportan desgracia."},{"verse":"6","text":"La bondad protege a los que viven en rectitud; pero el pecado destruirá a los malvados."},{"verse":"7","text":"Algunos aparentan ser ricos, pero n tienen nada; mientras que otros aparentan ser pobres pero son muy ricos."},{"verse":"8","text":"Los ricos pueden pagar recompensa para salvar sus vidas, pero los pobres ni siquiera experimentan tal tribulación.13:8.El significado hebreo de la segunda línea no está claro."},{"verse":"9","text":"La vida de las personas buenas alumbra con esplendor,13:9.“Alumbra con esplendor”: o, “causa alegría”. pero la lampara de los malvados será apagada."},{"verse":"10","text":"El orgullo solo causa conflicto; pero los sabios aceptan el consejo."},{"verse":"11","text":"La riqueza que se logra con fraude desaparece rápidamente; pero los que la logran poco a poco prosperarán."},{"verse":"12","text":"La esperanza que se tarda puede causar malestar, pero un deseo cumplido puede darte vida nuevamente.13:12.“Larte vida nuevamente”: Literalmente, “un árbol de vida”."},{"verse":"13","text":"Si rechazas las palabras de consejo, pagaras por ello; pero si respetas el consejo que te dan, serás recompensado."},{"verse":"14","text":"La enseñanza del sabio es como una fuente de vida, gracias a la cual puedes evadir las trampas de la muerte."},{"verse":"15","text":"La inteligencia produce gran estima, pero el camino de los infieles es duro.13:15.“El camino de los infieles es duro”. La versión de la Septuaginta dice: “los caminos de los burladores conducen a la destrucción”."},{"verse":"16","text":"Todas las personas sabias actúan con inteligencia; pero los tontos demuestran su estupidez."},{"verse":"17","text":"Un mal mensajero crea13:17.“Crea”: Literalmente, “se mete en”. problemas; pero un embajador fiel trae sanidad."},{"verse":"18","text":"La pobreza y la desgracia can sobre aquellos que carecen de instrucción; pero los que aceptan la corrección serán honrados."},{"verse":"19","text":"Es bueno ver un deseo cumplido; pero los necios odian tener que alejarse del mal para lograr su deseo."},{"verse":"20","text":"Ser amigo de sabios te hará sabio; pero ser amigo de tontos te traerá problemas."},{"verse":"21","text":"La tragedia persigue al pecador; pero la prosperidad recompensa al justo."},{"verse":"22","text":"Los justos dejan herencia para sus nietos, pero la riqueza del pecador está reservada para los que viven en justicia."},{"verse":"23","text":"La tierra sin arar de los pobres puede producir mucho alimento, pero es robado por causa de la injusticia."},{"verse":"24","text":"Los que no disciplinan a sus hijos, los odian. Los que aman a sus hijos los disciplinan con cuidado."},{"verse":"25","text":"Los justos comen hasta saciarse; pero el estómago de los malvados esta vacío."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 13,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Un hijo sabio acepta la disciplina de su padre, pero el burlador no escuchará la corrección.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H2450",
+        "H5375",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H0001",
+        "H3588",
+        "H1121",
+        "H3808",
+        "H8085",
+        "H1931",
+        "H4148"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Recibirás recompensa por usar las palabras correctas; pero las personas deshonestas procuran la violencia.",
+      "strong": [
+        "H3947",
+        "H6468",
+        "H5921",
+        "H1992",
+        "H6310",
+        "H3588",
+        "H1992",
+        "H5315",
+        "H1931",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuida lo que dices y salvaras tu vida; decir mucho conlleva al desastre.",
+      "strong": [
+        "H8104",
+        "H1931",
+        "H6310",
+        "H0559",
+        "H1571",
+        "H3467",
+        "H0859",
+        "H5315",
+        "H0559",
+        "H3966",
+        "H0413",
+        "H0611"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Los perezosos desean muchas cosas pero no reciben nada; pero si trabajas duro serás recompensado.",
+      "strong": [
+        "H0582",
+        "H2655",
+        "H7227",
+        "H1697",
+        "H3588",
+        "H3808",
+        "H3808",
+        "H3588",
+        "H5315",
+        "H7186",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Las personas de bien odian las mentiras; pero los malvados hieden y solo aportan desgracia.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H1697",
+        "H2896",
+        "H1992",
+        "H8267",
+        "H3588",
+        "H0582",
+        "H1571",
+        "H0910"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "La bondad protege a los que viven en rectitud; pero el pecado destruirá a los malvados.",
+      "strong": [
+        "H1931",
+        "H2898",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H3588",
+        "H1931",
+        "H2403",
+        "H7843",
+        "H0413",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Algunos aparentan ser ricos, pero n tienen nada; mientras que otros aparentan ser pobres pero son muy ricos.",
+      "strong": [
+        "H0582",
+        "H5315",
+        "H3588",
+        "H3426",
+        "H3605",
+        "H3605",
+        "H1952",
+        "H0312",
+        "H5315",
+        "H1800",
+        "H3588",
+        "H1952",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los ricos pueden pagar recompensa para salvar sus vidas, pero los pobres ni siquiera experimentan tal tribulación.",
+      "strong": [
+        "H0582",
+        "H3201",
+        "H7999",
+        "H6468",
+        "H5704",
+        "H3467",
+        "H1931",
+        "H5315",
+        "H3588",
+        "H0582",
+        "H1800",
+        "H3808",
+        "H3651",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "La vida de las personas buenas alumbra con esplendor, pero la lampara de los malvados será apagada.",
+      "strong": [
+        "H1931",
+        "H5315",
+        "H6662",
+        "H1992",
+        "H5315",
+        "H2896",
+        "H0215",
+        "H5973",
+        "H3588",
+        "H1931",
+        "H5216",
+        "H6662",
+        "H0582",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El orgullo solo causa conflicto; pero los sabios aceptan el consejo.",
+      "strong": [
+        "H1931",
+        "H7535",
+        "H1697",
+        "H3588",
+        "H0582",
+        "H2450",
+        "H1931",
+        "H3289"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "La riqueza que se logra con fraude desaparece rápidamente; pero los que la logran poco a poco prosperarán.",
+      "strong": [
+        "H5921",
+        "H1952",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7423",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5674",
+        "H4591",
+        "H5921",
+        "H4591",
+        "H7919"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "La esperanza que se tarda puede causar malestar, pero un deseo cumplido puede darte vida nuevamente.",
+      "strong": [
+        "H1931",
+        "H8615",
+        "H0834",
+        "H3045",
+        "H3201",
+        "H3588",
+        "H0259",
+        "H8378",
+        "H8552",
+        "H3201",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Si rechazas las palabras de consejo, pagaras por ello; pero si respetas el consejo que te dan, serás recompensado.",
+      "strong": [
+        "H1931",
+        "H1992",
+        "H1697",
+        "H1697",
+        "H1697",
+        "H8254",
+        "H1697",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H1697",
+        "H1931",
+        "H0859",
+        "H1835",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "La enseñanza del sabio es como una fuente de vida, gracias a la cual puedes evadir las trampas de la muerte.",
+      "strong": [
+        "H1931",
+        "H3948",
+        "H4480",
+        "H2450",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H4726",
+        "H4480",
+        "H2416",
+        "H0413",
+        "H1931",
+        "H4100",
+        "H3546",
+        "H1992",
+        "H4480",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "La inteligencia produce gran estima, pero el camino de los infieles es duro.",
+      "strong": [
+        "H1931",
+        "H0998",
+        "H3318",
+        "H1419",
+        "H2803",
+        "H3588",
+        "H1931",
+        "H1870",
+        "H5414",
+        "H0582",
+        "H1961",
+        "H7186"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Todas las personas sabias actúan con inteligencia; pero los tontos demuestran su estupidez.",
+      "strong": [
+        "H3605",
+        "H1992",
+        "H5315",
+        "H3045",
+        "H5973",
+        "H0998",
+        "H3588",
+        "H3605",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Un mal mensajero crea problemas; pero un embajador fiel trae sanidad.",
+      "strong": [
+        "H0259",
+        "H7451",
+        "H4397",
+        "H1254",
+        "H3588",
+        "H0259",
+        "H6735",
+        "H0935",
+        "H0724"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "La pobreza y la desgracia can sobre aquellos que carecen de instrucción; pero los que aceptan la corrección serán honrados.",
+      "strong": [
+        "H8104",
+        "H7389",
+        "H1571",
+        "H8104",
+        "H5921",
+        "H0479",
+        "H0834",
+        "H4480",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H8104",
+        "H4148",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Es bueno ver un deseo cumplido; pero los necios odian tener que alejarse del mal para lograr su deseo.",
+      "strong": [
+        "H1961",
+        "H2896",
+        "H7200",
+        "H0259",
+        "H8378",
+        "H1961",
+        "H3588",
+        "H1961",
+        "H0995",
+        "H1961",
+        "H1961",
+        "H4480",
+        "H7451",
+        "H1961",
+        "H1931",
+        "H8378"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Ser amigo de sabios te hará sabio; pero ser amigo de tontos te traerá problemas.",
+      "strong": [
+        "H5315",
+        "H7453",
+        "H4480",
+        "H2450",
+        "H7489",
+        "H6213",
+        "H2450",
+        "H3588",
+        "H5315",
+        "H7453",
+        "H4480",
+        "H7489",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "La tragedia persigue al pecador; pero la prosperidad recompensa al justo.",
+      "strong": [
+        "H1931",
+        "H7291",
+        "H0413",
+        "H2398",
+        "H3588",
+        "H1931",
+        "H7959",
+        "H6468",
+        "H0413",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los justos dejan herencia para sus nietos, pero la riqueza del pecador está reservada para los que viven en justicia.",
+      "strong": [
+        "H1121",
+        "H6662",
+        "H2308",
+        "H5159",
+        "H5704",
+        "H1931",
+        "H1121",
+        "H3588",
+        "H1931",
+        "H7399",
+        "H4480",
+        "H2398",
+        "H2063",
+        "H5704",
+        "H1121",
+        "H1121",
+        "H2416",
+        "H5921",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "La tierra sin arar de los pobres puede producir mucho alimento, pero es robado por causa de la injusticia.",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H3808",
+        "H4480",
+        "H0582",
+        "H1800",
+        "H3201",
+        "H6779",
+        "H7230",
+        "H0400",
+        "H3588",
+        "H3426",
+        "H5921",
+        "H1697",
+        "H4480",
+        "H1931",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los que no disciplinan a sus hijos, los odian. Los que aman a sus hijos los disciplinan con cuidado.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H3808",
+        "H0413",
+        "H1931",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2001",
+        "H0413",
+        "H1931",
+        "H1121",
+        "H1121",
+        "H5973",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Los justos comen hasta saciarse; pero el estómago de los malvados esta vacío.",
+      "strong": [
+        "H0582",
+        "H6662",
+        "H0398",
+        "H5704",
+        "H3588",
+        "H1931",
+        "H6662",
+        "H0582",
+        "H2063",
+        "H7387"
+      ]
+    }
+  ]
+}

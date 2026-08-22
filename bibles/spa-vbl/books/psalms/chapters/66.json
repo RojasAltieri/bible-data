@@ -1,1 +1,393 @@
-{"version":"spa-vbl","book":"psalms","chapter":66,"data":[{"verse":"1","text":"¡Toda la tierra eleve su voz con alegría a Dios!"},{"verse":"2","text":"Canten sobre su maravilloso nombre. ¡Alábenle por su bondad!"},{"verse":"3","text":"Digan a Dios: “¡Grandes son tus maravillas! ¡Tus enemigos se arrodillan ante ti por causa de tu poder!"},{"verse":"4","text":"Todos en la tierra te adoran, y cantan alabanzas a ti. Te adoran por quien eres”.66:4 Literalmente, “tu nombre”. Selah."},{"verse":"5","text":"¡Vengan y vean lo que Dios ha hecho! ¡Lo que Dios hace por su pueblo es maravilloso!"},{"verse":"6","text":"Él transformó el Mar Rojo en tierra seca, y su pueblo caminó entre las aguas. Celebramos por lo que hizo."},{"verse":"7","text":"Él gobierna para siempre con su poder. Él cuida de las naciones, y vigila que ningún rebelde se levante en oposición. Selah."},{"verse":"8","text":"Que todos los pueblos de la tierra bendigan a nuestro Dios y canten a gritos alabanzas a él."},{"verse":"9","text":"Él nos ha mantenido con vida, y no nos ha dejado caer."},{"verse":"10","text":"Dios, tú nos has examinado, y nos has refinado como la plata."},{"verse":"11","text":"Tú nos has atrapado en tu red, y has puesto pesada carga sobre nosotros."},{"verse":"12","text":"Dejas que las personas nos pisoteen con rudeza; 66:12 Es la imagen de un ejercito enemigo que los agobia. Hemos pasado por fuego e inundaciones, pero tú nos has traído a un lugar seguro."},{"verse":"13","text":"Me presentaré en tu Templo con sacrificios. Cumpliré mis promesas hacia ti,"},{"verse":"14","text":"esas promesas que hice cuando estuve en momentos de dificultad."},{"verse":"15","text":"Haré sacrificios de becerros gordos, subirá el humo del sacrificio de carneros, ofrendas de toros y cabras. Selah."},{"verse":"16","text":"Vengan y escuchen, todos los que honran a Dios, y yo les contaré todas las cosas que ha hecho por mi."},{"verse":"17","text":"Yo clamé a él y le alabé con mi voz."},{"verse":"18","text":"Si hubiera tenido pecado en mi pensamiento,66:18 Literalmente, “Si hubiera visto mal en mi corazón”. Se creía que el pensamiento ocurría en el corazón.  el Señor no me habría escuchado."},{"verse":"19","text":"¡Pero Dios me escuchó! ¡Escuchó mi oración!"},{"verse":"20","text":"Alaben a Dios, quien no ignoró mi oración ni me retiró su amor."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 66,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Toda la tierra eleve su voz con alegría a Dios!",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H0776",
+        "H1931",
+        "H6963",
+        "H5973",
+        "H8057",
+        "H0413",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Canten sobre su maravilloso nombre. ¡Alábenle por su bondad!",
+      "strong": [
+        "H7442",
+        "H5921",
+        "H1931",
+        "H3372",
+        "H8034",
+        "H5921",
+        "H1931",
+        "H2898"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Digan a Dios: “¡Grandes son tus maravillas! ¡Tus enemigos se arrodillan ante ti por causa de tu poder!",
+      "strong": [
+        "H0559",
+        "H0413",
+        "H0430",
+        "H1419",
+        "H1961",
+        "H0859",
+        "H6381",
+        "H0859",
+        "H0341",
+        "H4100",
+        "H6440",
+        "H0859",
+        "H4100",
+        "H1697",
+        "H3372",
+        "H0859",
+        "H7230"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Todos en la tierra te adoran, y cantan alabanzas a ti. Te adoran por quien eres”. Selah.",
+      "strong": [
+        "H3605",
+        "H5921",
+        "H3605",
+        "H0776",
+        "H0859",
+        "H7812",
+        "H1571",
+        "H7891",
+        "H8426",
+        "H0413",
+        "H0859",
+        "H0859",
+        "H7812",
+        "H5921",
+        "H3605",
+        "H0859",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¡Vengan y vean lo que Dios ha hecho! ¡Lo que Dios hace por su pueblo es maravilloso!",
+      "strong": [
+        "H0935",
+        "H5921",
+        "H7200",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H3541",
+        "H6213",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H5971",
+        "H1961",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Él transformó el Mar Rojo en tierra seca, y su pueblo caminó entre las aguas. Celebramos por lo que hizo.",
+      "strong": [
+        "H5674",
+        "H5674",
+        "H3220",
+        "H5921",
+        "H3004",
+        "H6723",
+        "H1571",
+        "H1931",
+        "H5971",
+        "H1870",
+        "H8033",
+        "H1992",
+        "H4325",
+        "H5921",
+        "H1931",
+        "H0834",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él gobierna para siempre con su poder. Él cuida de las naciones, y vigila que ningún rebelde se levante en oposición. Selah.",
+      "strong": [
+        "H1931",
+        "H3557",
+        "H5704",
+        "H5769",
+        "H5973",
+        "H1931",
+        "H3027",
+        "H1931",
+        "H1875",
+        "H5869",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H0834",
+        "H3605",
+        "H5637",
+        "H3045",
+        "H7311",
+        "H5921",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Que todos los pueblos de la tierra bendigan a nuestro Dios y canten a gritos alabanzas a él.",
+      "strong": [
+        "H5971",
+        "H3605",
+        "H0582",
+        "H5971",
+        "H5971",
+        "H1931",
+        "H0776",
+        "H0413",
+        "H0587",
+        "H0430",
+        "H1571",
+        "H7442",
+        "H0413",
+        "H8643",
+        "H8416",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Él nos ha mantenido con vida, y no nos ha dejado caer.",
+      "strong": [
+        "H1931",
+        "H0587",
+        "H3808",
+        "H5973",
+        "H5315",
+        "H1571",
+        "H3808",
+        "H0587",
+        "H3808",
+        "H8667",
+        "H3782"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Dios, tú nos has examinado, y nos has refinado como la plata.",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H0587",
+        "H4191",
+        "H3588",
+        "H0587",
+        "H4191",
+        "H3588",
+        "H3588",
+        "H3701"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Tú nos has atrapado en tu red, y has puesto pesada carga sobre nosotros.",
+      "strong": [
+        "H0859",
+        "H0587",
+        "H4191",
+        "H5921",
+        "H0859",
+        "H4686",
+        "H1571",
+        "H4191",
+        "H3588",
+        "H3515",
+        "H7760",
+        "H5921",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Dejas que las personas nos pisoteen con rudeza; Hemos pasado por fuego e inundaciones, pero tú nos has traído a un lugar seguro.",
+      "strong": [
+        "H4325",
+        "H1992",
+        "H5315",
+        "H0587",
+        "H5973",
+        "H0935",
+        "H5674",
+        "H5921",
+        "H0784",
+        "H0834",
+        "H3588",
+        "H0859",
+        "H0587",
+        "H4191",
+        "H0935",
+        "H0413",
+        "H0259",
+        "H4725",
+        "H0983"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Me presentaré en tu Templo con sacrificios. Cumpliré mis promesas hacia ti,",
+      "strong": [
+        "H0413",
+        "H6186",
+        "H5921",
+        "H0859",
+        "H1004",
+        "H5973",
+        "H2077",
+        "H3615",
+        "H0589",
+        "H0413",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "esas promesas que hice cuando estuve en momentos de dificultad.",
+      "strong": [
+        "H6310",
+        "H6213",
+        "H3588",
+        "H5975",
+        "H5921",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Haré sacrificios de becerros gordos, subirá el humo del sacrificio de carneros, ofrendas de toros y cabras. Selah.",
+      "strong": [
+        "H6213",
+        "H2077",
+        "H5973",
+        "H6499",
+        "H5927",
+        "H5973",
+        "H6227",
+        "H5973",
+        "H2077",
+        "H5973",
+        "H0352",
+        "H4979",
+        "H5973",
+        "H6499",
+        "H1241",
+        "H5795",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Vengan y escuchen, todos los que honran a Dios, y yo les contaré todas las cosas que ha hecho por mi.",
+      "strong": [
+        "H0935",
+        "H1571",
+        "H8085",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H0413",
+        "H0430",
+        "H1571",
+        "H5315",
+        "H0413",
+        "H5608",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H3605",
+        "H3541",
+        "H6213",
+        "H5921",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Yo clamé a él y le alabé con mi voz.",
+      "strong": [
+        "H0589",
+        "H7121",
+        "H6310",
+        "H1931",
+        "H1571",
+        "H0413",
+        "H1984",
+        "H5973",
+        "H0589",
+        "H6963"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Si hubiera tenido pecado en mi pensamiento, el Señor no me habría escuchado.",
+      "strong": [
+        "H3808",
+        "H2403",
+        "H5921",
+        "H0589",
+        "H3820",
+        "H1931",
+        "H0113",
+        "H3808",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¡Pero Dios me escuchó! ¡Escuchó mi oración!",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H0413",
+        "H8085",
+        "H8085",
+        "H0589",
+        "H8605"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Alaben a Dios, quien no ignoró mi oración ni me retiró su amor.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H0430",
+        "H4310",
+        "H3808",
+        "H0589",
+        "H8605",
+        "H3808",
+        "H0413",
+        "H1931",
+        "H0160"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,635 @@
-{"version":"spa-vbl","book":"job","chapter":9,"data":[{"verse":"1","text":"Job respondió:"},{"verse":"2","text":"“¡Sí, todo eso lo sé! Pero, ¿cómo puede alguien tener la razón delante Dios?"},{"verse":"3","text":"Si quisieras discutir con Dios, éste podría hacer mil preguntas que nadie puede responder."},{"verse":"4","text":"Dios es tan sabio y poderoso que nadie podría desafiarlo y ganarle."},{"verse":"5","text":"“Dios mueve las montañas de repente; las derriba en su ira.9:5 Refiriéndose a los terremotos."},{"verse":"6","text":"Él sacude la tierra, haciendo temblar sus cimientos."},{"verse":"7","text":"Él es quien puede ordenar que el sol no salga y que las estrellas no brillen."},{"verse":"8","text":"Sólo él es quien extiende los cielos y camina sobre las olas del mar."},{"verse":"9","text":"Él hizo las constelaciones de la Osa, de Orión, de las Pléyades y las estrellas del cielo austral."},{"verse":"10","text":"Él es quien hace cosas increíbles que están más allá de nuestro entendimiento, cosas maravillosas que son incontables."},{"verse":"11","text":"“Pero cuando pasa junto a mí, no lo veo; cuando camina hacia adelante, es invisible para mí."},{"verse":"12","text":"Si él quita,9:12 “Quita”. Esto puede referirse a “arrebatar” a través de la muerte. El verbo aquí significa “arrebata” y no aparece en ninguna otra parte de la Biblia. ¿Quién podrá impedírselo? ¿Quién va a preguntarle: ‘Qué haces’?"},{"verse":"13","text":"Dios no refrena su ira, y aplasta a los ayudantes de Rahab.9:13 Se cree que Rahab se refiere a un monstruo marino mítico, y sus ayudantes a los que asisten en la destrucción y causan el caos."},{"verse":"14","text":"“Así que, ¡cuánto menos podría responder a Dios, o elegir mis palabras para discutir con él!"},{"verse":"15","text":"Aunque tenga razón,9:15 O “inocente”. no puedo responderle. Debo implorar la misericordia de mi juez."},{"verse":"16","text":"Aunque lo llamara para que viniera y él respondiera, no creo que me escuchara."},{"verse":"17","text":"“Me golpea con vientos de tormenta; me hiere una y otra vez, sin dar razón."},{"verse":"18","text":"No me da la oportunidad ni siquiera de recuperar el aliento; en cambio, llena mi vida de amargo sufrimiento."},{"verse":"19","text":"Si de fuerza se trata, Dios es el más fuerte. Si es cuestión de justicia, entonces ¿quién fijará un tiempo para mi caso?9:19 O “¿quién lo llevará a juicio?”"},{"verse":"20","text":"Aunque tenga razón, mi propia boca me condenaría; aunque sea inocente, él demostraría que estoy equivocado."},{"verse":"21","text":"¡Soy inocente! No me importa lo que me pase. ¡Odio mi vida!"},{"verse":"22","text":"Por eso digo: ‘A Dios le da igual. Él destruye tanto al inocente como al malvado’."},{"verse":"23","text":"Cuando el desastre9:23 Literalmente, “azote”. golpea de repente, se burla de la desesperación de los inocentes."},{"verse":"24","text":"La tierra ha sido entregada al malvado; él ciega los ojos de los jueces;9:24 Significa que no hay justicia. y si no es él, entonces ¿quién?"},{"verse":"25","text":"Los días de mi vida corren como un corredor, pasando a toda prisa sin que yo vea ninguna felicidad."},{"verse":"26","text":"Pasan como veloces veleros, como el águila que se abalanza sobre su presa."},{"verse":"27","text":"“Si me dijera a mí mismo: ‘Olvidaré mis quejas; dejaré de llorar y seré feliz’,"},{"verse":"28","text":"seguiría aterrado por todo mi sufrimiento, porque tú, Dios, no dirás que soy inocente."},{"verse":"29","text":"Ya que estoy condenado, ¿qué sentido tiene discutir?"},{"verse":"30","text":"¡Aunque me lavara con agua pura de la montaña y me limpiara las manos con jabón,"},{"verse":"31","text":"me arrojarías a un pozo de lodo de modo que hasta mis propias ropas me odiarían!"},{"verse":"32","text":"Porque Dios no es un ser mortal como yo, no puedo defenderme ni llevarlo a juicio."},{"verse":"33","text":"Si hubiera un árbitro9:33 Literalmente, “juez”. ¡que pudiera reunirnos a los dos!"},{"verse":"34","text":"¡Ojalá Dios dejara de golpearme con su vara y de aterrorizarme!"},{"verse":"35","text":"Entonces podría hablar sin tener miedo; pero como lo tengo, no puedo!”9:35 Literalmente, “porque no soy así dentro de mí mismo”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 9,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job respondió:",
+      "strong": [
+        "H0347",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¡Sí, todo eso lo sé! Pero, ¿cómo puede alguien tener la razón delante Dios?",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H3651",
+        "H4100",
+        "H3045",
+        "H3588",
+        "H4100",
+        "H3201",
+        "H0376",
+        "H3651",
+        "H3588",
+        "H7218",
+        "H5973",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Si quisieras discutir con Dios, éste podría hacer mil preguntas que nadie puede responder.",
+      "strong": [
+        "H3808",
+        "H5973",
+        "H0430",
+        "H2088",
+        "H6213",
+        "H0505",
+        "H7592",
+        "H4480",
+        "H3808",
+        "H3201",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Dios es tan sabio y poderoso que nadie podría desafiarlo y ganarle.",
+      "strong": [
+        "H0430",
+        "H1961",
+        "H3966",
+        "H2450",
+        "H1571",
+        "H1368",
+        "H4310",
+        "H0376",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "“Dios mueve las montañas de repente; las derriba en su ira.",
+      "strong": [
+        "H0430",
+        "H2654",
+        "H1992",
+        "H4480",
+        "H1992",
+        "H3381",
+        "H5921",
+        "H1931",
+        "H2534"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Él sacude la tierra, haciendo temblar sus cimientos.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H0776",
+        "H6213",
+        "H7493",
+        "H1931",
+        "H3245"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él es quien puede ordenar que el sol no salga y que las estrellas no brillen.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H4310",
+        "H3201",
+        "H3808",
+        "H1931",
+        "H8121",
+        "H3808",
+        "H3318",
+        "H1571",
+        "H3808",
+        "H1992",
+        "H3556",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Sólo él es quien extiende los cielos y camina sobre las olas del mar.",
+      "strong": [
+        "H0910",
+        "H5921",
+        "H1961",
+        "H4310",
+        "H5186",
+        "H5921",
+        "H8064",
+        "H5921",
+        "H1980",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3220"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Él hizo las constelaciones de la Osa, de Orión, de las Pléyades y las estrellas del cielo austral.",
+      "strong": [
+        "H6213",
+        "H6213",
+        "H1992",
+        "H4480",
+        "H1931",
+        "H4480",
+        "H4480",
+        "H1992",
+        "H1571",
+        "H1992",
+        "H3556",
+        "H4480",
+        "H8064",
+        "H8486"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Él es quien hace cosas increíbles que están más allá de nuestro entendimiento, cosas maravillosas que son incontables.",
+      "strong": [
+        "H6213",
+        "H1961",
+        "H6213",
+        "H6213",
+        "H1697",
+        "H5704",
+        "H1961",
+        "H5704",
+        "H8033",
+        "H5704",
+        "H0587",
+        "H7922",
+        "H1697",
+        "H6381",
+        "H5704",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "“Pero cuando pasa junto a mí, no lo veo; cuando camina hacia adelante, es invisible para mí.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5674",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3808",
+        "H3808",
+        "H7200",
+        "H3588",
+        "H1980",
+        "H5921",
+        "H5750",
+        "H1961",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Si él quita, ¿Quién podrá impedírselo? ¿Quién va a preguntarle: ‘Qué haces’?",
+      "strong": [
+        "H2005",
+        "H4310",
+        "H7725",
+        "H4310",
+        "H3201",
+        "H4310",
+        "H1980",
+        "H0413",
+        "H4100"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Dios no refrena su ira, y aplasta a los ayudantes de Rahab.",
+      "strong": [
+        "H0430",
+        "H3808",
+        "H1931",
+        "H2534",
+        "H1571",
+        "H8478",
+        "H0582",
+        "H8478",
+        "H7343"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "“Así que, ¡cuánto menos podría responder a Dios, o elegir mis palabras para discutir con él!",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H6030",
+        "H5973",
+        "H0430",
+        "H0176",
+        "H0589",
+        "H1697",
+        "H3588",
+        "H5973",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Aunque tenga razón, no puedo responderle. Debo implorar la misericordia de mi juez.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H7218",
+        "H3808",
+        "H3201",
+        "H6030",
+        "H1931",
+        "H2603",
+        "H4480",
+        "H6030",
+        "H8199"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Aunque lo llamara para que viniera y él respondiera, no creo que me escuchara.",
+      "strong": [
+        "H3588",
+        "H3808",
+        "H7121",
+        "H3588",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H8085"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "“Me golpea con vientos de tormenta; me hiere una y otra vez, sin dar razón.",
+      "strong": [
+        "H0413",
+        "H5973",
+        "H7307",
+        "H4480",
+        "H0413",
+        "H5221",
+        "H0259",
+        "H1571",
+        "H5750",
+        "H6471",
+        "H3808",
+        "H5414",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "No me da la oportunidad ni siquiera de recuperar el aliento; en cambio, llena mi vida de amargo sufrimiento.",
+      "strong": [
+        "H3808",
+        "H3588",
+        "H5414",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H0553",
+        "H3588",
+        "H4392",
+        "H0589",
+        "H5315",
+        "H3588",
+        "H8563"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Si de fuerza se trata, Dios es el más fuerte. Si es cuestión de justicia, entonces ¿quién fijará un tiempo para mi caso?",
+      "strong": [
+        "H2009",
+        "H4480",
+        "H3581",
+        "H3045",
+        "H1245",
+        "H0430",
+        "H1961",
+        "H4310",
+        "H5750",
+        "H2389",
+        "H2009",
+        "H1961",
+        "H4480",
+        "H4941",
+        "H0227",
+        "H4310",
+        "H0259",
+        "H6256",
+        "H5704",
+        "H2009",
+        "H3820"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Aunque tenga razón, mi propia boca me condenaría; aunque sea inocente, él demostraría que estoy equivocado.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H7218",
+        "H0589",
+        "H6310",
+        "H0413",
+        "H3588",
+        "H1961",
+        "H5355",
+        "H1931",
+        "H6310",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "¡Soy inocente! No me importa lo que me pase. ¡Odio mi vida!",
+      "strong": [
+        "H0595",
+        "H5355",
+        "H3808",
+        "H0413",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H5674",
+        "H4895",
+        "H5315",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Por eso digo: ‘A Dios le da igual. Él destruye tanto al inocente como al malvado’.",
+      "strong": [
+        "H5921",
+        "H3651",
+        "H0559",
+        "H5921",
+        "H0430",
+        "H1931",
+        "H5414",
+        "H2505",
+        "H1931",
+        "H2717",
+        "H3651",
+        "H5921",
+        "H5355",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Cuando el desastre golpea de repente, se burla de la desesperación de los inocentes.",
+      "strong": [
+        "H3932",
+        "H1931",
+        "H0611",
+        "H4480",
+        "H3045",
+        "H4480",
+        "H1931",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "La tierra ha sido entregada al malvado; él ciega los ojos de los jueces; y si no es él, entonces ¿quién?",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H3808",
+        "H1961",
+        "H5414",
+        "H0413",
+        "H7451",
+        "H1931",
+        "H5786",
+        "H1931",
+        "H5869",
+        "H6440",
+        "H1931",
+        "H8199",
+        "H1571",
+        "H3808",
+        "H3808",
+        "H1931",
+        "H1931",
+        "H0227",
+        "H4310"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Los días de mi vida corren como un corredor, pasando a toda prisa sin que yo vea ninguna felicidad.",
+      "strong": [
+        "H0582",
+        "H3117",
+        "H4480",
+        "H0589",
+        "H3117",
+        "H7323",
+        "H0349",
+        "H0259",
+        "H5674",
+        "H4480",
+        "H3605",
+        "H3808",
+        "H4480",
+        "H4480",
+        "H7200",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Pasan como veloces veleros, como el águila que se abalanza sobre su presa.",
+      "strong": [
+        "H5674",
+        "H5973",
+        "H0016",
+        "H5973",
+        "H5921",
+        "H5403",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H0957"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "“Si me dijera a mí mismo: ‘Olvidaré mis quejas; dejaré de llorar y seré feliz’,",
+      "strong": [
+        "H6440",
+        "H0413",
+        "H4448",
+        "H6440",
+        "H0589",
+        "H1931",
+        "H7911",
+        "H0589",
+        "H5800",
+        "H6440",
+        "H1571",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "seguiría aterrado por todo mi sufrimiento, porque tú, Dios, no dirás que soy inocente.",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H0589",
+        "H3588",
+        "H0859",
+        "H0430",
+        "H3808",
+        "H0559",
+        "H3588",
+        "H0595",
+        "H5355"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Ya que estoy condenado, ¿qué sentido tiene discutir?",
+      "strong": [
+        "H2088",
+        "H4100",
+        "H1961",
+        "H4100",
+        "H3426"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "¡Aunque me lavara con agua pura de la montaña y me limpiara las manos con jabón,",
+      "strong": [
+        "H3588",
+        "H0413",
+        "H7364",
+        "H5973",
+        "H4325",
+        "H2889",
+        "H4480",
+        "H1931",
+        "H1571",
+        "H0413",
+        "H2135",
+        "H1992",
+        "H3709",
+        "H5973",
+        "H1287"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "me arrojarías a un pozo de lodo de modo que hasta mis propias ropas me odiarían!",
+      "strong": [
+        "H0413",
+        "H0413",
+        "H0259",
+        "H0875",
+        "H4480",
+        "H4480",
+        "H5352",
+        "H0834",
+        "H5704",
+        "H0589",
+        "H0899",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Porque Dios no es un ser mortal como yo, no puedo defenderme ni llevarlo a juicio.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H3808",
+        "H3588",
+        "H3162",
+        "H5315",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H3808",
+        "H5375",
+        "H3588",
+        "H4941"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Si hubiera un árbitro ¡que pudiera reunirnos a los dos!",
+      "strong": [
+        "H3863",
+        "H0259",
+        "H3198",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8147"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "¡Ojalá Dios dejara de golpearme con su vara y de aterrorizarme!",
+      "strong": [
+        "H3863",
+        "H0430",
+        "H5414",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H7626",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "Entonces podría hablar sin tener miedo; pero como lo tengo, no puedo!”",
+      "strong": [
+        "H3588",
+        "H1696",
+        "H3808",
+        "H3651",
+        "H3372",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H1696",
+        "H3808",
+        "H3201"
+      ]
+    }
+  ]
+}

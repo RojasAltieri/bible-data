@@ -1,1 +1,535 @@
-{"version":"spa-vbl","book":"job","chapter":19,"data":[{"verse":"1","text":"Job respondió:"},{"verse":"2","text":"“¿Hasta cuándo seguirás atormentándome? ¿Hasta cuándo seguirás aplastándome con palabras?"},{"verse":"3","text":"Ya me has humillado diez veces. ¿No te da vergüenza tratarme tan mal?"},{"verse":"4","text":"Aunque haya pecado, ese es mi problema, y no tiene nada que ver contigo."},{"verse":"5","text":"Te crees mucho mejor que yo, y utilizas mi degradación contra mí."},{"verse":"6","text":"Pero deberías darte cuenta de que es Dios quien me ha perjudicado,19:6 En 8:3 Bildad preguntó: “¿Acaso Dios pervierte la justicia?” . Job utiliza el mismo verbo “pervertir” aquí para decir que Dios le ha hecho mal. me ha atrapado en su red."},{"verse":"7","text":"Aunque clamo por ayuda, no obtengo respuesta; aunque grito mis objeciones, no obtengo justicia."},{"verse":"8","text":"Dios me ha amurallado para que no pueda escapar; ha sumido mi camino en la oscuridad."},{"verse":"9","text":"Ha despojado mi honor19:9 O “riqueza”. de mí; me ha quitado mi reputación.19:9 Literalmente, “me quitó la corona de la cabeza”."},{"verse":"10","text":"Me derriba por todos lados hasta acabar conmigo; ha destruido mi esperanza como un árbol desarraigado."},{"verse":"11","text":"Su ira arde contra mí; me trata como a uno de sus enemigos."},{"verse":"12","text":"Las tropas de Dios se reúnen para atacarme. Construyen murallas contra mí. Rodean y asedian mi casa."},{"verse":"13","text":"“Ha alejado de mí a mis hermanos; todos mis antiguos amigos se han alejado de mí."},{"verse":"14","text":"Mis parientes me han abandonado; mis amigos íntimos me han olvidado."},{"verse":"15","text":"Los huéspedes de mi casa y mis sirvientas me tratan como a un extraño; para ellos me he convertido en un extranjero."},{"verse":"16","text":"Llamo a mi criado, pero no responde. ¡Hasta tengo que rogarle!"},{"verse":"17","text":"Soy19:17 O “Mi aliento”. repulsivo para mi esposa, y soy repugnante para mis propios hermanos.19:17 “Mis propios hermanos”: Literalmente, “los hijos de mi propia madre”. También podría interpretarse como “mis propios hijos”."},{"verse":"18","text":"Hasta los niños pequeños me desprecian; cuando me pongo de pie se burlan de mí."},{"verse":"19","text":"Todos mis amigos más cercanos me desprecian, y los que amaba se han vuelto contra mí."},{"verse":"20","text":"Estoy reducido a piel y huesos, y sobrevivo por el pellejo de mis dientes."},{"verse":"21","text":"“¡Tengan piedad de mí, amigos míos, tengan piedad de mí, porque Dios me ha abatido!"},{"verse":"22","text":"¿Por qué me persiguen como lo hace Dios? ¿No se conforman con obtener su libra de carne?"},{"verse":"23","text":"“Quisiera que mis palabras quedaran escritas, registradas en un libro,"},{"verse":"24","text":"o grabadas con pluma de hierro y plomo fundido en la roca para siempre."},{"verse":"25","text":"“Sé que mi Redentor está vivo, y que por fin subirá al estrado19:25 El concepto aquí es subir al estrado como testigo. para mí en la tierra."},{"verse":"26","text":"Aunque mi piel esté destruida, en mi cuerpo19:26 Literalmente, “carne”. Veré a Dios."},{"verse":"27","text":"Yo mismo lo veré, con mis propios ojos y no con los de otro. ¡El pensamiento me invade!19:27 Literalmente, “mis riñones están agotados en mi pecho” - los riñones son vistos como la fuente de las emociones en el cuerpo."},{"verse":"28","text":"Ustedes se dicen: ‘¿Cómo podemos hacerlo sufrir para que vea que él es la fuente de sus problemas?’"},{"verse":"29","text":"Ustedes mismos deberían temer ser castigados por Dios, porque saben que la ira trae el castigo de Dios19:29 “Castigado/castigo” Literalmente, “espada”. que acompaña al juicio”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 19,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job respondió:",
+      "strong": [
+        "H0347",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Hasta cuándo seguirás atormentándome? ¿Hasta cuándo seguirás aplastándome con palabras?",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H1961",
+        "H5704",
+        "H5704",
+        "H1961",
+        "H5704",
+        "H4405"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Ya me has humillado diez veces. ¿No te da vergüenza tratarme tan mal?",
+      "strong": [
+        "H2088",
+        "H0413",
+        "H4191",
+        "H6031",
+        "H6235",
+        "H6471",
+        "H3808",
+        "H0859",
+        "H5414",
+        "H3637",
+        "H3966",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Aunque haya pecado, ese es mi problema, y no tiene nada que ver contigo.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H2403",
+        "H1931",
+        "H1961",
+        "H0589",
+        "H1571",
+        "H3808",
+        "H3426",
+        "H3808",
+        "H0834",
+        "H7200",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Te crees mucho mejor que yo, y utilizas mi degradación contra mí.",
+      "strong": [
+        "H5921",
+        "H3966",
+        "H2896",
+        "H5921",
+        "H0589",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Pero deberías darte cuenta de que es Dios quien me ha perjudicado, me ha atrapado en su red.",
+      "strong": [
+        "H3588",
+        "H6485",
+        "H5921",
+        "H3588",
+        "H3588",
+        "H0430",
+        "H4310",
+        "H5921",
+        "H3541",
+        "H5921",
+        "H3541",
+        "H5921",
+        "H3588",
+        "H4686"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Aunque clamo por ayuda, no obtengo respuesta; aunque grito mis objeciones, no obtengo justicia.",
+      "strong": [
+        "H3808",
+        "H6817",
+        "H5921",
+        "H5828",
+        "H3808",
+        "H1697",
+        "H3808",
+        "H7121",
+        "H0589",
+        "H3808",
+        "H4941"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Dios me ha amurallado para que no pueda escapar; ha sumido mi camino en la oscuridad.",
+      "strong": [
+        "H0430",
+        "H5921",
+        "H3808",
+        "H5921",
+        "H3808",
+        "H3808",
+        "H3201",
+        "H4422",
+        "H3808",
+        "H5921",
+        "H1870",
+        "H5921",
+        "H5921",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Ha despojado mi honor de mí; me ha quitado mi reputación.",
+      "strong": [
+        "H3541",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3541",
+        "H0622",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Me derriba por todos lados hasta acabar conmigo; ha destruido mi esperanza como un árbol desarraigado.",
+      "strong": [
+        "H0413",
+        "H3381",
+        "H5921",
+        "H3605",
+        "H5439",
+        "H5704",
+        "H3615",
+        "H0854",
+        "H3541",
+        "H7703",
+        "H0589",
+        "H8615",
+        "H0349",
+        "H0259",
+        "H6086"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Su ira arde contra mí; me trata como a uno de sus enemigos.",
+      "strong": [
+        "H1931",
+        "H2534",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1245",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H5921",
+        "H1931",
+        "H6862"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Las tropas de Dios se reúnen para atacarme. Construyen murallas contra mí. Rodean y asedian mi casa.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5439",
+        "H5921",
+        "H5921",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "“Ha alejado de mí a mis hermanos; todos mis antiguos amigos se han alejado de mí.",
+      "strong": [
+        "H3541",
+        "H4480",
+        "H5921",
+        "H5921",
+        "H0589",
+        "H0251",
+        "H3605",
+        "H0589",
+        "H5769",
+        "H7453",
+        "H3045",
+        "H4191",
+        "H4480",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Mis parientes me han abandonado; mis amigos íntimos me han olvidado.",
+      "strong": [
+        "H0589",
+        "H0413",
+        "H4191",
+        "H0589",
+        "H7453",
+        "H0413",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los huéspedes de mi casa y mis sirvientas me tratan como a un extraño; para ellos me he convertido en un extranjero.",
+      "strong": [
+        "H1961",
+        "H5869",
+        "H1961",
+        "H1004",
+        "H1571",
+        "H0589",
+        "H0413",
+        "H5608",
+        "H1961",
+        "H5869",
+        "H0259",
+        "H5237",
+        "H1961",
+        "H1992",
+        "H0413",
+        "H4392",
+        "H7725",
+        "H5921",
+        "H0259",
+        "H5237"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Llamo a mi criado, pero no responde. ¡Hasta tengo que rogarle!",
+      "strong": [
+        "H7121",
+        "H6310",
+        "H6030",
+        "H5650",
+        "H3588",
+        "H3808",
+        "H6030",
+        "H5704",
+        "H2803",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Soy repulsivo para mi esposa, y soy repugnante para mis propios hermanos.",
+      "strong": [
+        "H0595",
+        "H5704",
+        "H0589",
+        "H3618",
+        "H1571",
+        "H0595",
+        "H5704",
+        "H0589",
+        "H0251"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Hasta los niños pequeños me desprecian; cuando me pongo de pie se burlan de mí.",
+      "strong": [
+        "H5704",
+        "H0582",
+        "H2945",
+        "H6996",
+        "H0413",
+        "H0936",
+        "H1571",
+        "H0413",
+        "H5414",
+        "H4480",
+        "H3247",
+        "H3045",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Todos mis amigos más cercanos me desprecian, y los que amaba se han vuelto contra mí.",
+      "strong": [
+        "H3605",
+        "H0589",
+        "H7453",
+        "H5750",
+        "H7138",
+        "H0413",
+        "H0936",
+        "H1571",
+        "H3605",
+        "H2088",
+        "H0157",
+        "H3045",
+        "H4191",
+        "H7725",
+        "H5921",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Estoy reducido a piel y huesos, y sobrevivo por el pellejo de mis dientes.",
+      "strong": [
+        "H1961",
+        "H0413",
+        "H5785",
+        "H1571",
+        "H6106",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H4480",
+        "H0589",
+        "H8127"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "“¡Tengan piedad de mí, amigos míos, tengan piedad de mí, porque Dios me ha abatido!",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H7453",
+        "H1992",
+        "H3588",
+        "H0589",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3541",
+        "H8217"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "¿Por qué me persiguen como lo hace Dios? ¿No se conforman con obtener su libra de carne?",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H0413",
+        "H7291",
+        "H4100",
+        "H4100",
+        "H6213",
+        "H0430",
+        "H3808",
+        "H3808",
+        "H5973",
+        "H1931",
+        "H5337",
+        "H7646",
+        "H1320"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "“Quisiera que mis palabras quedaran escritas, registradas en un libro,",
+      "strong": [
+        "H2654",
+        "H4310",
+        "H5414",
+        "H4405",
+        "H5414",
+        "H3789",
+        "H5921",
+        "H0259",
+        "H5612"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "o grabadas con pluma de hierro y plomo fundido en la roca para siempre.",
+      "strong": [
+        "H0176",
+        "H6605",
+        "H5973",
+        "H4480",
+        "H1270",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H6697",
+        "H5703",
+        "H5703"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "“Sé que mi Redentor está vivo, y que por fin subirá al estrado para mí en la tierra.",
+      "strong": [
+        "H3045",
+        "H5921",
+        "H5921",
+        "H1350",
+        "H6965",
+        "H2416",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7093",
+        "H6965",
+        "H5921",
+        "H1916",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Aunque mi piel esté destruida, en mi cuerpo Veré a Dios.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H5785",
+        "H2063",
+        "H7703",
+        "H5921",
+        "H0589",
+        "H5038",
+        "H2372",
+        "H0413",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Yo mismo lo veré, con mis propios ojos y no con los de otro. ¡El pensamiento me invade!",
+      "strong": [
+        "H0589",
+        "H1931",
+        "H3808",
+        "H7200",
+        "H5973",
+        "H0589",
+        "H5869",
+        "H1571",
+        "H3808",
+        "H5973",
+        "H0582",
+        "H5869",
+        "H0259",
+        "H1931",
+        "H3820",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Ustedes se dicen: ‘¿Cómo podemos hacerlo sufrir para que vea que él es la fuente de sus problemas?’",
+      "strong": [
+        "H4100",
+        "H0559",
+        "H4100",
+        "H3201",
+        "H3201",
+        "H5375",
+        "H3588",
+        "H3588",
+        "H7200",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H4599",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Ustedes mismos deberían temer ser castigados por Dios, porque saben que la ira trae el castigo de Dios que acompaña al juicio”.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H2534",
+        "H0935",
+        "H3588",
+        "H7110",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H0413",
+        "H1779"
+      ]
+    }
+  ]
+}

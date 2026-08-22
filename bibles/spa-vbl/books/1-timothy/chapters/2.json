@@ -1,1 +1,331 @@
-{"version":"spa-vbl","book":"1-timothy","chapter":2,"data":[{"verse":"1","text":"En primer lugar quiero animarte a orar por todos: haz peticiones y agradece en nombre de ellos."},{"verse":"2","text":"De este mismo modo ora por los reyes y por todo tipo de líderes, para que podamos tener una vida tranquila y pacífica, siempre pensando en Dios y tomando la vida con seriedad."},{"verse":"3","text":"Esto es bueno, y es lo que agrada a Dios, nuestro Salvador."},{"verse":"4","text":"Porque él desea que todos seamos salvos y comprendamos la verdad."},{"verse":"5","text":"Pues hay un Dios, y un mediador entre Dios y la humanidad, el hombre Cristo Jesús."},{"verse":"6","text":"Él se entregó a fin de que todos pudiéramos ser rescatados nuevamente, demostrando la evidencia a su debido tiempo."},{"verse":"7","text":"Fui designado para compartir este mensaje y ser su mensajero,2:7 Literalmente “un apóstol”. ser un maestro para los extranjeros2:7 Literalmente, “gentiles”. sobre la fe en Dios y la verdad (no miento, digo la verdad)."},{"verse":"8","text":"Lo que realmente quiero es que los hombres en todas partes oren a Dios con sinceridad.2:8 Literalmente “levantando manos santas”. ¡Sin enojos ni discusiones!"},{"verse":"9","text":"Del mismo modo, las mujeres deben vestir con prudencia, con modestia y apropiadamente. Deben ser atractivas pero no por su corte de cabello o por el uso de oro, perlas o ropas costosas,"},{"verse":"10","text":"sino por las cosas buenas que hacen, como es apropiado en las mujeres que dicen seguir a Dios."},{"verse":"11","text":"Las mujeres deben aprender en silencio, respetando su lugar."},{"verse":"12","text":"Yo no permito que las mujeres sean instructoras, o que dominen a los hombres; háganlas permanecer en silencio.2:12 O, tranquilas, en calma."},{"verse":"13","text":"Pues Adán fue creado primero, y luego Eva."},{"verse":"14","text":"Adán no fue engañado, pero Eva sí fue engañada por completo, y cayó en pecado."},{"verse":"15","text":"No obstante, las mujeres serán salvadas por convertirse en madres,2:15 “Por medio del tener hijos”. Se debate mucho sobre el significado y la implicación de este versículo… siempre y cuando sigan con fe y amor, y vivan vidas prudentes en santidad."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-timothy",
+  "chapter": 2,
+  "data": [
+    {
+      "verse": "1",
+      "text": "En primer lugar quiero animarte a orar por todos: haz peticiones y agradece en nombre de ellos.",
+      "strong": [
+        "H5921",
+        "G4413",
+        "H4725",
+        "H2654",
+        "H0413",
+        "G3870",
+        "G5228",
+        "G3956",
+        "G4160",
+        "G1783",
+        "G3767",
+        "H5921",
+        "H8034",
+        "G5228",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "De este mismo modo ora por los reyes y por todo tipo de líderes, para que podamos tener una vida tranquila y pacífica, siempre pensando en Dios y tomando la vida con seriedad.",
+      "strong": [
+        "G1722",
+        "G3588",
+        "H1931",
+        "H5352",
+        "H6419",
+        "G1722",
+        "G3588",
+        "H4428",
+        "G2532",
+        "G1722",
+        "G3956",
+        "G1722",
+        "G2443",
+        "G3588",
+        "H1961",
+        "G3588",
+        "H5315",
+        "G2532",
+        "H7961",
+        "G3588",
+        "G1722",
+        "H0430",
+        "G2532",
+        "H3947",
+        "G3588",
+        "H5315",
+        "G1722"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Esto es bueno, y es lo que agrada a Dios, nuestro Salvador.",
+      "strong": [
+        "G3778",
+        "G3778",
+        "G2570",
+        "G2532",
+        "G3778",
+        "G3588",
+        "G3588",
+        "H2896",
+        "G1799",
+        "G2316",
+        "G2249",
+        "G4990"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Porque él desea que todos seamos salvos y comprendamos la verdad.",
+      "strong": [
+        "G2532",
+        "G3739",
+        "H2654",
+        "G3739",
+        "G3956",
+        "H1961",
+        "G4982",
+        "G2532",
+        "H1931",
+        "H0571"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Pues hay un Dios, y un mediador entre Dios y la humanidad, el hombre Cristo Jesús.",
+      "strong": [
+        "G1063",
+        "H3426",
+        "G1520",
+        "G2316",
+        "G2532",
+        "G1520",
+        "G3316",
+        "H0996",
+        "G2316",
+        "G2532",
+        "H1931",
+        "G2424",
+        "H0376",
+        "G5547",
+        "G2424"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Él se entregó a fin de que todos pudiéramos ser rescatados nuevamente, demostrando la evidencia a su debido tiempo.",
+      "strong": [
+        "G3588",
+        "G1438",
+        "H5414",
+        "H0413",
+        "H7093",
+        "G1325",
+        "G3588",
+        "G3956",
+        "H5315",
+        "G3588",
+        "H0413",
+        "G3588",
+        "G2540"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Fui designado para compartir este mensaje y ser su mensajero, ser un maestro para los extranjeros sobre la fe en Dios y la verdad (no miento, digo la verdad).",
+      "strong": [
+        "H1961",
+        "G1519",
+        "G3739",
+        "G2532",
+        "H5315",
+        "G3739",
+        "H4397",
+        "H5315",
+        "G1722",
+        "G1320",
+        "G1519",
+        "G2532",
+        "H1616",
+        "G1519",
+        "H1931",
+        "G4102",
+        "G1722",
+        "H0430",
+        "G2532",
+        "H1931",
+        "G4102",
+        "G3756",
+        "G5574",
+        "G3004",
+        "H1931",
+        "G4102"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Lo que realmente quiero es que los hombres en todas partes oren a Dios con sinceridad. ¡Sin enojos ni discusiones!",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G1014",
+        "H1961",
+        "G3588",
+        "G3588",
+        "H0376",
+        "G1722",
+        "G3956",
+        "H3027",
+        "G4336",
+        "G1722",
+        "H0430",
+        "G1722",
+        "G5565",
+        "G2532"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Del mismo modo, las mujeres deben vestir con prudencia, con modestia y apropiadamente. Deben ser atractivas pero no por su corte de cabello o por el uso de oro, perlas o ropas costosas,",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H5352",
+        "H1992",
+        "G1135",
+        "G3326",
+        "G3326",
+        "G4997",
+        "G2532",
+        "H5315",
+        "G2532",
+        "G3361",
+        "G1722",
+        "G1438",
+        "H7088",
+        "G1722",
+        "H5145",
+        "G2228",
+        "G1722",
+        "G1438",
+        "G1722",
+        "G5557",
+        "G3135",
+        "G2228",
+        "H0899"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "sino por las cosas buenas que hacen, como es apropiado en las mujeres que dicen seguir a Dios.",
+      "strong": [
+        "H3588",
+        "G1223",
+        "G3739",
+        "G3739",
+        "H2896",
+        "G3739",
+        "H6213",
+        "G3739",
+        "G3739",
+        "G1223",
+        "G3739",
+        "G1135",
+        "G3739",
+        "H0559",
+        "H0935",
+        "G1223",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Las mujeres deben aprender en silencio, respetando su lugar.",
+      "strong": [
+        "H1992",
+        "G1135",
+        "G3129",
+        "G1722",
+        "G2271",
+        "H1931",
+        "H4725"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Yo no permito que las mujeres sean instructoras, o que dominen a los hombres; háganlas permanecer en silencio.",
+      "strong": [
+        "H0589",
+        "G3756",
+        "G2010",
+        "G1722",
+        "H1992",
+        "G1135",
+        "H1961",
+        "G1161",
+        "G1722",
+        "G1722",
+        "H0582",
+        "H0376",
+        "G1722",
+        "G2271"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Pues Adán fue creado primero, y luego Eva.",
+      "strong": [
+        "G1063",
+        "H1961",
+        "G4413",
+        "G1063",
+        "G1534",
+        "G2096"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Adán no fue engañado, pero Eva sí fue engañada por completo, y cayó en pecado.",
+      "strong": [
+        "G3756",
+        "G1096",
+        "H8524",
+        "G1161",
+        "H2332",
+        "G2532",
+        "G1096",
+        "G1722",
+        "G2532",
+        "H5307",
+        "G1722",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "No obstante, las mujeres serán salvadas por convertirse en madres, siempre y cuando sigan con fe y amor, y vivan vidas prudentes en santidad.",
+      "strong": [
+        "G1437",
+        "G3588",
+        "H0802",
+        "H1961",
+        "G1223",
+        "G1722",
+        "H0517",
+        "G3588",
+        "G2532",
+        "G1722",
+        "G3326",
+        "G4102",
+        "G2532",
+        "H0160",
+        "G2532",
+        "H5315",
+        "H0998",
+        "G1722",
+        "H6944"
+      ]
+    }
+  ]
+}

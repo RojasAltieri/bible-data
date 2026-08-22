@@ -1,1 +1,551 @@
-{"version":"spa-vbl","book":"psalms","chapter":44,"data":[{"verse":"1","text":"Dios, hemos escuchado con nuestros propios oídos, nuestros antepasados nos han dicho todo lo que tú hiciste en sus épocas, mucho tiempo atrás."},{"verse":"2","text":"Con tu poder quitaste del camino a las otras naciones, estableciste a nuestros antepasados en el lugar que les pertenecía; derrotaste44:2 Literalmente, “afligiste”. a las naciones y enviaste a nuestros ancestros a ocupar la tierra que les habías prometido."},{"verse":"3","text":"No conquistaron la tierra con sus espadas; no fue a través de su fuerza que ganaron la victoria, fue por tu fuerza, tu poder, y tu compañía, porque los amabas."},{"verse":"4","text":"Dios, tú eres mi rey. ¡Nos diste victorias en nombre de Jacob!"},{"verse":"5","text":"Solo a través de ti podemos ahuyentar a nuestros enemigos. Solo en tu nombre podemos derrotar a nuestros oponentes."},{"verse":"6","text":"No confío en mi arco; no creo que mi espada vaya a salvarme."},{"verse":"7","text":"Tú eres el único que nos salva de nuestros enemigos; acabas44:7 O “humillas”. con aquellos que nos odian."},{"verse":"8","text":"Dios, te alabamos gozosos todo el día y alabamos tu nombre. Selah."},{"verse":"9","text":"Pero ahora nos has rechazado y has apartado tu gracia de nosotros; has abandonado a nuestros ejércitos."},{"verse":"10","text":"Nos has hecho correr huyendo de nuestros enemigos, y quienes nos odian se han llevado todo lo que han querido.44:10 Literalmente, “nos saquearon”."},{"verse":"11","text":"Nos has entregado como una oveja que va al sacrificio; nos has escatimado en frente de las otras naciones."},{"verse":"12","text":"Has vendido a tu propio pueblo por el precio de nada, no haciendo ni una sola queja al momento de la venta."},{"verse":"13","text":"Te has burlado de nosotros en frente de nuestros prójimos, somos ridiculizados y burlados por todos los que están a nuestro alrededor."},{"verse":"14","text":"Nos has vuelto un chiste para las otras naciones; sacuden con fuerza sus manos ante nosotros."},{"verse":"15","text":"Somos humillados el día entero; escondemos nuestras cabezas por la vergüenza,"},{"verse":"16","text":"por todos los insultos de las personas que se burlan de nosotros, porque nuestros enemigos vengativos están justo detrás de nosotros."},{"verse":"17","text":"Todo esto nos ha pasado incluso aunque nunca te olvidamos; no hemos sido infieles a las promesas que nos has hecho.44:17 Literalmente, “pacto”."},{"verse":"18","text":"No nos hemos alejado de ti, ni en pensamientos, ni en acciones.44:18 Literalmente, “Nuestros corazones no se han vuelto atrás y nuestros pasos no se han alejado de tu camino”."},{"verse":"19","text":"Pero tú nos aplastaste, y nos convertiste en guarida de chacales. Nos has cubierto con la oscuridad de la muerte."},{"verse":"20","text":"Si hemos olvidado el nombre de nuestro Dios, o hemos adorado a otros dioses,44:20 Literalmente, “extendido nuestras manos a otro dios”."},{"verse":"21","text":"¿No lo sabría Dios, siendo que él conoce los pensamientos de todos?"},{"verse":"22","text":"Pero por tu culpa nos matan día y noche. Somos considerados solo como ovejas listas para el sacrificio."},{"verse":"23","text":"¡Despiértate Señor! ¿Por qué estás durmiendo? ¡Levántate! ¡No nos des la espalda por siempre!"},{"verse":"24","text":"¿Por qué apartas tu vista de nosotros y no de tas cuenta de nuestra miseria y sufrimiento?"},{"verse":"25","text":"Caemos arruinados al polvo, nuestros cuerpos caen de cara al mugre."},{"verse":"26","text":"¡Levántate! ¡Ven y ayúdanos! ¡Sálvanos por la gracia de tu misericordioso amor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 44,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios, hemos escuchado con nuestros propios oídos, nuestros antepasados nos han dicho todo lo que tú hiciste en sus épocas, mucho tiempo atrás.",
+      "strong": [
+        "H0430",
+        "H0935",
+        "H5973",
+        "H0587",
+        "H0241",
+        "H0587",
+        "H0587",
+        "H4191",
+        "H0559",
+        "H3605",
+        "H1931",
+        "H1121",
+        "H0859",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H3966",
+        "H6256",
+        "H0268"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Con tu poder quitaste del camino a las otras naciones, estableciste a nuestros antepasados en el lugar que les pertenecía; derrotaste a las naciones y enviaste a nuestros ancestros a ocupar la tierra que les habías prometido.",
+      "strong": [
+        "H5973",
+        "H0859",
+        "H3027",
+        "H4480",
+        "H1870",
+        "H0413",
+        "H1992",
+        "H0312",
+        "H1471",
+        "H5324",
+        "H0413",
+        "H0587",
+        "H5921",
+        "H1931",
+        "H4725",
+        "H3117",
+        "H0413",
+        "H0413",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H7971",
+        "H0413",
+        "H0587",
+        "H0413",
+        "H1931",
+        "H0776",
+        "H3117",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "No conquistaron la tierra con sus espadas; no fue a través de su fuerza que ganaron la victoria, fue por tu fuerza, tu poder, y tu compañía, porque los amabas.",
+      "strong": [
+        "H3808",
+        "H1931",
+        "H0776",
+        "H5973",
+        "H1931",
+        "H2719",
+        "H3808",
+        "H1961",
+        "H0413",
+        "H4480",
+        "H1931",
+        "H3581",
+        "H3027",
+        "H1931",
+        "H1961",
+        "H3027",
+        "H0859",
+        "H3581",
+        "H0859",
+        "H3027",
+        "H1571",
+        "H0859",
+        "H6951",
+        "H3588",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Dios, tú eres mi rey. ¡Nos diste victorias en nombre de Jacob!",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H0859",
+        "H0589",
+        "H4428",
+        "H0587",
+        "H5414",
+        "H3588",
+        "H8034",
+        "H3588",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Solo a través de ti podemos ahuyentar a nuestros enemigos. Solo en tu nombre podemos derrotar a nuestros oponentes.",
+      "strong": [
+        "H1931",
+        "H6680",
+        "H4480",
+        "H0859",
+        "H3201",
+        "H6680",
+        "H0587",
+        "H0341",
+        "H1931",
+        "H5921",
+        "H0859",
+        "H8034",
+        "H3201",
+        "H6680",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "No confío en mi arco; no creo que mi espada vaya a salvarme.",
+      "strong": [
+        "H3808",
+        "H0982",
+        "H5921",
+        "H0589",
+        "H7198",
+        "H3808",
+        "H0834",
+        "H0589",
+        "H2719",
+        "H3212",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tú eres el único que nos salva de nuestros enemigos; acabas con aquellos que nos odian.",
+      "strong": [
+        "H0859",
+        "H0859",
+        "H3588",
+        "H3173",
+        "H3588",
+        "H0587",
+        "H3467",
+        "H3588",
+        "H0587",
+        "H0341",
+        "H3588",
+        "H0479",
+        "H3588",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Dios, te alabamos gozosos todo el día y alabamos tu nombre. Selah.",
+      "strong": [
+        "H0430",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3117",
+        "H3588",
+        "H0859",
+        "H8034",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Pero ahora nos has rechazado y has apartado tu gracia de nosotros; has abandonado a nuestros ejércitos.",
+      "strong": [
+        "H3588",
+        "H3117",
+        "H0587",
+        "H4191",
+        "H1571",
+        "H4191",
+        "H0859",
+        "H2580",
+        "H4480",
+        "H3605",
+        "H4191",
+        "H0413",
+        "H0587",
+        "H6635"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Nos has hecho correr huyendo de nuestros enemigos, y quienes nos odian se han llevado todo lo que han querido.",
+      "strong": [
+        "H0587",
+        "H4191",
+        "H6213",
+        "H5251",
+        "H4480",
+        "H0587",
+        "H0341",
+        "H1571",
+        "H4310",
+        "H0587",
+        "H3808",
+        "H4191",
+        "H5375",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Nos has entregado como una oveja que va al sacrificio; nos has escatimado en frente de las otras naciones.",
+      "strong": [
+        "H4480",
+        "H4191",
+        "H5414",
+        "H0349",
+        "H0259",
+        "H7716",
+        "H4480",
+        "H1980",
+        "H4480",
+        "H2077",
+        "H4480",
+        "H4191",
+        "H4480",
+        "H5048",
+        "H4480",
+        "H1992",
+        "H0312",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Has vendido a tu propio pueblo por el precio de nada, no haciendo ni una sola queja al momento de la venta.",
+      "strong": [
+        "H5414",
+        "H0413",
+        "H0859",
+        "H5971",
+        "H5414",
+        "H1931",
+        "H3701",
+        "H5414",
+        "H3808",
+        "H3808",
+        "H6213",
+        "H3808",
+        "H0259",
+        "H1565",
+        "H0413",
+        "H7281",
+        "H5414",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Te has burlado de nosotros en frente de nuestros prójimos, somos ridiculizados y burlados por todos los que están a nuestro alrededor.",
+      "strong": [
+        "H0859",
+        "H4191",
+        "H5971",
+        "H0587",
+        "H5921",
+        "H5048",
+        "H5971",
+        "H0587",
+        "H7453",
+        "H1961",
+        "H1571",
+        "H5921",
+        "H3605",
+        "H0582",
+        "H3808",
+        "H1961",
+        "H0413",
+        "H0587",
+        "H5439"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Nos has vuelto un chiste para las otras naciones; sacuden con fuerza sus manos ante nosotros.",
+      "strong": [
+        "H0587",
+        "H4191",
+        "H7725",
+        "H0259",
+        "H5704",
+        "H1992",
+        "H0312",
+        "H1471",
+        "H5973",
+        "H3581",
+        "H1931",
+        "H3027",
+        "H6440",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Somos humillados el día entero; escondemos nuestras cabezas por la vergüenza,",
+      "strong": [
+        "H1961",
+        "H1931",
+        "H3117",
+        "H8549",
+        "H0587",
+        "H7218",
+        "H5921",
+        "H1931",
+        "H0955"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "por todos los insultos de las personas que se burlan de nosotros, porque nuestros enemigos vengativos están justo detrás de nosotros.",
+      "strong": [
+        "H6440",
+        "H3605",
+        "H3605",
+        "H6440",
+        "H1992",
+        "H5315",
+        "H3117",
+        "H3045",
+        "H6440",
+        "H3605",
+        "H6440",
+        "H0587",
+        "H0341",
+        "H1961",
+        "H6662",
+        "H0310",
+        "H6440",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Todo esto nos ha pasado incluso aunque nunca te olvidamos; no hemos sido infieles a las promesas que nos has hecho.",
+      "strong": [
+        "H3605",
+        "H2063",
+        "H0587",
+        "H3541",
+        "H5674",
+        "H3588",
+        "H3808",
+        "H0859",
+        "H6440",
+        "H0935",
+        "H1961",
+        "H6440",
+        "H1992",
+        "H0834",
+        "H0587",
+        "H4191",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "No nos hemos alejado de ti, ni en pensamientos, ni en acciones.",
+      "strong": [
+        "H3808",
+        "H0587",
+        "H0935",
+        "H7911",
+        "H0859",
+        "H3808",
+        "H5921",
+        "H4284",
+        "H3808",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Pero tú nos aplastaste, y nos convertiste en guarida de chacales. Nos has cubierto con la oscuridad de la muerte.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H4480",
+        "H1571",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H4191",
+        "H5968",
+        "H4480",
+        "H1931",
+        "H0653",
+        "H4480",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Si hemos olvidado el nombre de nuestro Dios, o hemos adorado a otros dioses,",
+      "strong": [
+        "H3588",
+        "H0935",
+        "H5921",
+        "H8034",
+        "H5921",
+        "H0587",
+        "H0430",
+        "H0176",
+        "H0935",
+        "H5921",
+        "H0312",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "¿No lo sabría Dios, siendo que él conoce los pensamientos de todos?",
+      "strong": [
+        "H3808",
+        "H1931",
+        "H0430",
+        "H1931",
+        "H0834",
+        "H1931",
+        "H3045",
+        "H0582",
+        "H4284",
+        "H7911",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Pero por tu culpa nos matan día y noche. Somos considerados solo como ovejas listas para el sacrificio.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0859",
+        "H5352",
+        "H0587",
+        "H3117",
+        "H3588",
+        "H3915",
+        "H1961",
+        "H1931",
+        "H3588",
+        "H6629",
+        "H3588",
+        "H1931",
+        "H2077"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "¡Despiértate Señor! ¿Por qué estás durmiendo? ¡Levántate! ¡No nos des la espalda por siempre!",
+      "strong": [
+        "H5782",
+        "H0113",
+        "H5921",
+        "H3588",
+        "H0428",
+        "H3463",
+        "H6965",
+        "H3588",
+        "H5921",
+        "H5414",
+        "H5921",
+        "H0310",
+        "H5921",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "¿Por qué apartas tu vista de nosotros y no de tas cuenta de nuestra miseria y sufrimiento?",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H0859",
+        "H4758",
+        "H4480",
+        "H0587",
+        "H1571",
+        "H4100",
+        "H4480",
+        "H6485",
+        "H4480",
+        "H0587",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Caemos arruinados al polvo, nuestros cuerpos caen de cara al mugre.",
+      "strong": [
+        "H0413",
+        "H6083",
+        "H0587",
+        "H1472",
+        "H7901",
+        "H6440",
+        "H6440",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "¡Levántate! ¡Ven y ayúdanos! ¡Sálvanos por la gracia de tu misericordioso amor!",
+      "strong": [
+        "H6965",
+        "H3212",
+        "H3588",
+        "H5826",
+        "H3467",
+        "H3588",
+        "H3588",
+        "H2580",
+        "H3588",
+        "H0859",
+        "H7349",
+        "H0160"
+      ]
+    }
+  ]
+}

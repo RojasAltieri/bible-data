@@ -1,1 +1,390 @@
-{"version":"spa-vbl","book":"job","chapter":18,"data":[{"verse":"1","text":"Entonces Bildad, el suhita, tomó la palabra y dijo:"},{"verse":"2","text":"“¿Hasta cuándo seguirás hablando, buscando las palabras adecuadas que decir?18:2 En el hebreo, el sentido es que Job está a la caza de palabras, tratando de atraparlas en una trampa. ¡Habla con sentido común si quieres que te respondamos!"},{"verse":"3","text":"¿Crees que somos animales tontos?18:3 En 12:7 Job había dicho a sus amigos que pidieran a los animales. ¿Te parecemos estúpidos?"},{"verse":"4","text":"Te destrozas con tu ira.18:4 En 16:9 Job dice que Dios lo ha destrozado en su ira. Bildad dice que todo es autoinfligido. ¿Crees que la tierra tiene que ser abandonada, o que las montañas deben moverse sólo por ti?18:4 En otras palabras, “¿esperas que el mundo cambie sólo para adaptarse a ti?”"},{"verse":"5","text":"“Es cierto que la vida de los malvados terminará como una lámpara que se apaga: su llama no brillará más."},{"verse":"6","text":"La luz de su casa se apaga, la lámpara que cuelga arriba se apaga."},{"verse":"7","text":"En lugar de dar pasos firmes, tropiezan, y sus propios planes los hacen caer."},{"verse":"8","text":"Sus propios pies los hacen tropezar y quedan atrapados en una red; mientras caminan caen en un pozo.18:8 La fosa es una trampa colocada con ramas sobre un agujero profundo."},{"verse":"9","text":"Una trampa los agarra por el talón; un lazo los rodea."},{"verse":"10","text":"Un lazo se esconde en el suelo para ellos; una cuerda se extiende a través del camino para hacerlos tropezar."},{"verse":"11","text":"El terror asusta a los malvados, los persigue por todas partes, les muerde los talones."},{"verse":"12","text":"El hambre les quita las fuerzas; el desastre los espera cuando caen."},{"verse":"13","text":"La enfermedad devora su piel; la enfermedad mortal18:13 Literalmente, “el primogénito de la muerte”. consume sus miembros."},{"verse":"14","text":"Son arrancados de los hogares en los que confiaban y llevados al rey de los terrores.18:14 Este término no aparece en ninguna otra parte de la Biblia. En el contexto es probablemente un sinónimo de muerte."},{"verse":"15","text":"La gente que no conoce vivirá en sus casas; el azufre se esparcirá donde solían vivir.18:15 El azufre se utilizaba como desinfectante, especialmente después de una muerte."},{"verse":"16","text":"Se marchitan, las raíces abajo y las ramas arriba;"},{"verse":"17","text":"el recuerdo de ellos se desvanece de la tierra; nadie recuerda ya sus nombres.18:17 Literalmente, “no tiene nombre en la calle”."},{"verse":"18","text":"Son arrojados de la luz a las tinieblas, expulsados del mundo."},{"verse":"19","text":"No tienen hijos ni descendientes en su pueblo, ni supervivientes donde solían vivir."},{"verse":"20","text":"La gente de occidente está horrorizada por lo que les sucede. La gente del oriente está conmocionada."},{"verse":"21","text":"Esto es lo que ocurre con las casas de los malvados, con los lugares de los que rechazan a Dios”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 18,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Bildad, el suhita, tomó la palabra y dijo:",
+      "strong": [
+        "H0227",
+        "H1085",
+        "H1931",
+        "H7747",
+        "H3947",
+        "H1931",
+        "H1697",
+        "H1571",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Hasta cuándo seguirás hablando, buscando las palabras adecuadas que decir? ¡Habla con sentido común si quieres que te respondamos!",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H1961",
+        "H1696",
+        "H1245",
+        "H1992",
+        "H1696",
+        "H5704",
+        "H0559",
+        "H1696",
+        "H5704",
+        "H7230",
+        "H0518",
+        "H2654",
+        "H5704",
+        "H0859",
+        "H7725"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Crees que somos animales tontos? ¿Te parecemos estúpidos?",
+      "strong": [
+        "H0834",
+        "H1961",
+        "H0929",
+        "H5869"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Te destrozas con tu ira. ¿Crees que la tierra tiene que ser abandonada, o que las montañas deben moverse sólo por ti?",
+      "strong": [
+        "H5315",
+        "H5973",
+        "H0859",
+        "H2534",
+        "H4616",
+        "H1931",
+        "H0776",
+        "H3426",
+        "H4616",
+        "H5315",
+        "H5800",
+        "H0176",
+        "H4616",
+        "H1992",
+        "H5128",
+        "H0910",
+        "H4616",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "“Es cierto que la vida de los malvados terminará como una lámpara que se apaga: su llama no brillará más.",
+      "strong": [
+        "H1961",
+        "H3808",
+        "H3808",
+        "H1571",
+        "H5315",
+        "H4480",
+        "H0582",
+        "H1571",
+        "H0259",
+        "H5216",
+        "H3808",
+        "H3808",
+        "H1931",
+        "H7121",
+        "H3808",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "La luz de su casa se apaga, la lámpara que cuelga arriba se apaga.",
+      "strong": [
+        "H5921",
+        "H0216",
+        "H5921",
+        "H1931",
+        "H1004",
+        "H5921",
+        "H5921",
+        "H5216",
+        "H5921",
+        "H8518",
+        "H4605",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "En lugar de dar pasos firmes, tropiezan, y sus propios planes los hacen caer.",
+      "strong": [
+        "H5921",
+        "H4725",
+        "H4480",
+        "H5414",
+        "H6806",
+        "H3559",
+        "H3782",
+        "H1571",
+        "H1931",
+        "H0582",
+        "H6213",
+        "H3782"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Sus propios pies los hacen tropezar y quedan atrapados en una red; mientras caminan caen en un pozo.",
+      "strong": [
+        "H1931",
+        "H7272",
+        "H5921",
+        "H6213",
+        "H3588",
+        "H5921",
+        "H0259",
+        "H7568",
+        "H3588",
+        "H1980",
+        "H7901",
+        "H5921",
+        "H0259",
+        "H0875"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Una trampa los agarra por el talón; un lazo los rodea.",
+      "strong": [
+        "H0259",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H6341",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Un lazo se esconde en el suelo para ellos; una cuerda se extiende a través del camino para hacerlos tropezar.",
+      "strong": [
+        "H0259",
+        "H6341",
+        "H5921",
+        "H2934",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H5921",
+        "H5186",
+        "H5921",
+        "H5921",
+        "H1870",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "El terror asusta a los malvados, los persigue por todas partes, les muerde los talones.",
+      "strong": [
+        "H1931",
+        "H6343",
+        "H0413",
+        "H0582",
+        "H0582",
+        "H7291",
+        "H5921",
+        "H5439",
+        "H5439",
+        "H0413",
+        "H5391",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El hambre les quita las fuerzas; el desastre los espera cuando caen.",
+      "strong": [
+        "H1931",
+        "H7458",
+        "H0413",
+        "H5493",
+        "H1992",
+        "H3581",
+        "H1931",
+        "H0611",
+        "H1961",
+        "H3176",
+        "H1961",
+        "H7901"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "La enfermedad devora su piel; la enfermedad mortal consume sus miembros.",
+      "strong": [
+        "H1931",
+        "H2483",
+        "H7503",
+        "H1931",
+        "H5785",
+        "H1931",
+        "H2483",
+        "H4191",
+        "H1931",
+        "H0083"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Son arrancados de los hogares en los que confiaban y llevados al rey de los terrores.",
+      "strong": [
+        "H1961",
+        "H4480",
+        "H0582",
+        "H5921",
+        "H0582",
+        "H0834",
+        "H1091",
+        "H4428",
+        "H4428",
+        "H4480",
+        "H0582",
+        "H1091"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "La gente que no conoce vivirá en sus casas; el azufre se esparcirá donde solían vivir.",
+      "strong": [
+        "H5921",
+        "H1471",
+        "H5921",
+        "H1097",
+        "H3045",
+        "H2421",
+        "H5921",
+        "H1931",
+        "H1004",
+        "H5921",
+        "H1614",
+        "H5921",
+        "H2236",
+        "H5921",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Se marchitan, las raíces abajo y las ramas arriba;",
+      "strong": [
+        "H3045",
+        "H1992",
+        "H8328",
+        "H8478",
+        "H1571",
+        "H1992",
+        "H7105",
+        "H4605"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "el recuerdo de ellos se desvanece de la tierra; nadie recuerda ya sus nombres.",
+      "strong": [
+        "H5921",
+        "H2146",
+        "H4480",
+        "H5921",
+        "H5921",
+        "H4480",
+        "H5921",
+        "H0776",
+        "H3808",
+        "H3528",
+        "H1931",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Son arrojados de la luz a las tinieblas, expulsados del mundo.",
+      "strong": [
+        "H1961",
+        "H4480",
+        "H1931",
+        "H0216",
+        "H0413",
+        "H1992",
+        "H2822",
+        "H4480",
+        "H8398"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "No tienen hijos ni descendientes en su pueblo, ni supervivientes donde solían vivir.",
+      "strong": [
+        "H3808",
+        "H1992",
+        "H1121",
+        "H3808",
+        "H6631",
+        "H5921",
+        "H1931",
+        "H5971",
+        "H3808",
+        "H0834",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "La gente de occidente está horrorizada por lo que les sucede. La gente del oriente está conmocionada.",
+      "strong": [
+        "H5921",
+        "H1471",
+        "H5921",
+        "H4628",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5060",
+        "H5921",
+        "H1471",
+        "H5921",
+        "H4217",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Esto es lo que ocurre con las casas de los malvados, con los lugares de los que rechazan a Dios”.",
+      "strong": [
+        "H2088",
+        "H2088",
+        "H2088",
+        "H3808",
+        "H5973",
+        "H1992",
+        "H1004",
+        "H4480",
+        "H0582",
+        "H5973",
+        "H0582",
+        "H4725",
+        "H4480",
+        "H0582",
+        "H3808",
+        "H0413",
+        "H0430"
+      ]
+    }
+  ]
+}

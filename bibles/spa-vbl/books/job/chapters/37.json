@@ -1,1 +1,450 @@
-{"version":"spa-vbl","book":"job","chapter":37,"data":[{"verse":"1","text":"“Ante esto mi corazón tiembla, latiendo rápidamente dentro de mí.37:1 “Latiendo rápidamente”: Literalmente, “saltando de su lugar”."},{"verse":"2","text":"Escucha con atención la voz atronadora de Dios que retumba al hablar."},{"verse":"3","text":"Lo envía a través del cielo; sus relámpagos brillan hasta los confines de la tierra."},{"verse":"4","text":"Luego viene el estruendo del trueno, su voz majestuosa no se contiene cuando habla."},{"verse":"5","text":"¡La voz atronadora de Dios es maravillosa! No podemos comprender las grandes cosas que hace."},{"verse":"6","text":"“Ordena que caiga la nieve y que llueva sobre la tierra."},{"verse":"7","text":"Con ello detiene el trabajo de la gente para que todos puedan entender lo que hace."},{"verse":"8","text":"Incluso los animales se refugian y permanecen en sus guaridas."},{"verse":"9","text":"El viento del sur sopla en las tormentas, mientras que el viento del norte sopla cuando hace frío.37:9 Literalmente, “De su cámara sale el torbellino; y el frío del viento disperso”."},{"verse":"10","text":"El aliento de Dios produce hielo, congelando la superficie del agua."},{"verse":"11","text":"Llena las nubes de humedad y esparce desde ellas sus rayos."},{"verse":"12","text":"Se arremolinan bajo su control; se mueven por toda la tierra según sus órdenes."},{"verse":"13","text":"Lo hace para cumplir su voluntad, ya sea para disciplinar o para mostrar su bondad.37:13 El hebreo no es claro."},{"verse":"14","text":"“Escucha esto, Job. Detente un momento y considera las cosas maravillosas que hace Dios."},{"verse":"15","text":"¿Sabes cómo Dios controla las nubes, o cómo hace que sus relámpagos salgan de ellas?"},{"verse":"16","text":"¿Sabes cómo flotan las nubes37:16 Literalmente, “equilibrio”. en el cielo: la maravillosa obra de quien lo sabe todo."},{"verse":"17","text":"Tú sabes que tu ropa gotea de sudor cuando el viento del sur trae un aire caliente y pesado."},{"verse":"18","text":"¿Puedes martillar el cielo para que sea como un espejo fundido, como hace él?"},{"verse":"19","text":"“Entonces, ¿por qué no nos enseñas lo que hay que decirle a Dios? No podemos exponer nuestro caso porque estamos a oscuras!37:19 Una vez más Elihú está siendo irónico."},{"verse":"20","text":"¿Hay que decirle a Dios que quiero hablar? Cualquiera que lo quisiera sería destruido!37:20 “Destruido”: o “tragado”. Elihú está diciendo que teme que Dios lo mate si habla directamente con él."},{"verse":"21","text":"Al fin y al cabo, no podemos mirar al sol cuando brilla en el cielo, después de que el viento haya despejado las nubes."},{"verse":"22","text":"Del norte sale Dios brillando como el oro, rodeado de una majestad impresionante."},{"verse":"23","text":"No podemos acercarnos al Todopoderoso, porque nos supera en poder y justicia, y en hacer el bien."},{"verse":"24","text":"No actúa como un tirano; no es de extrañar que la gente le tema, aunque no valora a los que se creen sabios”.37:24 ¡Es interesante que Elihú, que se cree tan sabio, termine su discurso con tal comentario!"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 37,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“Ante esto mi corazón tiembla, latiendo rápidamente dentro de mí.",
+      "strong": [
+        "H6440",
+        "H2063",
+        "H0589",
+        "H3820",
+        "H7493",
+        "H8432",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Escucha con atención la voz atronadora de Dios que retumba al hablar.",
+      "strong": [
+        "H8085",
+        "H5973",
+        "H1931",
+        "H6963",
+        "H4480",
+        "H0430",
+        "H6310",
+        "H0413",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Lo envía a través del cielo; sus relámpagos brillan hasta los confines de la tierra.",
+      "strong": [
+        "H5921",
+        "H7971",
+        "H5921",
+        "H5921",
+        "H8064",
+        "H1931",
+        "H1300",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Luego viene el estruendo del trueno, su voz majestuosa no se contiene cuando habla.",
+      "strong": [
+        "H4994",
+        "H0935",
+        "H3588",
+        "H6963",
+        "H4480",
+        "H3588",
+        "H6963",
+        "H3808",
+        "H3808",
+        "H3588",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¡La voz atronadora de Dios es maravillosa! No podemos comprender las grandes cosas que hace.",
+      "strong": [
+        "H1931",
+        "H6963",
+        "H4480",
+        "H0430",
+        "H1961",
+        "H3808",
+        "H3201",
+        "H1992",
+        "H1419",
+        "H3045",
+        "H3808",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "“Ordena que caiga la nieve y que llueva sobre la tierra.",
+      "strong": [
+        "H6680",
+        "H3588",
+        "H5307",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5921",
+        "H3588",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Con ello detiene el trabajo de la gente para que todos puedan entender lo que hace.",
+      "strong": [
+        "H5973",
+        "H1931",
+        "H0748",
+        "H3605",
+        "H5999",
+        "H4480",
+        "H3605",
+        "H1471",
+        "H5704",
+        "H3045",
+        "H3605",
+        "H7919",
+        "H3605",
+        "H3045",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Incluso los animales se refugian y permanecen en sus guaridas.",
+      "strong": [
+        "H0582",
+        "H2416",
+        "H3045",
+        "H1571",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "El viento del sur sopla en las tormentas, mientras que el viento del norte sopla cuando hace frío.",
+      "strong": [
+        "H1931",
+        "H7307",
+        "H4480",
+        "H4480",
+        "H1992",
+        "H5704",
+        "H4480",
+        "H1931",
+        "H7307",
+        "H4480",
+        "H6828",
+        "H3588",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El aliento de Dios produce hielo, congelando la superficie del agua.",
+      "strong": [
+        "H1931",
+        "H0553",
+        "H5397",
+        "H0430",
+        "H3318",
+        "H1931",
+        "H4480",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Llena las nubes de humedad y esparce desde ellas sus rayos.",
+      "strong": [
+        "H4392",
+        "H1992",
+        "H6051",
+        "H4480",
+        "H1571",
+        "H6327",
+        "H4480",
+        "H1992",
+        "H1931",
+        "H7161"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Se arremolinan bajo su control; se mueven por toda la tierra según sus órdenes.",
+      "strong": [
+        "H1931",
+        "H8478",
+        "H1931",
+        "H1931",
+        "H5921",
+        "H3605",
+        "H1931",
+        "H0776",
+        "H5921",
+        "H1931",
+        "H2905"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Lo hace para cumplir su voluntad, ya sea para disciplinar o para mostrar su bondad.",
+      "strong": [
+        "H1931",
+        "H6213",
+        "H5704",
+        "H1931",
+        "H7522",
+        "H3528",
+        "H1961",
+        "H5704",
+        "H0176",
+        "H5704",
+        "H2324",
+        "H1931",
+        "H2898"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "“Escucha esto, Job. Detente un momento y considera las cosas maravillosas que hace Dios.",
+      "strong": [
+        "H0238",
+        "H2063",
+        "H0347",
+        "H1826",
+        "H0259",
+        "H7281",
+        "H1571",
+        "H0995",
+        "H1992",
+        "H1697",
+        "H6381",
+        "H0834",
+        "H6213",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "¿Sabes cómo Dios controla las nubes, o cómo hace que sus relámpagos salgan de ellas?",
+      "strong": [
+        "H3045",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H6051",
+        "H0176",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H1300",
+        "H3318",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "¿Sabes cómo flotan las nubes en el cielo: la maravillosa obra de quien lo sabe todo.",
+      "strong": [
+        "H3045",
+        "H5921",
+        "H5921",
+        "H5645",
+        "H5921",
+        "H5921",
+        "H8064",
+        "H5921",
+        "H4639",
+        "H5921",
+        "H4310",
+        "H5921",
+        "H3045",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Tú sabes que tu ropa gotea de sudor cuando el viento del sur trae un aire caliente y pesado.",
+      "strong": [
+        "H0859",
+        "H3045",
+        "H0834",
+        "H0859",
+        "H8071",
+        "H4480",
+        "H3588",
+        "H8252",
+        "H7307",
+        "H4480",
+        "H0935",
+        "H0259",
+        "H1571",
+        "H8625"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "¿Puedes martillar el cielo para que sea como un espejo fundido, como hace él?",
+      "strong": [
+        "H3546",
+        "H5973",
+        "H8064",
+        "H5973",
+        "H0834",
+        "H1961",
+        "H5973",
+        "H0259",
+        "H5973",
+        "H6213",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "“Entonces, ¿por qué no nos enseñas lo que hay que decirle a Dios? No podemos exponer nuestro caso porque estamos a oscuras!",
+      "strong": [
+        "H0227",
+        "H6440",
+        "H4100",
+        "H3808",
+        "H4100",
+        "H4100",
+        "H4100",
+        "H3426",
+        "H4100",
+        "H6440",
+        "H0430",
+        "H3808",
+        "H3201",
+        "H0587",
+        "H3820",
+        "H3808",
+        "H3427",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¿Hay que decirle a Dios que quiero hablar? Cualquiera que lo quisiera sería destruido!",
+      "strong": [
+        "H3426",
+        "H3588",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H2654",
+        "H1696",
+        "H3605",
+        "H3588",
+        "H1931",
+        "H2654",
+        "H1961",
+        "H7703"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Al fin y al cabo, no podemos mirar al sol cuando brilla en el cielo, después de que el viento haya despejado las nubes.",
+      "strong": [
+        "H0413",
+        "H7093",
+        "H1571",
+        "H0413",
+        "H7097",
+        "H3808",
+        "H3201",
+        "H7200",
+        "H0413",
+        "H8121",
+        "H3588",
+        "H5921",
+        "H1931",
+        "H8064",
+        "H0310",
+        "H4480",
+        "H1931",
+        "H1931",
+        "H7307",
+        "H1961",
+        "H1992",
+        "H5387"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Del norte sale Dios brillando como el oro, rodeado de una majestad impresionante.",
+      "strong": [
+        "H5921",
+        "H6828",
+        "H3318",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H2091",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "No podemos acercarnos al Todopoderoso, porque nos supera en poder y justicia, y en hacer el bien.",
+      "strong": [
+        "H3808",
+        "H3201",
+        "H0413",
+        "H7706",
+        "H3808",
+        "H0587",
+        "H5921",
+        "H3581",
+        "H1571",
+        "H6666",
+        "H1571",
+        "H5921",
+        "H6213",
+        "H1931",
+        "H7230"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "No actúa como un tirano; no es de extrañar que la gente le tema, aunque no valora a los que se creen sabios”.",
+      "strong": [
+        "H3808",
+        "H3651",
+        "H0259",
+        "H3808",
+        "H1961",
+        "H3372",
+        "H3808",
+        "H3605",
+        "H1471",
+        "H0413",
+        "H3372",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H2450"
+      ]
+    }
+  ]
+}

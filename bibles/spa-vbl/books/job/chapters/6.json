@@ -1,1 +1,543 @@
-{"version":"spa-vbl","book":"job","chapter":6,"data":[{"verse":"1","text":"Entonces Job respondió:"},{"verse":"2","text":"“Si se pudiera pesar mi dolor y poner mis problemas en una balanza"},{"verse":"3","text":"serían más pesados que la arena del mar. Por eso hablé tan precipitadamente."},{"verse":"4","text":"Porque las flechas del Todopoderoso están en mí; su veneno mina mi espíritu. Los terrores de Dios están alineados6:4 Como en las líneas de batalla. contra mí."},{"verse":"5","text":"¿No rebuznan los burros salvajes cuando se les acaba la hierba? ¿No gime el ganado cuando no tiene comida?6:5 En otras palabras, “tengo derecho a quejarme!”"},{"verse":"6","text":"¿Se puede comer sin sal algo que no tiene sabor? ¿Tiene algún sabor la clara del huevo?"},{"verse":"7","text":"No puedo tocar ningún alimento, ¡la sola idea me hace sentir enfermo!"},{"verse":"8","text":"¡Oh, si pudiera tener lo que realmente quiero, que Dios me diera lo que más deseo!"},{"verse":"9","text":"¡Que Dios estuviera dispuesto a aplastarme hasta la muerte, que me dejara morir!"},{"verse":"10","text":"Pero aún me consuela saber, haciéndome feliz a través del dolor interminable, que nunca he rechazado las palabras de Dios.6:10 Literalmente, “El Santo”."},{"verse":"11","text":"“¿Por qué debo seguir esperando si no tengo fuerzas? ¿Por qué debo seguir adelante si no sé lo que me va a pasar?"},{"verse":"12","text":"¿Acaso soy fuerte como una roca? ¿Acaso soy de bronce?"},{"verse":"13","text":"¿Cómo puedo ayudarme a mí mismo ahora que cualquier posibilidad de éxito ha desaparecido?6:13 Literalmente, “conducido”."},{"verse":"14","text":"Quien no es amable con un amigo ha dejado de respetar al Todopoderoso."},{"verse":"15","text":"Mis hermanos6:15 Refiriéndose a los amigos de Job. han actuado con el mismo engaño que un arroyo del desierto, aguas caudalosas en el desierto que se desvanecen."},{"verse":"16","text":"El arroyo se desborda cuando está lleno de hielo oscuro y nieve derretida,"},{"verse":"17","text":"pero con el calor se seca y desaparece, esfumándose de donde estaba."},{"verse":"18","text":"Las caravanas de camellos se apartan para buscar agua, pero no la encuentran y mueren."},{"verse":"19","text":"Las caravanas de Tema buscaron, los viajeros de Saba se confiaron,"},{"verse":"20","text":"pero sus esperanzas se desvanecieron: llegaron y no encontraron nada."},{"verse":"21","text":"“Ahora no ayudan en nada. Así de simple:6:21 Job está diciendo que Elifaz es tan útil como un arroyo seco que no da agua. ven mi problema y tienen miedo."},{"verse":"22","text":"¿Les he pedido algo? ¿Acaso les he pedido que sobornen6:22 O “pagar un rescate”. a alguien a mi favor, usando su propio dinero?"},{"verse":"23","text":"¿Les he pedido que me rescaten de un enemigo? ¿Les he pedido que me salven de mis opresores?"},{"verse":"24","text":"Explíquenme esto y me callaré. Muéstrenme en qué me equivoco."},{"verse":"25","text":"Las palabras sinceras son dolorosas,6:25 O “contundente”. ¿pero qué prueban sus argumentos?"},{"verse":"26","text":"¿Van a discutir sobre lo que he dicho, cuando las palabras de alguien desesperado deberían dejar que el viento se las lleve?"},{"verse":"27","text":"¡Son capaces de jugar a los dados para ganarle un huérfano, así como son capaces de regatear con su amigo!"},{"verse":"28","text":"¡Mírenme a los ojos y digan si les miento en la cara!"},{"verse":"29","text":"¡No hablen así!6:29 Literalmente, “vuélvete”. Job está pidiendo a Elifaz que se aparte de esta línea de argumentación. ¡No sean injustos! Lo que digo es correcto."},{"verse":"30","text":"No estoy diciendo mentiras. ¿Acaso no sabría yo mismo si me equivoco?” 6:30 Literalmente, “¿Puede mi paladar discernir la calamidad?”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 6,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Job respondió:",
+      "strong": [
+        "H0227",
+        "H0347",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“Si se pudiera pesar mi dolor y poner mis problemas en una balanza",
+      "strong": [
+        "H3863",
+        "H3045",
+        "H5375",
+        "H2427",
+        "H1571",
+        "H6186",
+        "H5375",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "serían más pesados que la arena del mar. Por eso hablé tan precipitadamente.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5921",
+        "H2342",
+        "H5921",
+        "H3220",
+        "H5921",
+        "H3651",
+        "H1697",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Porque las flechas del Todopoderoso están en mí; su veneno mina mi espíritu. Los terrores de Dios están alineados contra mí.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H8354",
+        "H7706",
+        "H1961",
+        "H3588",
+        "H0589",
+        "H3588",
+        "H2534",
+        "H0589",
+        "H7307",
+        "H3588",
+        "H1091",
+        "H3588",
+        "H0430",
+        "H1961",
+        "H5921",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¿No rebuznan los burros salvajes cuando se les acaba la hierba? ¿No gime el ganado cuando no tiene comida?",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1877",
+        "H5921",
+        "H0584",
+        "H5921",
+        "H4735",
+        "H3588",
+        "H5921",
+        "H3426",
+        "H6720"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¿Se puede comer sin sal algo que no tiene sabor? ¿Tiene algún sabor la clara del huevo?",
+      "strong": [
+        "H3045",
+        "H3201",
+        "H0398",
+        "H1097",
+        "H4417",
+        "H3920",
+        "H0834",
+        "H1097",
+        "H3426",
+        "H2940",
+        "H3426",
+        "H0259",
+        "H2940",
+        "H1931",
+        "H3368",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "No puedo tocar ningún alimento, ¡la sola idea me hace sentir enfermo!",
+      "strong": [
+        "H3985",
+        "H3201",
+        "H5060",
+        "H3605",
+        "H0400",
+        "H1931",
+        "H1565",
+        "H0413",
+        "H6213",
+        "H2470"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¡Oh, si pudiera tener lo que realmente quiero, que Dios me diera lo que más deseo!",
+      "strong": [
+        "H4310",
+        "H0518",
+        "H1961",
+        "H1931",
+        "H4310",
+        "H2654",
+        "H4310",
+        "H0430",
+        "H4310",
+        "H5414",
+        "H1931",
+        "H4310",
+        "H5750",
+        "H0183"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¡Que Dios estuviera dispuesto a aplastarme hasta la muerte, que me dejara morir!",
+      "strong": [
+        "H3027",
+        "H0430",
+        "H3426",
+        "H3559",
+        "H0413",
+        "H5704",
+        "H1931",
+        "H4194",
+        "H3027",
+        "H0413",
+        "H5414",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Pero aún me consuela saber, haciéndome feliz a través del dolor interminable, que nunca he rechazado las palabras de Dios.",
+      "strong": [
+        "H3588",
+        "H5750",
+        "H3588",
+        "H5162",
+        "H5046",
+        "H3588",
+        "H4480",
+        "H2427",
+        "H3588",
+        "H3808",
+        "H4392",
+        "H1992",
+        "H1697",
+        "H3588",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "“¿Por qué debo seguir esperando si no tengo fuerzas? ¿Por qué debo seguir adelante si no sé lo que me va a pasar?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0935",
+        "H3176",
+        "H3588",
+        "H3588",
+        "H2803",
+        "H3581",
+        "H3588",
+        "H3588",
+        "H0935",
+        "H5750",
+        "H3588",
+        "H3588",
+        "H4100",
+        "H4100",
+        "H3588",
+        "H3588",
+        "H1980",
+        "H3588",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¿Acaso soy fuerte como una roca? ¿Acaso soy de bronce?",
+      "strong": [
+        "H0194",
+        "H0595",
+        "H2389",
+        "H0349",
+        "H0259",
+        "H6697",
+        "H0194",
+        "H0595",
+        "H4480",
+        "H5153"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¿Cómo puedo ayudarme a mí mismo ahora que cualquier posibilidad de éxito ha desaparecido?",
+      "strong": [
+        "H0349",
+        "H3201",
+        "H4480",
+        "H0589",
+        "H1931",
+        "H6258",
+        "H4480",
+        "H3605",
+        "H4480",
+        "H3541"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Quien no es amable con un amigo ha dejado de respetar al Todopoderoso.",
+      "strong": [
+        "H4310",
+        "H3808",
+        "H1961",
+        "H3700",
+        "H5973",
+        "H0259",
+        "H7453",
+        "H3541",
+        "H8667",
+        "H4480",
+        "H0413",
+        "H7706"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Mis hermanos han actuado con el mismo engaño que un arroyo del desierto, aguas caudalosas en el desierto que se desvanecen.",
+      "strong": [
+        "H0589",
+        "H0251",
+        "H4191",
+        "H5973",
+        "H5674",
+        "H1931",
+        "H4820",
+        "H0834",
+        "H0259",
+        "H5158",
+        "H4480",
+        "H4057",
+        "H4325",
+        "H5921",
+        "H5674",
+        "H4057",
+        "H0834",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "El arroyo se desborda cuando está lleno de hielo oscuro y nieve derretida,",
+      "strong": [
+        "H5921",
+        "H5158",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H4390",
+        "H4480",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "pero con el calor se seca y desaparece, esfumándose de donde estaba.",
+      "strong": [
+        "H3588",
+        "H5973",
+        "H1931",
+        "H3045",
+        "H6723",
+        "H1571",
+        "H6256",
+        "H4725",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Las caravanas de camellos se apartan para buscar agua, pero no la encuentran y mueren.",
+      "strong": [
+        "H1992",
+        "H4480",
+        "H1581",
+        "H3045",
+        "H7311",
+        "H5704",
+        "H4325",
+        "H3588",
+        "H1870",
+        "H1931",
+        "H1571",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Las caravanas de Tema buscaron, los viajeros de Saba se confiaron,",
+      "strong": [
+        "H1992",
+        "H4480",
+        "H3372",
+        "H1245",
+        "H0582",
+        "H4480",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "pero sus esperanzas se desvanecieron: llegaron y no encontraron nada.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3045",
+        "H0935",
+        "H3588",
+        "H3588",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "“Ahora no ayudan en nada. Así de simple: ven mi problema y tienen miedo.",
+      "strong": [
+        "H6258",
+        "H3808",
+        "H5826",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H6615",
+        "H7200",
+        "H1961",
+        "H3588",
+        "H1961",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "¿Les he pedido algo? ¿Acaso les he pedido que sobornen a alguien a mi favor, usando su propio dinero?",
+      "strong": [
+        "H0413",
+        "H4392",
+        "H3920",
+        "H0194",
+        "H0413",
+        "H4392",
+        "H3588",
+        "H3588",
+        "H0376",
+        "H3588",
+        "H0589",
+        "H7522",
+        "H3588",
+        "H3701"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "¿Les he pedido que me rescaten de un enemigo? ¿Les he pedido que me salven de mis opresores?",
+      "strong": [
+        "H0413",
+        "H4392",
+        "H3027",
+        "H0413",
+        "H4480",
+        "H0259",
+        "H6862",
+        "H0413",
+        "H4392",
+        "H3027",
+        "H0413",
+        "H4480",
+        "H0589",
+        "H6031"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Explíquenme esto y me callaré. Muéstrenme en qué me equivoco.",
+      "strong": [
+        "H2063",
+        "H1571",
+        "H0413",
+        "H2790",
+        "H5921",
+        "H4100",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Las palabras sinceras son dolorosas, ¿pero qué prueban sus argumentos?",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H1961",
+        "H3588",
+        "H4100",
+        "H1931",
+        "H8394"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "¿Van a discutir sobre lo que he dicho, cuando las palabras de alguien desesperado deberían dejar que el viento se las lleve?",
+      "strong": [
+        "H1980",
+        "H0413",
+        "H5921",
+        "H4405",
+        "H0834",
+        "H4392",
+        "H0559",
+        "H3588",
+        "H1992",
+        "H4405",
+        "H4480",
+        "H0376",
+        "H0605",
+        "H5414",
+        "H0834",
+        "H1931",
+        "H7307",
+        "H3045",
+        "H1992",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "¡Son capaces de jugar a los dados para ganarle un huérfano, así como son capaces de regatear con su amigo!",
+      "strong": [
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5414",
+        "H5921",
+        "H0259",
+        "H3490",
+        "H3541",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H7453"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "¡Mírenme a los ojos y digan si les miento en la cara!",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5869",
+        "H5921",
+        "H0559",
+        "H6440",
+        "H5921",
+        "H3576",
+        "H5921",
+        "H5921",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "¡No hablen así! ¡No sean injustos! Lo que digo es correcto.",
+      "strong": [
+        "H1961",
+        "H1696",
+        "H3541",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H4994",
+        "H0559",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "No estoy diciendo mentiras. ¿Acaso no sabría yo mismo si me equivoco?”",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H0559",
+        "H3576",
+        "H0194",
+        "H3808",
+        "H0589",
+        "H1931",
+        "H3808",
+        "H0413"
+      ]
+    }
+  ]
+}

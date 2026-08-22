@@ -1,1 +1,242 @@
-{"version":"spa-vbl","book":"psalms","chapter":46,"data":[{"verse":"1","text":"Dios es nuestra protección y nuestra fuerza; siempre listo para ayudar cuando vienen los problemas."},{"verse":"2","text":"Así que no tendremos miedo aunque la tierra tiemble, aunque las montañas caigan hacia el fondo de los océanos,"},{"verse":"3","text":"Aunque las aguas rujan y, ¡Aunque las montañas tiemblen y las aguas se levanten violentamente! Selah."},{"verse":"4","text":"Un río fluye para traer felicidad a los que viven en la ciudad de Dios, la ciudad santa donde vive el Altísimo."},{"verse":"5","text":"Dios está en la mitad de la ciudad; y esta nunca caerá. Dios la protege con la rapidez de la luz. 46:5 No quiere decir que la ciudad no tenía protección de noche, sino que tan pronto hubiese luz para que un enemigo viera y atacase, Dios protegería la ciudad."},{"verse":"6","text":"Las naciones están en confusión, Los reinos colapsan. Dios levanta su voz y la tierra se estremece."},{"verse":"7","text":"El Señor Todopoderoso está con nosotros; El Dios de Jacob nos protege. Selah."},{"verse":"8","text":"¡Ven para veas lo que el Señor ha hecho! ¡Mira las cosas maravillosas 46:8 La palabra usada aquí a menudo se traduce como “desolación” pero no todas las acciones de Dios que se describen son destructivas. que ha hecho en la tierra!"},{"verse":"9","text":"Él detiene guerras alrededor de todo el mundo. Aplasta ballestas; rompe lanzas; incendia los escudos."},{"verse":"10","text":"¡Dejen de pelear! ¡Reconozcan que yo soy Dios! Yo soy el gobernador de las naciones; Soy el gobernador de la tierra."},{"verse":"11","text":"El Señor todopoderoso está con nosotros; El Dios de Jacob nos protege. Selah."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 46,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios es nuestra protección y nuestra fuerza; siempre listo para ayudar cuando vienen los problemas.",
+      "strong": [
+        "H0430",
+        "H1961",
+        "H0587",
+        "H5921",
+        "H0587",
+        "H3581",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H0935",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Así que no tendremos miedo aunque la tierra tiemble, aunque las montañas caigan hacia el fondo de los océanos,",
+      "strong": [
+        "H3541",
+        "H0834",
+        "H3808",
+        "H4032",
+        "H3588",
+        "H1931",
+        "H0776",
+        "H3588",
+        "H1992",
+        "H5307",
+        "H0413",
+        "H1931",
+        "H0068",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Aunque las aguas rujan y, ¡Aunque las montañas tiemblen y las aguas se levanten violentamente! Selah.",
+      "strong": [
+        "H3808",
+        "H5921",
+        "H4325",
+        "H5921",
+        "H3808",
+        "H5921",
+        "H7264",
+        "H5921",
+        "H5921",
+        "H4325",
+        "H5921",
+        "H1497",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Un río fluye para traer felicidad a los que viven en la ciudad de Dios, la ciudad santa donde vive el Altísimo.",
+      "strong": [
+        "H0259",
+        "H5104",
+        "H2100",
+        "H5704",
+        "H5375",
+        "H0413",
+        "H0582",
+        "H4325",
+        "H2416",
+        "H5921",
+        "H1931",
+        "H5892",
+        "H4325",
+        "H0430",
+        "H1931",
+        "H5892",
+        "H6944",
+        "H0834",
+        "H2416",
+        "H1931",
+        "H5945"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Dios está en la mitad de la ciudad; y esta nunca caerá. Dios la protege con la rapidez de la luz.",
+      "strong": [
+        "H0430",
+        "H2063",
+        "H5921",
+        "H1931",
+        "H8432",
+        "H4480",
+        "H1931",
+        "H5892",
+        "H1571",
+        "H2063",
+        "H3808",
+        "H5307",
+        "H0430",
+        "H1931",
+        "H5973",
+        "H1931",
+        "H4480",
+        "H1931",
+        "H0216"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Las naciones están en confusión, Los reinos colapsan. Dios levanta su voz y la tierra se estremece.",
+      "strong": [
+        "H1992",
+        "H1471",
+        "H1961",
+        "H5921",
+        "H3639",
+        "H0582",
+        "H4467",
+        "H0430",
+        "H5375",
+        "H1931",
+        "H6963",
+        "H1571",
+        "H1931",
+        "H0776",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "El Señor Todopoderoso está con nosotros; El Dios de Jacob nos protege. Selah.",
+      "strong": [
+        "H1931",
+        "H0113",
+        "H7706",
+        "H2063",
+        "H5973",
+        "H0587",
+        "H1931",
+        "H0430",
+        "H5414",
+        "H3290",
+        "H0587",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¡Ven para veas lo que el Señor ha hecho! ¡Mira las cosas maravillosas que ha hecho en la tierra!",
+      "strong": [
+        "H3212",
+        "H5973",
+        "H7200",
+        "H1931",
+        "H0834",
+        "H5973",
+        "H3068",
+        "H3541",
+        "H6213",
+        "H7200",
+        "H1992",
+        "H1697",
+        "H6381",
+        "H0834",
+        "H3541",
+        "H6213",
+        "H5973",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Él detiene guerras alrededor de todo el mundo. Aplasta ballestas; rompe lanzas; incendia los escudos.",
+      "strong": [
+        "H1931",
+        "H0748",
+        "H4421",
+        "H5439",
+        "H4480",
+        "H3605",
+        "H1931",
+        "H8398",
+        "H7420",
+        "H0582",
+        "H4043"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¡Dejen de pelear! ¡Reconozcan que yo soy Dios! Yo soy el gobernador de las naciones; Soy el gobernador de la tierra.",
+      "strong": [
+        "H2308",
+        "H5704",
+        "H3201",
+        "H3045",
+        "H5704",
+        "H0589",
+        "H0595",
+        "H0430",
+        "H0589",
+        "H0595",
+        "H1931",
+        "H8269",
+        "H5704",
+        "H1992",
+        "H1471",
+        "H0595",
+        "H1931",
+        "H8269",
+        "H5704",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "El Señor todopoderoso está con nosotros; El Dios de Jacob nos protege. Selah.",
+      "strong": [
+        "H3588",
+        "H0113",
+        "H7706",
+        "H2063",
+        "H3588",
+        "H0587",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3290",
+        "H0587",
+        "H5542"
+      ]
+    }
+  ]
+}

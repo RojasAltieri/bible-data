@@ -1,1 +1,173 @@
-{"version":"spa-vbl","book":"psalms","chapter":11,"data":[{"verse":"1","text":"Señor, tú eres mi protección. ¿Cómo puedes decirme “Huye hacia las montañas como las aves?”"},{"verse":"2","text":"Mira, los malvados están tensando sus arcos y llenándose de flechas para lanzarlas a las personas buenas desde sus escondites oscuros."},{"verse":"3","text":"Cuando los fundamentos de la sociedad queden destruidos, ¿qué podrán hacer los justos?"},{"verse":"4","text":"El Señor está en su Templo. El trono del Señor está en el cielo. Él mira con atención a cada uno, y los vigila con cuidado."},{"verse":"5","text":"El Señor examina a los que hacen el bien así como a los que hacen el mal, pero aborrece a los que aman la violencia."},{"verse":"6","text":"Él preparará carbones ardientes, y azufre caerá sobre los malvados. Un viento abrasador vendrá sobre ellos."},{"verse":"7","text":"El Señor hace lo recto y ama a quienes hacen lo recto también. Los que hacen el bien verán al Señor cara a cara."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 11,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, tú eres mi protección. ¿Cómo puedes decirme “Huye hacia las montañas como las aves?”",
+      "strong": [
+        "H3068",
+        "H0859",
+        "H0859",
+        "H5315",
+        "H0349",
+        "H3546",
+        "H0559",
+        "H5127",
+        "H0413",
+        "H1992",
+        "H0349",
+        "H1992",
+        "H5775"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Mira, los malvados están tensando sus arcos y llenándose de flechas para lanzarlas a las personas buenas desde sus escondites oscuros.",
+      "strong": [
+        "H2009",
+        "H5921",
+        "H2009",
+        "H1931",
+        "H7198",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5315",
+        "H2896",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando los fundamentos de la sociedad queden destruidos, ¿qué podrán hacer los justos?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2040",
+        "H3588",
+        "H3201",
+        "H6213",
+        "H3588",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El Señor está en su Templo. El trono del Señor está en el cielo. Él mira con atención a cada uno, y los vigila con cuidado.",
+      "strong": [
+        "H1121",
+        "H3068",
+        "H2063",
+        "H5921",
+        "H1931",
+        "H1964",
+        "H1121",
+        "H3678",
+        "H4480",
+        "H3068",
+        "H2063",
+        "H5921",
+        "H1121",
+        "H8064",
+        "H1121",
+        "H2372",
+        "H5973",
+        "H5869",
+        "H3605",
+        "H0259",
+        "H1571",
+        "H1121",
+        "H5973",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El Señor examina a los que hacen el bien así como a los que hacen el mal, pero aborrece a los que aman la violencia.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H6884",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H2555",
+        "H0349",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H7563",
+        "H3588",
+        "H8130",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H2001",
+        "H1931",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Él preparará carbones ardientes, y azufre caerá sobre los malvados. Un viento abrasador vendrá sobre ellos.",
+      "strong": [
+        "H5921",
+        "H1513",
+        "H8314",
+        "H5921",
+        "H1614",
+        "H5307",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H7307",
+        "H0398",
+        "H0935",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "El Señor hace lo recto y ama a quienes hacen lo recto también. Los que hacen el bien verán al Señor cara a cara.",
+      "strong": [
+        "H3588",
+        "H3068",
+        "H6213",
+        "H1931",
+        "H3477",
+        "H3588",
+        "H0157",
+        "H6440",
+        "H4310",
+        "H6213",
+        "H1931",
+        "H3477",
+        "H1571",
+        "H3588",
+        "H3588",
+        "H6213",
+        "H3588",
+        "H3588",
+        "H2372",
+        "H0413",
+        "H3068",
+        "H6440",
+        "H6440",
+        "H6440"
+      ]
+    }
+  ]
+}

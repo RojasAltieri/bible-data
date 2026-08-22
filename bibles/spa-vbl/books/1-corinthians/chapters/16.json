@@ -1,1 +1,507 @@
-{"version":"spa-vbl","book":"1-corinthians","chapter":16,"data":[{"verse":"1","text":"En cuanto a “recoger dinero para los hermanos creyentes”, les doy las mismas instrucciones que les di a las iglesias de Galacia."},{"verse":"2","text":"El primer día de la semana, todos deben apartar dinero del que han ganado. No quisiera que se recogiera dinero cuando estoy con ustedes."},{"verse":"3","text":"Cuando llegue, escribiré cartas de recomendación para la persona que escojan, y esa persona llevará sus donativos a Jerusalén."},{"verse":"4","text":"Si resulta que yo puedo ir también, entonces ellos pueden ir conmigo."},{"verse":"5","text":"Después de haber ido a Macedonia, tengo planes de ir a visitarlos. Debo pasar por allí de camino a Macedonia"},{"verse":"6","text":"y puedo quedarme con ustedes por un tiempo, quizás por la temporada de invierno, y después podrán enviarme nuevamente de camino hacia donde voy."},{"verse":"7","text":"Esta vez no quiero ir a verlos por poco tiempo. Espero poder quedarme más tiempo con ustedes, si el Señor lo permite."},{"verse":"8","text":"Sin embargo me quedaré en Éfeso hasta el Pentecostés,"},{"verse":"9","text":"porque se me ha presentado una gran oportunidad allí, aunque tengo también muchos opositores."},{"verse":"10","text":"Ahora, si Timoteo llega, asegúrense de que no tenga ningún temor de estar con ustedes, porque él está trabajando por el Señor tal como yo lo hago."},{"verse":"11","text":"No permitan que nadie lo menosprecie. Envíenlo con alegría en su viaje para que pueda venir a verme. Los hermanos, hermanas y yo estamos esperándolo."},{"verse":"12","text":"En cuanto a nuestro hermano Apolo: le insistí en que fuera a verlos junto con los otros creyentes, pero no tenía disposición de ir en el momento. Él irá a visitarlos cuando tenga la oportunidad de hacerlo."},{"verse":"13","text":"Estén alerta. Manténganse firmes en su confianza en Dios. Tengan valor. Sean fuertes."},{"verse":"14","text":"Todo lo que hagan, háganlo con amor."},{"verse":"15","text":"Ustedes saben que Estéfanas y su familia estaban entre los primeros conversos de Acaya, y se dedicaron a ayudar al pueblo de Dios. Les ruego, hermanos y hermanas,"},{"verse":"16","text":"que respeten su liderazgo, y así mismo a todos los que ayudan en la obra con tanta dedicación."},{"verse":"17","text":"Me alegro de que Estéfanas, Fortunata y Acaico hayan llegado, porque lograron lo que ustedes no pudieron hacer."},{"verse":"18","text":"Ellos han sido fuente de mucho ánimo para mí, y para ustedes. Las personas como ellos merecen el reconocimiento de ustedes."},{"verse":"19","text":"Las iglesias de Asia16:19 Refiriéndose a la provincia romana de Asia Menor. envían su saludo. Aquila y Priscila, junto con la iglesia que se congrega en su casa, envían sus mejores deseos."},{"verse":"20","text":"Todos los hermanos y hermanas aquí envían su saludo. Salúdense unos a otros con afecto."},{"verse":"21","text":"Yo, Pablo, escribo este saludo con mi propia mano."},{"verse":"22","text":"Cualquiera que no ama al Señor debe ser excluido de la iglesia.16:22 Literalmente, “sea maldito”. ¡Ven Señor!"},{"verse":"23","text":"Que la gracia de nuestro Señor Jesucristo esté con ustedes."},{"verse":"24","text":"Reciban mi amor para todos ustedes en Cristo Jesús. Amén."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-corinthians",
+  "chapter": 16,
+  "data": [
+    {
+      "verse": "1",
+      "text": "En cuanto a “recoger dinero para los hermanos creyentes”, les doy las mismas instrucciones que les di a las iglesias de Galacia.",
+      "strong": [
+        "G1519",
+        "G4012",
+        "G1519",
+        "H3701",
+        "G1519",
+        "G3588",
+        "H0251",
+        "G1519",
+        "H5414",
+        "G3588",
+        "G3588",
+        "G1519",
+        "H0559",
+        "G1519",
+        "G3588",
+        "G1577",
+        "G4012",
+        "G1053"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El primer día de la semana, todos deben apartar dinero del que han ganado. No quisiera que se recogiera dinero cuando estoy con ustedes.",
+      "strong": [
+        "G3739",
+        "G1520",
+        "H3117",
+        "G3844",
+        "H1931",
+        "G4521",
+        "G2596",
+        "H3701",
+        "G3844",
+        "G3739",
+        "G3361",
+        "H4735",
+        "G3361",
+        "H2654",
+        "G3739",
+        "G1438",
+        "H3701",
+        "G3752",
+        "H1961",
+        "G3844"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando llegue, escribiré cartas de recomendación para la persona que escojan, y esa persona llevará sus donativos a Jerusalén.",
+      "strong": [
+        "G3752",
+        "H0935",
+        "G1992",
+        "G1519",
+        "G1519",
+        "G3588",
+        "H5315",
+        "G3588",
+        "G1161",
+        "H1931",
+        "H5315",
+        "H5375",
+        "G3588",
+        "G1519"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Si resulta que yo puedo ir también, entonces ellos pueden ir conmigo.",
+      "strong": [
+        "G1437",
+        "G3588",
+        "G1473",
+        "H3201",
+        "G4198",
+        "G1161",
+        "G1161",
+        "G3588",
+        "H3201",
+        "G4198",
+        "G4862"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Después de haber ido a Macedonia, tengo planes de ir a visitarlos. Debo pasar por allí de camino a Macedonia",
+      "strong": [
+        "G3752",
+        "G4314",
+        "H1961",
+        "H3212",
+        "G4314",
+        "G3109",
+        "H2803",
+        "G4314",
+        "G2064",
+        "G4314",
+        "G1330",
+        "G4314",
+        "H8033",
+        "G4314",
+        "H1870",
+        "G4314",
+        "G3109"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "y puedo quedarme con ustedes por un tiempo, quizás por la temporada de invierno, y después podrán enviarme nuevamente de camino hacia donde voy.",
+      "strong": [
+        "G2532",
+        "H3201",
+        "G4314",
+        "G4314",
+        "H0259",
+        "H6256",
+        "H0194",
+        "G4314",
+        "H1931",
+        "G4314",
+        "G2532",
+        "G2532",
+        "H3201",
+        "H7971",
+        "G4314",
+        "H1870",
+        "G4314",
+        "G3757",
+        "G4198"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Esta vez no quiero ir a verlos por poco tiempo. Espero poder quedarme más tiempo con ustedes, si el Señor lo permite.",
+      "strong": [
+        "G3588",
+        "H6471",
+        "G3756",
+        "G2309",
+        "G4314",
+        "G4314",
+        "G1722",
+        "H4592",
+        "G5550",
+        "G1679",
+        "H3027",
+        "G1063",
+        "G5550",
+        "G1722",
+        "G1437",
+        "G3588",
+        "G2962",
+        "G3588",
+        "G2010"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Sin embargo me quedaré en Éfeso hasta el Pentecostés,",
+      "strong": [
+        "G2193",
+        "G1722",
+        "H7604",
+        "G1722",
+        "G2193",
+        "G3588",
+        "G4005"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "porque se me ha presentado una gran oportunidad allí, aunque tengo también muchos opositores.",
+      "strong": [
+        "G1063",
+        "G2532",
+        "G1473",
+        "G4183",
+        "H0259",
+        "G3173",
+        "H8033",
+        "G2532",
+        "H2803",
+        "G2532",
+        "G4183"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Ahora, si Timoteo llega, asegúrense de que no tenga ningún temor de estar con ustedes, porque él está trabajando por el Señor tal como yo lo hago.",
+      "strong": [
+        "G1161",
+        "G1437",
+        "G5095",
+        "H6293",
+        "G4314",
+        "G3588",
+        "G1437",
+        "G1096",
+        "H3605",
+        "H3372",
+        "G4314",
+        "G4314",
+        "G1063",
+        "G3588",
+        "G3588",
+        "G2038",
+        "G4314",
+        "G3588",
+        "G2962",
+        "H3651",
+        "G5613",
+        "G2504",
+        "G3588",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "No permitan que nadie lo menosprecie. Envíenlo con alegría en su viaje para que pueda venir a verme. Los hermanos, hermanas y yo estamos esperándolo.",
+      "strong": [
+        "G3361",
+        "G3588",
+        "G3361",
+        "G3588",
+        "G1848",
+        "G3326",
+        "H8057",
+        "G1722",
+        "G3588",
+        "H1870",
+        "G2443",
+        "G3588",
+        "H3201",
+        "G2064",
+        "G4314",
+        "G3588",
+        "H0251",
+        "H0269",
+        "G1161",
+        "G1473",
+        "H3427"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "En cuanto a nuestro hermano Apolo: le insistí en que fuera a verlos junto con los otros creyentes, pero no tenía disposición de ir en el momento. Él irá a visitarlos cuando tenga la oportunidad de hacerlo.",
+      "strong": [
+        "G4314",
+        "G4012",
+        "G4314",
+        "G3588",
+        "H0251",
+        "G4314",
+        "G4314",
+        "G3588",
+        "G1510",
+        "G4314",
+        "G4314",
+        "G3326",
+        "G3588",
+        "G3588",
+        "G1161",
+        "G3756",
+        "G1510",
+        "H1456",
+        "G4012",
+        "G2064",
+        "G4314",
+        "G3588",
+        "H7281",
+        "G3588",
+        "G2064",
+        "G4314",
+        "G3752",
+        "H1961",
+        "G3588",
+        "G4012",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Estén alerta. Manténganse firmes en su confianza en Dios. Tengan valor. Sean fuertes.",
+      "strong": [
+        "H1961",
+        "G4739",
+        "G1722",
+        "G3588",
+        "H4009",
+        "G1722",
+        "H0430",
+        "H3365",
+        "H1961",
+        "H4013"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Todo lo que hagan, háganlo con amor.",
+      "strong": [
+        "G3956",
+        "H1931",
+        "G1722",
+        "H6213",
+        "G1722",
+        "H0160"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Ustedes saben que Estéfanas y su familia estaban entre los primeros conversos de Acaya, y se dedicaron a ayudar al pueblo de Dios. Les ruego, hermanos y hermanas,",
+      "strong": [
+        "G1492",
+        "G3754",
+        "G4734",
+        "G2532",
+        "G3588",
+        "H1004",
+        "H1961",
+        "G1519",
+        "G3588",
+        "H7223",
+        "G1519",
+        "G2532",
+        "G1492",
+        "G1519",
+        "G3588",
+        "H5971",
+        "G1519",
+        "H0430",
+        "G1519",
+        "G3870",
+        "H0251",
+        "G2532",
+        "H0269"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "que respeten su liderazgo, y así mismo a todos los que ayudan en la obra con tanta dedicación.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G2532",
+        "G2532",
+        "H1931",
+        "G2443",
+        "G3956",
+        "G3588",
+        "G3588",
+        "G4903",
+        "G3588",
+        "G3588",
+        "H4639",
+        "G2532"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Me alegro de que Estéfanas, Fortunata y Acaico hayan llegado, porque lograron lo que ustedes no pudieron hacer.",
+      "strong": [
+        "H0413",
+        "G1909",
+        "G3754",
+        "G4734",
+        "G2532",
+        "H0935",
+        "G3754",
+        "G3588",
+        "G3754",
+        "H3808",
+        "H3201",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Ellos han sido fuente de mucho ánimo para mí, y para ustedes. Las personas como ellos merecen el reconocimiento de ustedes.",
+      "strong": [
+        "G3588",
+        "H4191",
+        "H1961",
+        "H4599",
+        "G3588",
+        "H3966",
+        "H5315",
+        "H5704",
+        "G1699",
+        "G2532",
+        "H5704",
+        "G3588",
+        "H5315",
+        "G2532",
+        "G3588",
+        "G3588",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Las iglesias de Asia envían su saludo. Aquila y Priscila, junto con la iglesia que se congrega en su casa, envían sus mejores deseos.",
+      "strong": [
+        "G3588",
+        "G1577",
+        "G1722",
+        "G3588",
+        "G2532",
+        "H5921",
+        "G1722",
+        "G3588",
+        "G1577",
+        "G3588",
+        "G2532",
+        "G1722",
+        "G3588",
+        "G3624",
+        "G3588",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Todos los hermanos y hermanas aquí envían su saludo. Salúdense unos a otros con afecto.",
+      "strong": [
+        "G3956",
+        "G3588",
+        "H0251",
+        "H1571",
+        "H0269",
+        "H6311",
+        "G3588",
+        "G3588",
+        "G1722",
+        "G3588",
+        "G1722"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Yo, Pablo, escribo este saludo con mi propia mano.",
+      "strong": [
+        "H0589",
+        "G3972",
+        "G3588",
+        "G3588",
+        "G1699",
+        "G5495"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Cualquiera que no ama al Señor debe ser excluido de la iglesia. ¡Ven Señor!",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G3756",
+        "G5368",
+        "G3588",
+        "G2962",
+        "H4135",
+        "H5315",
+        "G3588",
+        "G3588",
+        "H3212",
+        "G2962"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Que la gracia de nuestro Señor Jesucristo esté con ustedes.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G5485",
+        "G3588",
+        "G3588",
+        "G2962",
+        "G2424",
+        "G3588",
+        "G3326"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Reciban mi amor para todos ustedes en Cristo Jesús. Amén.",
+      "strong": [
+        "G3588",
+        "H0160",
+        "G1722",
+        "G3956",
+        "G1722",
+        "G5547",
+        "G2424",
+        "H0543"
+      ]
+    }
+  ]
+}

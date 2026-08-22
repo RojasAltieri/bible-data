@@ -1,1 +1,326 @@
-{"version":"spa-vbl","book":"psalms","chapter":88,"data":[{"verse":"1","text":"Señor, Dios de mi salvación, clamo a ti de día y de noche."},{"verse":"2","text":"Por favor escucha mi oración; escucha mis palabras de súplica."},{"verse":"3","text":"Mi vida está llena de problemas, y mi muerte se acerca.88:3 Literalmente, “Mi vida se acerca al Seol”."},{"verse":"4","text":"Soy contado entre los moribundos; un hombre sin fuerzas."},{"verse":"5","text":"Soy abandonado entre los muertos, tendido como un cadáver en la tumba, olvidado y dejado a tu cuidado."},{"verse":"6","text":"Me has puesto en un pozo profundo, entre las penumbras."},{"verse":"7","text":"Tu hostilidad me maltrata; me estás ahogando entre tus olas abrumadoras. Selah."},{"verse":"8","text":"Has hecho que mis enemigos me eviten, haciéndome repulsivo a sus vistas. Estoy atrapado, no puedo huir.88:8 Probablemente porque es considerado como impuro."},{"verse":"9","text":"Señor, he llorado suplicándote cada día por ayuda, extendiendo mis manos hacia ti."},{"verse":"10","text":"¿Haces milagros entre los muertos? ¿Se levantan los muertos para alabarte? Selah."},{"verse":"11","text":"Tu gran amor, ¿Se menciona en la tumba? Tu fidelidad, ¿Es discutida en lugar de destrucción?88:11 “Lugar de destrucción”: Literalmente, “Abadón”."},{"verse":"12","text":"¿Las cosas maravillosas que haces son conocidas en las tinieblas? ¿Tu bondad es conocida en la tierra del olvido?"},{"verse":"13","text":"Pero clamo a ti pidiendo ayuda; cada mañana oro a ti."},{"verse":"14","text":"Señor, ¿Por qué me rechazas? ¿Por qué te alejas de mí?"},{"verse":"15","text":"He estado enfermo desde que era joven, a menudo estuve a las puertas de la muerte. He tenido que soportar las cosas terribles que me has hecho. ¡Estoy desesperado!"},{"verse":"16","text":"Tu ira me ha vencido; las cosas terribles que haces me han destruido."},{"verse":"17","text":"Ellos me rodean constantemente como aguas de una inundación, succionándome."},{"verse":"18","text":"Has hecho que mi familia y mis amigos se alejen. La oscuridad es mi única amiga."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 88,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, Dios de mi salvación, clamo a ti de día y de noche.",
+      "strong": [
+        "H0113",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H6413",
+        "H7121",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1121",
+        "H5921",
+        "H5921",
+        "H3915"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Por favor escucha mi oración; escucha mis palabras de súplica.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H0238",
+        "H0589",
+        "H8605",
+        "H0238",
+        "H0589",
+        "H1697",
+        "H5048",
+        "H8467"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Mi vida está llena de problemas, y mi muerte se acerca.",
+      "strong": [
+        "H0589",
+        "H5315",
+        "H2063",
+        "H4392",
+        "H6440",
+        "H1571",
+        "H0589",
+        "H4194",
+        "H3045",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Soy contado entre los moribundos; un hombre sin fuerzas.",
+      "strong": [
+        "H0595",
+        "H5608",
+        "H3588",
+        "H3588",
+        "H0259",
+        "H0376",
+        "H3808",
+        "H3581"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Soy abandonado entre los muertos, tendido como un cadáver en la tumba, olvidado y dejado a tu cuidado.",
+      "strong": [
+        "H1961",
+        "H5973",
+        "H5973",
+        "H2491",
+        "H7993",
+        "H5973",
+        "H0259",
+        "H5973",
+        "H1931",
+        "H1571",
+        "H8667",
+        "H5973",
+        "H0859",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Me has puesto en un pozo profundo, entre las penumbras.",
+      "strong": [
+        "H0413",
+        "H4191",
+        "H3588",
+        "H5750",
+        "H0259",
+        "H0875",
+        "H8482",
+        "H3808",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tu hostilidad me maltrata; me estás ahogando entre tus olas abrumadoras. Selah.",
+      "strong": [
+        "H0859",
+        "H0413",
+        "H0413",
+        "H0428",
+        "H0996",
+        "H0859",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Has hecho que mis enemigos me eviten, haciéndome repulsivo a sus vistas. Estoy atrapado, no puedo huir.",
+      "strong": [
+        "H4191",
+        "H6213",
+        "H5921",
+        "H0589",
+        "H0341",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H1961",
+        "H5921",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Señor, he llorado suplicándote cada día por ayuda, extendiendo mis manos hacia ti.",
+      "strong": [
+        "H0113",
+        "H4392",
+        "H3605",
+        "H3117",
+        "H4480",
+        "H5828",
+        "H6581",
+        "H0589",
+        "H3027",
+        "H4480",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Haces milagros entre los muertos? ¿Se levantan los muertos para alabarte? Selah.",
+      "strong": [
+        "H6213",
+        "H4480",
+        "H3605",
+        "H2491",
+        "H4480",
+        "H5375",
+        "H3605",
+        "H2491",
+        "H4480",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Tu gran amor, ¿Se menciona en la tumba? Tu fidelidad, ¿Es discutida en lugar de destrucción?",
+      "strong": [
+        "H6213",
+        "H1419",
+        "H0160",
+        "H3045",
+        "H5921",
+        "H1931",
+        "H6213",
+        "H1961",
+        "H5921",
+        "H4725",
+        "H4480",
+        "H7701"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¿Las cosas maravillosas que haces son conocidas en las tinieblas? ¿Tu bondad es conocida en la tierra del olvido?",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H6381",
+        "H0834",
+        "H6213",
+        "H1961",
+        "H5921",
+        "H1992",
+        "H2822",
+        "H0859",
+        "H2898",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H4480",
+        "H7911"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Pero clamo a ti pidiendo ayuda; cada mañana oro a ti.",
+      "strong": [
+        "H3588",
+        "H7121",
+        "H0413",
+        "H0859",
+        "H7592",
+        "H5828",
+        "H3605",
+        "H4279",
+        "H2091",
+        "H0413",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Señor, ¿Por qué me rechazas? ¿Por qué te alejas de mí?",
+      "strong": [
+        "H3068",
+        "H5921",
+        "H0834",
+        "H0413",
+        "H5921",
+        "H0834",
+        "H0859",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "He estado enfermo desde que era joven, a menudo estuve a las puertas de la muerte. He tenido que soportar las cosas terribles que me has hecho. ¡Estoy desesperado!",
+      "strong": [
+        "H4392",
+        "H1961",
+        "H2470",
+        "H4480",
+        "H4100",
+        "H1961",
+        "H0970",
+        "H4480",
+        "H1851",
+        "H5975",
+        "H4480",
+        "H1992",
+        "H1817",
+        "H4480",
+        "H1931",
+        "H4194",
+        "H4392",
+        "H4100",
+        "H1992",
+        "H1697",
+        "H4100",
+        "H4480",
+        "H4191",
+        "H5315",
+        "H1961",
+        "H0605"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Tu ira me ha vencido; las cosas terribles que haces me han destruido.",
+      "strong": [
+        "H0859",
+        "H2534",
+        "H0413",
+        "H3541",
+        "H1992",
+        "H1697",
+        "H0834",
+        "H6213",
+        "H0413",
+        "H4191",
+        "H7703"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Ellos me rodean constantemente como aguas de una inundación, succionándome.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5439",
+        "H5921",
+        "H4325",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Has hecho que mi familia y mis amigos se alejen. La oscuridad es mi única amiga.",
+      "strong": [
+        "H4191",
+        "H6213",
+        "H5921",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H0589",
+        "H7453",
+        "H5921",
+        "H5921",
+        "H0653",
+        "H1961",
+        "H5921",
+        "H0259",
+        "H7474"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"version":"spa-vbl","book":"psalms","chapter":131,"data":[{"verse":"1","text":"Señor, no soy orgulloso ni arrogante. No me preocupo de cosas que están más allá de mí, ni de problemas que están más allá de mi experiencia."},{"verse":"2","text":"Al contrario, he escogido ser calmado y quieto, como un niño recién amamantado en el regazo de su madre. ¡Soy como un niño recién amamantado!"},{"verse":"3","text":"Israel, pon tu esperanza en el Señor, desde ahora y para siempre."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 131,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, no soy orgulloso ni arrogante. No me preocupo de cosas que están más allá de mí, ni de problemas que están más allá de mi experiencia.",
+      "strong": [
+        "H3068",
+        "H3808",
+        "H0595",
+        "H3808",
+        "H3808",
+        "H4480",
+        "H4480",
+        "H1697",
+        "H4480",
+        "H1961",
+        "H4480",
+        "H8033",
+        "H4480",
+        "H0589",
+        "H3808",
+        "H4480",
+        "H4480",
+        "H1961",
+        "H4480",
+        "H8033",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Al contrario, he escogido ser calmado y quieto, como un niño recién amamantado en el regazo de su madre. ¡Soy como un niño recién amamantado!",
+      "strong": [
+        "H5921",
+        "H4392",
+        "H0977",
+        "H5315",
+        "H5921",
+        "H7599",
+        "H5921",
+        "H0259",
+        "H5288",
+        "H5921",
+        "H5921",
+        "H2436",
+        "H5921",
+        "H1931",
+        "H0517",
+        "H0595",
+        "H5921",
+        "H0259",
+        "H5288"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Israel, pon tu esperanza en el Señor, desde ahora y para siempre.",
+      "strong": [
+        "H3478",
+        "H7760",
+        "H0859",
+        "H8615",
+        "H5704",
+        "H1931",
+        "H3068",
+        "H5704",
+        "H6258",
+        "H5704",
+        "H5704",
+        "H5769"
+      ]
+    }
+  ]
+}

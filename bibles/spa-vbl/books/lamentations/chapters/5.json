@@ -1,1 +1,425 @@
-{"version":"spa-vbl","book":"lamentations","chapter":5,"data":[{"verse":"1","text":"Señor, por favor, recuerda lo que nos ha pasado. ¡Míranos y date cuenta de cómo hemos sido humillados!"},{"verse":"2","text":"La tierra que poseíamos ha sido entregada a extraños, nuestras casas han sido entregadas a extranjeros."},{"verse":"3","text":"Hemos perdido a nuestros padres y nuestras madres son viudas ahora."},{"verse":"4","text":"El agua que bebemos la tenemos que pagar, la leña nos sale cara."},{"verse":"5","text":"Como animales, nos llevan con arneses al cuello;5:5.La imagen consiste en que los seres humanos son tratados como bestias de carga. Estamos agotados, pero no encontramos descanso."},{"verse":"6","text":"Nos aliamos con Egipto y Asiria para poder tener mucha comida."},{"verse":"7","text":"Nuestros antepasados pecaron y se han ido, pero nosotros estamos siendo castigados por sus pecados."},{"verse":"8","text":"Siervos de nuestro conquistador5:8.“Nuestro conquistador”: añadido para mayor claridad. nos dominan; nadie puede salvarnos de su poder."},{"verse":"9","text":"Cuando buscamos comida, tomamos nuestras vidas en nuestras manos, a causa de los asaltantes armados en el desierto."},{"verse":"10","text":"Nuestra piel está caliente como un horno a causa de la fiebre provocada por el hambre."},{"verse":"11","text":"Violaron a las mujeres en Sión, a las vírgenes en las ciudades de Judá."},{"verse":"12","text":"A los príncipes los han colgado de las manos; no respetan a los ancianos."},{"verse":"13","text":"Los jóvenes son obligados a trabajar en los molinos de mano; los muchachos se tambalean bajo los fardos de leña."},{"verse":"14","text":"Los ancianos han abandonado sus lugares en la puerta de la ciudad;5:14.“Sus lugares en la puerta de la ciudad”: donde se decidían los casos legales y se daban consejos. los jóvenes han dejado de tocar su música."},{"verse":"15","text":"Ya no hay alegría para nosotros; nuestro baile se ha convertido en luto."},{"verse":"16","text":"La corona5:16.La palabra utilizada aquí es la palabra general para corona o guirnalda, no la palabra para la corona real o sacerdotal. Por lo tanto, puede referirse a las guirnaldas utilizadas en las celebraciones locales. ha caído de nuestra cabeza. ¡Qué desastre nos ha sobrevenido por haber pecado!"},{"verse":"17","text":"Por todo esto, estamos enfermos del corazón; por todo esto, podemos apenas mirar;5:17.“Apenas mirar”: no está claro si es por las espantosas vistas o por las muchas lágrimas."},{"verse":"18","text":"A causa del Monte Sion, que ha sido abandonado, y donde sólo los zorros5:18.La mención de los zorros es especialmente significativa, ya que son animales impuros. deambulan."},{"verse":"19","text":"¡Pero tú, Señor, vives para siempre! ¡Tú gobiernas por todas las generaciones!"},{"verse":"20","text":"¿Por qué nos has olvidado durante tanto tiempo? ¿Por qué nos has abandonado durante tantos años?"},{"verse":"21","text":"Tráenos de regreso a ti, Señor, para que podamos volver a estar contigo. Por favor, restaura nuestras vidas a como era antes."},{"verse":"22","text":"¿O es que nos has rechazado por completo? ¿Estás realmente enfadado con nosotros?"}]}
+{
+  "version": "spa-vbl",
+  "book": "lamentations",
+  "chapter": 5,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, por favor, recuerda lo que nos ha pasado. ¡Míranos y date cuenta de cómo hemos sido humillados!",
+      "strong": [
+        "H3068",
+        "H4100",
+        "H7522",
+        "H4100",
+        "H4100",
+        "H4100",
+        "H3541",
+        "H5674",
+        "H1571",
+        "H6485",
+        "H4480",
+        "H4100",
+        "H0935",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "La tierra que poseíamos ha sido entregada a extraños, nuestras casas han sido entregadas a extranjeros.",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H0834",
+        "H3541",
+        "H1961",
+        "H5414",
+        "H0413",
+        "H2213",
+        "H0587",
+        "H1004",
+        "H4191",
+        "H1961",
+        "H0413",
+        "H1616"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Hemos perdido a nuestros padres y nuestras madres son viudas ahora.",
+      "strong": [
+        "H0935",
+        "H0006",
+        "H0413",
+        "H0587",
+        "H0001",
+        "H1571",
+        "H0587",
+        "H0517",
+        "H1961",
+        "H0490",
+        "H6258"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El agua que bebemos la tenemos que pagar, la leña nos sale cara.",
+      "strong": [
+        "H1931",
+        "H4325",
+        "H4325",
+        "H8354",
+        "H1931",
+        "H3426",
+        "H4325",
+        "H7999",
+        "H1931",
+        "H6086",
+        "H0587",
+        "H3318",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Como animales, nos llevan con arneses al cuello; Estamos agotados, pero no encontramos descanso.",
+      "strong": [
+        "H5921",
+        "H0929",
+        "H5921",
+        "H3212",
+        "H5921",
+        "H5921",
+        "H6677",
+        "H3427",
+        "H3588",
+        "H3808",
+        "H7125",
+        "H4496"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Nos aliamos con Egipto y Asiria para poder tener mucha comida.",
+      "strong": [
+        "H0587",
+        "H5973",
+        "H4714",
+        "H1571",
+        "H0804",
+        "H5414",
+        "H3027",
+        "H1961",
+        "H7227",
+        "H3899"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Nuestros antepasados pecaron y se han ido, pero nosotros estamos siendo castigados por sus pecados.",
+      "strong": [
+        "H0587",
+        "H2398",
+        "H1571",
+        "H3045",
+        "H4191",
+        "H3212",
+        "H3588",
+        "H0587",
+        "H3427",
+        "H1931",
+        "H5921",
+        "H1931",
+        "H5771"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Siervos de nuestro conquistador nos dominan; nadie puede salvarnos de su poder.",
+      "strong": [
+        "H5650",
+        "H4480",
+        "H0587",
+        "H0587",
+        "H4910",
+        "H0376",
+        "H3201",
+        "H4480",
+        "H1931",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Cuando buscamos comida, tomamos nuestras vidas en nuestras manos, a causa de los asaltantes armados en el desierto.",
+      "strong": [
+        "H3588",
+        "H3899",
+        "H0962",
+        "H0587",
+        "H5315",
+        "H5921",
+        "H0587",
+        "H3027",
+        "H6440",
+        "H6440",
+        "H6440",
+        "H0582",
+        "H2502",
+        "H5921",
+        "H1931",
+        "H4057"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Nuestra piel está caliente como un horno a causa de la fiebre provocada por el hambre.",
+      "strong": [
+        "H0587",
+        "H5785",
+        "H2063",
+        "H0349",
+        "H0259",
+        "H8574",
+        "H6440",
+        "H6440",
+        "H6440",
+        "H1931",
+        "H6440",
+        "H1931",
+        "H7458"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Violaron a las mujeres en Sión, a las vírgenes en las ciudades de Judá.",
+      "strong": [
+        "H6031",
+        "H0413",
+        "H1992",
+        "H0802",
+        "H5921",
+        "H6726",
+        "H0413",
+        "H1992",
+        "H1330",
+        "H5921",
+        "H1992",
+        "H5892",
+        "H4480",
+        "H3063"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "A los príncipes los han colgado de las manos; no respetan a los ancianos.",
+      "strong": [
+        "H6440",
+        "H0582",
+        "H8269",
+        "H0582",
+        "H4191",
+        "H8518",
+        "H6440",
+        "H1992",
+        "H3027",
+        "H3808",
+        "H6440",
+        "H0582",
+        "H2205"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los jóvenes son obligados a trabajar en los molinos de mano; los muchachos se tambalean bajo los fardos de leña.",
+      "strong": [
+        "H0582",
+        "H1961",
+        "H0413",
+        "H6213",
+        "H5921",
+        "H0582",
+        "H4480",
+        "H3027",
+        "H0582",
+        "H3206",
+        "H3045",
+        "H8478",
+        "H0582",
+        "H4480",
+        "H6086"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Los ancianos han abandonado sus lugares en la puerta de la ciudad; los jóvenes han dejado de tocar su música.",
+      "strong": [
+        "H0582",
+        "H2205",
+        "H4191",
+        "H1931",
+        "H5892",
+        "H5921",
+        "H1931",
+        "H8179",
+        "H4480",
+        "H1931",
+        "H5892",
+        "H0582",
+        "H4191",
+        "H8667",
+        "H4480",
+        "H5060",
+        "H1931",
+        "H7892"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Ya no hay alegría para nosotros; nuestro baile se ha convertido en luto.",
+      "strong": [
+        "H3528",
+        "H3808",
+        "H3426",
+        "H8057",
+        "H5704",
+        "H0587",
+        "H0587",
+        "H3045",
+        "H3541",
+        "H7725",
+        "H5921",
+        "H0060"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "La corona ha caído de nuestra cabeza. ¡Qué desastre nos ha sobrevenido por haber pecado!",
+      "strong": [
+        "H3588",
+        "H5850",
+        "H3541",
+        "H5307",
+        "H3588",
+        "H0587",
+        "H7218",
+        "H3588",
+        "H0611",
+        "H0587",
+        "H3541",
+        "H0935",
+        "H3588",
+        "H1961",
+        "H2398"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Por todo esto, estamos enfermos del corazón; por todo esto, podemos apenas mirar;",
+      "strong": [
+        "H5921",
+        "H3605",
+        "H2088",
+        "H3427",
+        "H8463",
+        "H5921",
+        "H3820",
+        "H5921",
+        "H3605",
+        "H2088",
+        "H3201",
+        "H7200"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "A causa del Monte Sion, que ha sido abandonado, y donde sólo los zorros deambulan.",
+      "strong": [
+        "H5921",
+        "H1697",
+        "H5921",
+        "H2022",
+        "H6726",
+        "H5921",
+        "H3541",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H0910",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¡Pero tú, Señor, vives para siempre! ¡Tú gobiernas por todas las generaciones!",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H3068",
+        "H2416",
+        "H5704",
+        "H5769",
+        "H0859",
+        "H5769",
+        "H1755",
+        "H1992",
+        "H1755"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¿Por qué nos has olvidado durante tanto tiempo? ¿Por qué nos has abandonado durante tantos años?",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H4100",
+        "H4191",
+        "H3651",
+        "H3117",
+        "H4100",
+        "H4100",
+        "H4100",
+        "H4191",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Tráenos de regreso a ti, Señor, para que podamos volver a estar contigo. Por favor, restaura nuestras vidas a como era antes.",
+      "strong": [
+        "H4480",
+        "H3068",
+        "H0859",
+        "H3068",
+        "H5704",
+        "H3117",
+        "H7725",
+        "H3068",
+        "H5973",
+        "H5921",
+        "H7522",
+        "H1245",
+        "H0587",
+        "H5315",
+        "H3068",
+        "H0349",
+        "H1961",
+        "H6924"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "¿O es que nos has rechazado por completo? ¿Estás realmente enfadado con nosotros?",
+      "strong": [
+        "H5704",
+        "H3588",
+        "H3588",
+        "H5921",
+        "H4191",
+        "H5921",
+        "H0428",
+        "H5921",
+        "H5921"
+      ]
+    }
+  ]
+}

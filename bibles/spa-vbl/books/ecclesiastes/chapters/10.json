@@ -1,1 +1,434 @@
-{"version":"spa-vbl","book":"ecclesiastes","chapter":10,"data":[{"verse":"1","text":"Las moscas muertas pueden hacer que el aceite perfumado huela mal. Del mismo modo, un poco de insensatez supera a la gran sabiduría y al honor."},{"verse":"2","text":"La mente del sabio elige el lado correcto, pero la mente del insensato va hacia la izquierda."},{"verse":"3","text":"Sólo la forma en que los necios andan por el camino demuestra que no tienen sentido común, dejando en claro a todos su estupidez."},{"verse":"4","text":"Si tu superior se enfada contigo, no te rindas y te vayas. Si mantienes la calma, incluso los errores graves pueden resolverse."},{"verse":"5","text":"También me di cuenta de que hay otro mal aquí en la tierra: los gobernantes cometen un gran error"},{"verse":"6","text":"cuando ponen a los tontos en altos cargos, mientras que los que están ampliamente cualificados10:6.“Ampliamente cualificados”: Literalmente quiere decir “los ricos” simplemente, pero seguramente se trata de algo más que la simple riqueza acumulada. son puestos en posiciones bajas."},{"verse":"7","text":"He visto a esclavos montando a caballo, mientras los príncipes caminan por el suelo como esclavos.10:7.En esa sociedad, habría sido muy improbable que los esclavos, a menudo enemigos capturados, hubieran montado a caballo. En cambio, la imagen de los príncipes obligados a caminar es para mostrar una pérdida de su dignidad."},{"verse":"8","text":"Si cavas un pozo, puedes caerte dentro. Si derribas un muro, te puede morder una serpiente."},{"verse":"9","text":"Si extraes piedra, puedes lesionarte. Si partes troncos,10:9.O “cortar árboles”. podrías herirte."},{"verse":"10","text":"Si tu hacha está desafilada y no la afilas, tienes que usar mucha más fuerza. Conclusión:10:10.Implícito. ser sabio trae buenos resultados."},{"verse":"11","text":"Si la serpiente muerde al encantador de serpientes antes de ser encantada, ¡no hay beneficio para el encantador de serpientes!"},{"verse":"12","text":"Las palabras sabias son beneficiosas, pero los necios se destruyen a sí mismos con lo que dicen."},{"verse":"13","text":"Los insensatos comienzan diciendo tonterías y terminan diciendo tonterías perversas."},{"verse":"14","text":"Los insensatos no paran de hablar, pero nadie sabe lo que va a pasar, así que ¿quién puede decir lo que depara el futuro?10:14.Véase8:7."},{"verse":"15","text":"El trabajo hace que los insensatos se desgasten tanto que no pueden lograr nada.10:15.“No consiguen nada”: Literalmente, “no encuentran el camino a la ciudad”, una expresión coloquial que significa que la gente se confunde por lo que no tiene éxito."},{"verse":"16","text":"Estás en problemas si el rey de tu país es joven, y si tus líderes están ocupados festejando desde la mañana."},{"verse":"17","text":"Tienes suerte si tu rey viene de una familia noble, y si tus líderes festejan a la hora apropiada para darse energía, y no para emborracharse."},{"verse":"18","text":"La gente perezosa deja que sus techos se derrumben; la gente ociosa no repara sus casas con goteras."},{"verse":"19","text":"Una buena comida trae placer; el vino hace la vida agradable; el dinero cubre todas las necesidades."},{"verse":"20","text":"No hables mal del rey, ni siquiera en tus pensamientos. No hables mal de los dirigentes,10:20.“Líderes”: Literalmente, “los ricos”. incluso en la intimidad de tu habitación. Un pájaro puede oír lo que dices y salir volando para contarles."}]}
+{
+  "version": "spa-vbl",
+  "book": "ecclesiastes",
+  "chapter": 10,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Las moscas muertas pueden hacer que el aceite perfumado huela mal. Del mismo modo, un poco de insensatez supera a la gran sabiduría y al honor.",
+      "strong": [
+        "H1992",
+        "H4194",
+        "H3201",
+        "H6213",
+        "H0834",
+        "H1931",
+        "H8081",
+        "H7451",
+        "H4480",
+        "H1931",
+        "H5352",
+        "H0259",
+        "H4592",
+        "H4480",
+        "H0413",
+        "H2451",
+        "H1419",
+        "H2451",
+        "H3519",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "La mente del sabio elige el lado correcto, pero la mente del insensato va hacia la izquierda.",
+      "strong": [
+        "H1931",
+        "H4480",
+        "H2450",
+        "H1931",
+        "H3802",
+        "H3588",
+        "H1931",
+        "H4480",
+        "H3684",
+        "H1980",
+        "H0413",
+        "H1931",
+        "H8040"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Sólo la forma en que los necios andan por el camino demuestra que no tienen sentido común, dejando en claro a todos su estupidez.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H8389",
+        "H5921",
+        "H1931",
+        "H3605",
+        "H0995",
+        "H1980",
+        "H1870",
+        "H1931",
+        "H1870",
+        "H1931",
+        "H1870",
+        "H1992",
+        "H7230",
+        "H5800",
+        "H5921",
+        "H0216",
+        "H0413",
+        "H3605",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Si tu superior se enfada contigo, no te rindas y te vayas. Si mantienes la calma, incluso los errores graves pueden resolverse.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H4842",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H3212",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "También me di cuenta de que hay otro mal aquí en la tierra: los gobernantes cometen un gran error",
+      "strong": [
+        "H3318",
+        "H0413",
+        "H0559",
+        "H6485",
+        "H8478",
+        "H0834",
+        "H3426",
+        "H0259",
+        "H7451",
+        "H6311",
+        "H3318",
+        "H1931",
+        "H0776",
+        "H0582",
+        "H0259",
+        "H1419"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "cuando ponen a los tontos en altos cargos, mientras que los que están ampliamente cualificados son puestos en posiciones bajas.",
+      "strong": [
+        "H3588",
+        "H8371",
+        "H0413",
+        "H3427",
+        "H5921",
+        "H1116",
+        "H5704",
+        "H0834",
+        "H3427",
+        "H0834",
+        "H3427",
+        "H5331",
+        "H1961",
+        "H2026",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "He visto a esclavos montando a caballo, mientras los príncipes caminan por el suelo como esclavos.",
+      "strong": [
+        "H4392",
+        "H7200",
+        "H5921",
+        "H5921",
+        "H5483",
+        "H5704",
+        "H5921",
+        "H8269",
+        "H1980",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Si cavas un pozo, puedes caerte dentro. Si derribas un muro, te puede morder una serpiente.",
+      "strong": [
+        "H0518",
+        "H0259",
+        "H0875",
+        "H3546",
+        "H8432",
+        "H0518",
+        "H0259",
+        "H2346",
+        "H0859",
+        "H3201",
+        "H0259",
+        "H5175"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Si extraes piedra, puedes lesionarte. Si partes troncos, podrías herirte.",
+      "strong": [
+        "H0518",
+        "H0068",
+        "H3546",
+        "H0518",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Si tu hacha está desafilada y no la afilas, tienes que usar mucha más fuerza. Conclusión: ser sabio trae buenos resultados.",
+      "strong": [
+        "H3808",
+        "H0859",
+        "H1931",
+        "H1571",
+        "H3808",
+        "H1931",
+        "H5750",
+        "H1931",
+        "H7227",
+        "H2451",
+        "H1396",
+        "H5315",
+        "H2450",
+        "H0935",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Si la serpiente muerde al encantador de serpientes antes de ser encantada, ¡no hay beneficio para el encantador de serpientes!",
+      "strong": [
+        "H3808",
+        "H1931",
+        "H5175",
+        "H5391",
+        "H0413",
+        "H4480",
+        "H5175",
+        "H6440",
+        "H4480",
+        "H5315",
+        "H3808",
+        "H3426",
+        "H5704",
+        "H1931",
+        "H4480",
+        "H5175"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Las palabras sabias son beneficiosas, pero los necios se destruyen a sí mismos con lo que dicen.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H2450",
+        "H6310",
+        "H3588",
+        "H2450",
+        "H0995",
+        "H3045",
+        "H6310",
+        "H0518",
+        "H1992",
+        "H5973",
+        "H1697",
+        "H1697",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los insensatos comienzan diciendo tonterías y terminan diciendo tonterías perversas.",
+      "strong": [
+        "H0582",
+        "H5036",
+        "H0559",
+        "H1571",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Los insensatos no paran de hablar, pero nadie sabe lo que va a pasar, así que ¿quién puede decir lo que depara el futuro?",
+      "strong": [
+        "H1961",
+        "H5036",
+        "H3808",
+        "H6290",
+        "H1697",
+        "H1697",
+        "H3588",
+        "H3808",
+        "H3045",
+        "H1697",
+        "H4100",
+        "H1961",
+        "H0413",
+        "H5674",
+        "H3541",
+        "H4100",
+        "H4310",
+        "H3201",
+        "H0559",
+        "H1697",
+        "H4100",
+        "H4310"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "El trabajo hace que los insensatos se desgasten tanto que no pueden lograr nada.",
+      "strong": [
+        "H1931",
+        "H5999",
+        "H6213",
+        "H3808",
+        "H0582",
+        "H5036",
+        "H3045",
+        "H3651",
+        "H3808",
+        "H3808",
+        "H3201",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Estás en problemas si el rey de tu país es joven, y si tus líderes están ocupados festejando desde la mañana.",
+      "strong": [
+        "H0428",
+        "H5921",
+        "H0518",
+        "H1931",
+        "H4428",
+        "H8269",
+        "H0859",
+        "H0776",
+        "H1961",
+        "H0970",
+        "H1571",
+        "H0518",
+        "H0859",
+        "H1961",
+        "H4480",
+        "H1931",
+        "H1242"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Tienes suerte si tu rey viene de una familia noble, y si tus líderes festejan a la hora apropiada para darse energía, y no para emborracharse.",
+      "strong": [
+        "H5750",
+        "H1486",
+        "H3808",
+        "H0859",
+        "H4428",
+        "H0935",
+        "H1121",
+        "H0259",
+        "H1004",
+        "H1571",
+        "H3808",
+        "H0859",
+        "H0413",
+        "H1931",
+        "H6256",
+        "H5704",
+        "H1571",
+        "H3808",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "La gente perezosa deja que sus techos se derrumben; la gente ociosa no repara sus casas con goteras.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H7971",
+        "H3027",
+        "H1931",
+        "H3045",
+        "H1931",
+        "H1471",
+        "H3808",
+        "H3045",
+        "H1931",
+        "H1004",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Una buena comida trae placer; el vino hace la vida agradable; el dinero cubre todas las necesidades.",
+      "strong": [
+        "H0259",
+        "H2896",
+        "H3899",
+        "H0935",
+        "H3605",
+        "H3196",
+        "H6213",
+        "H3605",
+        "H2416",
+        "H7521",
+        "H3605",
+        "H3701",
+        "H3680",
+        "H3605",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "No hables mal del rey, ni siquiera en tus pensamientos. No hables mal de los dirigentes, incluso en la intimidad de tu habitación. Un pájaro puede oír lo que dices y salir volando para contarles.",
+      "strong": [
+        "H3588",
+        "H1696",
+        "H7451",
+        "H4480",
+        "H4428",
+        "H1571",
+        "H3588",
+        "H0859",
+        "H4284",
+        "H3588",
+        "H1696",
+        "H7451",
+        "H3588",
+        "H1167",
+        "H3588",
+        "H1571",
+        "H3588",
+        "H0859",
+        "H3427",
+        "H0259",
+        "H6833",
+        "H3201",
+        "H8085",
+        "H1697",
+        "H3588",
+        "H1697",
+        "H1571",
+        "H3318",
+        "H6524",
+        "H3588"
+      ]
+    }
+  ]
+}

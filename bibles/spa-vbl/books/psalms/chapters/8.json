@@ -1,1 +1,187 @@
-{"version":"spa-vbl","book":"psalms","chapter":8,"data":[{"verse":"1","text":"¡Señor, nuestro Señor, tu majestoso nombre8:1 Literalmente, «nombre». En hebreo el nombre de una persona era una descripción de su reputación o carácter. llena toda la tierra! Tu majestad es más grande que los cielos,"},{"verse":"2","text":"y lo cantan las voces de los niños. Tu fuerza sobrepasa a tus oponentes, y silencias al enemigo y al vengador."},{"verse":"3","text":"Cuando contemplo los cielos que hicieron tus manos, la luna y las estrellas que en él pusiste,"},{"verse":"4","text":"¿Qué son los seres humanos para que pienses en ellos? ¿Qué somos las personas para que cuides de nosotros?"},{"verse":"5","text":"Los creaste un poco menores que Dios,8:5 “Dios”, “los ángeles” o, “seres celestiales”. La palabra usada aquí es “elohim”, uno de los nombres comunes de Dios. coronándoles de gloria y majestad."},{"verse":"6","text":"Los pusiste a cargo de toda tu creación, dándoles autoridad sobre todo:"},{"verse":"7","text":"sobre las ovejas, sobre el ganado, sobre los animales del campo,"},{"verse":"8","text":"sobre las aves del cielo, y los peces del mar, así como sobre todo lo que nada en el océano."},{"verse":"9","text":"Señor, nuestro Señor, tu majestuoso nombre llena toda la tierra."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 8,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Señor, nuestro Señor, tu majestoso nombre llena toda la tierra! Tu majestad es más grande que los cielos,",
+      "strong": [
+        "H0113",
+        "H0587",
+        "H0113",
+        "H0859",
+        "H8034",
+        "H4392",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H0859",
+        "H1961",
+        "H5921",
+        "H1419",
+        "H5921",
+        "H5921",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "y lo cantan las voces de los niños. Tu fuerza sobrepasa a tus oponentes, y silencias al enemigo y al vengador.",
+      "strong": [
+        "H5921",
+        "H4100",
+        "H7891",
+        "H5921",
+        "H6963",
+        "H5921",
+        "H5921",
+        "H2945",
+        "H0859",
+        "H3581",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H5921",
+        "H0341",
+        "H5921",
+        "H5921",
+        "H5358"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando contemplo los cielos que hicieron tus manos, la luna y las estrellas que en él pusiste,",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H8064",
+        "H6310",
+        "H6213",
+        "H0859",
+        "H3027",
+        "H1931",
+        "H3394",
+        "H5797",
+        "H1992",
+        "H3556",
+        "H6310",
+        "H5921",
+        "H1931",
+        "H7760"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Qué son los seres humanos para que pienses en ellos? ¿Qué somos las personas para que cuides de nosotros?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5315",
+        "H1397",
+        "H3588",
+        "H3588",
+        "H1819",
+        "H3588",
+        "H1992",
+        "H3588",
+        "H1961",
+        "H1992",
+        "H5315",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los creaste un poco menores que Dios, coronándoles de gloria y majestad.",
+      "strong": [
+        "H1121",
+        "H0259",
+        "H4592",
+        "H6996",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3519",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los pusiste a cargo de toda tu creación, dándoles autoridad sobre todo:",
+      "strong": [
+        "H0582",
+        "H7760",
+        "H0413",
+        "H3027",
+        "H4480",
+        "H3605",
+        "H0859",
+        "H5414",
+        "H5921",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "sobre las ovejas, sobre el ganado, sobre los animales del campo,",
+      "strong": [
+        "H5921",
+        "H1992",
+        "H6629",
+        "H5921",
+        "H3605",
+        "H4735",
+        "H5921",
+        "H3605",
+        "H0929",
+        "H4480",
+        "H4264"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "sobre las aves del cielo, y los peces del mar, así como sobre todo lo que nada en el océano.",
+      "strong": [
+        "H5921",
+        "H1992",
+        "H5775",
+        "H4480",
+        "H8064",
+        "H1571",
+        "H3605",
+        "H1710",
+        "H4480",
+        "H3220",
+        "H1571",
+        "H1571",
+        "H5921",
+        "H3605",
+        "H3605",
+        "H1571",
+        "H3605",
+        "H5921",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Señor, nuestro Señor, tu majestuoso nombre llena toda la tierra.",
+      "strong": [
+        "H0113",
+        "H0587",
+        "H0113",
+        "H0859",
+        "H8034",
+        "H4392",
+        "H3605",
+        "H1931",
+        "H0776"
+      ]
+    }
+  ]
+}

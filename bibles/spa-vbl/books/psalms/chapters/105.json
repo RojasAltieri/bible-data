@@ -1,1 +1,884 @@
-{"version":"spa-vbl","book":"psalms","chapter":105,"data":[{"verse":"1","text":"¡Denle gracias al Señor, alaben su maravillosa naturaleza! ¡Que todo el mundo sepa lo que Él ha hecho!"},{"verse":"2","text":"¡Cántenle a él, canten alabanzas; cuéntenle a todos las grandes cosas que ha hecho!"},{"verse":"3","text":"Siéntanse orgullosos de su santo nombre; alégrense, todos los que vienen al Señor!"},{"verse":"4","text":"Busquen al Señor, y a su fuerza; busquen siempre estar en su presencia."},{"verse":"5","text":"Recuerden las maravillas que ha creado, los milagros que ha hecho, y los juicios105:5 En este contexto, se refiere probablemente a los juicios sobre las naciones paganas. que ha llevado a cabo,"},{"verse":"6","text":"descendientes de Abraham, hijos de Israel, su pueblo escogido."},{"verse":"7","text":"Él es el Señor, Nuestro Dios, sus juicios cubren toda la tierra!"},{"verse":"8","text":"Él siempre recuerda su pacto, la promesa que ha hecho durará por mil generaciones;"},{"verse":"9","text":"el pacto que hizo con Abraham, el voto que le dio a Isaac."},{"verse":"10","text":"El Señor lo confirmó a Jacob con un decreto, hizo este acuerdo de unión con Israel:"},{"verse":"11","text":"diciendo, “Te daré la tierra de Canaán”."},{"verse":"12","text":"Él dijo esto cuando aún eran solo unos pocos, solo un pequeño grupo de extranjeros en la tierra."},{"verse":"13","text":"Vagaban de nación en nación, de un reino a otro."},{"verse":"14","text":"Pero Él no permitió que nadie los tratara mal; advirtiendo a los reyes que los dejarán en paz:"},{"verse":"15","text":"“No coloques mano sobre mi pueblo escogido, ni le hagas daño a mis profetas!”"},{"verse":"16","text":"Causó105:16 Literalmente, “llamó”. una hambruna en la tierra de Canaán para que no hubiera comida."},{"verse":"17","text":"Pero, antes de eso envió a un hombre, José, quién había sido vendido como un esclavo.105:17 Esto se refiere al relato del Génesis donde José es vendido como esclavo y llevado. Egipto."},{"verse":"18","text":"Hirieron sus pies al ponerle cadenas, y pusieron un collar de hierro alrededor de su cuello,"},{"verse":"19","text":"hasta que el tiempo predicho llegó cuando el Señor lo probó."},{"verse":"20","text":"El rey105:20 Refiriéndose al Faraón. envió por él y lo liberó; el rey del pueblo lo dejó en libertad."},{"verse":"21","text":"Puso a José a cargo de la casa real, a cargo de todo lo que tenía,"},{"verse":"22","text":"para que le enseñara105:22 Lectura de la Septuaginta. a los oficiales del rey todo lo que él quisiera, para hacer más sabios a los consejeros del rey."},{"verse":"23","text":"Entonces Israel vino a Egipto, Jacob se estableció como extranjero en la tierra de Cam.105:23 “Tierra de Cam”: un antigo término para referirse a Egipto."},{"verse":"24","text":"El Señor hizo a su pueblo más fuerte y más fértil que a sus enemigos."},{"verse":"25","text":"Hizo que los egipcios105:25 Literalmente, “ellos”. En este context se refiere al pueblo de Egipto, particularmente al Faraón. cambiaran de opinión y odiarán a su gente."},{"verse":"26","text":"Envió a su siervo Moisés, junto con Aarón, a quienes había escogido."},{"verse":"27","text":"Llevaron105:27 O “él”. sus señales milagrosas a los egipcios, sus maravillas hasta la tierra de Cam."},{"verse":"28","text":"Hundió la nación en densas tinieblas, porque ¿acaso no se habían opuesto a lo que el Señor había dicho?105:28 “¿Acaso no habían desafiado lo que el Señor había dicho?” Esto se aplica a los egipcios. Alternativamente, podría traducirse, “porque no desafiaron lo que el Señor había dicho”, refiriéndose a Moisés y Aarón."},{"verse":"29","text":"Él convirtió su agua en sangre, matando a todos los peces."},{"verse":"30","text":"Luego envió una plaga de ranas a todo el país que entraban hasta a los cuartos de los gobernadores."},{"verse":"31","text":"Dio la orden, y las moscas se esparcieron por toda la tierra; los mosquitos estaban por todas partes."},{"verse":"32","text":"Hizo llover granizo sobre ellos, y relámpagos sobre todo el país."},{"verse":"33","text":"Destruyó sus cultivos de vino, y acabó con sus árboles."},{"verse":"34","text":"Dio la orden, y los enjambres de langostas vinieron, miles y miles de langostas:"},{"verse":"35","text":"ellas se comieron toda la vegetación sobre la tierra; terminaron con todos los cultivos."},{"verse":"36","text":"Dios mató a todos los primogénitos de Egipto, el primero en ser concebido en toda su fuerza y vigor."},{"verse":"37","text":"Y entonces guió a su pueblo fuera de Egipto, llevando consigo plata y oro, y ninguna de las tribus tambaleó."},{"verse":"38","text":"Los egipcios se alegraron de su partida, porque tenían miedo de los Israelitas."},{"verse":"39","text":"El Señor mandó una nube sobre ellos como cubierta, y en la noche, una columna de fuego para darles luz."},{"verse":"40","text":"Les dios codornices para comer cuando se lo pidieron; los alimentó con el pan del cielo hasta que estuvieron saciados."},{"verse":"41","text":"Abrió la roca, y el agua comenzó a fluir, un río en medio del desierto."},{"verse":"42","text":"Porque él recordó su pacto santo con su siervo Abraham."},{"verse":"43","text":"Así que liberó a su pueblo, sus elegidos, mientras cantaban de alegría."},{"verse":"44","text":"Les dio las tierras de las naciones paganas, y heredaron todo aquello por cuanto los demás habían trabajado."},{"verse":"45","text":"El Señor hizo esto para que ellos lo siguieran y guardaran sus leyes. ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 105,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Denle gracias al Señor, alaben su maravillosa naturaleza! ¡Que todo el mundo sepa lo que Él ha hecho!",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H3034",
+        "H1931",
+        "H5971",
+        "H3605",
+        "H1931",
+        "H8398",
+        "H3045",
+        "H1931",
+        "H5971",
+        "H1931",
+        "H3541",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Cántenle a él, canten alabanzas; cuéntenle a todos las grandes cosas que ha hecho!",
+      "strong": [
+        "H0413",
+        "H3605",
+        "H7442",
+        "H8426",
+        "H0413",
+        "H3605",
+        "H1992",
+        "H1419",
+        "H1697",
+        "H3605",
+        "H3541",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Siéntanse orgullosos de su santo nombre; alégrense, todos los que vienen al Señor!",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H6944",
+        "H8034",
+        "H8055",
+        "H3605",
+        "H0582",
+        "H0834",
+        "H0935",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Busquen al Señor, y a su fuerza; busquen siempre estar en su presencia.",
+      "strong": [
+        "H1245",
+        "H0413",
+        "H3068",
+        "H5797",
+        "H6440",
+        "H1931",
+        "H3581",
+        "H1245",
+        "H8548",
+        "H5921",
+        "H1931",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Recuerden las maravillas que ha creado, los milagros que ha hecho, y los juicios que ha llevado a cabo,",
+      "strong": [
+        "H1992",
+        "H6381",
+        "H6310",
+        "H3541",
+        "H0582",
+        "H6310",
+        "H3541",
+        "H6213",
+        "H1571",
+        "H0582",
+        "H4941",
+        "H6310",
+        "H3541",
+        "H5375",
+        "H6310",
+        "H7097"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "descendientes de Abraham, hijos de Israel, su pueblo escogido.",
+      "strong": [
+        "H6631",
+        "H1121",
+        "H0085",
+        "H1121",
+        "H1121",
+        "H3478",
+        "H1931",
+        "H5971",
+        "H0977"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él es el Señor, Nuestro Dios, sus juicios cubren toda la tierra!",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3068",
+        "H0587",
+        "H3068",
+        "H1931",
+        "H4941",
+        "H3680",
+        "H3605",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Él siempre recuerda su pacto, la promesa que ha hecho durará por mil generaciones;",
+      "strong": [
+        "H1931",
+        "H5769",
+        "H1931",
+        "H1285",
+        "H1931",
+        "H5087",
+        "H1697",
+        "H3541",
+        "H6213",
+        "H6965",
+        "H1697",
+        "H0505",
+        "H1755"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "el pacto que hizo con Abraham, el voto que le dio a Isaac.",
+      "strong": [
+        "H1931",
+        "H1285",
+        "H0834",
+        "H3772",
+        "H5973",
+        "H0085",
+        "H1931",
+        "H5087",
+        "H0834",
+        "H0413",
+        "H5414",
+        "H0413",
+        "H3327"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El Señor lo confirmó a Jacob con un decreto, hizo este acuerdo de unión con Israel:",
+      "strong": [
+        "H1931",
+        "H0113",
+        "H1931",
+        "H5975",
+        "H0413",
+        "H3290",
+        "H5973",
+        "H0259",
+        "H6600",
+        "H6213",
+        "H5975",
+        "H2374",
+        "H4480",
+        "H5973",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "diciendo, “Te daré la tierra de Canaán”.",
+      "strong": [
+        "H0559",
+        "H0859",
+        "H5414",
+        "H1931",
+        "H0776",
+        "H5414",
+        "H3667"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Él dijo esto cuando aún eran solo unos pocos, solo un pequeño grupo de extranjeros en la tierra.",
+      "strong": [
+        "H1931",
+        "H0559",
+        "H2063",
+        "H1961",
+        "H5750",
+        "H1961",
+        "H0910",
+        "H0428",
+        "H4557",
+        "H0910",
+        "H0259",
+        "H6996",
+        "H4480",
+        "H1616",
+        "H5921",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Vagaban de nación en nación, de un reino a otro.",
+      "strong": [
+        "H5971",
+        "H1471",
+        "H5921",
+        "H1471",
+        "H5971",
+        "H0259",
+        "H4467",
+        "H0413",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Pero Él no permitió que nadie los tratara mal; advirtiendo a los reyes que los dejarán en paz:",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H3808",
+        "H5146",
+        "H3808",
+        "H3808",
+        "H5921",
+        "H7451",
+        "H5921",
+        "H5921",
+        "H4428",
+        "H3808",
+        "H5921",
+        "H5146",
+        "H5921",
+        "H7965"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "“No coloques mano sobre mi pueblo escogido, ni le hagas daño a mis profetas!”",
+      "strong": [
+        "H3808",
+        "H3027",
+        "H5921",
+        "H0589",
+        "H5971",
+        "H0977",
+        "H3808",
+        "H0413",
+        "H6213",
+        "H8442",
+        "H0413",
+        "H0589",
+        "H5030"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Causó una hambruna en la tierra de Canaán para que no hubiera comida.",
+      "strong": [
+        "H0259",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H3667",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3899"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Pero, antes de eso envió a un hombre, José, quién había sido vendido como un esclavo.",
+      "strong": [
+        "H3588",
+        "H6440",
+        "H6440",
+        "H3651",
+        "H7971",
+        "H6440",
+        "H0259",
+        "H0376",
+        "H3130",
+        "H4310",
+        "H1961",
+        "H1961",
+        "H0349",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Hirieron sus pies al ponerle cadenas, y pusieron un collar de hierro alrededor de su cuello,",
+      "strong": [
+        "H5221",
+        "H1931",
+        "H7272",
+        "H0413",
+        "H2397",
+        "H1571",
+        "H7760",
+        "H0259",
+        "H4480",
+        "H1270",
+        "H5439",
+        "H4480",
+        "H1931",
+        "H6677"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "hasta que el tiempo predicho llegó cuando el Señor lo probó.",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H1931",
+        "H6256",
+        "H5704",
+        "H5704",
+        "H1931",
+        "H3068",
+        "H1697",
+        "H5254"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "El rey envió por él y lo liberó; el rey del pueblo lo dejó en libertad.",
+      "strong": [
+        "H1931",
+        "H4428",
+        "H7971",
+        "H4428",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H1931",
+        "H4428",
+        "H4480",
+        "H5971",
+        "H1931",
+        "H7971",
+        "H5921",
+        "H1865"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Puso a José a cargo de la casa real, a cargo de todo lo que tenía,",
+      "strong": [
+        "H7760",
+        "H7760",
+        "H3130",
+        "H7760",
+        "H3027",
+        "H4480",
+        "H3605",
+        "H1004",
+        "H4428",
+        "H7760",
+        "H3027",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "para que le enseñara a los oficiales del rey todo lo que él quisiera, para hacer más sabios a los consejeros del rey.",
+      "strong": [
+        "H5704",
+        "H0834",
+        "H0413",
+        "H5046",
+        "H0413",
+        "H0582",
+        "H7860",
+        "H4480",
+        "H4428",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H1931",
+        "H2654",
+        "H5704",
+        "H6213",
+        "H5750",
+        "H2450",
+        "H0413",
+        "H0582",
+        "H6098",
+        "H4480",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Entonces Israel vino a Egipto, Jacob se estableció como extranjero en la tierra de Cam.",
+      "strong": [
+        "H0227",
+        "H3478",
+        "H0935",
+        "H0413",
+        "H4714",
+        "H3290",
+        "H3045",
+        "H5414",
+        "H0349",
+        "H5237",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El Señor hizo a su pueblo más fuerte y más fértil que a sus enemigos.",
+      "strong": [
+        "H1931",
+        "H0113",
+        "H6213",
+        "H0413",
+        "H1931",
+        "H5971",
+        "H5750",
+        "H2389",
+        "H1571",
+        "H5750",
+        "H6509",
+        "H5971",
+        "H0413",
+        "H1931",
+        "H6862"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Hizo que los egipcios cambiaran de opinión y odiarán a su gente.",
+      "strong": [
+        "H6213",
+        "H5971",
+        "H0582",
+        "H4713",
+        "H5971",
+        "H1843",
+        "H1571",
+        "H0413",
+        "H1931",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Envió a su siervo Moisés, junto con Aarón, a quienes había escogido.",
+      "strong": [
+        "H7971",
+        "H0413",
+        "H1931",
+        "H5650",
+        "H4872",
+        "H5921",
+        "H5973",
+        "H0175",
+        "H0413",
+        "H4310",
+        "H1961",
+        "H0977"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Llevaron sus señales milagrosas a los egipcios, sus maravillas hasta la tierra de Cam.",
+      "strong": [
+        "H5375",
+        "H1931",
+        "H0226",
+        "H7760",
+        "H0582",
+        "H4713",
+        "H1931",
+        "H4159",
+        "H5704",
+        "H1931",
+        "H0776",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Hundió la nación en densas tinieblas, porque ¿acaso no se habían opuesto a lo que el Señor había dicho?",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H5921",
+        "H0653",
+        "H2822",
+        "H3808",
+        "H0194",
+        "H3808",
+        "H3808",
+        "H0834",
+        "H0413",
+        "H1697",
+        "H3808",
+        "H1931",
+        "H0113",
+        "H1961",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Él convirtió su agua en sangre, matando a todos los peces.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H4325",
+        "H5921",
+        "H1818",
+        "H4191",
+        "H0413",
+        "H3605",
+        "H0582",
+        "H1710"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Luego envió una plaga de ranas a todo el país que entraban hasta a los cuartos de los gobernadores.",
+      "strong": [
+        "H4994",
+        "H7971",
+        "H0259",
+        "H5061",
+        "H4480",
+        "H6854",
+        "H0413",
+        "H3605",
+        "H1931",
+        "H0776",
+        "H0834",
+        "H0935",
+        "H5704",
+        "H0413",
+        "H0582",
+        "H4480",
+        "H0582",
+        "H0324"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Dio la orden, y las moscas se esparcieron por toda la tierra; los mosquitos estaban por todas partes.",
+      "strong": [
+        "H5414",
+        "H3605",
+        "H2905",
+        "H1571",
+        "H1992",
+        "H3045",
+        "H5921",
+        "H3605",
+        "H3605",
+        "H0776",
+        "H3605",
+        "H1961",
+        "H5921",
+        "H3605",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Hizo llover granizo sobre ellos, y relámpagos sobre todo el país.",
+      "strong": [
+        "H5414",
+        "H1259",
+        "H5921",
+        "H1992",
+        "H1571",
+        "H1300",
+        "H5921",
+        "H3605",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Destruyó sus cultivos de vino, y acabó con sus árboles.",
+      "strong": [
+        "H8045",
+        "H1931",
+        "H4480",
+        "H0935",
+        "H1571",
+        "H3615",
+        "H5973",
+        "H1931",
+        "H6086"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Dio la orden, y los enjambres de langostas vinieron, miles y miles de langostas:",
+      "strong": [
+        "H5414",
+        "H1931",
+        "H2905",
+        "H1571",
+        "H0582",
+        "H4480",
+        "H0697",
+        "H0935",
+        "H0505",
+        "H1571",
+        "H0505",
+        "H4480",
+        "H0697"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "ellas se comieron toda la vegetación sobre la tierra; terminaron con todos los cultivos.",
+      "strong": [
+        "H1992",
+        "H3045",
+        "H0398",
+        "H3605",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H0776",
+        "H5973",
+        "H3605",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "36",
+      "text": "Dios mató a todos los primogénitos de Egipto, el primero en ser concebido en toda su fuerza y vigor.",
+      "strong": [
+        "H0430",
+        "H5221",
+        "H0413",
+        "H3605",
+        "H3605",
+        "H1060",
+        "H4480",
+        "H4714",
+        "H3605",
+        "H7223",
+        "H5221",
+        "H5315",
+        "H5221",
+        "H3605",
+        "H1931",
+        "H3581",
+        "H1571",
+        "H3581"
+      ]
+    },
+    {
+      "verse": "37",
+      "text": "Y entonces guió a su pueblo fuera de Egipto, llevando consigo plata y oro, y ninguna de las tribus tambaleó.",
+      "strong": [
+        "H1571",
+        "H0227",
+        "H3212",
+        "H0413",
+        "H1931",
+        "H5971",
+        "H3318",
+        "H4480",
+        "H4714",
+        "H5375",
+        "H5973",
+        "H3701",
+        "H1571",
+        "H2091",
+        "H1571",
+        "H3605",
+        "H4480",
+        "H1992",
+        "H7626"
+      ]
+    },
+    {
+      "verse": "38",
+      "text": "Los egipcios se alegraron de su partida, porque tenían miedo de los Israelitas.",
+      "strong": [
+        "H5921",
+        "H4714",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H3588",
+        "H1961",
+        "H6343",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "39",
+      "text": "El Señor mandó una nube sobre ellos como cubierta, y en la noche, una columna de fuego para darles luz.",
+      "strong": [
+        "H1931",
+        "H0113",
+        "H6680",
+        "H0259",
+        "H6051",
+        "H5921",
+        "H1992",
+        "H0349",
+        "H3682",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H3915",
+        "H0259",
+        "H5982",
+        "H4480",
+        "H0784",
+        "H5704",
+        "H0216"
+      ]
+    },
+    {
+      "verse": "40",
+      "text": "Les dios codornices para comer cuando se lo pidieron; los alimentó con el pan del cielo hasta que estuvieron saciados.",
+      "strong": [
+        "H0413",
+        "H0430",
+        "H7958",
+        "H5704",
+        "H0398",
+        "H3588",
+        "H3045",
+        "H1931",
+        "H7592",
+        "H0582",
+        "H0400",
+        "H5973",
+        "H1931",
+        "H3899",
+        "H4480",
+        "H8064",
+        "H5704",
+        "H0834",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "41",
+      "text": "Abrió la roca, y el agua comenzó a fluir, un río en medio del desierto.",
+      "strong": [
+        "H6605",
+        "H1931",
+        "H6697",
+        "H1571",
+        "H1931",
+        "H4325",
+        "H2490",
+        "H0413",
+        "H0259",
+        "H5104",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H4057"
+      ]
+    },
+    {
+      "verse": "42",
+      "text": "Porque él recordó su pacto santo con su siervo Abraham.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1285",
+        "H6944",
+        "H3588",
+        "H3588",
+        "H5650",
+        "H0085"
+      ]
+    },
+    {
+      "verse": "43",
+      "text": "Así que liberó a su pueblo, sus elegidos, mientras cantaban de alegría.",
+      "strong": [
+        "H3541",
+        "H5971",
+        "H0413",
+        "H1931",
+        "H5971",
+        "H1931",
+        "H5704",
+        "H7891",
+        "H5971",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "44",
+      "text": "Les dio las tierras de las naciones paganas, y heredaron todo aquello por cuanto los demás habían trabajado.",
+      "strong": [
+        "H1992",
+        "H5414",
+        "H1992",
+        "H0776",
+        "H5414",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H3423",
+        "H3605",
+        "H1931",
+        "H5414",
+        "H0834",
+        "H1992",
+        "H1571",
+        "H0834",
+        "H3811"
+      ]
+    },
+    {
+      "verse": "45",
+      "text": "El Señor hizo esto para que ellos lo siguieran y guardaran sus leyes. ¡Alaben al Señor!",
+      "strong": [
+        "H1931",
+        "H0113",
+        "H6213",
+        "H2063",
+        "H5704",
+        "H0834",
+        "H1992",
+        "H1931",
+        "H1571",
+        "H8104",
+        "H1931",
+        "H8451",
+        "H1984",
+        "H0413",
+        "H0113"
+      ]
+    }
+  ]
+}

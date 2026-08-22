@@ -1,1 +1,156 @@
-{"version":"spa-vbl","book":"psalms","chapter":3,"data":[{"verse":"1","text":"Señor, mis enemigos se han multiplicado. Hay muchos rebelándose3:1 Ya que David es el escritor, claramente esta es una referencia a la rebelión generalizada que se haba extendido contra él.  contra mi."},{"verse":"2","text":"Muchos me dicen: “Dios no puede salvarte”. Selah."},{"verse":"3","text":"Pero tu, oh Señor, eres un escudo protegiéndome. Tu me das la victoria;3:3 Literalmente, “eres mi gloria”, lo cual no tiene mucho sentido en inglés y español. y sostienes mi cabeza en alto."},{"verse":"4","text":"Clamo al Señor pidiendo ayuda, y él me responde desde su monte santo. Selah."},{"verse":"5","text":"Me acuesto a dormir, y en la mañana3:5 Implícito. me levanto porque el Señor cuida de mi."},{"verse":"6","text":"No tengo miedo de las decenas de miles que me rodean y que están en mi contra."},{"verse":"7","text":"¡Defiéndeme, Señor! ¡Sálvame, mi Dios! ¡Abofetea a todos mis enemigos, y rompe los dientes de los malvados!"},{"verse":"8","text":"La salvación te pertenece, Señor. Sé una bendición sobre tu pueblo. Selah."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 3,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, mis enemigos se han multiplicado. Hay muchos rebelándose contra mi.",
+      "strong": [
+        "H0113",
+        "H0589",
+        "H0341",
+        "H3045",
+        "H4191",
+        "H3426",
+        "H7227",
+        "H6440",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Muchos me dicen: “Dios no puede salvarte”. Selah.",
+      "strong": [
+        "H7227",
+        "H5921",
+        "H0559",
+        "H3068",
+        "H5921",
+        "H3201",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Pero tu, oh Señor, eres un escudo protegiéndome. Tu me das la victoria; y sostienes mi cabeza en alto.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H1945",
+        "H0113",
+        "H0859",
+        "H0259",
+        "H4043",
+        "H0859",
+        "H0413",
+        "H5414",
+        "H1931",
+        "H1571",
+        "H5315",
+        "H7218",
+        "H5921",
+        "H1364"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Clamo al Señor pidiendo ayuda, y él me responde desde su monte santo. Selah.",
+      "strong": [
+        "H7121",
+        "H1157",
+        "H3068",
+        "H7592",
+        "H5828",
+        "H3519",
+        "H1931",
+        "H0413",
+        "H6030",
+        "H1157",
+        "H1931",
+        "H2022",
+        "H6918",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Me acuesto a dormir, y en la mañana me levanto porque el Señor cuida de mi.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H4279",
+        "H0413",
+        "H5375",
+        "H3588",
+        "H1931",
+        "H3068",
+        "H1875",
+        "H4480",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "No tengo miedo de las decenas de miles que me rodean y que están en mi contra.",
+      "strong": [
+        "H3588",
+        "H2803",
+        "H4032",
+        "H3588",
+        "H1992",
+        "H3588",
+        "H0505",
+        "H3588",
+        "H3588",
+        "H5439",
+        "H3588",
+        "H3588",
+        "H1961",
+        "H3588",
+        "H0589",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¡Defiéndeme, Señor! ¡Sálvame, mi Dios! ¡Abofetea a todos mis enemigos, y rompe los dientes de los malvados!",
+      "strong": [
+        "H1777",
+        "H0113",
+        "H3467",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H3605",
+        "H0589",
+        "H0341",
+        "H5921",
+        "H5921",
+        "H8127",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "La salvación te pertenece, Señor. Sé una bendición sobre tu pueblo. Selah.",
+      "strong": [
+        "H3588",
+        "H6413",
+        "H3588",
+        "H3068",
+        "H3045",
+        "H0259",
+        "H1293",
+        "H5921",
+        "H0859",
+        "H5971",
+        "H5542"
+      ]
+    }
+  ]
+}

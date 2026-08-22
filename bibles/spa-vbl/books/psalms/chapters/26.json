@@ -1,1 +1,221 @@
-{"version":"spa-vbl","book":"psalms","chapter":26,"data":[{"verse":"1","text":"¡El Señor es mi luz y mi salvación! ¿Quién podrá asustarme? ¡El Señor es la fortaleza de mi vida! ¿De quién he de sentirme aterrorizado?"},{"verse":"2","text":"Examíname, Señor, pruébame; investiga mi corazón y mi mente."},{"verse":"3","text":"Porque yo siempre recuerdo tu amor fiel, y sigo tu verdad."},{"verse":"4","text":"No me junto con mentirosos, ni me asocio con hipócritas."},{"verse":"5","text":"Me rehúso a estar junto a aquellos que hacen el mal, y no me veré envuelto con los malvados."},{"verse":"6","text":"Lavo mis manos para mostrar mi inocencia. Vengo a adorar26:6 Literalmente, “camino alrededor de tu altar”—parte de los actos de adoración. a tu altar, Señor,"},{"verse":"7","text":"cantando mis agradecimientos, contando todas las cosas maravillosas cosas que has hecho."},{"verse":"8","text":"Señor, amo tu casa, el lugar donde vives en tu gloria."},{"verse":"9","text":"Por favor, no me lances lejos con los pecadores. No me incluyas con aquellos que cometieron asesinatos,"},{"verse":"10","text":"y cuyas manos cargan sus planes malvados y sobornos."},{"verse":"11","text":"Porque yo no hago eso, yo actúo con integridad. ¡Sálvame, y ten gracia conmigo!"},{"verse":"12","text":"Estoy a favor de lo que es correcto,26:12 “Defiendo lo justo”: Literalmente, “Tengo mis pies en la tierra”. y alabaré al Señor cuando nos reunamos a adorarle."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 26,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡El Señor es mi luz y mi salvación! ¿Quién podrá asustarme? ¡El Señor es la fortaleza de mi vida! ¿De quién he de sentirme aterrorizado?",
+      "strong": [
+        "H3588",
+        "H3068",
+        "H3588",
+        "H0589",
+        "H0216",
+        "H3588",
+        "H0589",
+        "H6413",
+        "H4310",
+        "H3808",
+        "H3588",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H5797",
+        "H3588",
+        "H0589",
+        "H5315",
+        "H3588",
+        "H4310",
+        "H4392",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Examíname, Señor, pruébame; investiga mi corazón y mi mente.",
+      "strong": [
+        "H2713",
+        "H3068",
+        "H5254",
+        "H0589",
+        "H3820",
+        "H1571",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Porque yo siempre recuerdo tu amor fiel, y sigo tu verdad.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1980",
+        "H2146",
+        "H0859",
+        "H0160",
+        "H0539",
+        "H3588",
+        "H0859",
+        "H0571"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "No me junto con mentirosos, ni me asocio con hipócritas.",
+      "strong": [
+        "H3808",
+        "H5973",
+        "H5973",
+        "H5973",
+        "H8267",
+        "H3808",
+        "H5973",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Me rehúso a estar junto a aquellos que hacen el mal, y no me veré envuelto con los malvados.",
+      "strong": [
+        "H5973",
+        "H5973",
+        "H5973",
+        "H5973",
+        "H0479",
+        "H3808",
+        "H6213",
+        "H5973",
+        "H7489",
+        "H1571",
+        "H3808",
+        "H5973",
+        "H7200",
+        "H5973",
+        "H3427"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Lavo mis manos para mostrar mi inocencia. Vengo a adorar a tu altar, Señor,",
+      "strong": [
+        "H7364",
+        "H0589",
+        "H3709",
+        "H5704",
+        "H2324",
+        "H0589",
+        "H0935",
+        "H3068",
+        "H3068",
+        "H0859",
+        "H4196",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "cantando mis agradecimientos, contando todas las cosas maravillosas cosas que has hecho.",
+      "strong": [
+        "H7891",
+        "H0589",
+        "H5608",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H6381",
+        "H1697",
+        "H3605",
+        "H4191",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Señor, amo tu casa, el lugar donde vives en tu gloria.",
+      "strong": [
+        "H3068",
+        "H0157",
+        "H0859",
+        "H1004",
+        "H1931",
+        "H4725",
+        "H4725",
+        "H2416",
+        "H5921",
+        "H0859",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Por favor, no me lances lejos con los pecadores. No me incluyas con aquellos que cometieron asesinatos,",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H3808",
+        "H5973",
+        "H7350",
+        "H5973",
+        "H5973",
+        "H2400",
+        "H3808",
+        "H5973",
+        "H5973",
+        "H0479",
+        "H0834",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "y cuyas manos cargan sus planes malvados y sobornos.",
+      "strong": [
+        "H1571",
+        "H0834",
+        "H3027",
+        "H1931",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Porque yo no hago eso, yo actúo con integridad. ¡Sálvame, y ten gracia conmigo!",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H3808",
+        "H6213",
+        "H3651",
+        "H0589",
+        "H5973",
+        "H8537",
+        "H3467",
+        "H1571",
+        "H3045",
+        "H2580",
+        "H0854"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Estoy a favor de lo que es correcto, y alabaré al Señor cuando nos reunamos a adorarle.",
+      "strong": [
+        "H5975",
+        "H3068",
+        "H7522",
+        "H4480",
+        "H1931",
+        "H0834",
+        "H5975",
+        "H1571",
+        "H3034",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H0587",
+        "H3068"
+      ]
+    }
+  ]
+}

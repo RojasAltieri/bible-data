@@ -1,1 +1,554 @@
-{"version":"spa-vbl","book":"genesis","chapter":10,"data":[{"verse":"1","text":"Las siguientes son las genealogías10:1.Estas genealogías se repiten en 1 Crónicas 1:5-27. de los hijos de Noé: Sem, Cam, y Jafet. Ellos tuvieron hijos después del diluvio."},{"verse":"2","text":"Los hijos10:2.Nótese que “hijos” en este capítulo también puede significar “descendientes”. de Jafet: Gomer, Magog, Madai, Jabán, Tubal, Mésec y Tirás."},{"verse":"3","text":"Los hijos de Gomer: Asquenaz, Rifat, and Togarmá."},{"verse":"4","text":"Los hijos de Jabán: Elisá, Tarsis, Quitín, y Rodanín.10:4.“Rodanín”: la Septuaginta presenta la ortografía de Rodanín como lo hace el pasaje paralelo en 1 Crónicas 1:7. Nótese que los dos últimos nombres por lo menos son probablemente los de un grupo de personas en lugar de un nombre personal."},{"verse":"5","text":"Los descendientes de estos ancestros se esparcieron por las áreas costeras, cada grupo con su propio idioma, con sus failias que se convirtieron en diferentes naciones."},{"verse":"6","text":"Los hijos de Cam: Cus, Misrayin, Fut, y Canaán."},{"verse":"7","text":"Los hijos de Cus: Seba, Javilá, Sabtá, Ragama y Sabteca."},{"verse":"8","text":"Cus también fue el padre de Nimrod, quien se destacó como el primer tirano en la tierra."},{"verse":"9","text":"Fue un guerrero que desafió10:9.“Desafió”: En la Septuaginta se lee como “contra” o “en contra”. al Señor, y es la razón por la que existe el dicho: “Como Nimrod, un poderoso guerrero que desafió al Señor”."},{"verse":"10","text":"Su reino comenzó en las ciudades de Babel,10:10.“Babel” o “Babilonia”. Nimrod es la primera persona en la Escritura descrita como poseedor de un reino, normalmente asociado con un gobierno impuesto por la fuerza. Erec, Acad, y Calné, todas ellas ubicadas en la tierra de Sinar.10:10“Sinar”: o “Babilonia”."},{"verse":"11","text":"De allí se mudó a Asiria10:11“Asiria”: en Miqueas 5:6 Asiria es llamada “la tierra de Nimrod”. y construyó las ciudades de Nínive, Rejobot Ir, Cala,"},{"verse":"12","text":"y Resén, la cual queda entre Nínive y la gran ciudad de Cala."},{"verse":"13","text":"Misrayin fue el oadre de los ludeos, los anameos, los leabitas, los naftuitas"},{"verse":"14","text":"los patruseos, los caslujitas y los caftoritas (ancestros de los filisteos).10:14.Ver Jeremías 47:4 y Amós 9:7."},{"verse":"15","text":"Canaán fue el padre de Sidòn, su primogénito, y de los hititas,10:15.“Los hititas”: literalmente “Heta”."},{"verse":"16","text":"de los jebuseos, de los amorreos, de los gergeseos,"},{"verse":"17","text":"de los heveos, los araceos, los sineos,"},{"verse":"18","text":"los arvadeos, los zemareos y los jamatitas."},{"verse":"19","text":"y el territorio de los caananitas se extendió desde Sidón hasta Guerar y hasta Gaza, luego hacia Sodoma, Gomorra Admá, y Zeboyín, hasta Lasa."},{"verse":"20","text":"Estos fueron los hijos de Cam según sus tribus, idiomas, territorios y nación."},{"verse":"21","text":"Sem, cuyo herman mayor10:21.Ver la nota en Gén. 5:32. era Jafet, también tuvo hijos. Sem fue el padre de todos los hijos de Eber."},{"verse":"22","text":"Los hijos de Sem: Elam, Asur, Arfaxad, Lud, y Aram."},{"verse":"23","text":"Los hijos de Aram: Uz, Hul, Guéter, y Mas.10:23.“Mas”: En la Septuaginta y 1 Crónicas 1:17 se lee “Mesec”."},{"verse":"24","text":"Arfaxad fue el padre de Selaj. Y Selaj fue el padre de Éber."},{"verse":"25","text":"Éber tuvo dos hijos. Uno se llamó Péleg,10:25.La palabra significa “dividido”. porque en su tiempo se dividió la tierra; y el nombre de su hermano era Joctán."},{"verse":"26","text":"Joctán fue el padre de Almodad, Sélef, Jazar Mávet, Yerah,"},{"verse":"27","text":"Hadorán, Uzal, Diclá,"},{"verse":"28","text":"Obal, Abimael, Sabá,"},{"verse":"29","text":"Ofir, Javilá y Jobab. Todos estos fueron hijos de Joctán."},{"verse":"30","text":"Ellos vivieron en la región entre Mesáhasta Sefar, en la región montañosa oriental."},{"verse":"31","text":"Estos fueron los hijos de Sem, sus tribus, idiomas, territorios y naciones."},{"verse":"32","text":"Todas estas fueron las tribus descendientes de los hijos de Noé, según su descendencia y naciones. A partir de estos ancestros se formaron las distintas naciones de la tierra que se expandieron en todo el mundo después del diluvio."}]}
+{
+  "version": "spa-vbl",
+  "book": "genesis",
+  "chapter": 10,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Las siguientes son las genealogías de los hijos de Noé: Sem, Cam, y Jafet. Ellos tuvieron hijos después del diluvio.",
+      "strong": [
+        "H1992",
+        "H1961",
+        "H1992",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5146",
+        "H8035",
+        "H1571",
+        "H1992",
+        "H1961",
+        "H1121",
+        "H0310",
+        "H4480",
+        "H3999"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Los hijos de Jafet: Gomer, Magog, Madai, Jabán, Tubal, Mésec y Tirás.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1586",
+        "H4031",
+        "H8422",
+        "H4902",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Los hijos de Gomer: Asquenaz, Rifat, y Togarmá.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1586",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Los hijos de Jabán: Elisá, Tarsis, Quitín, y Rodanín.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H0473",
+        "H8659",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los descendientes de estos ancestros se esparcieron por las áreas costeras, cada grupo con su propio idioma, con sus familias que se convirtieron en diferentes naciones.",
+      "strong": [
+        "H0582",
+        "H6631",
+        "H4480",
+        "H0428",
+        "H3045",
+        "H5921",
+        "H1992",
+        "H3605",
+        "H5973",
+        "H1931",
+        "H5973",
+        "H1931",
+        "H4940",
+        "H0834",
+        "H3045",
+        "H5921",
+        "H8138",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los hijos de Cam: Cus, Misrayin, Fut, y Canaán.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1571",
+        "H3667"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los hijos de Cus: Seba, Javilá, Sabtá, Ragama y Sabteca. Los hijos de Ragama: Sabá y Dedán.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H7614",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1571",
+        "H1719"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Cus también fue el padre de Nimrod, quien se destacó como el primer tirano en la tierra.",
+      "strong": [
+        "H1571",
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H1931",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H7218",
+        "H5921",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Fue un guerrero que desafió al Señor, y es la razón por la que existe el dicho: “Como Nimrod, un poderoso guerrero que desafió al Señor”.",
+      "strong": [
+        "H1961",
+        "H0259",
+        "H1931",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H1931",
+        "H7218",
+        "H5921",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H0559",
+        "H1961",
+        "H0259",
+        "H1368",
+        "H1931",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Su reino comenzó en las ciudades de Babel, Erec, Acad, y Calné, todas ellas ubicadas en la tierra de Sinar.",
+      "strong": [
+        "H1931",
+        "H4467",
+        "H2490",
+        "H5921",
+        "H1992",
+        "H5892",
+        "H4480",
+        "H0894",
+        "H1571",
+        "H3605",
+        "H1992",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "De allí se mudó a Asiria y construyó las ciudades de Nínive, Rejobot Ir, Cala,",
+      "strong": [
+        "H4480",
+        "H8033",
+        "H1931",
+        "H0481",
+        "H4480",
+        "H0804",
+        "H1571",
+        "H1992",
+        "H5892",
+        "H4480",
+        "H5210",
+        "H3212"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "y Resén, la cual queda entre Nínive y la gran ciudad de Cala.",
+      "strong": [
+        "H1571",
+        "H1931",
+        "H1931",
+        "H7604",
+        "H0996",
+        "H5210",
+        "H1571",
+        "H1931",
+        "H1419",
+        "H5892",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Misrayin fue el padre de los ludeos, los anameos, los leabitas, los naftuitas",
+      "strong": [
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H0582",
+        "H0582",
+        "H0582",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "los patruseos, los caslujitas y los caftoritas (ancestros de los filisteos).",
+      "strong": [
+        "H0582",
+        "H0582",
+        "H1571",
+        "H0582",
+        "H4480",
+        "H0582",
+        "H6430"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Canaán fue el padre de Sidòn, su primogénito, y de los hititas,",
+      "strong": [
+        "H3667",
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H6721",
+        "H1931",
+        "H1060",
+        "H1571",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "de los jebuseos, de los amorreos, de los gergeseos,",
+      "strong": [
+        "H4480",
+        "H0582",
+        "H2983",
+        "H4480",
+        "H0582",
+        "H4480",
+        "H0582",
+        "H1622"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "de los heveos, los araceos, los sineos,",
+      "strong": [
+        "H4480",
+        "H0582",
+        "H2340",
+        "H0582",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "los arvadeos, los zemareos y los jamatitas. Luego las tribus de Canaán se esparcieron",
+      "strong": [
+        "H0582",
+        "H0582",
+        "H1571",
+        "H0582",
+        "H4994",
+        "H1992",
+        "H7626",
+        "H4480",
+        "H3667",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "y el territorio de los caananitas se extendió desde Sidón hasta Guerar y hasta Gaza, luego hacia Sodoma, Gomorra Admá, y Zeboyín, hasta Lasa.",
+      "strong": [
+        "H5704",
+        "H1931",
+        "H5704",
+        "H1961",
+        "H1961",
+        "H7971",
+        "H5704",
+        "H6721",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H5804",
+        "H5704",
+        "H1366",
+        "H5467",
+        "H6017",
+        "H0126",
+        "H5704",
+        "H5704",
+        "H3962"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Estos fueron los hijos de Cam según sus tribus, idiomas, territorios y nación.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5921",
+        "H1931",
+        "H7626",
+        "H1571",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Sem, cuyo hermano mayor era Jafet, también tuvo hijos. Sem fue el padre de todos los hijos de Eber.",
+      "strong": [
+        "H8035",
+        "H1931",
+        "H0251",
+        "H1419",
+        "H1931",
+        "H1571",
+        "H1961",
+        "H1121",
+        "H8035",
+        "H1931",
+        "H1931",
+        "H0001",
+        "H1121",
+        "H3605",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5677"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los hijos de Sem: Elam, Asur, Arfaxad, Lud, y Harán.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H8035",
+        "H5867",
+        "H3865",
+        "H1571",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Los hijos de Harán: Uz, Hul, Guéter, y Mas.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H6213",
+        "H5780",
+        "H2343",
+        "H1571",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Arfaxad fue el padre de Selaj. Y Selaj fue el padre de Éber.",
+      "strong": [
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H1571",
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480",
+        "H5677"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Éber tuvo dos hijos. Uno se llamó Peleg, porque en su tiempo se dividió la tierra; y el nombre de su hermano era Joctán.",
+      "strong": [
+        "H5677",
+        "H1961",
+        "H8147",
+        "H1121",
+        "H0259",
+        "H3045",
+        "H3117",
+        "H6389",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3117",
+        "H3045",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3588",
+        "H8034",
+        "H3588",
+        "H3588",
+        "H0251",
+        "H1121",
+        "H3355"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Joctán fue el padre de Almodad, Sélef, Jazar Mávet, Yerah,",
+      "strong": [
+        "H3355",
+        "H1961",
+        "H1931",
+        "H0001",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Hadorán, Uzal, Diclá,",
+      "strong": [
+        "H1853"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Obal, Abimael, Sabá,",
+      "strong": [
+        "H0039"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Ofir, Javilá y Jobab. Todos estos fueron hijos de Joctán.",
+      "strong": [
+        "H1571",
+        "H3103",
+        "H3605",
+        "H3605",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H3355"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Ellos vivieron en la región entre Mesá hasta Sefar, en la región montañosa oriental.",
+      "strong": [
+        "H1992",
+        "H0748",
+        "H5921",
+        "H1931",
+        "H0996",
+        "H7979",
+        "H5704",
+        "H5921",
+        "H1931",
+        "H6924"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Estos fueron los hijos de Sem, sus tribus, idiomas, territorios y naciones.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H8035",
+        "H1931",
+        "H7626",
+        "H1571",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Todas estas fueron las tribus descendientes de los hijos de Noé, según su descendencia y naciones. A partir de estos ancestros se formaron las distintas naciones de la tierra que se expandieron en todo el mundo después del diluvio.",
+      "strong": [
+        "H3605",
+        "H0428",
+        "H1961",
+        "H1992",
+        "H7626",
+        "H6631",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5146",
+        "H5921",
+        "H1931",
+        "H2233",
+        "H1571",
+        "H1471",
+        "H0413",
+        "H1121",
+        "H0428",
+        "H3045",
+        "H3335",
+        "H1992",
+        "H1471",
+        "H1121",
+        "H1931",
+        "H0776",
+        "H1121",
+        "H3045",
+        "H5921",
+        "H3605",
+        "H1121",
+        "H8398",
+        "H0310",
+        "H4480",
+        "H3999"
+      ]
+    }
+  ]
+}

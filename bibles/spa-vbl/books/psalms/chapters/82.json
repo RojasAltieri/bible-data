@@ -1,1 +1,156 @@
-{"version":"spa-vbl","book":"psalms","chapter":82,"data":[{"verse":"1","text":"Dios permanece en medio de su gran asamblea para juzgar a los que juzgan.82:1 La palabra usada aquí para referirse a “los que juzgan” puede significar “dioses”, “seres celestiales”, o en este contexto, los “jeces de Israel” (usado en este sentido ya en Éxodo 21:6  y Éxodo 22:8-9)."},{"verse":"2","text":"¿Hasta cuándo juzgarán injustamente y mostrarán favoritismo hacia los malvados? Selah."},{"verse":"3","text":"Defiendan a los pobres y a los huérfanos; apoyen los derechos de los que son oprimidos y están sufriendo."},{"verse":"4","text":"Rescaten al pobre y a aquellos que no pueden ayudarse a sí mismos; sálvenlos de las garras de los malvados."},{"verse":"5","text":"Estos jueces82:5 Implícito, refiriéndose al versículo 1. no tienen nada de sabiduría; viven en la oscuridad; los cimientos de la tierra son sacudidos.82:5 En otras palabras, como los jueces viven en oscuridad moral, las bases morales de la sociedad se derrumban."},{"verse":"6","text":"Yo digo, “Ustedes son jueces; todos ustedes son hijos del Altísimo."},{"verse":"7","text":"Pero morirán como cualquier ser humano, caerán como cualquier otro líder”."},{"verse":"8","text":"Levántate, Señor, y juzga la tierra, porque todas las naciones te pertenecen a ti."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 82,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios permanece en medio de su gran asamblea para juzgar a los que juzgan.",
+      "strong": [
+        "H0430",
+        "H5324",
+        "H5921",
+        "H7130",
+        "H4480",
+        "H1931",
+        "H1419",
+        "H5704",
+        "H0413",
+        "H0582",
+        "H5712",
+        "H8199"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¿Hasta cuándo juzgarán injustamente y mostrarán favoritismo hacia los malvados? Selah.",
+      "strong": [
+        "H5704",
+        "H4970",
+        "H8199",
+        "H5766",
+        "H5704",
+        "H6440",
+        "H0582",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Defiendan a los pobres y a los huérfanos; apoyen los derechos de los que son oprimidos y están sufriendo.",
+      "strong": [
+        "H1961",
+        "H0413",
+        "H0582",
+        "H1800",
+        "H1571",
+        "H0413",
+        "H0582",
+        "H3490",
+        "H0582",
+        "H4941",
+        "H4480",
+        "H0582",
+        "H0834",
+        "H1961",
+        "H6231",
+        "H1571",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Rescaten al pobre y a aquellos que no pueden ayudarse a sí mismos; sálvenlos de las garras de los malvados.",
+      "strong": [
+        "H0413",
+        "H1800",
+        "H1571",
+        "H0413",
+        "H0479",
+        "H3027",
+        "H7563",
+        "H3201",
+        "H0413",
+        "H0518",
+        "H1992",
+        "H4480",
+        "H1992",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Estos jueces no tienen nada de sabiduría; viven en la oscuridad; los cimientos de la tierra son sacudidos.",
+      "strong": [
+        "H3605",
+        "H8199",
+        "H3808",
+        "H1992",
+        "H3808",
+        "H4480",
+        "H3045",
+        "H2416",
+        "H5921",
+        "H3605",
+        "H0653",
+        "H3605",
+        "H3245",
+        "H4480",
+        "H3605",
+        "H0776",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Yo digo, “Ustedes son jueces; todos ustedes son hijos del Altísimo.",
+      "strong": [
+        "H0589",
+        "H0559",
+        "H1961",
+        "H8199",
+        "H3605",
+        "H1961",
+        "H1121",
+        "H4480",
+        "H5945"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Pero morirán como cualquier ser humano, caerán como cualquier otro líder”.",
+      "strong": [
+        "H3588",
+        "H4191",
+        "H0349",
+        "H3605",
+        "H5315",
+        "H0120",
+        "H5307",
+        "H0349",
+        "H3605",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Levántate, Señor, y juzga la tierra, porque todas las naciones te pertenecen a ti.",
+      "strong": [
+        "H6965",
+        "H0113",
+        "H3588",
+        "H8199",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3605",
+        "H1992",
+        "H1471",
+        "H3588",
+        "H3588",
+        "H0859"
+      ]
+    }
+  ]
+}

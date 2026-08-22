@@ -1,1 +1,286 @@
-{"version":"spa-vbl","book":"psalms","chapter":140,"data":[{"verse":"1","text":"Por favor, Señor ¡Sálvame de aquellos que hacen el mal; ¡Protégeme, especialmente de aquellos que son violentos!"},{"verse":"2","text":"Sus mentes están ocupadas planeando el mal, y todo el día fomentan la guerra."},{"verse":"3","text":"Sus lenguas son tan filosas como la de una serpiente; el veneno de víbora se mueve en sus labios. Selah."},{"verse":"4","text":"Señor, no me dejes caer en manos de los impíos; protégeme, especialmente de aquellos que son violentos, que están planeando mi caída."},{"verse":"5","text":"Los orgullosos han escondido trampas para mí, han colocado una red en el camino, han puesto trampas para atraparme. Selah."},{"verse":"6","text":"Le digo al Señor, “¡Tú eres mi Dios! Señor, ¡Escucha mi clamor!”"},{"verse":"7","text":"Señor y Dios, mi Salvador, tú cubres mi cabeza como con un casco140:7 “Como un casco”: implícito. en el día de la batalla."},{"verse":"8","text":"Dios, no permitas que el malo consiga lo que quiere, no permitas que triunfen en sus planes para que no se vuelvan orgullosos. Selah."},{"verse":"9","text":"Que el daño que me quieren hacer los que me rodean caiga sobre ellos,140:9 El significado del hebreo aquí no está claro."},{"verse":"10","text":"¡Que lluevan sobre ellos carbones encendidos! Que sean arrojados al fuego, o a pozos sin fondo, para que nunca más se levanten."},{"verse":"11","text":"No permitas que la gente que calumnia a otros hereden la tierra prometida. Que los desastres derriben a la gente violenta."},{"verse":"12","text":"Sin embargo, el Señor defiende los derechos de aquellos que están siendo perseguidos, y da justicia al pobre."},{"verse":"13","text":"Ciertamente los que viven en rectitud alabarán la clase de persona que eres,140:13 “la clase de persona que eres”: Literalmente, “tu nombre”. así como los que son honestos140:13 “Los que son honestos”: Literalmente “los íntegros”.."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 140,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Por favor, Señor ¡Sálvame de aquellos que hacen el mal; ¡Protégeme, especialmente de aquellos que son violentos!",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H0113",
+        "H3467",
+        "H4480",
+        "H0479",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H7451",
+        "H4480",
+        "H0479",
+        "H0834",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Sus mentes están ocupadas planeando el mal, y todo el día fomentan la guerra.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H1931",
+        "H7451",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H3117",
+        "H1931",
+        "H4421"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Sus lenguas son tan filosas como la de una serpiente; el veneno de víbora se mueve en sus labios. Selah.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H3966",
+        "H0349",
+        "H3605",
+        "H7451",
+        "H0259",
+        "H5175",
+        "H3605",
+        "H2534",
+        "H7451",
+        "H3045",
+        "H2654",
+        "H5921",
+        "H1931",
+        "H8193",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Señor, no me dejes caer en manos de los impíos; protégeme, especialmente de aquellos que son violentos, que están planeando mi caída.",
+      "strong": [
+        "H0113",
+        "H3808",
+        "H0413",
+        "H5146",
+        "H3782",
+        "H8478",
+        "H3027",
+        "H8478",
+        "H0582",
+        "H7563",
+        "H8478",
+        "H0479",
+        "H0834",
+        "H1961",
+        "H0834",
+        "H1961",
+        "H0589",
+        "H7667"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los orgullosos han escondido trampas para mí, han colocado una red en el camino, han puesto trampas para atraparme. Selah.",
+      "strong": [
+        "H0582",
+        "H4191",
+        "H5641",
+        "H5704",
+        "H0589",
+        "H4191",
+        "H6471",
+        "H7568",
+        "H5921",
+        "H1931",
+        "H1870",
+        "H4191",
+        "H3588",
+        "H5704",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Le digo al Señor, “¡Tú eres mi Dios! Señor, ¡Escucha mi clamor!”",
+      "strong": [
+        "H0413",
+        "H0559",
+        "H0413",
+        "H0113",
+        "H0859",
+        "H0859",
+        "H0589",
+        "H0430",
+        "H0113",
+        "H0238",
+        "H0589",
+        "H6818"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Señor y Dios, mi Salvador, tú cubres mi cabeza como con un casco en el día de la batalla.",
+      "strong": [
+        "H3068",
+        "H1571",
+        "H3068",
+        "H0589",
+        "H3467",
+        "H0859",
+        "H0589",
+        "H7218",
+        "H0349",
+        "H5973",
+        "H0259",
+        "H5921",
+        "H1931",
+        "H3117",
+        "H4480",
+        "H1931",
+        "H4421"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Dios, no permitas que el malo consiga lo que quiere, no permitas que triunfen en sus planes para que no se vuelvan orgullosos. Selah.",
+      "strong": [
+        "H3069",
+        "H3808",
+        "H3117",
+        "H1931",
+        "H7451",
+        "H1931",
+        "H3117",
+        "H2654",
+        "H3808",
+        "H3117",
+        "H5921",
+        "H1931",
+        "H5704",
+        "H3117",
+        "H3808",
+        "H3045",
+        "H7725",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Que el daño que me quieren hacer los que me rodean caiga sobre ellos,",
+      "strong": [
+        "H0834",
+        "H1931",
+        "H8442",
+        "H0834",
+        "H0413",
+        "H6213",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H5439",
+        "H5307",
+        "H5921",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¡Que lluevan sobre ellos carbones encendidos! Que sean arrojados al fuego, o a pozos sin fondo, para que nunca más se levanten.",
+      "strong": [
+        "H0834",
+        "H5921",
+        "H1992",
+        "H1513",
+        "H1197",
+        "H0834",
+        "H1961",
+        "H0413",
+        "H0784",
+        "H0176",
+        "H0413",
+        "H3808",
+        "H0068",
+        "H5704",
+        "H0834",
+        "H3808",
+        "H5750",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "No permitas que la gente que calumnia a otros hereden la tierra prometida. Que los desastres derriben a la gente violenta.",
+      "strong": [
+        "H1077",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H5921",
+        "H6233",
+        "H5921",
+        "H0312",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H2389"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Sin embargo, el Señor defiende los derechos de aquellos que están siendo perseguidos, y da justicia al pobre.",
+      "strong": [
+        "H3808",
+        "H1931",
+        "H0113",
+        "H8199",
+        "H0582",
+        "H4941",
+        "H7451",
+        "H0479",
+        "H0834",
+        "H1961",
+        "H1931",
+        "H1571",
+        "H5414",
+        "H6664",
+        "H0413",
+        "H1800"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Ciertamente los que viven en rectitud alabarán la clase de persona que eres, así como los que son honestos .",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2416",
+        "H3588",
+        "H3559",
+        "H1984",
+        "H3588",
+        "H3588",
+        "H5315",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588"
+      ]
+    }
+  ]
+}

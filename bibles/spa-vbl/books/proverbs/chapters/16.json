@@ -1,1 +1,654 @@
-{"version":"spa-vbl","book":"proverbs","chapter":16,"data":[{"verse":"1","text":"Los seres humanos hacen planes en sus mentes, pero la decisión final le pertenece al Señor."},{"verse":"2","text":"Las personas creen que todo lo que hacen está bien, pero el Señor mira sus intenciones."},{"verse":"3","text":"Encomienda todas tus obras al Señor, y tus planes serán exitosos."},{"verse":"4","text":"El Señor tiene un propósito con todo lo que hace, incluso al malvado para el día de tribulación."},{"verse":"5","text":"El Señor aborrece al arrogante. De algo puedes estar seguro: los malvados no se quedarán sin castigo."},{"verse":"6","text":"Hay perdón de pecados por medio del amor fiel y la lealtad; honrando al Señor serás librado del mal."},{"verse":"7","text":"Cuando el camino del ser humano agrada al Señor, hasta a sus enemigos hace estar en paz con él."},{"verse":"8","text":"Mejor es tener poco y ser honesto, que tener mucho practicando la deshonestidad."},{"verse":"9","text":"Puedes hacer planes en tu mente sobre qué hacer, pero el Señor será tu guía."},{"verse":"10","text":"El rey se inspira antes de hablar, y sus decisiones son fieles."},{"verse":"11","text":"Para el Señor es importante que el peso y la balanza muestren el peso correcto. Él mismo ha determinado todos los pesos en la bolsa."},{"verse":"12","text":"Que el rey actúe con maldad es terrible, pues su trono le ha sido dado por hacer lo recto."},{"verse":"13","text":"Aquellos que hablan con la verdad agradan a los reyes. Ellos aman a quienes hablan con rectitud."},{"verse":"14","text":"Un rey enojado puede enviarte a la muerte. Si eres sabio, procurarás apaciguar su ira."},{"verse":"15","text":"Si el rey sonríe, vivirás. Su bendición es como las nubes que traen lluvia en primavera."},{"verse":"16","text":"Más valioso es obtener sabiduría que oro. Mejor elige el conocimiento antes que la plata."},{"verse":"17","text":"El camino de los rectos te llevará lejos del mal. Si estás atento a dónde vas, salvarás tu vida."},{"verse":"18","text":"El orgullo lleva a la destrucción. Y un espíritu arrogante conduce a la caída."},{"verse":"19","text":"Mejor es tener un espíritu humilde y convivir con los pobres, que compartir el botín con los soberbios."},{"verse":"20","text":"Si estás atento a la instrucción sabia te irá bien; vivirás feliz si confías en el Señor."},{"verse":"21","text":"Si piensas con sabiduría serás considerado como prudente; si hablas con gracia serás persuasivo."},{"verse":"22","text":"Si tienes inteligencia, será como una Fuente de vida para ti; pero los tontos son castigados por su estupidez."},{"verse":"23","text":"Una mente sabia se asegura de hablar con prudencia; las palabras dichas son persuasivas."},{"verse":"24","text":"Las palabras bondadosas son como un panal de miel, su sabor es dulce y aportan salud al cuerpo."},{"verse":"25","text":"Hay camino que parece ser bueno, pero al final es camino de muerte."},{"verse":"26","text":"Un buen apetito ayuda al trabajador. El hambre los impulsa a trabajar."},{"verse":"27","text":"Las personas vacías conspiran para hacer el mal y sus palabras arden como fuego."},{"verse":"28","text":"Las personas rencillosas causan conflictos, y el chisme nace entre los amigos más cercanos."},{"verse":"29","text":"Las personas malvadas adulan a sus amigos, y los conducen por el camino que no les conviene."},{"verse":"30","text":"Las personas que guiñan su ojo están conspirando el mal; aprietan sus labios y provocan el mal."},{"verse":"31","text":"El cabello con canas es como una corona de gloria; solo se obtiene al vivir en rectitud."},{"verse":"32","text":"Mejor es ser lento para enojarse, que ser poderoso; mejor es tener dominio propio que conquistar una ciudad."},{"verse":"33","text":"Lanzan la suerte sobre el regazo,16:33.Se refiere a una forma de tomar decisiones. pero el Señor es quien toma las decisiones."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 16,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los seres humanos hacen planes en sus mentes, pero la decisión final le pertenece al Señor.",
+      "strong": [
+        "H0582",
+        "H5315",
+        "H1397",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H0413",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Las personas creen que todo lo que hacen está bien, pero el Señor mira sus intenciones.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H6213",
+        "H2063",
+        "H5869",
+        "H3588",
+        "H3605",
+        "H3068",
+        "H5869",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Encomienda todas tus obras al Señor, y tus planes serán exitosos.",
+      "strong": [
+        "H1556",
+        "H3605",
+        "H0859",
+        "H4639",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H0859",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El Señor tiene un propósito con todo lo que hace, incluso al malvado para el día de tribulación.",
+      "strong": [
+        "H3605",
+        "H3068",
+        "H3426",
+        "H0259",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H1571",
+        "H6213",
+        "H0413",
+        "H7451",
+        "H5704",
+        "H3605",
+        "H3117",
+        "H7451",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El Señor aborrece al arrogante. De algo puedes estar seguro: los malvados no se quedarán sin castigo.",
+      "strong": [
+        "H3605",
+        "H3068",
+        "H8130",
+        "H5352",
+        "H4480",
+        "H3920",
+        "H3546",
+        "H0983",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H3427",
+        "H3808",
+        "H5352"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Hay perdón de pecados por medio del amor fiel y la lealtad; honrando al Señor serás librado del mal.",
+      "strong": [
+        "H3426",
+        "H7451",
+        "H5771",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H0160",
+        "H0539",
+        "H1571",
+        "H1931",
+        "H5647",
+        "H0413",
+        "H3068",
+        "H1961",
+        "H4422",
+        "H4480",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Cuando el camino del ser humano agrada al Señor, hasta a sus enemigos hace estar en paz con él.",
+      "strong": [
+        "H1571",
+        "H1571",
+        "H1870",
+        "H4480",
+        "H5315",
+        "H0120",
+        "H2896",
+        "H0413",
+        "H3068",
+        "H5704",
+        "H3068",
+        "H1931",
+        "H0341",
+        "H6213",
+        "H5921",
+        "H7999",
+        "H1571",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Mejor es tener poco y ser honesto, que tener mucho practicando la deshonestidad.",
+      "strong": [
+        "H2896",
+        "H1961",
+        "H1961",
+        "H4592",
+        "H1571",
+        "H5315",
+        "H3808",
+        "H1961",
+        "H7230",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Puedes hacer planes en tu mente sobre qué hacer, pero el Señor será tu guía.",
+      "strong": [
+        "H3546",
+        "H6213",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H0834",
+        "H6213",
+        "H3588",
+        "H1931",
+        "H3068",
+        "H1961",
+        "H0859",
+        "H5090"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El rey se inspira antes de hablar, y sus decisiones son fieles.",
+      "strong": [
+        "H5921",
+        "H4428",
+        "H5921",
+        "H6440",
+        "H5921",
+        "H1696",
+        "H5921",
+        "H1931",
+        "H6310",
+        "H0539"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Para el Señor es importante que el peso y la balanza muestren el peso correcto. Él mismo ha determinado todos los pesos en la bolsa.",
+      "strong": [
+        "H5704",
+        "H3605",
+        "H3068",
+        "H1961",
+        "H3605",
+        "H3605",
+        "H6425",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H6425",
+        "H3605",
+        "H3605",
+        "H3541",
+        "H7093",
+        "H3605",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H3599"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Que el rey actúe con maldad es terrible, pues su trono le ha sido dado por hacer lo recto.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H4428",
+        "H3588",
+        "H5771",
+        "H3588",
+        "H3372",
+        "H3588",
+        "H3588",
+        "H3678",
+        "H0413",
+        "H3541",
+        "H1961",
+        "H5414",
+        "H3588",
+        "H6213",
+        "H6213",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Aquellos que hablan con la verdad agradan a los reyes. Ellos aman a quienes hablan con rectitud.",
+      "strong": [
+        "H0479",
+        "H0834",
+        "H1696",
+        "H5973",
+        "H1931",
+        "H0571",
+        "H0413",
+        "H0582",
+        "H4428",
+        "H1992",
+        "H2001",
+        "H0413",
+        "H4310",
+        "H1696",
+        "H5973",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Un rey enojado puede enviarte a la muerte. Si eres sabio, procurarás apaciguar su ira.",
+      "strong": [
+        "H0259",
+        "H4428",
+        "H2534",
+        "H3201",
+        "H0413",
+        "H1931",
+        "H4194",
+        "H0518",
+        "H0859",
+        "H2450",
+        "H1875",
+        "H1931",
+        "H2534"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Si el rey sonríe, vivirás. Su bendición es como las nubes que traen lluvia en primavera.",
+      "strong": [
+        "H6440",
+        "H1931",
+        "H4428",
+        "H2421",
+        "H1931",
+        "H1293",
+        "H1961",
+        "H5645",
+        "H1992",
+        "H5645",
+        "H0834",
+        "H0935",
+        "H4306",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Más valioso es obtener sabiduría que oro. Mejor elige el conocimiento antes que la plata.",
+      "strong": [
+        "H2451",
+        "H1961",
+        "H2451",
+        "H4100",
+        "H2091",
+        "H2896",
+        "H1931",
+        "H1847",
+        "H6440",
+        "H4100",
+        "H2451",
+        "H3701"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "El camino de los rectos te llevará lejos del mal. Si estás atento a dónde vas, salvarás tu vida.",
+      "strong": [
+        "H1931",
+        "H1870",
+        "H7451",
+        "H0582",
+        "H3477",
+        "H5315",
+        "H5375",
+        "H7350",
+        "H4480",
+        "H7451",
+        "H5315",
+        "H0428",
+        "H7183",
+        "H0413",
+        "H0834",
+        "H3212",
+        "H3467",
+        "H0859",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "El orgullo lleva a la destrucción. Y un espíritu arrogante conduce a la caída.",
+      "strong": [
+        "H1931",
+        "H5375",
+        "H6440",
+        "H1931",
+        "H7701",
+        "H1571",
+        "H0259",
+        "H7307",
+        "H6440",
+        "H1931",
+        "H7667"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Mejor es tener un espíritu humilde y convivir con los pobres, que compartir el botín con los soberbios.",
+      "strong": [
+        "H2896",
+        "H1961",
+        "H1961",
+        "H0259",
+        "H7307",
+        "H6041",
+        "H1571",
+        "H5973",
+        "H0582",
+        "H1800",
+        "H0834",
+        "H1931",
+        "H5973",
+        "H0582",
+        "H2086"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Si estás atento a la instrucción sabia te irá bien; vivirás feliz si confías en el Señor.",
+      "strong": [
+        "H5921",
+        "H0428",
+        "H7183",
+        "H5921",
+        "H5921",
+        "H3045",
+        "H5921",
+        "H2534",
+        "H2896",
+        "H2421",
+        "H5921",
+        "H0982",
+        "H5921",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Si piensas con sabiduría serás considerado como prudente; si hablas con gracia serás persuasivo.",
+      "strong": [
+        "H0518",
+        "H0559",
+        "H5973",
+        "H2451",
+        "H1961",
+        "H0349",
+        "H0995",
+        "H0518",
+        "H5973",
+        "H2580",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Si tienes inteligencia, será como una Fuente de vida para ti; pero los tontos son castigados por su estupidez.",
+      "strong": [
+        "H0518",
+        "H1167",
+        "H0998",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H4726",
+        "H4480",
+        "H2416",
+        "H5704",
+        "H0859",
+        "H3588",
+        "H1167",
+        "H1961",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Una mente sabia se asegura de hablar con prudencia; las palabras dichas son persuasivas.",
+      "strong": [
+        "H0259",
+        "H2450",
+        "H5921",
+        "H5921",
+        "H1696",
+        "H5921",
+        "H5921",
+        "H6310",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Las palabras bondadosas son como un panal de miel, su sabor es dulce y aportan salud al cuerpo.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H6688",
+        "H4480",
+        "H1706",
+        "H1931",
+        "H2940",
+        "H1961",
+        "H4966",
+        "H1571",
+        "H4832",
+        "H0413",
+        "H5038"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Hay camino que parece ser bueno, pero al final es camino de muerte.",
+      "strong": [
+        "H3426",
+        "H1870",
+        "H0834",
+        "H5315",
+        "H2896",
+        "H3588",
+        "H0413",
+        "H3426",
+        "H1870",
+        "H6440",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Un buen apetito ayuda al trabajador. El hambre los impulsa a trabajar.",
+      "strong": [
+        "H0259",
+        "H2896",
+        "H5828",
+        "H5921",
+        "H5921",
+        "H7458",
+        "H5921",
+        "H5921",
+        "H5998"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Las personas vacías conspiran para hacer el mal y sus palabras arden como fuego.",
+      "strong": [
+        "H5921",
+        "H5315",
+        "H7387",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H7451",
+        "H5921",
+        "H1931",
+        "H1697",
+        "H5921",
+        "H0784"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Las personas rencillosas causan conflictos, y el chisme nace entre los amigos más cercanos.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H4066",
+        "H1931",
+        "H3318",
+        "H0996",
+        "H0582",
+        "H7453",
+        "H4066",
+        "H7138"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Las personas malvadas adulan a sus amigos, y los conducen por el camino que no les conviene.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H0413",
+        "H1931",
+        "H7453",
+        "H1571",
+        "H0582",
+        "H1870",
+        "H1931",
+        "H1870",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H5000"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Las personas que guiñan su ojo están conspirando el mal; aprietan sus labios y provocan el mal.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H0834",
+        "H7335",
+        "H1931",
+        "H5869",
+        "H1961",
+        "H1931",
+        "H7451",
+        "H1931",
+        "H8193",
+        "H1571",
+        "H1931",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "El cabello con canas es como una corona de gloria; solo se obtiene al vivir en rectitud.",
+      "strong": [
+        "H1931",
+        "H5145",
+        "H5973",
+        "H7070",
+        "H1961",
+        "H0349",
+        "H4672",
+        "H5850",
+        "H4480",
+        "H8597",
+        "H0910",
+        "H3045",
+        "H0413",
+        "H2421",
+        "H5921",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Mejor es ser lento para enojarse, que ser poderoso; mejor es tener dominio propio que conquistar una ciudad.",
+      "strong": [
+        "H2896",
+        "H1961",
+        "H5315",
+        "H0750",
+        "H5704",
+        "H0834",
+        "H5315",
+        "H1368",
+        "H2896",
+        "H1961",
+        "H1961",
+        "H0834",
+        "H0259",
+        "H5892"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Lanzan la suerte sobre el regazo, pero el Señor es quien toma las decisiones.",
+      "strong": [
+        "H3605",
+        "H1486",
+        "H5921",
+        "H3605",
+        "H2436",
+        "H3588",
+        "H3605",
+        "H3068",
+        "H1961",
+        "H3605",
+        "H3947",
+        "H1992"
+      ]
+    }
+  ]
+}

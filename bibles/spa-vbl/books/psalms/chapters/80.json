@@ -1,1 +1,397 @@
-{"version":"spa-vbl","book":"psalms","chapter":80,"data":[{"verse":"1","text":"Por favor escúchanos, pastor de Israel, tú, que guías a los descendientes de José como a un rebaño. Tú, que te sientas en tu trono sobre los querubines, brilla"},{"verse":"2","text":"en la presencia de Efraín, Benjamín, y Manasés. ¡Reúne todo tu poder y ven a salvarnos!"},{"verse":"3","text":"Por favor, Dios, ¡Restáuranos! Permite que tu rostro resplandezca sobre nosotros para que podamos ser salvos."},{"verse":"4","text":"¡Oh, Señor, Todopoderoso! ¿Por cuánto tiempo más estarás airado con las oraciones de tu pueblo?"},{"verse":"5","text":"Los alimentaste con el pan de las lágrimas, y les diste un tazón lleno de estas80:5 Literalmente, “medida llena”. para que bebieran."},{"verse":"6","text":"Nos conviertes en víctimas por las que nuestros vecinos peleen; de las que nuestros enemigos se burlen."},{"verse":"7","text":"Dios todopoderoso, ¡Restáuranos! ¡Permite que tu rostro se resplandezca sobre nosotros para que podamos ser salvos!"},{"verse":"8","text":"Nos sacaste de Egipto como una vid, expulsaste a las naciones paganas y sembraste la vid en su lugar."},{"verse":"9","text":"Preparaste el suelo. Echo raíz y llenó la tierra"},{"verse":"10","text":"Las montañas fueron cubiertas por su sombra; sus ramas cubrieron los grandes cedros."},{"verse":"11","text":"Envió sus ramas hacia el oeste, hasta el mar Mediterráneo y sus brotes hacia el este, hasta el río Éufrates."},{"verse":"12","text":"¿Por qué has roto los muros que lo protegían80:12 “Que lo protegían”: implícito. para que cualquiera que pase pueda robar su fruto?"},{"verse":"13","text":"Los cerdos salvajes del bosque se los comen, animales salvajes se alimentan de él."},{"verse":"14","text":"Dios todo poderoso, por favor, ¡Vuelve a nosotros! ¡Observa hacia abajo desde los cielos y mira lo que nos está pasando a nosotros! Ven y cuida de esta vid"},{"verse":"15","text":"que tú mismo plantaste, este hijo que tú criaste por tus propios méritos."},{"verse":"16","text":"Nosotros, tu vid, hemos sido talados y quemados. Ojalá todos los que hicieron esto80:16 Implícito. mueran cuando los mires."},{"verse":"17","text":"Protege al hombre que permanece a tu lado; fortalece al hijo que has escogido."},{"verse":"18","text":"Entonces no nos apartaremos de ti. Devuélvenos la vida para que podamos invocar tu nombre.80:18 Literalmente, “recurrir a tu nombre”."},{"verse":"19","text":"¡Oh, Señor! Dios todopoderoso, ¡Restáuranos! ¡Permite que tu rostro"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 80,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Por favor escúchanos, pastor de Israel, tú, que guías a los descendientes de José como a un rebaño. Tú, que te sientas en tu trono sobre los querubines, brilla",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H7462",
+        "H4480",
+        "H3478",
+        "H0859",
+        "H0834",
+        "H0413",
+        "H0582",
+        "H6631",
+        "H4480",
+        "H3130",
+        "H0349",
+        "H0413",
+        "H0259",
+        "H6629",
+        "H0859",
+        "H0834",
+        "H0859",
+        "H5921",
+        "H0859",
+        "H3678",
+        "H5921",
+        "H0582",
+        "H3742"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "en la presencia de Efraín, Benjamín, y Manasés. ¡Reúne todo tu poder y ven a salvarnos!",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H6440",
+        "H4480",
+        "H1144",
+        "H1571",
+        "H4519",
+        "H3605",
+        "H0859",
+        "H3027",
+        "H1571",
+        "H3212",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Por favor, Dios, ¡Restáuranos! Permite que tu rostro resplandezca sobre nosotros para que podamos ser salvos.",
+      "strong": [
+        "H6440",
+        "H7522",
+        "H0430",
+        "H0834",
+        "H0859",
+        "H6440",
+        "H0215",
+        "H5921",
+        "H0587",
+        "H5704",
+        "H0834",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡Oh, Señor, Todopoderoso! ¿Por cuánto tiempo más estarás airado con las oraciones de tu pueblo?",
+      "strong": [
+        "H1945",
+        "H0113",
+        "H7706",
+        "H6440",
+        "H0834",
+        "H6256",
+        "H5750",
+        "H1961",
+        "H2194",
+        "H5973",
+        "H1992",
+        "H6440",
+        "H0859",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los alimentaste con el pan de las lágrimas, y les diste un tazón lleno de estas para que bebieran.",
+      "strong": [
+        "H0582",
+        "H5704",
+        "H1931",
+        "H3899",
+        "H5704",
+        "H1992",
+        "H1832",
+        "H5704",
+        "H0413",
+        "H5414",
+        "H0259",
+        "H4390",
+        "H5704",
+        "H0428",
+        "H5704",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Nos conviertes en víctimas por las que nuestros vecinos peleen; de las que nuestros enemigos se burlen.",
+      "strong": [
+        "H0587",
+        "H5921",
+        "H2076",
+        "H5921",
+        "H1992",
+        "H0834",
+        "H0587",
+        "H7934",
+        "H4480",
+        "H1992",
+        "H0834",
+        "H0587",
+        "H0341",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Dios todopoderoso, ¡Restáuranos! ¡Permite que tu rostro se resplandezca sobre nosotros para que podamos ser salvos!",
+      "strong": [
+        "H0430",
+        "H7706",
+        "H0834",
+        "H0859",
+        "H6440",
+        "H3045",
+        "H0215",
+        "H5921",
+        "H0587",
+        "H5704",
+        "H0834",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Nos sacaste de Egipto como una vid, expulsaste a las naciones paganas y sembraste la vid en su lugar.",
+      "strong": [
+        "H0587",
+        "H3318",
+        "H6440",
+        "H4714",
+        "H0349",
+        "H0259",
+        "H1612",
+        "H6440",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H1931",
+        "H1612",
+        "H5921",
+        "H1931",
+        "H4725"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Preparaste el suelo. Echo raíz y llenó la tierra",
+      "strong": [
+        "H1931",
+        "H1644",
+        "H1571",
+        "H4390",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Las montañas fueron cubiertas por su sombra; sus ramas cubrieron los grandes cedros.",
+      "strong": [
+        "H1992",
+        "H1961",
+        "H6823",
+        "H6440",
+        "H1931",
+        "H6738",
+        "H1931",
+        "H7105",
+        "H3680",
+        "H0582",
+        "H1419",
+        "H0730"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Envió sus ramas hacia el oeste, hasta el mar Mediterráneo y sus brotes hacia el este, hasta el río Éufrates.",
+      "strong": [
+        "H7971",
+        "H1931",
+        "H7105",
+        "H0413",
+        "H1931",
+        "H5704",
+        "H1931",
+        "H3220",
+        "H1571",
+        "H1931",
+        "H0413",
+        "H1931",
+        "H2088",
+        "H5704",
+        "H1931",
+        "H5104",
+        "H6578"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¿Por qué has roto los muros que lo protegían para que cualquiera que pase pueda robar su fruto?",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H4191",
+        "H0582",
+        "H2346",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H3605",
+        "H5704",
+        "H5674",
+        "H3201",
+        "H1931",
+        "H6529"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los cerdos salvajes del bosque se los comen, animales salvajes se alimentan de él.",
+      "strong": [
+        "H3605",
+        "H4480",
+        "H0842",
+        "H4100",
+        "H3605",
+        "H0398",
+        "H0929",
+        "H4100",
+        "H4480",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Dios todo poderoso, por favor, ¡Vuelve a nosotros! ¡Observa hacia abajo desde los cielos y mira lo que nos está pasando a nosotros! Ven y cuida de esta vid",
+      "strong": [
+        "H0430",
+        "H3605",
+        "H1368",
+        "H5921",
+        "H7522",
+        "H7725",
+        "H0413",
+        "H0587",
+        "H0413",
+        "H4295",
+        "H4480",
+        "H0582",
+        "H8064",
+        "H1571",
+        "H7200",
+        "H1931",
+        "H0834",
+        "H0587",
+        "H2063",
+        "H5674",
+        "H0413",
+        "H0587",
+        "H3212",
+        "H1571",
+        "H1875",
+        "H4480",
+        "H2063",
+        "H1612"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "que tú mismo plantaste, este hijo que tú criaste por tus propios méritos.",
+      "strong": [
+        "H4994",
+        "H0859",
+        "H1931",
+        "H5193",
+        "H2063",
+        "H1121",
+        "H4994",
+        "H0859",
+        "H1254",
+        "H5921",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Nosotros, tu vid, hemos sido talados y quemados. Ojalá todos los que hicieron esto mueran cuando los mires.",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H1612",
+        "H0935",
+        "H1961",
+        "H3772",
+        "H5921",
+        "H3341",
+        "H3863",
+        "H3605",
+        "H1121",
+        "H5921",
+        "H6213",
+        "H2063",
+        "H4191",
+        "H3588",
+        "H1121",
+        "H6437"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Protege al hombre que permanece a tu lado; fortalece al hijo que has escogido.",
+      "strong": [
+        "H0413",
+        "H0376",
+        "H0834",
+        "H5975",
+        "H6440",
+        "H0859",
+        "H3802",
+        "H0553",
+        "H0413",
+        "H1121",
+        "H0834",
+        "H4191",
+        "H0977"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Entonces no nos apartaremos de ti. Devuélvenos la vida para que podamos invocar tu nombre.",
+      "strong": [
+        "H0227",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5315",
+        "H5921",
+        "H5921",
+        "H0859",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¡Oh, Señor! Dios todopoderoso, ¡Restáuranos! ¡Permite que tu rostro resplandezca sobre nosotros para que podamos ser salvos!",
+      "strong": [
+        "H1945",
+        "H0113",
+        "H0430",
+        "H7706",
+        "H4480",
+        "H0859",
+        "H6440",
+        "H0215",
+        "H4480",
+        "H0587",
+        "H4480",
+        "H4480",
+        "H5315"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,609 @@
-{"version":"spa-vbl","book":"proverbs","chapter":20,"data":[{"verse":"1","text":"El vino te transforma en un burlador, y el alcohol te vuelve agresivo. Si te dejas engañar20:1.“Engañar”: o “intoxicar”. por la bebida, eres un tonto."},{"verse":"2","text":"Cuando un rey se enoja en gran manera, se escuchará como un león rugiente. Quien haya causado su enojo corre el riesgo de ir a la muerte."},{"verse":"3","text":"Evitar el conflicto es hacer lo correcto. Pero los necios se apresuran a iniciar la discusión."},{"verse":"4","text":"Los holgazanes no salen a sembrar cuando deberían. Por eso, cuando llega la cosecha, no tienen nada que recoger."},{"verse":"5","text":"Descubrir lo que piensan los demás es como mirar en aguas profundas. Pero el que tiene entendimiento los conocerá."},{"verse":"6","text":"Muchos te dirán que son leales, pero ¿podrás hallar a una persona digna de confianza?"},{"verse":"7","text":"El pueblo de Dios vive con honestidad. ¡Cuán felices son sus hijos si siguen tal ejemplo!"},{"verse":"8","text":"Cuando el rey se sienta a emitir un juicio, puede ver lo que no está bien."},{"verse":"9","text":"¿Quién puede decir: “Estoy seguro de que mi conciencia está limpia y estoy limpio de pecado”?"},{"verse":"10","text":"El Señor aborrece el peso falso así como la medida falsa."},{"verse":"11","text":"Hasta los niños revelan su carácter por lo que hacen, ya sean acciones buenas o malas."},{"verse":"12","text":"El Señor nos dio orejas para oír y ojos para ver."},{"verse":"13","text":"Si te gusta dormir, terminarás pobre. Levántate y trabaja, para que tengas qué comer."},{"verse":"14","text":"“Es basura”, dice el que compra, pero luego se jacta delante de otros de haber hecho un buen negocio."},{"verse":"15","text":"Hay oro y muchas piedras preciosas. Pero hablar con sensatez es la joya más valiosa."},{"verse":"16","text":"Si alguno sirve como codeudor de un extranjero dando su abrigo como garantía de pago, asegúrate de tomarlo. ¡Toma todo lo que haya sido entregado como pago a favor de un extranjero!"},{"verse":"17","text":"La comida que es producto del fraude puede tener un dulce sabor, pero después verán sus bocas llenas de gravilla."},{"verse":"18","text":"Con el consejo sabio, los planes son exitosos. Si vas a la guerra, asegúrate de tener la instrucción correcta."},{"verse":"19","text":"El chismoso anda de aquí para allá revelando secretos. Aléjate de aquellos que hablan mucho."},{"verse":"20","text":"Todo aquél que maldice a su padre o a su madre apaga su luz y terminará en oscuridad absoluta."},{"verse":"21","text":"La riqueza rápida20:21.“Riqueza rápida”: algunos manuscritos le llaman “riqueza ganada con codicia” no te hará bien al final de cuentas."},{"verse":"22","text":"No digas: “Me pagarás por este mal que me has hecho”. Déjaselo al Señor, y él te ayudará."},{"verse":"23","text":"El Señor aborrece el peso incorrecto. No está bien usar peso falso."},{"verse":"24","text":"El Señor nos muestra el camino a seguir, ¿por qué habríamos de decidir nosotros mismos?"},{"verse":"25","text":"Es un error hacerle una promesa el Señor y luego arrepentirnos de lo que hemos prometido."},{"verse":"26","text":"Un rey sabio separa a los malvados con un aventador y luego los castiga cuando hace el trillado.20:26.Este versículo se refiere a los procesos asociados al procesado del grano durante la cosecha: Aventar y trillar el trigo. De esto se sabe poco en el mundo moderno."},{"verse":"27","text":"La luz del Señor brilla en la conciencia, revelando nuestros más profundos pensamientos."},{"verse":"28","text":"El amor fiel y la lealtad mantienen al rey a salvo. El amor fiel es el fundamento de su gobierno."},{"verse":"29","text":"Los jóvenes valoran su fuerza, pero los ancianos estiman más la sabiduría que viene con los años."},{"verse":"30","text":"Los azotes espantan la maldad; los golpes limpian hasta adentro."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 20,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El vino te transforma en un burlador, y el alcohol te vuelve agresivo. Si te dejas engañar por la bebida, eres un tonto.",
+      "strong": [
+        "H3605",
+        "H3196",
+        "H0859",
+        "H5921",
+        "H0259",
+        "H1571",
+        "H3605",
+        "H0859",
+        "H7725",
+        "H3808",
+        "H0859",
+        "H5921",
+        "H3605",
+        "H7941",
+        "H0859",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Cuando un rey se enoja en gran manera, se escuchará como un león rugiente. Quien haya causado su enojo corre el riesgo de ir a la muerte.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H4428",
+        "H3045",
+        "H5921",
+        "H1419",
+        "H7235",
+        "H3045",
+        "H8085",
+        "H3715",
+        "H0259",
+        "H0738",
+        "H5098",
+        "H4310",
+        "H1961",
+        "H1931",
+        "H2534",
+        "H7323",
+        "H5674",
+        "H4480",
+        "H3212",
+        "H0413",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Evitar el conflicto es hacer lo correcto. Pero los necios se apresuran a iniciar la discusión.",
+      "strong": [
+        "H3605",
+        "H1961",
+        "H6213",
+        "H3605",
+        "H3588",
+        "H3605",
+        "H0995",
+        "H3045",
+        "H0413",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Los holgazanes no salen a sembrar cuando deberían. Por eso, cuando llega la cosecha, no tienen nada que recoger.",
+      "strong": [
+        "H0582",
+        "H3808",
+        "H3318",
+        "H0413",
+        "H3588",
+        "H5921",
+        "H3651",
+        "H3588",
+        "H6293",
+        "H1931",
+        "H3808",
+        "H1992",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Descubrir lo que piensan los demás es como mirar en aguas profundas. Pero el que tiene entendimiento los conocerá.",
+      "strong": [
+        "H1931",
+        "H4325",
+        "H1897",
+        "H0582",
+        "H1571",
+        "H1961",
+        "H0349",
+        "H7200",
+        "H5921",
+        "H4325",
+        "H6013",
+        "H3588",
+        "H1931",
+        "H4325",
+        "H3426",
+        "H3820",
+        "H0582",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Muchos te dirán que son leales, pero ¿podrás hallar a una persona digna de confianza?",
+      "strong": [
+        "H7230",
+        "H0859",
+        "H0559",
+        "H4310",
+        "H1961",
+        "H3588",
+        "H3201",
+        "H4672",
+        "H0413",
+        "H4672",
+        "H5315",
+        "H4480",
+        "H4009"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "El pueblo de Dios vive con honestidad. ¡Cuán felices son sus hijos si siguen tal ejemplo!",
+      "strong": [
+        "H1121",
+        "H5971",
+        "H1121",
+        "H0430",
+        "H2416",
+        "H5973",
+        "H4100",
+        "H1961",
+        "H1931",
+        "H1121",
+        "H0518",
+        "H1980",
+        "H3651"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Cuando el rey se sienta a emitir un juicio, puede ver lo que no está bien.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H4428",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H1779",
+        "H3201",
+        "H7200",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3427",
+        "H5869"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¿Quién puede decir: “Estoy seguro de que mi conciencia está limpia y estoy limpio de pecado”?",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H0559",
+        "H1961",
+        "H0983",
+        "H4480",
+        "H4310",
+        "H0589",
+        "H2063",
+        "H2891",
+        "H1571",
+        "H1961",
+        "H2891",
+        "H4480",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El Señor aborrece el peso falso así como la medida falsa.",
+      "strong": [
+        "H1571",
+        "H3068",
+        "H8130",
+        "H1571",
+        "H4948",
+        "H8267",
+        "H1571",
+        "H1571",
+        "H1571",
+        "H4055",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Hasta los niños revelan su carácter por lo que hacen, ya sean acciones buenas o malas.",
+      "strong": [
+        "H5704",
+        "H0582",
+        "H5288",
+        "H1931",
+        "H5921",
+        "H1931",
+        "H1571",
+        "H6213",
+        "H1571",
+        "H1961",
+        "H2896",
+        "H0176",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El Señor nos dio orejas para oír y ojos para ver.",
+      "strong": [
+        "H6213",
+        "H3068",
+        "H0587",
+        "H5414",
+        "H0241",
+        "H5704",
+        "H8085",
+        "H1571",
+        "H5869",
+        "H5704",
+        "H7200"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Si te gusta dormir, terminarás pobre. Levántate y trabaja, para que tengas qué comer.",
+      "strong": [
+        "H6435",
+        "H5869",
+        "H2938",
+        "H1800",
+        "H6965",
+        "H1571",
+        "H5998",
+        "H5704",
+        "H6435",
+        "H5414",
+        "H6435",
+        "H0398"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "“Es basura”, dice el que compra, pero luego se jacta delante de otros de haber hecho un buen negocio.",
+      "strong": [
+        "H1961",
+        "H5002",
+        "H1931",
+        "H0834",
+        "H7069",
+        "H3588",
+        "H4994",
+        "H3045",
+        "H6440",
+        "H7451",
+        "H0312",
+        "H7451",
+        "H1961",
+        "H6213",
+        "H0259",
+        "H2896",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Hay oro y muchas piedras preciosas. Pero hablar con sensatez es la joya más valiosa.",
+      "strong": [
+        "H3426",
+        "H2091",
+        "H1571",
+        "H7230",
+        "H0068",
+        "H3368",
+        "H3588",
+        "H1696",
+        "H5973",
+        "H3426",
+        "H1931",
+        "H3426"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Si alguno sirve como codeudor de un extranjero dando su abrigo como garantía de pago, asegúrate de tomarlo. ¡Toma todo lo que haya sido entregado como pago a favor de un extranjero!",
+      "strong": [
+        "H3588",
+        "H0376",
+        "H3276",
+        "H3588",
+        "H3588",
+        "H0259",
+        "H5237",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H6118",
+        "H3588",
+        "H3947",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H1961",
+        "H1961",
+        "H5414",
+        "H3588",
+        "H6118",
+        "H3588",
+        "H7522",
+        "H3588",
+        "H0259",
+        "H5237"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "La comida que es producto del fraude puede tener un dulce sabor, pero después verán sus bocas llenas de gravilla.",
+      "strong": [
+        "H1931",
+        "H3899",
+        "H6310",
+        "H1961",
+        "H4480",
+        "H7423",
+        "H3201",
+        "H1961",
+        "H0259",
+        "H6156",
+        "H2940",
+        "H3588",
+        "H0310",
+        "H7200",
+        "H1931",
+        "H6310",
+        "H4390",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Con el consejo sabio, los planes son exitosos. Si vas a la guerra, asegúrate de tener la instrucción correcta.",
+      "strong": [
+        "H5973",
+        "H6213",
+        "H6098",
+        "H2450",
+        "H0582",
+        "H1961",
+        "H0518",
+        "H3212",
+        "H0413",
+        "H1931",
+        "H4421",
+        "H4480",
+        "H1961",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "El chismoso anda de aquí para allá revelando secretos. Aléjate de aquellos que hablan mucho.",
+      "strong": [
+        "H1931",
+        "H1980",
+        "H4480",
+        "H6311",
+        "H6148",
+        "H8033",
+        "H4480",
+        "H0479",
+        "H3808",
+        "H1696",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Todo aquél que maldice a su padre o a su madre apaga su luz y terminará en oscuridad absoluta.",
+      "strong": [
+        "H3605",
+        "H1931",
+        "H0834",
+        "H7043",
+        "H0413",
+        "H1931",
+        "H0001",
+        "H0176",
+        "H0413",
+        "H1931",
+        "H0517",
+        "H1931",
+        "H0216",
+        "H1571",
+        "H5921",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "La riqueza rápida no te hará bien al final de cuentas.",
+      "strong": [
+        "H1931",
+        "H7399",
+        "H3808",
+        "H0859",
+        "H6213",
+        "H2896",
+        "H0413",
+        "H4480",
+        "H2810"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "No digas: “Me pagarás por este mal que me has hecho”. Déjaselo al Señor, y él te ayudará.",
+      "strong": [
+        "H3808",
+        "H0559",
+        "H0413",
+        "H8254",
+        "H5921",
+        "H2088",
+        "H7451",
+        "H0834",
+        "H0413",
+        "H4191",
+        "H6213",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H1931",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "El Señor aborrece el peso incorrecto. No está bien usar peso falso.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H8130",
+        "H1931",
+        "H3976",
+        "H3808",
+        "H2063",
+        "H2896",
+        "H3976",
+        "H4820"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El Señor nos muestra el camino a seguir, ¿por qué habríamos de decidir nosotros mismos?",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H4100",
+        "H5046",
+        "H1931",
+        "H1870",
+        "H3068",
+        "H0935",
+        "H1870",
+        "H4100",
+        "H4480",
+        "H0587",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Es un error hacerle una promesa el Señor y luego arrepentirnos de lo que hemos prometido.",
+      "strong": [
+        "H1961",
+        "H0259",
+        "H6213",
+        "H0259",
+        "H5087",
+        "H1931",
+        "H0113",
+        "H1571",
+        "H4994",
+        "H4480",
+        "H1931",
+        "H0834",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Un rey sabio separa a los malvados con un aventador y luego los castiga cuando hace el trillado.",
+      "strong": [
+        "H0259",
+        "H4428",
+        "H2450",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H5921",
+        "H7725",
+        "H5921",
+        "H3198",
+        "H3588",
+        "H6213",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "La luz del Señor brilla en la conciencia, revelando nuestros más profundos pensamientos.",
+      "strong": [
+        "H3605",
+        "H0216",
+        "H4480",
+        "H3068",
+        "H5921",
+        "H3605",
+        "H0587",
+        "H5750",
+        "H6009",
+        "H4284"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "El amor fiel y la lealtad mantienen al rey a salvo. El amor fiel es el fundamento de su gobierno.",
+      "strong": [
+        "H1931",
+        "H0160",
+        "H0539",
+        "H1571",
+        "H1931",
+        "H4428",
+        "H4428",
+        "H0413",
+        "H3467",
+        "H1931",
+        "H0160",
+        "H0539",
+        "H1961",
+        "H1931",
+        "H3247",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Los jóvenes valoran su fuerza, pero los ancianos estiman más la sabiduría que viene con los años.",
+      "strong": [
+        "H0582",
+        "H1931",
+        "H3581",
+        "H3588",
+        "H0582",
+        "H2205",
+        "H5750",
+        "H1931",
+        "H2451",
+        "H3581",
+        "H0935",
+        "H5973",
+        "H0582",
+        "H8141"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Los azotes espantan la maldad; los golpes limpian hasta adentro.",
+      "strong": [
+        "H0582",
+        "H5221",
+        "H0367",
+        "H1931",
+        "H7451",
+        "H0582",
+        "H5704",
+        "H1004"
+      ]
+    }
+  ]
+}

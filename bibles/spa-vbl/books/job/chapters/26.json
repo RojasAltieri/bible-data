@@ -1,1 +1,258 @@
-{"version":"spa-vbl","book":"job","chapter":26,"data":[{"verse":"1","text":"Job respondió:"},{"verse":"2","text":"“Qué útil has sido para este débil hombre que soy. Qué solidario has sido con el débil."},{"verse":"3","text":"Qué buenos consejos le has dado a este ignorante, demostrando que tienes mucha sabiduría."},{"verse":"4","text":"¿Quién te ayudó a decir estas palabras? ¿Quién te ha inspirado a decir tales cosas?26:4 Está claro que en estos versos Job está siendo irónico. Además, algunos comentaristas ven en 26:1-4 a Job interrumpiendo a Bildad, que continúa como orador de 26:5-14."},{"verse":"5","text":"“Los muertos tiemblan, los que están bajo las aguas."},{"verse":"6","text":"El Seol está desnudo ante Dios, Abadón está descubierto.26:6 El Seol y Abadón son nombres del inframundo, el lugar de los muertos. La idea de este versículo es que nada está oculto a Dios."},{"verse":"7","text":"Extiende el cielo del norte sobre el espacio vacío; cuelga el mundo sobre la nada."},{"verse":"8","text":"Recoge la lluvia en sus nubes de tormenta que no se rompen bajo el peso."},{"verse":"9","text":"Él vela su trono; lo cubre con sus nubes."},{"verse":"10","text":"Sobre la superficie de las aguas puso una frontera; fijó un límite que divide la luz de las tinieblas.26:10 Aquí hay ecos del relato de la creación del Génesis."},{"verse":"11","text":"Las columnas del cielo tiemblan; tiemblan de miedo ante su reprimenda.26:11 Según los antiguos, el cielo estaba sostenido por pilares (identificados con ciertas montañas)."},{"verse":"12","text":"Calmó el mar con su poder; porque sabía qué hacer aplastó a Rahab.26:12 Rahab era un monstruo marino legendario, y puede referirse a algunas historias de la creación."},{"verse":"13","text":"El aliento de su voz embelleció los cielos; con su mano atravesó la serpiente que se desliza.26:13 Ver Isaías 27:1."},{"verse":"14","text":"Esto es sólo un poco de todo lo que hace; lo que oímos de él es apenas un susurro, así que quién puede entender su poder atronador?”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 26,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job respondió:",
+      "strong": [
+        "H0347",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“Qué útil has sido para este débil hombre que soy. Qué solidario has sido con el débil.",
+      "strong": [
+        "H4100",
+        "H4191",
+        "H1961",
+        "H5704",
+        "H2088",
+        "H0376",
+        "H4100",
+        "H0595",
+        "H4100",
+        "H4191",
+        "H1961",
+        "H5973",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Qué buenos consejos le has dado a este ignorante, demostrando que tienes mucha sabiduría.",
+      "strong": [
+        "H4100",
+        "H2896",
+        "H6098",
+        "H0413",
+        "H4191",
+        "H5414",
+        "H0413",
+        "H2088",
+        "H4100",
+        "H3045",
+        "H7227",
+        "H2451"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Quién te ayudó a decir estas palabras? ¿Quién te ha inspirado a decir tales cosas?",
+      "strong": [
+        "H4310",
+        "H4480",
+        "H5826",
+        "H4480",
+        "H0559",
+        "H0428",
+        "H4405",
+        "H4310",
+        "H4480",
+        "H3541",
+        "H4480",
+        "H0559",
+        "H0428",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "“Los muertos tiemblan, los que están bajo las aguas.",
+      "strong": [
+        "H0582",
+        "H7496",
+        "H7493",
+        "H0582",
+        "H4325",
+        "H1961",
+        "H8478",
+        "H1992",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "El Seol está desnudo ante Dios, Abadón está descubierto.",
+      "strong": [
+        "H1931",
+        "H2063",
+        "H6174",
+        "H6440",
+        "H0430",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Extiende el cielo del norte sobre el espacio vacío; cuelga el mundo sobre la nada.",
+      "strong": [
+        "H5186",
+        "H5921",
+        "H8064",
+        "H5921",
+        "H6828",
+        "H5921",
+        "H5921",
+        "H7305",
+        "H8414",
+        "H8518",
+        "H5921",
+        "H8398",
+        "H5921",
+        "H5921",
+        "H1099"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Recoge la lluvia en sus nubes de tormenta que no se rompen bajo el peso.",
+      "strong": [
+        "H0622",
+        "H1931",
+        "H4306",
+        "H8478",
+        "H1931",
+        "H6051",
+        "H8478",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H8478",
+        "H1931",
+        "H4948"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Él vela su trono; lo cubre con sus nubes.",
+      "strong": [
+        "H5921",
+        "H8245",
+        "H1931",
+        "H3678",
+        "H5921",
+        "H3680",
+        "H5921",
+        "H1931",
+        "H6051"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Sobre la superficie de las aguas puso una frontera; fijó un límite que divide la luz de las tinieblas.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4325",
+        "H7760",
+        "H0259",
+        "H0259",
+        "H7097",
+        "H5921",
+        "H5921",
+        "H0216",
+        "H5921",
+        "H5921",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Las columnas del cielo tiemblan; tiemblan de miedo ante su reprimenda.",
+      "strong": [
+        "H1992",
+        "H5982",
+        "H4480",
+        "H8064",
+        "H7322",
+        "H7322",
+        "H4480",
+        "H4032",
+        "H6440",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Calmó el mar con su poder; porque sabía qué hacer aplastó a Rahab.",
+      "strong": [
+        "H1931",
+        "H3220",
+        "H5973",
+        "H1931",
+        "H3581",
+        "H3588",
+        "H3045",
+        "H3581",
+        "H6213",
+        "H0413",
+        "H7343"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "El aliento de su voz embelleció los cielos; con su mano atravesó la serpiente que se desliza.",
+      "strong": [
+        "H1931",
+        "H0553",
+        "H4480",
+        "H1931",
+        "H6963",
+        "H0582",
+        "H8064",
+        "H5973",
+        "H1931",
+        "H3027",
+        "H1931",
+        "H5175",
+        "H3027",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Esto es sólo un poco de todo lo que hace; lo que oímos de él es apenas un susurro, así que quién puede entender su poder atronador?”",
+      "strong": [
+        "H1697",
+        "H1697",
+        "H0910",
+        "H0259",
+        "H8102",
+        "H1697",
+        "H3605",
+        "H1697",
+        "H4100",
+        "H6213",
+        "H1697",
+        "H4100",
+        "H8085",
+        "H1697",
+        "H4310",
+        "H1697",
+        "H0259",
+        "H3541",
+        "H4100",
+        "H4310",
+        "H3201",
+        "H7919",
+        "H1931",
+        "H3027"
+      ]
+    }
+  ]
+}

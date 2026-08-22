@@ -1,1 +1,454 @@
-{"version":"spa-vbl","book":"job","chapter":7,"data":[{"verse":"1","text":"“¿No es la vida de los seres humanos como una condena a trabajos forzados? ¿No pasan sus días como los de un jornalero?"},{"verse":"2","text":"Como un esclavo que anhela un poco de sombra, como un obrero que espera ansiosamente el día de la paga,"},{"verse":"3","text":"me han tocado meses de vacío y noches de miseria."},{"verse":"4","text":"Cuando me acuesto me pregunto: ‘¿Cuándo me levantaré?’ Pero la noche sigue y sigue, y doy vueltas en la cama hasta el amanecer."},{"verse":"5","text":"Mi cuerpo está cubierto de gusanos y sucio; mi piel está agrietada, con llagas que supuran."},{"verse":"6","text":"Mis días pasan más rápido que la lanzadera de un tejedor7:6 La imagen es la de una tejedora trabajando en un telar, azotando la lanzadera de un lado a otro. y llegan a su fin sin esperanza."},{"verse":"7","text":"Recuerda que mi vida es sólo un soplo; no volveré a ver la felicidad."},{"verse":"8","text":"Los que me miran ya no me verán; sus ojos me buscarán, pero yo me habré ido.7:8 “Me habré ido”: en otras palabras, estará muerto; también en el verso 21."},{"verse":"9","text":"Cuando una nube desaparece, se va, al igual que quien baja al Seol7:9 “Seol”: el lugar de los muertos. no vuelve a subir."},{"verse":"10","text":"Nunca volverán a casa, y la gente que conocían los olvidará.7:10 Literalmente, “Su lugar no lo conocerá más”."},{"verse":"11","text":"“Entonces no, no me callaré; hablaré en la agonía de mi espíritu; me quejaré en la amargura de mi alma."},{"verse":"12","text":"¿Acaso soy el mar, o soy un monstruo marino para que ustedes tengan que cuidarme?"},{"verse":"13","text":"Si me digo a mí mismo: ‘Me sentiré mejor si me acuesto en mi cama’, o ‘me servirá recostarme en mi sofá’,"},{"verse":"14","text":"entonces me asustas tanto con sueños y con visiones"},{"verse":"15","text":"que prefiero ser estrangulado; prefiero morir antes que convertirme en un simple saco de huesos."},{"verse":"16","text":"“¡Odio mi vida! Sé que no viviré mucho tiempo. Déjame en paz porque mi vida es sólo un soplo.7:16 “Sólo un soplo”: en otras palabras, no tiene ningún propósito o significado."},{"verse":"17","text":"¿Por qué los seres humanos son tan importantes para ti? ¿Por qué te preocupas tanto por ellos"},{"verse":"18","text":"que los vigilas cada mañana y los examinas a cada momento? ¿No dejarás nunca de mirarme?"},{"verse":"19","text":"¿No me dejarás nunca en paz el tiempo suficiente para recuperar el aliento?7:19 “Coger el aliento”: literalmente, “tragar mi saliva”."},{"verse":"20","text":"¿Qué he hecho mal? ¿Qué te he hecho, Vigilante de la Humanidad? ¿Por qué me has convertido en tu objetivo, de tal modo que soy una carga hasta para mí mismo?"},{"verse":"21","text":"Si es así, ¿por qué no perdonas mis pecados y quitas mi culpa? Ahora mismo voy a tumbarme en el polvo, y aunque me busques, me habré ido”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 7,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“¿No es la vida de los seres humanos como una condena a trabajos forzados? ¿No pasan sus días como los de un jornalero?",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H5921",
+        "H3117",
+        "H5921",
+        "H5921",
+        "H5315",
+        "H1397",
+        "H5921",
+        "H0259",
+        "H5921",
+        "H6045",
+        "H3808",
+        "H5674",
+        "H1931",
+        "H3117",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Como un esclavo que anhela un poco de sombra, como un obrero que espera ansiosamente el día de la paga,",
+      "strong": [
+        "H0349",
+        "H0259",
+        "H0834",
+        "H7602",
+        "H0259",
+        "H4592",
+        "H4480",
+        "H6738",
+        "H0349",
+        "H0259",
+        "H0834",
+        "H6960",
+        "H1931",
+        "H3117",
+        "H4480",
+        "H1931",
+        "H7939"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "me han tocado meses de vacío y noches de miseria.",
+      "strong": [
+        "H0413",
+        "H4191",
+        "H3391",
+        "H4480",
+        "H7387",
+        "H1571",
+        "H3915",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Cuando me acuesto me pregunto: ‘¿Cuándo me levantaré?’ Pero la noche sigue y sigue, y doy vueltas en la cama hasta el amanecer.",
+      "strong": [
+        "H4970",
+        "H0413",
+        "H0413",
+        "H7592",
+        "H4970",
+        "H0413",
+        "H6965",
+        "H3588",
+        "H7646",
+        "H3915",
+        "H1214",
+        "H5704",
+        "H1214",
+        "H5704",
+        "H5414",
+        "H6471",
+        "H5704",
+        "H7646",
+        "H4904",
+        "H5704",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Mi cuerpo está cubierto de gusanos y sucio; mi piel está agrietada, con llagas que supuran.",
+      "strong": [
+        "H0589",
+        "H5038",
+        "H2063",
+        "H5968",
+        "H3847",
+        "H7415",
+        "H1571",
+        "H0589",
+        "H5785",
+        "H2063",
+        "H5973",
+        "H0834"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Mis días pasan más rápido que la lanzadera de un tejedor y llegan a su fin sin esperanza.",
+      "strong": [
+        "H0589",
+        "H3117",
+        "H5674",
+        "H4480",
+        "H4480",
+        "H1931",
+        "H4480",
+        "H0259",
+        "H1571",
+        "H4480",
+        "H1931",
+        "H7093",
+        "H3808",
+        "H8615"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Recuerda que mi vida es sólo un soplo; no volveré a ver la felicidad.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H2416",
+        "H3588",
+        "H0910",
+        "H0259",
+        "H7307",
+        "H3808",
+        "H7725",
+        "H5869",
+        "H7200",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los que me miran ya no me verán; sus ojos me buscarán, pero yo me habré ido.",
+      "strong": [
+        "H0582",
+        "H3808",
+        "H0413",
+        "H6437",
+        "H3528",
+        "H3808",
+        "H0413",
+        "H7200",
+        "H1931",
+        "H5869",
+        "H0413",
+        "H1245",
+        "H3588",
+        "H0589",
+        "H0413",
+        "H3212"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Cuando una nube desaparece, se va, al igual que quien baja al Seol no vuelve a subir.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H6051",
+        "H3808",
+        "H3212",
+        "H0413",
+        "H2505",
+        "H3808",
+        "H4310",
+        "H3381",
+        "H0413",
+        "H3808",
+        "H7725",
+        "H0413",
+        "H5927"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Nunca volverán a casa, y la gente que conocían los olvidará.",
+      "strong": [
+        "H3808",
+        "H7725",
+        "H0413",
+        "H1004",
+        "H1571",
+        "H1931",
+        "H1471",
+        "H3808",
+        "H3045",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "“Entonces no, no me callaré; hablaré en la agonía de mi espíritu; me quejaré en la amargura de mi alma.",
+      "strong": [
+        "H1571",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H2790",
+        "H1696",
+        "H5921",
+        "H1571",
+        "H4480",
+        "H5315",
+        "H7307",
+        "H0413",
+        "H5921",
+        "H1571",
+        "H4751",
+        "H4480",
+        "H5315",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¿Acaso soy el mar, o soy un monstruo marino para que ustedes tengan que cuidarme?",
+      "strong": [
+        "H0194",
+        "H0595",
+        "H5921",
+        "H3220",
+        "H0176",
+        "H0595",
+        "H0259",
+        "H5921",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Si me digo a mí mismo: ‘Me sentiré mejor si me acuesto en mi cama’, o ‘me servirá recostarme en mi sofá’,",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0559",
+        "H3588",
+        "H5375",
+        "H1931",
+        "H3588",
+        "H2896",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5375",
+        "H0176",
+        "H3588",
+        "H5647",
+        "H3588",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "entonces me asustas tanto con sueños y con visiones",
+      "strong": [
+        "H0227",
+        "H0413",
+        "H3651",
+        "H5973",
+        "H2472",
+        "H1571",
+        "H5973",
+        "H2384"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "que prefiero ser estrangulado; prefiero morir antes que convertirme en un simple saco de huesos.",
+      "strong": [
+        "H0834",
+        "H5315",
+        "H4191",
+        "H6440",
+        "H0834",
+        "H5921",
+        "H0259",
+        "H6615",
+        "H3318",
+        "H4480",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "“¡Odio mi vida! Sé que no viviré mucho tiempo. Déjame en paz porque mi vida es sólo un soplo.",
+      "strong": [
+        "H4895",
+        "H0589",
+        "H3117",
+        "H4480",
+        "H3588",
+        "H3808",
+        "H3885",
+        "H3966",
+        "H3117",
+        "H2308",
+        "H4480",
+        "H7965",
+        "H3588",
+        "H0589",
+        "H3117",
+        "H3588",
+        "H0910",
+        "H0259",
+        "H5380"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "¿Por qué los seres humanos son tan importantes para ti? ¿Por qué te preocupas tanto por ellos",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5315",
+        "H1397",
+        "H3588",
+        "H3966",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3651",
+        "H3588",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "que los vigilas cada mañana y los examinas a cada momento? ¿No dejarás nunca de mirarme?",
+      "strong": [
+        "H0834",
+        "H0582",
+        "H3605",
+        "H1242",
+        "H1571",
+        "H0582",
+        "H0413",
+        "H3605",
+        "H7281",
+        "H3808",
+        "H5800",
+        "H3808",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¿No me dejarás nunca en paz el tiempo suficiente para recuperar el aliento?",
+      "strong": [
+        "H3808",
+        "H4480",
+        "H5800",
+        "H3808",
+        "H4480",
+        "H7965",
+        "H1931",
+        "H6256",
+        "H8505",
+        "H5704",
+        "H1931",
+        "H0553"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¿Qué he hecho mal? ¿Qué te he hecho, Vigilante de la Humanidad? ¿Por qué me has convertido en tu objetivo, de tal modo que soy una carga hasta para mí mismo?",
+      "strong": [
+        "H4100",
+        "H4392",
+        "H1961",
+        "H6466",
+        "H4100",
+        "H5921",
+        "H4392",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4100",
+        "H5921",
+        "H4191",
+        "H7725",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H3651",
+        "H5352",
+        "H4100",
+        "H1961",
+        "H0259",
+        "H4853",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Si es así, ¿por qué no perdonas mis pecados y quitas mi culpa? Ahora mismo voy a tumbarme en el polvo, y aunque me busques, me habré ido”.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H5375",
+        "H6588",
+        "H3588",
+        "H5375",
+        "H5375",
+        "H5352",
+        "H6258",
+        "H1931",
+        "H1980",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H6083",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1245",
+        "H3588",
+        "H3212"
+      ]
+    }
+  ]
+}

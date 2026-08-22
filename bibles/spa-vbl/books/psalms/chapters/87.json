@@ -1,1 +1,115 @@
-{"version":"spa-vbl","book":"psalms","chapter":87,"data":[{"verse":"1","text":"El Señor fundó la ciudad en su monte santo."},{"verse":"2","text":"Jerusalén es la ciudad que ama más que a cualquier ciudad de Israel.87:2 “Israel”: Literalmente, Jacob."},{"verse":"3","text":"¡Muchas cosas maravillosas te son dichas, ciudad de Dios! Selah."},{"verse":"4","text":"Menciono a Egipto.87:4 Se debate sobre el significado de este versículo. Parece decir que. Pesar del patriotismo de cada país/ciudad mencionados, lo mejor es nacer en Jerusalén. (Ver el versículo siguiente)."},{"verse":"5","text":"Será dicho de Jerusalén: “Todo el mundo nació allí”,87:5 En otras palabras, todos tendrán el derecho a la ciudadanía de Jerusalén. y el Altísimo la hará segura."},{"verse":"6","text":"Cuando el Señor cuente las naciones, escribirá: “Ellos nacieron allí”.87:6 En Jerusalén. Selah."},{"verse":"7","text":"Los cantores y bailarines dirán: “Viviendo aquí me siento en casa”.87:7 Literalmente, “Todas mis fuentes están en ti”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 87,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El Señor fundó la ciudad en su monte santo.",
+      "strong": [
+        "H1121",
+        "H0113",
+        "H3245",
+        "H1931",
+        "H5892",
+        "H5921",
+        "H1931",
+        "H6944",
+        "H6944"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Jerusalén es la ciudad que ama más que a cualquier ciudad de Israel.",
+      "strong": [
+        "H1961",
+        "H3605",
+        "H5892",
+        "H3605",
+        "H0157",
+        "H5750",
+        "H3605",
+        "H3068",
+        "H3605",
+        "H5892",
+        "H4480",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Muchas cosas maravillosas te son dichas, ciudad de Dios! Selah.",
+      "strong": [
+        "H7227",
+        "H1697",
+        "H6381",
+        "H0859",
+        "H1961",
+        "H5892",
+        "H4480",
+        "H0430",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Menciono a Egipto.",
+      "strong": [
+        "H5973",
+        "H4714"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Será dicho de Jerusalén: “Todo el mundo nació allí”, y el Altísimo la hará segura.",
+      "strong": [
+        "H1931",
+        "H0559",
+        "H4480",
+        "H3605",
+        "H1931",
+        "H8398",
+        "H3205",
+        "H8033",
+        "H1571",
+        "H1931",
+        "H5945",
+        "H1931",
+        "H6213",
+        "H0982"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Cuando el Señor cuente las naciones, escribirá: “Ellos nacieron allí”. Selah.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3068",
+        "H5608",
+        "H1992",
+        "H1471",
+        "H3789",
+        "H1992",
+        "H3205",
+        "H8033",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los cantores y bailarines dirán: “Viviendo aquí me siento en casa”.",
+      "strong": [
+        "H3605",
+        "H7891",
+        "H1571",
+        "H0559",
+        "H2416",
+        "H6311",
+        "H0413",
+        "H5921",
+        "H1004"
+      ]
+    }
+  ]
+}

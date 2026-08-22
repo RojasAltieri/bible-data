@@ -1,1 +1,124 @@
-{"version":"spa-vbl","book":"psalms","chapter":126,"data":[{"verse":"1","text":"¡Cuando el Señor trajo a Israel de vuelta del cautiverio, fue como si estuviéramos soñando!"},{"verse":"2","text":"Reímos mucho y cantamos de alegría. Las otras naciones dijeron, “El Señor ha hecho cosas maravillosas por su pueblo”."},{"verse":"3","text":"Ciertamente el Señor ha hecho cosas maravillosas por nosotros. ¡Cuánto nos alegramos!"},{"verse":"4","text":"Por favor, vuelve y ayúdanos otra vez, Señor. Renuévanos como los arroyos de agua que renuevan el desierto de Negev."},{"verse":"5","text":"Los que siembran en lágrimas cosecharán con gritos de alegría!"},{"verse":"6","text":"Los que lloran cuando salen a sembrar su semilla cantarán de júbilo cuando lleven la cosecha a casa."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 126,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Cuando el Señor trajo a Israel de vuelta del cautiverio, fue como si estuviéramos soñando!",
+      "strong": [
+        "H1961",
+        "H1931",
+        "H3068",
+        "H0935",
+        "H3068",
+        "H3478",
+        "H4480",
+        "H2015",
+        "H4480",
+        "H1546",
+        "H1961",
+        "H1961",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Reímos mucho y cantamos de alegría. Las otras naciones dijeron, “El Señor ha hecho cosas maravillosas por su pueblo”.",
+      "strong": [
+        "H3966",
+        "H1571",
+        "H5973",
+        "H8057",
+        "H1992",
+        "H0312",
+        "H1471",
+        "H0559",
+        "H5973",
+        "H3068",
+        "H3541",
+        "H6213",
+        "H1697",
+        "H6381",
+        "H5921",
+        "H1931",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Ciertamente el Señor ha hecho cosas maravillosas por nosotros. ¡Cuánto nos alegramos!",
+      "strong": [
+        "H0389",
+        "H5973",
+        "H3068",
+        "H3541",
+        "H6213",
+        "H1697",
+        "H6381",
+        "H5921",
+        "H5973",
+        "H0834",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Por favor, vuelve y ayúdanos otra vez, Señor. Renuévanos como los arroyos de agua que renuevan el desierto de Negev.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H7725",
+        "H1571",
+        "H5826",
+        "H5750",
+        "H6471",
+        "H3068",
+        "H0349",
+        "H0582",
+        "H5158",
+        "H4480",
+        "H4325",
+        "H0834",
+        "H1931",
+        "H4057",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los que siembran en lágrimas cosecharán con gritos de alegría!",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H5921",
+        "H1832",
+        "H5973",
+        "H8643",
+        "H4480",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los que lloran cuando salen a sembrar su semilla cantarán de júbilo cuando lleven la cosecha a casa.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H1058",
+        "H3588",
+        "H1980",
+        "H0413",
+        "H1931",
+        "H7442",
+        "H4480",
+        "H8643",
+        "H3588",
+        "H5375",
+        "H1931",
+        "H0413",
+        "H1004"
+      ]
+    }
+  ]
+}

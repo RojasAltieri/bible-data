@@ -1,1 +1,334 @@
-{"version":"spa-vbl","book":"psalms","chapter":116,"data":[{"verse":"1","text":"Yo amo al Señor porque Él me escucha, escucha mi clamor pidiendo ayuda."},{"verse":"2","text":"Lo invocaré mientras viva porque Él atiende lo que digo."},{"verse":"3","text":"Estuve atrapado por las trampas de la muerte; Estuve cautivo por los terrores de la tumba. Todo lo que experimenté fue dolor y sufrimiento."},{"verse":"4","text":"Entonces clamé al Señor, “¡Dios, por favor, sálvame!”"},{"verse":"5","text":"¡El Señor es justo y bueno! ¡Nuestro Dios es un Dios compasivo!"},{"verse":"6","text":"El Señor cuida de los indefensos;116:6 Literalmente, “a los simples”. cuando fui derribado Él me salvó."},{"verse":"7","text":"Puedo estar en paz otra vez porque el Señor ha sido bueno conmigo."},{"verse":"8","text":"Porque me has salvado de la muerte, has detenido mi llanto, y me has salvado de caer."},{"verse":"9","text":"Ahora puedo caminar con el Señor en la tierra de los vivos."},{"verse":"10","text":"Confié en ti, y clamé a ti diciendo, “¡Estoy sufriendo terriblemente!”"},{"verse":"11","text":"Estaba tan molesto que dije, “¡Todos son unos mentirosos!”"},{"verse":"12","text":"¿Qué puedo darle al Señor en agradecimiento por todo lo que ha hecho por mí?"},{"verse":"13","text":"Levantaré la copa de la salvación116:13 Se cree que se refiere a una ofrenda de vino. y adoraré al Señor."},{"verse":"14","text":"Cumpliré mis promesas al Señor para que todos puedan ver.116:14 Por lo general, se entiende que significa promesas de hacer ofrendas como parte del sistema de sacrificios."},{"verse":"15","text":"Le duele116:15 “Le duele”: la palabra usada aquí es “es costosa”. En otras palabras, el Señor sufre una pérdida cuando los que confían en él mueren. al Señor cuando mueren116:15 En otras palabras, se preocupa profundamente por sus seres queridos y se entristece cuando mueren. aquellos que ama."},{"verse":"16","text":"Señor, realmente soy tu siervo, te sirvo tal y como y mi madre lo hizo antes de mí, sin embargo, tú me has liberado."},{"verse":"17","text":"Te ofreceré sacrificio en acción de gracias y te alabaré."},{"verse":"18","text":"Cumpliré mis promesas en presencia de todo tu pueblo,"},{"verse":"19","text":"en la casa del Señor, justo en Jerusalén. ¡Alabado sea el Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 116,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Yo amo al Señor porque Él me escucha, escucha mi clamor pidiendo ayuda.",
+      "strong": [
+        "H3588",
+        "H0157",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H8085",
+        "H8085",
+        "H0589",
+        "H6818",
+        "H7592",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Lo invocaré mientras viva porque Él atiende lo que digo.",
+      "strong": [
+        "H1931",
+        "H7121",
+        "H3588",
+        "H2416",
+        "H3588",
+        "H3588",
+        "H7181",
+        "H1931",
+        "H3588",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Estuve atrapado por las trampas de la muerte; Estuve cautivo por los terrores de la tumba. Todo lo que experimenté fue dolor y sufrimiento.",
+      "strong": [
+        "H5975",
+        "H5921",
+        "H1992",
+        "H4480",
+        "H1931",
+        "H4194",
+        "H5975",
+        "H7617",
+        "H5921",
+        "H0582",
+        "H1091",
+        "H4480",
+        "H1931",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H3015",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Entonces clamé al Señor, “¡Dios, por favor, sálvame!”",
+      "strong": [
+        "H0227",
+        "H7121",
+        "H0413",
+        "H3068",
+        "H3068",
+        "H5921",
+        "H7522",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¡El Señor es justo y bueno! ¡Nuestro Dios es un Dios compasivo!",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1961",
+        "H6662",
+        "H1571",
+        "H2896",
+        "H0587",
+        "H3068",
+        "H1961",
+        "H0259",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "El Señor cuida de los indefensos; cuando fui derribado Él me salvó.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H8104",
+        "H4480",
+        "H0582",
+        "H3588",
+        "H1961",
+        "H6555",
+        "H1931",
+        "H0413",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Puedo estar en paz otra vez porque el Señor ha sido bueno conmigo.",
+      "strong": [
+        "H3201",
+        "H5921",
+        "H4496",
+        "H5750",
+        "H6471",
+        "H3588",
+        "H5921",
+        "H3068",
+        "H1580",
+        "H1961",
+        "H2896",
+        "H0854"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Porque me has salvado de la muerte, has detenido mi llanto, y me has salvado de caer.",
+      "strong": [
+        "H3588",
+        "H4480",
+        "H4191",
+        "H4480",
+        "H3588",
+        "H4194",
+        "H4191",
+        "H6113",
+        "H5315",
+        "H1065",
+        "H3588",
+        "H4480",
+        "H4191",
+        "H4480",
+        "H3782"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Ahora puedo caminar con el Señor en la tierra de los vivos.",
+      "strong": [
+        "H6258",
+        "H3201",
+        "H5973",
+        "H1931",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H6440",
+        "H0582",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Confié en ti, y clamé a ti diciendo, “¡Estoy sufriendo terriblemente!”",
+      "strong": [
+        "H0982",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H7121",
+        "H3588",
+        "H0859",
+        "H1696",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Estaba tan molesto que dije, “¡Todos son unos mentirosos!”",
+      "strong": [
+        "H1961",
+        "H3966",
+        "H3605",
+        "H0559",
+        "H3605",
+        "H1961",
+        "H0428",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¿Qué puedo darle al Señor en agradecimiento por todo lo que ha hecho por mí?",
+      "strong": [
+        "H4100",
+        "H3201",
+        "H5414",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H5921",
+        "H3605",
+        "H4100",
+        "H4100",
+        "H3541",
+        "H6213",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Levantaré la copa de la salvación y adoraré al Señor.",
+      "strong": [
+        "H5375",
+        "H1931",
+        "H7105",
+        "H4480",
+        "H1931",
+        "H6413",
+        "H1571",
+        "H7812",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Cumpliré mis promesas al Señor para que todos puedan ver.",
+      "strong": [
+        "H3615",
+        "H0589",
+        "H0413",
+        "H3068",
+        "H5971",
+        "H4994",
+        "H3605",
+        "H7200"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Le duele al Señor cuando mueren aquellos que ama.",
+      "strong": [
+        "H5869",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H4191",
+        "H0479",
+        "H0834",
+        "H0157"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Señor, realmente soy tu siervo, te sirvo tal y como y mi madre lo hizo antes de mí, sin embargo, tú me has liberado.",
+      "strong": [
+        "H3068",
+        "H0595",
+        "H0859",
+        "H5650",
+        "H3588",
+        "H3651",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0589",
+        "H0517",
+        "H1931",
+        "H6213",
+        "H3588",
+        "H3588",
+        "H0589",
+        "H3808",
+        "H0859",
+        "H3588",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Te ofreceré sacrificio en acción de gracias y te alabaré.",
+      "strong": [
+        "H0859",
+        "H5927",
+        "H2077",
+        "H5921",
+        "H4480",
+        "H1571",
+        "H0859",
+        "H3034"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Cumpliré mis promesas en presencia de todo tu pueblo,",
+      "strong": [
+        "H3615",
+        "H0589",
+        "H5921",
+        "H6440",
+        "H5048",
+        "H3605",
+        "H0859",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "en la casa del Señor, justo en Jerusalén. ¡Alabado sea el Señor!",
+      "strong": [
+        "H8432",
+        "H1931",
+        "H1004",
+        "H4480",
+        "H3068",
+        "H6662",
+        "H8432",
+        "H1961",
+        "H1931",
+        "H3068"
+      ]
+    }
+  ]
+}

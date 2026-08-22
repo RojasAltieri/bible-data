@@ -1,1 +1,143 @@
-{"version":"spa-vbl","book":"psalms","chapter":124,"data":[{"verse":"1","text":"Si el Señor no hubiera estado para nosotros, ¿Qué habría pasado? Todo Israel diga:"},{"verse":"2","text":"Si el Señor no hubiera estado para nosotros, ¿Que hubiera pasado cuando los pueblos nos atacaron?"},{"verse":"3","text":"Nos hubieran tragado vivos al encenderse su furor contra nosotros."},{"verse":"4","text":"Se hubieran precipitado como una inundación; nos habrían arrastrado por completo como una corriente torrencial."},{"verse":"5","text":"Habrían pasado por encima de nosotros con fuerza como aguas furiosas, ahogándonos."},{"verse":"6","text":"Alaben al Señor, quién no nos entregó a ellos como presas para ser destruidos por sus dientes."},{"verse":"7","text":"Escapamos de ellos como pájaros huyendo del cazador. ¡La trampa se rompió y volamos lejos!"},{"verse":"8","text":"Nuestra ayuda viene del Señor, quien hizo los cielos y la tierra."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 124,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Si el Señor no hubiera estado para nosotros, ¿Qué habría pasado? Todo Israel diga:",
+      "strong": [
+        "H3884",
+        "H1931",
+        "H3068",
+        "H3884",
+        "H1961",
+        "H1961",
+        "H0587",
+        "H4994",
+        "H5674",
+        "H3605",
+        "H3478",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Si el Señor no hubiera estado para nosotros, ¿Que hubiera pasado cuando los pueblos nos atacaron?",
+      "strong": [
+        "H3884",
+        "H5921",
+        "H3068",
+        "H3884",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5674",
+        "H1961",
+        "H5921",
+        "H5971",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Nos hubieran tragado vivos al encenderse su furor contra nosotros.",
+      "strong": [
+        "H0587",
+        "H1104",
+        "H2416",
+        "H0413",
+        "H1931",
+        "H2740",
+        "H5921",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Se hubieran precipitado como una inundación; nos habrían arrastrado por completo como una corriente torrencial.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H0259",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Habrían pasado por encima de nosotros con fuerza como aguas furiosas, ahogándonos.",
+      "strong": [
+        "H5674",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3581",
+        "H5921",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Alaben al Señor, quién no nos entregó a ellos como presas para ser destruidos por sus dientes.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H4310",
+        "H3808",
+        "H0587",
+        "H5414",
+        "H3068",
+        "H1992",
+        "H0349",
+        "H5414",
+        "H5315",
+        "H2040",
+        "H5414",
+        "H1931",
+        "H8127"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Escapamos de ellos como pájaros huyendo del cazador. ¡La trampa se rompió y volamos lejos!",
+      "strong": [
+        "H4480",
+        "H1992",
+        "H0349",
+        "H5251",
+        "H4480",
+        "H6718",
+        "H1931",
+        "H3045",
+        "H6556",
+        "H1571",
+        "H7350"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Nuestra ayuda viene del Señor, quien hizo los cielos y la tierra.",
+      "strong": [
+        "H0587",
+        "H5828",
+        "H0935",
+        "H4480",
+        "H3068",
+        "H6213",
+        "H6213",
+        "H0582",
+        "H8064",
+        "H1571",
+        "H1931",
+        "H0776"
+      ]
+    }
+  ]
+}

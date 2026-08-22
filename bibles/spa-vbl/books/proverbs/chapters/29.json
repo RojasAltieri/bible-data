@@ -1,1 +1,509 @@
-{"version":"spa-vbl","book":"proverbs","chapter":29,"data":[{"verse":"1","text":"Cualquiera que siga rechazando obstinadamente muchas advertencias, sufrirá destrucción repentina, sin ningún remedio."},{"verse":"2","text":"Cuando los justos están a cargo, todos celebran; pero cuando los malvados gobierna, todos gimen."},{"verse":"3","text":"El hombre que ama la sabiduría, hace feliz a su padre; pero el que visita a las prostitutas, está desperdiciando su dinero."},{"verse":"4","text":"El rey que gobierna con justicia hace que el país esté seguro; pero el que pide sobornos, lo destruirá."},{"verse":"5","text":"Los que adulan a sus amigos ponen una trampa para hacerlos caer.29:5.“Hacerlos caer”: Literalmente, “para sus pies”."},{"verse":"6","text":"Los malvados están atrapados por sus propios pecados; pero los que hacen el bien, cantan y celebran."},{"verse":"7","text":"Los justos se preocupan por tartar a los pobres con justiciar; pero los malvados no piensan en ello."},{"verse":"8","text":"Los cínicos pueden infamar toda una ciudad, pero los sabios hacen calmar el furor."},{"verse":"9","text":"Cuando un sabio lleva a un tonto a la corte, habrá rabia y ridículo pero sin soluciones."},{"verse":"10","text":"Los asesinos odian a las personas con integridad, pero los que viven rectamente tratarán de ayudarlos.29:10.El significado de la segunda frase aún se dabate."},{"verse":"11","text":"Los tontos dejan salir toda su rabia, pero los sabios la contienen."},{"verse":"12","text":"El gobernante que escucha la mentira no tendrá nada, sino solo oficiales malvados."},{"verse":"13","text":"Los pobres y sus opresores tienen algo en común: el Señor les da la vida."},{"verse":"14","text":"Si un rey juzga con justicia a los pobres, tendrá un largo reinado."},{"verse":"15","text":"La disciplina y la corrección proporcionan sabiduría; pero el hijo que no recibe disciplina es una vergüenza para su madre."},{"verse":"16","text":"Cuando los malvados están al poder, el pecado aumenta; pero los justos verán su caída."},{"verse":"17","text":"Disciplina a tus hijos, y no te causarán preocupaciones. Te harán muy feliz."},{"verse":"18","text":"Sin la revelación de Dios el pueblo se descontrola; pero los que guardan la ley son felices."},{"verse":"19","text":"Un siervo no puede ser disciplinado solo con palabras; aunque entienden, no siguen la instrucción."},{"verse":"20","text":"¿Has visto a un hombre que habla sin pensar? ¡Hay más esperanza para un tonto que para él!"},{"verse":"21","text":"El siervo consentido desde la infancia será incontrolable.29:21.“Incontrolable”: apenas una entre muchas interpretaciones."},{"verse":"22","text":"La gente enojada crea problemas, los irascibles cometerán muchos pecados."},{"verse":"23","text":"Si eres orgulloso serás humillado; pero si eres humilde, serás honrado."},{"verse":"24","text":"El compañero de un ladrón aborrece su vida; incluso bajo amenaza y maldiciones, no podrá decir la verdad.29:24.Ver Levítico 5."},{"verse":"25","text":"El temor a la gente es una trampa. Pero si confías en el Señor estarás a salvo."},{"verse":"26","text":"Muchos procuran el favor de un gobernante; pero la justiciar viene del Señor."},{"verse":"27","text":"Los justos aborrecen a los injustos; los malvados aborrecen a los que hacen el bien."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 29,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Cualquiera que siga rechazando obstinadamente muchas advertencias, sufrirá destrucción repentina, sin ningún remedio.",
+      "strong": [
+        "H3605",
+        "H0834",
+        "H7725",
+        "H7227",
+        "H5375",
+        "H7701",
+        "H3808",
+        "H3605",
+        "H4832"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Cuando los justos están a cargo, todos celebran; pero cuando los malvados gobiernan, todos gimen.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H6662",
+        "H1961",
+        "H0413",
+        "H3027",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H0582",
+        "H3605",
+        "H5008"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El hombre que ama la sabiduría, hace feliz a su padre; pero el que visita a las prostitutas, está desperdiciando su dinero.",
+      "strong": [
+        "H1931",
+        "H0376",
+        "H1952",
+        "H0157",
+        "H2451",
+        "H2451",
+        "H6213",
+        "H0413",
+        "H1931",
+        "H0001",
+        "H3588",
+        "H1931",
+        "H1952",
+        "H6485",
+        "H0413",
+        "H1992",
+        "H2063",
+        "H1931",
+        "H3701"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El rey que gobierna con justicia hace que el país esté seguro; pero el que pide sobornos, lo destruirá.",
+      "strong": [
+        "H1931",
+        "H4428",
+        "H0834",
+        "H3557",
+        "H5973",
+        "H4941",
+        "H6213",
+        "H0834",
+        "H1931",
+        "H0776",
+        "H5975",
+        "H0983",
+        "H3588",
+        "H1931",
+        "H0834",
+        "H7592",
+        "H1931",
+        "H7843"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Los que adulan a sus amigos ponen una trampa para hacerlos caer.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H7453",
+        "H8371",
+        "H6471",
+        "H5921",
+        "H3782"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los malvados están atrapados por sus propios pecados; pero los que hacen el bien, cantan y celebran.",
+      "strong": [
+        "H0582",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H6588",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H7442",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los justos se preocupan por trartar a los pobres con justiciar; pero los malvados no piensan en ello.",
+      "strong": [
+        "H0582",
+        "H6662",
+        "H3045",
+        "H5921",
+        "H0413",
+        "H0582",
+        "H1800",
+        "H5973",
+        "H3588",
+        "H0582",
+        "H3808",
+        "H1897",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los cínicos pueden inflamar toda una ciudad, pero los sabios hacen calmar el furor.",
+      "strong": [
+        "H2450",
+        "H3201",
+        "H3605",
+        "H0259",
+        "H7151",
+        "H3588",
+        "H2450",
+        "H2450",
+        "H6213",
+        "H1931",
+        "H2740"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Cuando un sabio lleva a un tonto a la corte, habrá rabia y ridículo pero sin soluciones.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H2450",
+        "H5375",
+        "H0413",
+        "H0259",
+        "H0413",
+        "H1931",
+        "H7088",
+        "H1961",
+        "H1571",
+        "H3588",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los asesinos odian a las personas con integridad, pero los que viven rectamente tratarán de ayudarlos.",
+      "strong": [
+        "H0582",
+        "H0413",
+        "H1992",
+        "H5315",
+        "H5973",
+        "H8537",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H4334",
+        "H1696",
+        "H1818"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Los tontos dejan salir toda su rabia, pero los sabios la contienen.",
+      "strong": [
+        "H3605",
+        "H2308",
+        "H3318",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H3605",
+        "H2450",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El gobernante que escucha la mentira no tendrá nada, sino solo oficiales malvados.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H7181",
+        "H5921",
+        "H8267",
+        "H5921",
+        "H1961",
+        "H1697",
+        "H3588",
+        "H0910",
+        "H7860"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los pobres y sus opresores tienen algo en común: el Señor les da la vida.",
+      "strong": [
+        "H0582",
+        "H1800",
+        "H1571",
+        "H1931",
+        "H6031",
+        "H1992",
+        "H3920",
+        "H5921",
+        "H7230",
+        "H1931",
+        "H3068",
+        "H0413",
+        "H5414",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Si un rey juzga con justicia a los pobres, tendrá un largo reinado.",
+      "strong": [
+        "H0518",
+        "H0259",
+        "H4428",
+        "H8199",
+        "H5973",
+        "H6664",
+        "H0413",
+        "H0582",
+        "H1800",
+        "H1961",
+        "H0259",
+        "H7230",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "La disciplina y la corrección proporcionan sabiduría; pero el hijo que no recibe disciplina es una vergüenza para su madre.",
+      "strong": [
+        "H2451",
+        "H1571",
+        "H2451",
+        "H4148",
+        "H2451",
+        "H3588",
+        "H1931",
+        "H1121",
+        "H0834",
+        "H3808",
+        "H3947",
+        "H1961",
+        "H0259",
+        "H0955",
+        "H5414",
+        "H1931",
+        "H0517"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Cuando los malvados están al poder, el pecado aumenta; pero los justos verán su caída.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H1961",
+        "H0413",
+        "H3027",
+        "H1931",
+        "H6588",
+        "H7235",
+        "H3588",
+        "H0582",
+        "H6662",
+        "H7200",
+        "H1931",
+        "H7667"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Disciplina a tus hijos, y no te causarán preocupaciones. Te harán muy feliz.",
+      "strong": [
+        "H0413",
+        "H0859",
+        "H1121",
+        "H1571",
+        "H3808",
+        "H5315",
+        "H5315",
+        "H6213",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Sin la revelación de Dios el pueblo se descontrola; pero los que guardan la ley son felices.",
+      "strong": [
+        "H3808",
+        "H8104",
+        "H5971",
+        "H0430",
+        "H1931",
+        "H5971",
+        "H5971",
+        "H3588",
+        "H0582",
+        "H5971",
+        "H8104",
+        "H8104",
+        "H8451",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Un siervo no puede ser disciplinado solo con palabras; aunque entienden, no siguen la instrucción.",
+      "strong": [
+        "H0259",
+        "H5650",
+        "H3808",
+        "H3201",
+        "H5315",
+        "H0910",
+        "H3588",
+        "H1697",
+        "H3588",
+        "H0995",
+        "H3808",
+        "H1980",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¿Has visto a un hombre que habla sin pensar? ¡Hay más esperanza para un tonto que para él!",
+      "strong": [
+        "H4191",
+        "H7200",
+        "H4480",
+        "H0259",
+        "H0376",
+        "H4480",
+        "H1697",
+        "H3808",
+        "H3426",
+        "H4480",
+        "H8615",
+        "H4480",
+        "H0259",
+        "H4480",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "El siervo consentido desde la infancia será incontrolable.",
+      "strong": [
+        "H1931",
+        "H5650",
+        "H7971",
+        "H4480",
+        "H1931",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "La gente enojada crea problemas, los irascibles cometerán muchos pecados.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H1254",
+        "H1167",
+        "H7227",
+        "H6588"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Si eres orgulloso serás humillado; pero si eres humilde, serás honrado.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H1961",
+        "H6031",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H8217",
+        "H1961",
+        "H3513"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El compañero de un ladrón aborrece su vida; incluso bajo amenaza y maldiciones, no podrá decir la verdad.",
+      "strong": [
+        "H5973",
+        "H7453",
+        "H5973",
+        "H0259",
+        "H1590",
+        "H8130",
+        "H1931",
+        "H5315",
+        "H8478",
+        "H1571",
+        "H3994",
+        "H3808",
+        "H3808",
+        "H8085",
+        "H1931",
+        "H0571"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "El temor a la gente es una trampa. Pero si confías en el Señor estarás a salvo.",
+      "strong": [
+        "H1931",
+        "H2731",
+        "H3068",
+        "H1931",
+        "H1471",
+        "H1961",
+        "H0259",
+        "H3588",
+        "H0518",
+        "H0982",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H1961",
+        "H3068",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Muchos procuran el favor de un gobernante; pero la justicia viene del Señor.",
+      "strong": [
+        "H7227",
+        "H1931",
+        "H7522",
+        "H6440",
+        "H0259",
+        "H3588",
+        "H1931",
+        "H4941",
+        "H0935",
+        "H4480",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Los justos aborrecen a los injustos; los malvados aborrecen a los que hacen el bien.",
+      "strong": [
+        "H0582",
+        "H6662",
+        "H8130",
+        "H0413",
+        "H0582",
+        "H0582",
+        "H8130",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896"
+      ]
+    }
+  ]
+}

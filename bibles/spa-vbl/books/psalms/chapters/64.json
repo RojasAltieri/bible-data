@@ -1,1 +1,207 @@
-{"version":"spa-vbl","book":"psalms","chapter":64,"data":[{"verse":"1","text":"Dios, te suplico que escuches mi queja.64:1 O “problema”. Protégeme porque tengo miedo de mis enemigos."},{"verse":"2","text":"Guárdame de las conspiraciones de los malvados, de esta multitud llena de maldad."},{"verse":"3","text":"Sus palabras son hirientes como espadas, y de sus bocas emanan palabras venenosas como flechas."},{"verse":"4","text":"Desde sus escondites disparan contra los inocentes, sin ningún temor de ser atrapados."},{"verse":"5","text":"Animan a otros a hacer el mal y conspiran sobre cómo engañar a las personas diciendo: “Nadie lo sabrá”."},{"verse":"6","text":"Ellos conspiran en hacer el mal. Con orgullo dicen: “¡Qué gran plan hemos creado!”. No hay límites en las profundidades a las que la mente humana puede llegar."},{"verse":"7","text":"Pero Dios les disparará con flechas, y repentinamente caerán heridos."},{"verse":"8","text":"Tropezarán con sus propios engaños. Quienes los vean se reirán de ellos y con sus cabezas harán señal de burla."},{"verse":"9","text":"Entonces todos temerán. Dirán que esta es la obra de Dios, y se darán cuenta de las cosas que Él ha hecho.64:9 Or “Anuncian las obras de Dios y entienden su trabajo”."},{"verse":"10","text":"Los justos se alegrarán con el Señor y buscarán su protección. Los que viven en rectitud lo alabarán."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 64,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios, te suplico que escuches mi queja. Protégeme porque tengo miedo de mis enemigos.",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H0834",
+        "H0589",
+        "H1732",
+        "H2803",
+        "H4032",
+        "H4480",
+        "H0589",
+        "H0341"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Guárdame de las conspiraciones de los malvados, de esta multitud llena de maldad.",
+      "strong": [
+        "H5341",
+        "H4480",
+        "H1992",
+        "H4480",
+        "H0582",
+        "H4480",
+        "H2063",
+        "H1995",
+        "H4392",
+        "H4480",
+        "H5771"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Sus palabras son hirientes como espadas, y de sus bocas emanan palabras venenosas como flechas.",
+      "strong": [
+        "H1931",
+        "H1697",
+        "H1961",
+        "H0349",
+        "H2719",
+        "H1571",
+        "H4480",
+        "H1931",
+        "H6310",
+        "H1697",
+        "H0349"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Desde sus escondites disparan contra los inocentes, sin ningún temor de ser atrapados.",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H5921",
+        "H0582",
+        "H3808",
+        "H3605",
+        "H3372",
+        "H1697",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Animan a otros a hacer el mal y conspiran sobre cómo engañar a las personas diciendo: “Nadie lo sabrá”.",
+      "strong": [
+        "H0413",
+        "H0312",
+        "H0413",
+        "H6213",
+        "H1931",
+        "H7451",
+        "H1571",
+        "H5921",
+        "H0349",
+        "H0413",
+        "H1992",
+        "H5315",
+        "H0559",
+        "H3808",
+        "H3808",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Ellos conspiran en hacer el mal. Con orgullo dicen: “¡Qué gran plan hemos creado!”. No hay límites en las profundidades a las que la mente humana puede llegar.",
+      "strong": [
+        "H1992",
+        "H5921",
+        "H6213",
+        "H4310",
+        "H7451",
+        "H5973",
+        "H0559",
+        "H4310",
+        "H1419",
+        "H0935",
+        "H3808",
+        "H4310",
+        "H5921",
+        "H1992",
+        "H0413",
+        "H1992",
+        "H4310",
+        "H1931",
+        "H0376",
+        "H3201",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Pero Dios les disparará con flechas, y repentinamente caerán heridos.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H0413",
+        "H5973",
+        "H1571",
+        "H6597",
+        "H5307",
+        "H2491"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Tropezarán con sus propios engaños. Quienes los vean se reirán de ellos y con sus cabezas harán señal de burla.",
+      "strong": [
+        "H3782",
+        "H5973",
+        "H1931",
+        "H4310",
+        "H1961",
+        "H2372",
+        "H1961",
+        "H4480",
+        "H1992",
+        "H1571",
+        "H5973",
+        "H1931",
+        "H7218",
+        "H6213",
+        "H0226",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Entonces todos temerán. Dirán que esta es la obra de Dios, y se darán cuenta de las cosas que Él ha hecho.",
+      "strong": [
+        "H0227",
+        "H3605",
+        "H3372",
+        "H0559",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H4639",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H5414",
+        "H6485",
+        "H5921",
+        "H5921",
+        "H1697",
+        "H5921",
+        "H5921",
+        "H3541",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los justos se alegrarán con el Señor y buscarán su protección. Los que viven en rectitud lo alabarán.",
+      "strong": [
+        "H3605",
+        "H6662",
+        "H3045",
+        "H5973",
+        "H3605",
+        "H0113",
+        "H1571",
+        "H1245",
+        "H1931",
+        "H3605",
+        "H3605",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H3605",
+        "H1984"
+      ]
+    }
+  ]
+}

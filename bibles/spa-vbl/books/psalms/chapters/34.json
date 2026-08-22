@@ -1,1 +1,424 @@
-{"version":"spa-vbl","book":"psalms","chapter":34,"data":[{"verse":"1","text":"Siempre alabaré al Señor; mi boca continuamente lo alabará."},{"verse":"2","text":"Estoy orgulloso del Señor desde lo profundo de mi corazón; aquellos que son humildes oirán y serán felices."},{"verse":"3","text":"Glorifiquen al Señor conmigo; honremos juntos su nombre."},{"verse":"4","text":"Clamé al Señor por ayuda, y él me respondió. Me liberó de todos mis miedos."},{"verse":"5","text":"Las caras de aquellos que lo miran brillaran de alegría. Nunca serán abatidos con vergüenza."},{"verse":"6","text":"Este pobre hombre lloró, y el Señor me oyó, y me salvó de todos mis problemas."},{"verse":"7","text":"El ángel del Señor permanece vigilante sobre los que le honran, manteniéndolos a salvo."},{"verse":"8","text":"¡Prueba, y verás que el Señor es bueno! ¡Cuán felices son los que creen su protección!34:8 Literalmente, “refúgiense en él”."},{"verse":"9","text":"Muestra tu reverencia al Señor, tú que eres su pueblo santo, porque a los que lo respetan no les faltará nada."},{"verse":"10","text":"Los leones pueden crecer débiles y hambrientos, pero los que confían en el Señor tienen todo lo que es bueno."},{"verse":"11","text":"¡Niños, escúchenme! Les enseñaré como respetar al Señor."},{"verse":"12","text":"¿Quién de ustedes quiere vivir una vida larga y feliz?"},{"verse":"13","text":"Entonces no dejen que sus lenguas hablen maldad, o que sus labios digan mentiras."},{"verse":"14","text":"Rechacen lo malo, hagan lo bueno. Busquen la paz, y trabajen para hacerla realidad."},{"verse":"15","text":"El Señor cuida a los que hacen lo correcto, y escucha cuando claman por ayuda."},{"verse":"16","text":"El Señor es enemigo de los que hacen el mal. Él borrará hasta la memoria de ellos de la tierra."},{"verse":"17","text":"Pero cuando su pueblo34:17 Implícito.  llama pidiendo ayuda, él los escucha y los rescata de sus problemas."},{"verse":"18","text":"El Señor está cerca de los que tienen el corazón roto. Él salva a aquellos cuyo espíritu está quebrantado."},{"verse":"19","text":"Aquellos que hacen lo correcto tienen muchos problemas, pero el Señor los resuelve todos."},{"verse":"20","text":"Él los mantiene a salvo, ni uno de sus huesos se romperá."},{"verse":"21","text":"La maldad mata a los malvados. Aquellos que odian a la gente buena sufrirán por sus malos actos."},{"verse":"22","text":"El Señor protege la vida de sus siervos. Aquellos que confían en su protección no sufrirán por sus acciones equivocadas."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 34,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Siempre alabaré al Señor; mi boca continuamente lo alabará.",
+      "strong": [
+        "H1980",
+        "H3034",
+        "H0413",
+        "H0113",
+        "H0589",
+        "H6310",
+        "H8548",
+        "H1931",
+        "H1984"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Estoy orgulloso del Señor desde lo profundo de mi corazón; aquellos que son humildes oirán y serán felices.",
+      "strong": [
+        "H1961",
+        "H4480",
+        "H3068",
+        "H4480",
+        "H3605",
+        "H8482",
+        "H6256",
+        "H0589",
+        "H3820",
+        "H3605",
+        "H6256",
+        "H6310",
+        "H8085",
+        "H1571",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Glorifiquen al Señor conmigo; honremos juntos su nombre.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H0854",
+        "H3162",
+        "H1931",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Clamé al Señor por ayuda, y él me respondió. Me liberó de todos mis miedos.",
+      "strong": [
+        "H7121",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H5828",
+        "H1571",
+        "H1931",
+        "H0413",
+        "H0559",
+        "H0413",
+        "H4480",
+        "H3162",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Las caras de aquellos que lo miran brillaran de alegría. Nunca serán abatidos con vergüenza.",
+      "strong": [
+        "H1992",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H6437",
+        "H4480",
+        "H8057",
+        "H3808",
+        "H1961",
+        "H1809",
+        "H5973",
+        "H0955"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Este pobre hombre lloró, y el Señor me oyó, y me salvó de todos mis problemas.",
+      "strong": [
+        "H2088",
+        "H1800",
+        "H0376",
+        "H1058",
+        "H1571",
+        "H1931",
+        "H0113",
+        "H0413",
+        "H8085",
+        "H1571",
+        "H0413",
+        "H3467",
+        "H6440",
+        "H3605",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "El ángel del Señor permanece vigilante sobre los que le honran, manteniéndolos a salvo.",
+      "strong": [
+        "H3605",
+        "H4397",
+        "H4480",
+        "H3068",
+        "H5975",
+        "H5921",
+        "H3605",
+        "H2088",
+        "H0413",
+        "H3068",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¡Prueba, y verás que el Señor es bueno! ¡Cuán felices son los que creen su protección!",
+      "strong": [
+        "H0974",
+        "H1571",
+        "H7200",
+        "H0834",
+        "H1931",
+        "H3068",
+        "H1961",
+        "H2896",
+        "H4100",
+        "H1961",
+        "H0582",
+        "H0834",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Muestra tu reverencia al Señor, tú que eres su pueblo santo, porque a los que lo respetan no les faltará nada.",
+      "strong": [
+        "H5046",
+        "H0859",
+        "H0413",
+        "H3068",
+        "H0859",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H5971",
+        "H6918",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H0413",
+        "H3772",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los leones pueden crecer débiles y hambrientos, pero los que confían en el Señor tienen todo lo que es bueno.",
+      "strong": [
+        "H3588",
+        "H0738",
+        "H3201",
+        "H3588",
+        "H7457",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5564",
+        "H3588",
+        "H3588",
+        "H3068",
+        "H1992",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H3588",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "¡Niños, escúchenme! Les enseñaré como respetar al Señor.",
+      "strong": [
+        "H2945",
+        "H0413",
+        "H3925",
+        "H3715",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¿Quién de ustedes quiere vivir una vida larga y feliz?",
+      "strong": [
+        "H4310",
+        "H1121",
+        "H2654",
+        "H2421",
+        "H0259",
+        "H5315",
+        "H7342",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Entonces no dejen que sus lenguas hablen maldad, o que sus labios digan mentiras.",
+      "strong": [
+        "H3117",
+        "H3808",
+        "H2308",
+        "H4310",
+        "H1931",
+        "H1696",
+        "H5771",
+        "H0176",
+        "H4310",
+        "H1931",
+        "H8193",
+        "H0559",
+        "H3576"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Rechacen lo malo, hagan lo bueno. Busquen la paz, y trabajen para hacerla realidad.",
+      "strong": [
+        "H1931",
+        "H7451",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1245",
+        "H1931",
+        "H7965",
+        "H1571",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "El Señor cuida a los que hacen lo correcto, y escucha cuando claman por ayuda.",
+      "strong": [
+        "H6213",
+        "H0113",
+        "H1875",
+        "H0413",
+        "H7291",
+        "H0834",
+        "H6213",
+        "H6213",
+        "H1571",
+        "H0238",
+        "H3588",
+        "H7121",
+        "H5921",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "El Señor es enemigo de los que hacen el mal. Él borrará hasta la memoria de ellos de la tierra.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1961",
+        "H0341",
+        "H5869",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H7451",
+        "H1931",
+        "H5704",
+        "H1931",
+        "H2142",
+        "H5869",
+        "H1992",
+        "H5869",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Pero cuando su pueblo llama pidiendo ayuda, él los escucha y los rescata de sus problemas.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1931",
+        "H5971",
+        "H7121",
+        "H7592",
+        "H5828",
+        "H6213",
+        "H0582",
+        "H0238",
+        "H1571",
+        "H0582",
+        "H6440",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "El Señor está cerca de los que tienen el corazón roto. Él salva a aquellos cuyo espíritu está quebrantado.",
+      "strong": [
+        "H3605",
+        "H3068",
+        "H2063",
+        "H7138",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H1992",
+        "H3605",
+        "H3820",
+        "H3605",
+        "H3467",
+        "H3068",
+        "H3605",
+        "H0834",
+        "H7307",
+        "H2063",
+        "H7665"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Aquellos que hacen lo correcto tienen muchos problemas, pero el Señor los resuelve todos.",
+      "strong": [
+        "H0479",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H1992",
+        "H7227",
+        "H3588",
+        "H1931",
+        "H3068",
+        "H0582",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Él los mantiene a salvo, ni uno de sus huesos se romperá.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H3068",
+        "H3467",
+        "H3808",
+        "H0259",
+        "H6662",
+        "H1931",
+        "H6106",
+        "H3045",
+        "H6605"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "La maldad mata a los malvados. Aquellos que odian a la gente buena sufrirán por sus malos actos.",
+      "strong": [
+        "H8104",
+        "H5771",
+        "H4191",
+        "H0413",
+        "H3605",
+        "H3605",
+        "H3808",
+        "H0413",
+        "H8104",
+        "H1471",
+        "H2896",
+        "H2007",
+        "H1931",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "El Señor protege la vida de sus siervos. Aquellos que confían en su protección no sufrirán por sus acciones equivocadas.",
+      "strong": [
+        "H1931",
+        "H0113",
+        "H1931",
+        "H5315",
+        "H6662",
+        "H1931",
+        "H5650",
+        "H0479",
+        "H0834",
+        "H5564",
+        "H5921",
+        "H1931",
+        "H7563",
+        "H5921",
+        "H1931"
+      ]
+    }
+  ]
+}

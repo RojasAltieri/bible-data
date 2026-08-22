@@ -1,1 +1,237 @@
-{"version":"spa-vbl","book":"psalms","chapter":58,"data":[{"verse":"1","text":"Líderes,58:1 El término hebreo no está claro aquí. La interpretación “dioses” sin duda es incorrecta. ¿hablan ustedes con rectitud? ¿Realmente juzgan a la gente de forma justa?"},{"verse":"2","text":"No, porque en sus mentes planean el mal. ¡Causan violencia por todas partes!"},{"verse":"3","text":"Los malvados son pecadores desde el nacimiento; desde el momento en que son dados a luz dicen mentiras."},{"verse":"4","text":"Tienen veneno como de una serpiente venenosa, y al igual que una cobra dejan de escuchar,"},{"verse":"5","text":"rehusándose a escuchar la voz de los encantadores y los hechiceros."},{"verse":"6","text":"Dios, rompe sus dientes, y quiebra los colmillos de estos leones, Señor."},{"verse":"7","text":"Que se desvanezcan como el agua que fluye lejos; que cuando disparan sus arcos pierdan su blanco.58:7 El significado de la segunda parte de este versículo aún no está clara."},{"verse":"8","text":"Que sean como la baba de los caracoles que se disuelve, como un niño que no nació y nunca vio la luz del día."},{"verse":"9","text":"Antes de que la olla de espinos ardientes se caliente, sea que estén frescos o secos, Dios los esparcirá.58:9 El significado de este versículo es confuso."},{"verse":"10","text":"Los que viven con rectitud se alegrarán cuando vean que hay un castigo; lavarán sus pies en la sangre de los malvados."},{"verse":"11","text":"Dirán, “Definitivamente hay un premio para aquellos que viven haciendo el bien; ciertamente hay un Dios que juzga de forma justa sobre la tierra”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 58,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Líderes, ¿hablan ustedes con rectitud? ¿Realmente juzgan a la gente de forma justa?",
+      "strong": [
+        "H1696",
+        "H5973",
+        "H3559",
+        "H8199",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H4480",
+        "H8389",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "No, porque en sus mentes planean el mal. ¡Causan violencia por todas partes!",
+      "strong": [
+        "H3808",
+        "H3588",
+        "H5921",
+        "H1931",
+        "H1121",
+        "H7451",
+        "H2555",
+        "H5921",
+        "H3605",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Los malvados son pecadores desde el nacimiento; desde el momento en que son dados a luz dicen mentiras.",
+      "strong": [
+        "H0582",
+        "H1961",
+        "H2400",
+        "H4480",
+        "H1931",
+        "H4138",
+        "H4480",
+        "H1931",
+        "H7281",
+        "H5921",
+        "H3027",
+        "H1961",
+        "H5414",
+        "H0413",
+        "H0216",
+        "H0559",
+        "H3576"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tienen veneno como de una serpiente venenosa, y al igual que una cobra dejan de escuchar,",
+      "strong": [
+        "H1992",
+        "H2534",
+        "H0349",
+        "H4480",
+        "H0259",
+        "H5175",
+        "H1571",
+        "H0413",
+        "H2505",
+        "H0834",
+        "H0259",
+        "H2308",
+        "H4480",
+        "H8085"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "rehusándose a escuchar la voz de los encantadores y los hechiceros.",
+      "strong": [
+        "H0413",
+        "H8085",
+        "H1931",
+        "H6963",
+        "H4480",
+        "H0582",
+        "H3786",
+        "H1571",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Dios, rompe sus dientes, y quiebra los colmillos de estos leones, Señor.",
+      "strong": [
+        "H0430",
+        "H1931",
+        "H8127",
+        "H1571",
+        "H2040",
+        "H0582",
+        "H4480",
+        "H0428",
+        "H0738",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Que se desvanezcan como el agua que fluye lejos; que cuando disparan sus arcos pierdan su blanco.",
+      "strong": [
+        "H6310",
+        "H3045",
+        "H3715",
+        "H1931",
+        "H4325",
+        "H6310",
+        "H2100",
+        "H7350",
+        "H6310",
+        "H3588",
+        "H1931",
+        "H7198",
+        "H1931",
+        "H3836"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Que sean como la baba de los caracoles que se disuelve, como un niño que no nació y nunca vio la luz del día.",
+      "strong": [
+        "H1869",
+        "H1961",
+        "H3644",
+        "H1931",
+        "H4325",
+        "H0582",
+        "H1869",
+        "H3045",
+        "H3644",
+        "H0259",
+        "H5288",
+        "H1869",
+        "H3808",
+        "H3205",
+        "H1571",
+        "H3808",
+        "H7200",
+        "H1931",
+        "H0216",
+        "H4480",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Antes de que la olla de espinos ardientes se caliente, sea que estén frescos o secos, Dios los esparcirá.",
+      "strong": [
+        "H6440",
+        "H4480",
+        "H0834",
+        "H1931",
+        "H5518",
+        "H4480",
+        "H6975",
+        "H8314",
+        "H3045",
+        "H1961",
+        "H0834",
+        "H1961",
+        "H0176",
+        "H7019",
+        "H0430",
+        "H0582",
+        "H2236"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los que viven con rectitud se alegrarán cuando vean que hay un castigo; lavarán sus pies en la sangre de los malvados.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5973",
+        "H3559",
+        "H3045",
+        "H3588",
+        "H2372",
+        "H0834",
+        "H3426",
+        "H0259",
+        "H7110",
+        "H7364",
+        "H1931",
+        "H7272",
+        "H5921",
+        "H1931",
+        "H1818",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Dirán, “Definitivamente hay un premio para aquellos que viven haciendo el bien; ciertamente hay un Dios que juzga de forma justa sobre la tierra”.",
+      "strong": [
+        "H0559",
+        "H3426",
+        "H0259",
+        "H3588",
+        "H0479",
+        "H3588",
+        "H7563",
+        "H6213",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3426",
+        "H0259",
+        "H0430",
+        "H3588",
+        "H8199",
+        "H3588",
+        "H8389",
+        "H6662",
+        "H5921",
+        "H3588",
+        "H0776"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,262 @@
-{"version":"spa-vbl","book":"psalms","chapter":21,"data":[{"verse":"1","text":"El rey celebra tu fuerza, Señor. ¡Y está muy feliz de que le hayas dado la victoria!"},{"verse":"2","text":"Le diste todo lo que quería; no le negaste nada de lo que pidió."},{"verse":"3","text":"Lo recibiste con bendiciones especiales cuando regresó; pusiste una corona de oro puro en su cabeza."},{"verse":"4","text":"Te pidió que le dieras una buena vida, y le diste una larga vida, por siempre y para siempre."},{"verse":"5","text":"Tus victorias le dan gran gloria; le concediste majestad y esplendor."},{"verse":"6","text":"Le diste bendiciones por siempre. Está lleno de alegría porque tú estás con él."},{"verse":"7","text":"Porque el rey confía en el Señor; se mantiene firme por el amor inefable del altísimo."},{"verse":"8","text":"Tú, el rey,21:8 Implícito. encontrarás y capturarás a todos tus enemigos; te apoderarás de todos los que te odian."},{"verse":"9","text":"Cuando aparezcas en la escena los quemarás a todos como en un horno. El Señor en su furia los destruirá a todos, y los quemará con fuego."},{"verse":"10","text":"Tú acabarás con todos sus hijos en la tierra, con todos sus descendientes."},{"verse":"11","text":"Aunque conspiren el mal contra ti, sus planes malvados no tendrán éxito."},{"verse":"12","text":"Se volverán y huirán de ti cuando vean tus flechas de fuego sobre ellos."},{"verse":"13","text":"Levántate, Señor, ¡Porque eres fuerte! ¡Cantaremos y te alabaremos por tu poder!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 21,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El rey celebra tu fuerza, Señor. ¡Y está muy feliz de que le hayas dado la victoria!",
+      "strong": [
+        "H1931",
+        "H4428",
+        "H2287",
+        "H0859",
+        "H3581",
+        "H0113",
+        "H1571",
+        "H2063",
+        "H3966",
+        "H4480",
+        "H0834",
+        "H0413",
+        "H1265",
+        "H5414",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Le diste todo lo que quería; no le negaste nada de lo que pidió.",
+      "strong": [
+        "H0413",
+        "H5414",
+        "H3605",
+        "H4100",
+        "H4100",
+        "H6634",
+        "H4100",
+        "H0413",
+        "H3808",
+        "H4480",
+        "H4100",
+        "H4100",
+        "H7592"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Lo recibiste con bendiciones especiales cuando regresó; pusiste una corona de oro puro en su cabeza.",
+      "strong": [
+        "H1931",
+        "H5973",
+        "H1293",
+        "H3588",
+        "H5414",
+        "H0259",
+        "H5852",
+        "H5414",
+        "H2091",
+        "H2889",
+        "H5921",
+        "H1931",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Te pidió que le dieras una buena vida, y le diste una larga vida, por siempre y para siempre.",
+      "strong": [
+        "H3588",
+        "H7592",
+        "H3588",
+        "H0413",
+        "H0259",
+        "H2896",
+        "H5315",
+        "H3588",
+        "H0413",
+        "H5414",
+        "H0259",
+        "H7342",
+        "H5315",
+        "H3588",
+        "H5769",
+        "H3588",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tus victorias le dan gran gloria; le concediste majestad y esplendor.",
+      "strong": [
+        "H0859",
+        "H0413",
+        "H5414",
+        "H1419",
+        "H3519",
+        "H0413",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Le diste bendiciones por siempre. Está lleno de alegría porque tú estás con él.",
+      "strong": [
+        "H5921",
+        "H5414",
+        "H1293",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4390",
+        "H5921",
+        "H8057",
+        "H5921",
+        "H0859",
+        "H0428",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Porque el rey confía en el Señor; se mantiene firme por el amor inefable del altísimo.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H4428",
+        "H0982",
+        "H3588",
+        "H3588",
+        "H0113",
+        "H3045",
+        "H3559",
+        "H3588",
+        "H3588",
+        "H0160",
+        "H4480",
+        "H5945"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Tú, el rey, encontrarás y capturarás a todos tus enemigos; te apoderarás de todos los que te odian.",
+      "strong": [
+        "H0859",
+        "H3588",
+        "H4428",
+        "H6293",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H0859",
+        "H0341",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Cuando aparezcas en la escena los quemarás a todos como en un horno. El Señor en su furia los destruirá a todos, y los quemará con fuego.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H3605",
+        "H3605",
+        "H8313",
+        "H0413",
+        "H3605",
+        "H0349",
+        "H5921",
+        "H0259",
+        "H8574",
+        "H3605",
+        "H0113",
+        "H5921",
+        "H1931",
+        "H3605",
+        "H7843",
+        "H0413",
+        "H3605",
+        "H1571",
+        "H3605",
+        "H8313",
+        "H5973",
+        "H0784"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Tú acabarás con todos sus hijos en la tierra, con todos sus descendientes.",
+      "strong": [
+        "H0859",
+        "H5973",
+        "H3605",
+        "H1931",
+        "H1121",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H5973",
+        "H3605",
+        "H1931",
+        "H6631"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Aunque conspiren el mal contra ti, sus planes malvados no tendrán éxito.",
+      "strong": [
+        "H3588",
+        "H1121",
+        "H7451",
+        "H5921",
+        "H0859",
+        "H1931",
+        "H3808",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Se volverán y huirán de ti cuando vean tus flechas de fuego sobre ellos.",
+      "strong": [
+        "H5921",
+        "H7725",
+        "H3588",
+        "H5251",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H2372",
+        "H0859",
+        "H5921",
+        "H0784",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Levántate, Señor, ¡Porque eres fuerte! ¡Cantaremos y te alabaremos por tu poder!",
+      "strong": [
+        "H6965",
+        "H0113",
+        "H3588",
+        "H0859",
+        "H2389",
+        "H7891",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H0859",
+        "H3027"
+      ]
+    }
+  ]
+}

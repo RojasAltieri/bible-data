@@ -1,1 +1,126 @@
-{"version":"spa-vbl","book":"psalms","chapter":15,"data":[{"verse":"1","text":"¿Quién puede entrar en tu santuario, Señor?15:1 Literalmente, “¿Quién morará en tu tienda?”  ¿Quién puede venir a tu presencia en tu santo monte?"},{"verse":"2","text":"Aquellos que viven sin falta y hacen lo correcto. Aquellos que dicen la verdad con sinceridad."},{"verse":"3","text":"Aquellos que no calumnian, que no tratan mal a su prójimo, ni hablan mal de las personas que conocen."},{"verse":"4","text":"Ellos rechazan a las personas que el Señor rechaza y honran a los que siguen al Señor. Guardan y cumplen sus promesas, incluso cuando es difícil hacerlo. Ellos no cambian su manera de pensar."},{"verse":"5","text":"Prestan su dinero sin cobrar intereses. No aceptan sobornos para testificar en contra de los inocentes. Los que actúan así jamás caerán."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 15,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¿Quién puede entrar en tu santuario, Señor? ¿Quién puede venir a tu presencia en tu santo monte?",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H0935",
+        "H5921",
+        "H0859",
+        "H6944",
+        "H3068",
+        "H4310",
+        "H3201",
+        "H0935",
+        "H3068",
+        "H0859",
+        "H6440",
+        "H5921",
+        "H0859",
+        "H6944",
+        "H2022"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Aquellos que viven sin falta y hacen lo correcto. Aquellos que dicen la verdad con sinceridad.",
+      "strong": [
+        "H0479",
+        "H0834",
+        "H2416",
+        "H3808",
+        "H3971",
+        "H1571",
+        "H6466",
+        "H1931",
+        "H0479",
+        "H0834",
+        "H1696",
+        "H1931",
+        "H0571",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Aquellos que no calumnian, que no tratan mal a su prójimo, ni hablan mal de las personas que conocen.",
+      "strong": [
+        "H0479",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H5608",
+        "H7451",
+        "H5921",
+        "H1931",
+        "H7453",
+        "H3808",
+        "H1696",
+        "H7451",
+        "H5921",
+        "H5921",
+        "H5315",
+        "H3808",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Ellos rechazan a las personas que el Señor rechaza y honran a los que siguen al Señor. Guardan y cumplen sus promesas, incluso cuando es difícil hacerlo. Ellos no cambian su manera de pensar.",
+      "strong": [
+        "H1992",
+        "H5869",
+        "H1992",
+        "H5315",
+        "H3808",
+        "H1931",
+        "H3068",
+        "H1571",
+        "H5869",
+        "H0582",
+        "H3808",
+        "H1980",
+        "H0413",
+        "H3068",
+        "H8104",
+        "H1571",
+        "H1931",
+        "H3588",
+        "H1961",
+        "H3515",
+        "H3201",
+        "H1992",
+        "H3808",
+        "H1931",
+        "H7235",
+        "H5869"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Prestan su dinero sin cobrar intereses. No aceptan sobornos para testificar en contra de los inocentes. Los que actúan así jamás caerán.",
+      "strong": [
+        "H1931",
+        "H3701",
+        "H3808",
+        "H3808",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3808",
+        "H3541",
+        "H5769",
+        "H4131"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,452 @@
-{"version":"spa-vbl","book":"psalms","chapter":103,"data":[{"verse":"1","text":"Alaba, alma mía, al Señor; que todo mi ser alabe su santo nombre."},{"verse":"2","text":"Alaba, alma mía, al Señor; y que no olvide mi ser las maravillosas cosas que él ha hecho por mí."},{"verse":"3","text":"Él perdona mis pecados, y cura todas mis enfermedades."},{"verse":"4","text":"Me salva de la muerte; me honra103:4 Literalmente, “coronas”. con su gran amor y misericordia."},{"verse":"5","text":"Llena mi vida con todo lo que es bueno; me rejuvenece, y me hace fuerte como un águila."},{"verse":"6","text":"El Señor hace lo que está bien, y defiende a los que son abusados."},{"verse":"7","text":"Él explicó sus caminos a moisés: le dijo al pueblo de Israel lo que iba a hacer."},{"verse":"8","text":"El Señor es amable y lleno de gracia, y no rápido para la ira. Lleno de amor y justicia."},{"verse":"9","text":"Él no nos acusa; ni permanece para siempre airado con nosotros."},{"verse":"10","text":"No nos castiga por nuestros pecados, como debería hacer; no nos devuelve todas las cosas malas que hacemos, aunque lo merezcamos."},{"verse":"11","text":"Porque tan grande como los cielos que están sobre la tierra es su amor con los que le honran."},{"verse":"12","text":"Tan lejos como el este está del oeste es como el Señor ha echado fuera nuestros pecados."},{"verse":"13","text":"Como un padre amoroso, el Señor es amable y compasivo con quienes le siguen."},{"verse":"14","text":"Porque él sabe cómo fuimos hechos; él recuerda que somos solo polvo."},{"verse":"15","text":"La vida de los seres humanos es como la grama: florecemos como plantas en un campo,"},{"verse":"16","text":"pero entonces el viento sopla, y nos vamos, desapareciendo sin dejar rastro."},{"verse":"17","text":"Pero el gran amor de Dios durará para toda la eternidad con aquellos que le siguen; su bondad perdurará por todas las generaciones,"},{"verse":"18","text":"con aquellos que cumplen sus convenios y sus mandamientos."},{"verse":"19","text":"El Señor ha establecido su trono en los cielos, y gobierna sobre todas las cosas."},{"verse":"20","text":"¡Alaben al Señor, ángeles, ustedes poderosos que hacen lo que él dice, escuchando lo que él les ordena!"},{"verse":"21","text":"¡Alaben al Señor, ustedes ejércitos celestiales que le sirven y cumplen su voluntad!"},{"verse":"22","text":"¡Alabe al Señor, toda cosa en su creación, todos bajo su gobierno! ¡Alaba, alma mía, al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 103,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Alaba, alma mía, al Señor; que todo mi ser alabe su santo nombre.",
+      "strong": [
+        "H1984",
+        "H5315",
+        "H0589",
+        "H7130",
+        "H3068",
+        "H3605",
+        "H3605",
+        "H5315",
+        "H5315",
+        "H1984",
+        "H1931",
+        "H6944",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Alaba, alma mía, al Señor; y que no olvide mi ser las maravillosas cosas que él ha hecho por mí.",
+      "strong": [
+        "H1984",
+        "H5315",
+        "H0589",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H3605",
+        "H3808",
+        "H5315",
+        "H5315",
+        "H1992",
+        "H6381",
+        "H1697",
+        "H3605",
+        "H3605",
+        "H3541",
+        "H5315",
+        "H5921",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Él perdona mis pecados, y cura todas mis enfermedades.",
+      "strong": [
+        "H3605",
+        "H5545",
+        "H0589",
+        "H5771",
+        "H1571",
+        "H7495",
+        "H3605",
+        "H0589",
+        "H8463"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Me salva de la muerte; me honra con su gran amor y misericordia.",
+      "strong": [
+        "H0413",
+        "H3467",
+        "H4480",
+        "H1931",
+        "H4194",
+        "H0413",
+        "H3513",
+        "H5973",
+        "H1931",
+        "H1419",
+        "H0160",
+        "H1571",
+        "H2617"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Llena mi vida con todo lo que es bueno; me rejuvenece, y me hace fuerte como un águila.",
+      "strong": [
+        "H4392",
+        "H0589",
+        "H5315",
+        "H5973",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H2896",
+        "H0413",
+        "H1571",
+        "H0413",
+        "H6213",
+        "H2389",
+        "H0349",
+        "H0259",
+        "H5403"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "El Señor hace lo que está bien, y defiende a los que son abusados.",
+      "strong": [
+        "H3605",
+        "H3068",
+        "H6213",
+        "H6213",
+        "H3605",
+        "H2063",
+        "H2896",
+        "H1571",
+        "H8199",
+        "H3068",
+        "H3605",
+        "H3605",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él explicó sus caminos a moisés: le dijo al pueblo de Israel lo que iba a hacer.",
+      "strong": [
+        "H1121",
+        "H1931",
+        "H1870",
+        "H0413",
+        "H4872",
+        "H0413",
+        "H0559",
+        "H0413",
+        "H5971",
+        "H1121",
+        "H3478",
+        "H1931",
+        "H3045",
+        "H1980",
+        "H0413",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "El Señor es amable y lleno de gracia, y no rápido para la ira. Lleno de amor y justicia.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1961",
+        "H3700",
+        "H1571",
+        "H4390",
+        "H4480",
+        "H2617",
+        "H1571",
+        "H3808",
+        "H5704",
+        "H1931",
+        "H2534",
+        "H4390",
+        "H4480",
+        "H0160",
+        "H1571",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Él no nos acusa; ni permanece para siempre airado con nosotros.",
+      "strong": [
+        "H1931",
+        "H3808",
+        "H0587",
+        "H3808",
+        "H5975",
+        "H5704",
+        "H5769",
+        "H2194",
+        "H5973",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "No nos castiga por nuestros pecados, como debería hacer; no nos devuelve todas las cosas malas que hacemos, aunque lo merezcamos.",
+      "strong": [
+        "H3808",
+        "H5921",
+        "H3198",
+        "H5921",
+        "H0587",
+        "H5771",
+        "H5921",
+        "H6213",
+        "H3808",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H1697",
+        "H7451",
+        "H3808",
+        "H6213",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Porque tan grande como los cielos que están sobre la tierra es su amor con los que le honran.",
+      "strong": [
+        "H3588",
+        "H3966",
+        "H1419",
+        "H3588",
+        "H5921",
+        "H8064",
+        "H3588",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H3588",
+        "H3588",
+        "H0160",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Tan lejos como el este está del oeste es como el Señor ha echado fuera nuestros pecados.",
+      "strong": [
+        "H3966",
+        "H7368",
+        "H0349",
+        "H1931",
+        "H4217",
+        "H2063",
+        "H4480",
+        "H1961",
+        "H0349",
+        "H1931",
+        "H0113",
+        "H3541",
+        "H7993",
+        "H4480",
+        "H0587",
+        "H6588"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Como un padre amoroso, el Señor es amable y compasivo con quienes le siguen.",
+      "strong": [
+        "H5921",
+        "H0259",
+        "H0001",
+        "H5921",
+        "H3068",
+        "H1961",
+        "H3700",
+        "H5921",
+        "H5921",
+        "H4310",
+        "H5921",
+        "H1980"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Porque él sabe cómo fuimos hechos; él recuerda que somos solo polvo.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3045",
+        "H3588",
+        "H0236",
+        "H4611",
+        "H1931",
+        "H3588",
+        "H1961",
+        "H1931",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "La vida de los seres humanos es como la grama: florecemos como plantas en un campo,",
+      "strong": [
+        "H1931",
+        "H3117",
+        "H4480",
+        "H0582",
+        "H5315",
+        "H1397",
+        "H1961",
+        "H3651",
+        "H1931",
+        "H2682",
+        "H3651",
+        "H5193",
+        "H5921",
+        "H0259",
+        "H7704"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "pero entonces el viento sopla, y nos vamos, desapareciendo sin dejar rastro.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7307",
+        "H3588",
+        "H0587",
+        "H3212",
+        "H3808",
+        "H5414"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Pero el gran amor de Dios durará para toda la eternidad con aquellos que le siguen; su bondad perdurará por todas las generaciones,",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H1419",
+        "H0160",
+        "H5921",
+        "H3068",
+        "H6965",
+        "H5704",
+        "H5921",
+        "H5921",
+        "H5769",
+        "H5921",
+        "H0479",
+        "H5921",
+        "H5921",
+        "H1980",
+        "H1931",
+        "H2898",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H1755"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "con aquellos que cumplen sus convenios y sus mandamientos.",
+      "strong": [
+        "H5973",
+        "H0479",
+        "H0834",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H6490"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "El Señor ha establecido su trono en los cielos, y gobierna sobre todas las cosas.",
+      "strong": [
+        "H3605",
+        "H3068",
+        "H3541",
+        "H3559",
+        "H1931",
+        "H3678",
+        "H5921",
+        "H3605",
+        "H8064",
+        "H1571",
+        "H3557",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¡Alaben al Señor, ángeles, ustedes poderosos que hacen lo que él dice, escuchando lo que él les ordena!",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H4397",
+        "H3581",
+        "H1697",
+        "H6213",
+        "H1697",
+        "H1697",
+        "H6213",
+        "H1697",
+        "H8085",
+        "H1697",
+        "H1697",
+        "H6213",
+        "H0413",
+        "H6680"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "¡Alaben al Señor, ustedes ejércitos celestiales que le sirven y cumplen su voluntad!",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H6635",
+        "H3605",
+        "H0413",
+        "H5647",
+        "H1571",
+        "H1931",
+        "H7522"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "¡Alabe al Señor, toda cosa en su creación, todos bajo su gobierno! ¡Alaba, alma mía, al Señor!",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H3605",
+        "H5921",
+        "H1931",
+        "H3605",
+        "H8478",
+        "H1931",
+        "H1984",
+        "H5315",
+        "H0589",
+        "H0413",
+        "H3068"
+      ]
+    }
+  ]
+}

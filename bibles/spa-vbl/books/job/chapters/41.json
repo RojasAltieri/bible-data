@@ -1,1 +1,576 @@
-{"version":"spa-vbl","book":"job","chapter":41,"data":[{"verse":"1","text":"“¿Puedes sacar a Leviatán41:1 Leviatán: algunos identifican a esta criatura con el cocodrilo, o con una bestia mítica. También se menciona en 3:8. con un anzuelo? ¿Puedes atarle la boca?"},{"verse":"2","text":"¿Puedes pasar una cuerda por su nariz? ¿Puedes pasarle un anzuelo por la mandíbula?"},{"verse":"3","text":"¿Te rogará que lo dejes ir? ¿O te hablará suavemente?"},{"verse":"4","text":"¿Hará un contrato contigo? ¿Acepta ser tu esclavo para siempre?"},{"verse":"5","text":"¿Jugarás con él como con un pájaro? ¿Le pondrás una correa para tus chicas?"},{"verse":"6","text":"¿Decidirán tus socios comerciales un precio para él y lo repartirán entre los mercaderes?"},{"verse":"7","text":"¿Pueden atravesar su piel con muchos arpones, su cabeza con lanzas de pesca?"},{"verse":"8","text":"Si lo agarraras, ¡imagina la batalla que tendrías! ¡No volverías a hacerlo!"},{"verse":"9","text":"Cualquier esperanza de capturarlo es una tontería. Cualquiera que lo intente será arrojado al suelo."},{"verse":"10","text":"Ya que nadie tiene el valor de provocar al Leviatán, ¿quién se atrevería a enfrentarse a mí?"},{"verse":"11","text":"¿Quién se ha enfrentado a mí con alguna reclamación que deba pagar? Todo lo que hay bajo el cielo me pertenece."},{"verse":"12","text":"“Permítanme hablarles del Leviatán: sus poderosas patas y sus gráciles proporciones."},{"verse":"13","text":"¿Quién puede quitarle la piel? ¿Quién puede penetrar su doble armadura??41:13 O “¿quién puede acercarse con una cuerda doble?”"},{"verse":"14","text":"¿Quién puede abrir sus mandíbulas? Sus dientes son aterradores."},{"verse":"15","text":"Su orgullo41:15 O “espalda”. son sus hileras de escamas, cerradas con fuerza."},{"verse":"16","text":"Sus escamas están tan juntas que el aire no puede pasar entre ellas."},{"verse":"17","text":"Cada escama se adhiere a la siguiente; se cierran entre sí y nada puede penetrar en ellas."},{"verse":"18","text":"Cuando estornuda, brilla la luz. Sus ojos son como el sol naciente."},{"verse":"19","text":"De su boca salen llamas y chispas de fuego."},{"verse":"20","text":"De sus fosas nasales sale humo, como el vapor de una caldera sobre un fuego de cañas."},{"verse":"21","text":"Su aliento prende fuego al carbón mientras las llamas salen de su boca."},{"verse":"22","text":"Su cuello es poderoso, y todos los que se enfrentan a él tiemblan de terror."},{"verse":"23","text":"Su cuerpo es denso y sólido, como si estuviera hecho de metal fundido."},{"verse":"24","text":"Su corazón es duro como una piedra de molino."},{"verse":"25","text":"Cuando se levanta, incluso los poderosos se aterrorizan; retroceden cuando se agita."},{"verse":"26","text":"Las espadas rebotan en él, al igual que las lanzas, los dardos y las jabalinas."},{"verse":"27","text":"El hierro es como la paja y el bronce es como la madera podrida."},{"verse":"28","text":"Las flechas no pueden hacerle huir; las piedras de las hondas son como trozos de rastrojo."},{"verse":"29","text":"Los garrotes son también como rastrojos; se ríe del ruido de las lanzas que vuelan."},{"verse":"30","text":"Sus partes inferiores están cubiertas de puntas afiladas como ollas rotas; cuando se arrastra por el barro deja marcas como un trillo.41:30 Trillo: tabla con púas afiladas para trillar el grano."},{"verse":"31","text":"Revuelve el mar como el agua en una olla hirviendo, como un cuenco humeante cuando se mezcla el ungüento."},{"verse":"32","text":"Deja tras de sí una estela reluciente, como si el mar tuviera cabellos blancos."},{"verse":"33","text":"No hay nada en la tierra como él: una criatura que no tiene miedo."},{"verse":"34","text":"Mira con desprecio a todas las demás criaturas. Es el más orgulloso de todos”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 41,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“¿Puedes sacar a Leviatán con un anzuelo? ¿Puedes atarle la boca?",
+      "strong": [
+        "H3546",
+        "H5267",
+        "H0413",
+        "H1571",
+        "H0259",
+        "H2441",
+        "H3546",
+        "H1571",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¿Puedes pasar una cuerda por su nariz? ¿Puedes pasarle un anzuelo por la mandíbula?",
+      "strong": [
+        "H3546",
+        "H5674",
+        "H0259",
+        "H3588",
+        "H1931",
+        "H0639",
+        "H3546",
+        "H0259",
+        "H2441",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Te rogará que lo dejes ir? ¿O te hablará suavemente?",
+      "strong": [
+        "H0859",
+        "H6419",
+        "H4310",
+        "H1931",
+        "H5146",
+        "H3212",
+        "H0176",
+        "H0859",
+        "H1696",
+        "H4334"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Hará un contrato contigo? ¿Acepta ser tu esclavo para siempre?",
+      "strong": [
+        "H6213",
+        "H0259",
+        "H5973",
+        "H5375",
+        "H5315",
+        "H0859",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¿Jugarás con él como con un pájaro? ¿Le pondrás una correa para tus chicas?",
+      "strong": [
+        "H7832",
+        "H5973",
+        "H4310",
+        "H0349",
+        "H5973",
+        "H0259",
+        "H6833",
+        "H4310",
+        "H5414",
+        "H0259",
+        "H5704",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¿Decidirán tus socios comerciales un precio para él y lo repartirán entre los mercaderes?",
+      "strong": [
+        "H0859",
+        "H0259",
+        "H3701",
+        "H5704",
+        "H4310",
+        "H1571",
+        "H1931",
+        "H0996",
+        "H0582",
+        "H5503"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¿Pueden atravesar su piel con muchos arpones, su cabeza con lanzas de pesca?",
+      "strong": [
+        "H3201",
+        "H1931",
+        "H5785",
+        "H5973",
+        "H7227",
+        "H1931",
+        "H7218",
+        "H5973",
+        "H7420",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Si lo agarraras, ¡imagina la batalla que tendrías! ¡No volverías a hacerlo!",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H1931",
+        "H4421",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Cualquier esperanza de capturarlo es una tontería. Cualquiera que lo intente será arrojado al suelo.",
+      "strong": [
+        "H3605",
+        "H8615",
+        "H4480",
+        "H1961",
+        "H0259",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Ya que nadie tiene el valor de provocar al Leviatán, ¿quién se atrevería a enfrentarse a mí?",
+      "strong": [
+        "H3528",
+        "H0834",
+        "H5869",
+        "H3426",
+        "H1931",
+        "H3365",
+        "H5869",
+        "H2778",
+        "H0413",
+        "H4310",
+        "H3045",
+        "H5869",
+        "H5869",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "¿Quién se ha enfrentado a mí con alguna reclamación que deba pagar? Todo lo que hay bajo el cielo me pertenece.",
+      "strong": [
+        "H4310",
+        "H3045",
+        "H3541",
+        "H6310",
+        "H0589",
+        "H5973",
+        "H3605",
+        "H6310",
+        "H7999",
+        "H3605",
+        "H1931",
+        "H6310",
+        "H3426",
+        "H8478",
+        "H1931",
+        "H8064",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "“Permítanme hablarles del Leviatán: sus poderosas patas y sus gráciles proporciones.",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H1571",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¿Quién puede quitarle la piel? ¿Quién puede penetrar su doble armadura??",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H1931",
+        "H5785",
+        "H4310",
+        "H3201",
+        "H1931",
+        "H3718"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "¿Quién puede abrir sus mandíbulas? Sus dientes son aterradores.",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H1931",
+        "H1931",
+        "H8127",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Su orgullo son sus hileras de escamas, cerradas con fuerza.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H1931",
+        "H5921",
+        "H5921",
+        "H3581"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Sus escamas están tan juntas que el aire no puede pasar entre ellas.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H3966",
+        "H3162",
+        "H0834",
+        "H1931",
+        "H3808",
+        "H3201",
+        "H5674",
+        "H0996",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Cada escama se adhiere a la siguiente; se cierran entre sí y nada puede penetrar en ellas.",
+      "strong": [
+        "H3605",
+        "H3045",
+        "H0413",
+        "H1931",
+        "H0312",
+        "H3045",
+        "H0996",
+        "H0518",
+        "H1571",
+        "H3808",
+        "H3201",
+        "H5921",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Cuando estornuda, brilla la luz. Sus ojos son como el sol naciente.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H0216",
+        "H1931",
+        "H5869",
+        "H1961",
+        "H0349",
+        "H1931",
+        "H8121"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "De su boca salen llamas y chispas de fuego.",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H6310",
+        "H3318",
+        "H3852",
+        "H1571",
+        "H4480",
+        "H0784"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "De sus fosas nasales sale humo, como el vapor de una caldera sobre un fuego de cañas.",
+      "strong": [
+        "H1121",
+        "H1931",
+        "H3318",
+        "H6227",
+        "H0349",
+        "H1121",
+        "H1121",
+        "H0259",
+        "H5921",
+        "H0259",
+        "H0784",
+        "H1121",
+        "H7070"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Su aliento prende fuego al carbón mientras las llamas salen de su boca.",
+      "strong": [
+        "H1931",
+        "H0553",
+        "H0784",
+        "H0413",
+        "H5704",
+        "H1992",
+        "H3852",
+        "H3318",
+        "H4480",
+        "H1931",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Su cuello es poderoso, y todos los que se enfrentan a él tiemblan de terror.",
+      "strong": [
+        "H1931",
+        "H6677",
+        "H1961",
+        "H1368",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7493",
+        "H5921",
+        "H6343"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Su cuerpo es denso y sólido, como si estuviera hecho de metal fundido.",
+      "strong": [
+        "H1931",
+        "H5038",
+        "H1961",
+        "H1571",
+        "H3332",
+        "H0349",
+        "H0518",
+        "H3426",
+        "H6213",
+        "H4480",
+        "H5178"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Su corazón es duro como una piedra de molino.",
+      "strong": [
+        "H1931",
+        "H3820",
+        "H1961",
+        "H7186",
+        "H0349",
+        "H0259",
+        "H0068",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Cuando se levanta, incluso los poderosos se aterrorizan; retroceden cuando se agita.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H5375",
+        "H5921",
+        "H7989",
+        "H5921",
+        "H3588",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Las espadas rebotan en él, al igual que las lanzas, los dardos y las jabalinas.",
+      "strong": [
+        "H5921",
+        "H2719",
+        "H5921",
+        "H1931",
+        "H5921",
+        "H2505",
+        "H1931",
+        "H5921",
+        "H7420",
+        "H1121",
+        "H7626",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "El hierro es como la paja y el bronce es como la madera podrida.",
+      "strong": [
+        "H1931",
+        "H1270",
+        "H1961",
+        "H0349",
+        "H1931",
+        "H8401",
+        "H1571",
+        "H1931",
+        "H5153",
+        "H1961",
+        "H0349",
+        "H1931",
+        "H6086"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Las flechas no pueden hacerle huir; las piedras de las hondas son como trozos de rastrojo.",
+      "strong": [
+        "H1992",
+        "H3808",
+        "H3201",
+        "H6213",
+        "H1992",
+        "H0068",
+        "H4480",
+        "H1992",
+        "H1961",
+        "H0349",
+        "H4480",
+        "H7179"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Los garrotes son también como rastrojos; se ríe del ruido de las lanzas que vuelan.",
+      "strong": [
+        "H0582",
+        "H1961",
+        "H1571",
+        "H0349",
+        "H3045",
+        "H4480",
+        "H6963",
+        "H4480",
+        "H1992",
+        "H7420",
+        "H0834"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Sus partes inferiores están cubiertas de puntas afiladas como ollas rotas; cuando se arrastra por el barro deja marcas como un trillo.",
+      "strong": [
+        "H1931",
+        "H3027",
+        "H1961",
+        "H6823",
+        "H4480",
+        "H7098",
+        "H0349",
+        "H7938",
+        "H3588",
+        "H3045",
+        "H5921",
+        "H1931",
+        "H2563",
+        "H7971",
+        "H0349",
+        "H0259",
+        "H2742"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Revuelve el mar como el agua en una olla hirviendo, como un cuenco humeante cuando se mezcla el ungüento.",
+      "strong": [
+        "H1931",
+        "H3220",
+        "H0349",
+        "H1931",
+        "H4325",
+        "H5921",
+        "H0259",
+        "H5518",
+        "H0349",
+        "H0259",
+        "H3588",
+        "H3045",
+        "H1931",
+        "H8081"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Deja tras de sí una estela reluciente, como si el mar tuviera cabellos blancos.",
+      "strong": [
+        "H7971",
+        "H0310",
+        "H4480",
+        "H0518",
+        "H0259",
+        "H0349",
+        "H0518",
+        "H1931",
+        "H3220",
+        "H3426",
+        "H6977",
+        "H3836"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "No hay nada en la tierra como él: una criatura que no tiene miedo.",
+      "strong": [
+        "H3808",
+        "H3426",
+        "H3808",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H0349",
+        "H1931",
+        "H0259",
+        "H0834",
+        "H3808",
+        "H3426",
+        "H4032"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Mira con desprecio a todas las demás criaturas. Es el más orgulloso de todos”.",
+      "strong": [
+        "H7200",
+        "H5973",
+        "H0413",
+        "H3605",
+        "H1992",
+        "H1571",
+        "H1961",
+        "H1931",
+        "H5750",
+        "H4480",
+        "H3605"
+      ]
+    }
+  ]
+}

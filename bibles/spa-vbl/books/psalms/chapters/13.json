@@ -1,1 +1,126 @@
-{"version":"spa-vbl","book":"psalms","chapter":13,"data":[{"verse":"1","text":"¿Por cuánto tiempo más, Señor, me vas a olvidar? ¿Para siempre? ¿Por cuánto tiempo más te vas a apartar de mí?"},{"verse":"2","text":"¿Qué tan profundo debo caer en la confusión, sintiéndome triste todo el día? ¿Por cuánto tiempo más mi enemigo seguirá siendo victorioso sobre mí?"},{"verse":"3","text":"Considera esto y respóndeme, Señor mi Dios. Regrésame mi fuerza13:3 Literalmente: “da luz a mis ojos”. Los ojos brillantes se consideraban un signo de buena salud. porque de otro modo moriré."},{"verse":"4","text":"Y mi enemigo dirá, “¡Lo derroté!” y mis oponentes celebrarán mi caída."},{"verse":"5","text":"Pero confío en tu amor inquebrantable, y sé que estaré feliz porque me salvaste."},{"verse":"6","text":"¡Cantaré al Señor, por cuanto Él me ha tratado con tanta generosidad!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 13,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¿Por cuánto tiempo más, Señor, me vas a olvidar? ¿Para siempre? ¿Por cuánto tiempo más te vas a apartar de mí?",
+      "strong": [
+        "H5921",
+        "H0834",
+        "H6256",
+        "H5750",
+        "H0113",
+        "H0413",
+        "H3212",
+        "H0413",
+        "H5704",
+        "H5769",
+        "H5921",
+        "H0834",
+        "H6256",
+        "H5750",
+        "H0859",
+        "H3212",
+        "H0413",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¿Qué tan profundo debo caer en la confusión, sintiéndome triste todo el día? ¿Por cuánto tiempo más mi enemigo seguirá siendo victorioso sobre mí?",
+      "strong": [
+        "H4480",
+        "H3966",
+        "H8482",
+        "H3782",
+        "H4480",
+        "H1931",
+        "H3639",
+        "H5620",
+        "H3605",
+        "H1931",
+        "H3117",
+        "H4480",
+        "H0834",
+        "H6256",
+        "H4480",
+        "H0589",
+        "H0341",
+        "H1931",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Considera esto y respóndeme, Señor mi Dios. Regrésame mi fuerza porque de otro modo moriré.",
+      "strong": [
+        "H0995",
+        "H2063",
+        "H5921",
+        "H6030",
+        "H0113",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H3581",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H5352",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Y mi enemigo dirá, “¡Lo derroté!” y mis oponentes celebrarán mi caída.",
+      "strong": [
+        "H1571",
+        "H6030",
+        "H0341",
+        "H0559",
+        "H1931",
+        "H1571",
+        "H0589",
+        "H6030",
+        "H7667"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Pero confío en tu amor inquebrantable, y sé que estaré feliz porque me salvaste.",
+      "strong": [
+        "H3588",
+        "H0982",
+        "H3588",
+        "H0859",
+        "H0160",
+        "H3588",
+        "H6435",
+        "H3588",
+        "H5324",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¡Cantaré al Señor, por cuanto Él me ha tratado con tanta generosidad!",
+      "strong": [
+        "H7891",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H1580",
+        "H5953",
+        "H5921"
+      ]
+    }
+  ]
+}

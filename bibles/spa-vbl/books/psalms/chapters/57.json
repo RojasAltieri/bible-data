@@ -1,1 +1,257 @@
-{"version":"spa-vbl","book":"psalms","chapter":57,"data":[{"verse":"1","text":"¡Sé bueno57:1 O “benévolo”.  conmigo, Dios! Sé bueno conmigo porque vengo a ti por protección. Me abrigaré bajo la sombra de tus alas hasta que el peligro haya pasado."},{"verse":"2","text":"Clamé por ayuda al Dios Altísimo, a Dios, quien me defiende."},{"verse":"3","text":"Desde los cielos él envió su ayuda, y me salvó. Él derrota57:3 Or “deshonra”. a aquellos que me persiguen. Selah. Dios me envía su gran amor, mostrándome que es digno de confianza."},{"verse":"4","text":"¡Me rodean los leones que comen hombres, y soy forzado a vivir con ellos! Sus dientes son como lanzas y flechas, y sus lenguas como espadas."},{"verse":"5","text":"Dios, tu grandeza está sobre los más altos cielos; ¡Y tu gloria cubre toda la tierra!"},{"verse":"6","text":"Ellos ponen trampas para atraparme. Estaba muy deprimido. Cavaron un hoyo en mi camino, pero fueron ellos los que cayeron en él. Selah."},{"verse":"7","text":"Confío en ti, Dios, confío en ti. Cantaré canciones de alabanza a ti."},{"verse":"8","text":"Me digo a mí mismo, “¡Levántate!” ¡Levántense, arpa y lira! ¡Levantaré al amanecer!"},{"verse":"9","text":"Te agradeceré entre los pueblos, Señor; te cantaré alabanzas entre las naciones."},{"verse":"10","text":"Tu gran amor llega hasta los cielos; tu integridad hasta las nubes."},{"verse":"11","text":"¡Dios, tu grandeza está sobre los más altos cielos; y tu gloria cubre toda la tierra!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 57,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Sé bueno conmigo, Dios! Sé bueno conmigo porque vengo a ti por protección. Me abrigaré bajo la sombra de tus alas hasta que el peligro haya pasado.",
+      "strong": [
+        "H3045",
+        "H2896",
+        "H0854",
+        "H0430",
+        "H3045",
+        "H2896",
+        "H0854",
+        "H1732",
+        "H0935",
+        "H6440",
+        "H0859",
+        "H6440",
+        "H0413",
+        "H8478",
+        "H1931",
+        "H6738",
+        "H6440",
+        "H0859",
+        "H3671",
+        "H5329",
+        "H0834",
+        "H1931",
+        "H1961",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Clamé por ayuda al Dios Altísimo, a Dios, quien me defiende.",
+      "strong": [
+        "H7121",
+        "H3588",
+        "H5828",
+        "H5704",
+        "H0430",
+        "H5945",
+        "H5704",
+        "H0430",
+        "H4310",
+        "H3588",
+        "H8199"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Desde los cielos él envió su ayuda, y me salvó. Él derrota a aquellos que me persiguen. Selah. Dios me envía su gran amor, mostrándome que es digno de confianza.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H8064",
+        "H5921",
+        "H7971",
+        "H1931",
+        "H5828",
+        "H5921",
+        "H5921",
+        "H3467",
+        "H5921",
+        "H5921",
+        "H0479",
+        "H5921",
+        "H5921",
+        "H7291",
+        "H5542",
+        "H0430",
+        "H5921",
+        "H7971",
+        "H1931",
+        "H1419",
+        "H0160",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H4009"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡Me rodean los leones que comen hombres, y soy forzado a vivir con ellos! Sus dientes son como lanzas y flechas, y sus lenguas como espadas.",
+      "strong": [
+        "H0413",
+        "H5439",
+        "H0582",
+        "H0738",
+        "H0834",
+        "H0398",
+        "H0376",
+        "H1571",
+        "H0595",
+        "H0413",
+        "H2421",
+        "H5973",
+        "H1992",
+        "H1931",
+        "H8127",
+        "H1961",
+        "H0349",
+        "H7420",
+        "H1571",
+        "H1571",
+        "H1931",
+        "H0349",
+        "H2719"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Dios, tu grandeza está sobre los más altos cielos; ¡Y tu gloria cubre toda la tierra!",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H7613",
+        "H2063",
+        "H5921",
+        "H1121",
+        "H5750",
+        "H1116",
+        "H8064",
+        "H1571",
+        "H0859",
+        "H3519",
+        "H3680",
+        "H3605",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Ellos ponen trampas para atraparme. Estaba muy deprimido. Cavaron un hoyo en mi camino, pero fueron ellos los que cayeron en él. Selah.",
+      "strong": [
+        "H5921",
+        "H8371",
+        "H5921",
+        "H1961",
+        "H3966",
+        "H2658",
+        "H0259",
+        "H6354",
+        "H5921",
+        "H5921",
+        "H1870",
+        "H3588",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5307",
+        "H5921",
+        "H5921",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Confío en ti, Dios, confío en ti. Cantaré canciones de alabanza a ti.",
+      "strong": [
+        "H0982",
+        "H8432",
+        "H0859",
+        "H0430",
+        "H0982",
+        "H8432",
+        "H0859",
+        "H7891",
+        "H7892",
+        "H6440",
+        "H8416",
+        "H6440",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Me digo a mí mismo, “¡Levántate!” ¡Levántense, arpa y lira! ¡Levantaré al amanecer!",
+      "strong": [
+        "H0413",
+        "H0559",
+        "H0413",
+        "H0589",
+        "H1931",
+        "H6965",
+        "H6965",
+        "H3658",
+        "H1571",
+        "H5375",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Te agradeceré entre los pueblos, Señor; te cantaré alabanzas entre las naciones.",
+      "strong": [
+        "H0859",
+        "H0996",
+        "H0582",
+        "H5971",
+        "H0113",
+        "H0859",
+        "H7891",
+        "H8426",
+        "H0996",
+        "H1992",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Tu gran amor llega hasta los cielos; tu integridad hasta las nubes.",
+      "strong": [
+        "H0859",
+        "H1419",
+        "H0160",
+        "H6293",
+        "H5704",
+        "H0582",
+        "H8064",
+        "H0859",
+        "H8537",
+        "H5704",
+        "H1992",
+        "H5387"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "¡Dios, tu grandeza está sobre los más altos cielos; y tu gloria cubre toda la tierra!",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H7613",
+        "H2063",
+        "H5921",
+        "H3588",
+        "H3588",
+        "H1116",
+        "H8064",
+        "H3588",
+        "H0859",
+        "H3519",
+        "H3680",
+        "H3605",
+        "H3588",
+        "H0776"
+      ]
+    }
+  ]
+}

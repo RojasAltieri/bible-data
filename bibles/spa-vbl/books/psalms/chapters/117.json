@@ -1,1 +1,52 @@
-{"version":"spa-vbl","book":"psalms","chapter":117,"data":[{"verse":"1","text":"¡Alaben al Señor todas las naciones! ¡Todo el mundo en todas partes, alaben su gran nombre!"},{"verse":"2","text":"Porque su gran amor por nosotros está sobre todas las cosas; su fidelidad es eterna. ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 117,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor todas las naciones! ¡Todo el mundo en todas partes, alaben su gran nombre!",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H1992",
+        "H1471",
+        "H3605",
+        "H3605",
+        "H8398",
+        "H5921",
+        "H3605",
+        "H3027",
+        "H1984",
+        "H1931",
+        "H1419",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Porque su gran amor por nosotros está sobre todas las cosas; su fidelidad es eterna. ¡Alaben al Señor!",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H1697",
+        "H3588",
+        "H3588",
+        "H5769",
+        "H1984",
+        "H5921",
+        "H3068"
+      ]
+    }
+  ]
+}

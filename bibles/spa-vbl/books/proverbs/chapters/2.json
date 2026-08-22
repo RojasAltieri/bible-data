@@ -1,1 +1,422 @@
-{"version":"spa-vbl","book":"proverbs","chapter":2,"data":[{"verse":"1","text":"Hijo mío, si aceptas mi palabra y valoras mis instrucciones;"},{"verse":"2","text":"si prestas atención a la sabiduría y procuras entender;"},{"verse":"3","text":"si clamas pidiendo inteligencia y gritas pidiendo ayuda para comprender;"},{"verse":"4","text":"si la buscas como si fuera plata, y la persigues como si fuera un tesoro oculto,"},{"verse":"5","text":"entonces entenderás cómo debes relacionarte con el Señor y conocerás verdaderamente a Dios."},{"verse":"6","text":"El Señor es la fuente de la sabiduría. Su palabra proporciona el conocimiento y la razón."},{"verse":"7","text":"Él da sano juicio a los que viven en rectitud, y defiende a los que tienen buen discernimiento."},{"verse":"8","text":"Él sostiene a los que actúan con justicia y protege a los que confían en él."},{"verse":"9","text":"Entonces podrás reconocer lo que es recto y justo, y todo lo bueno , así como la forma en que debes vivir."},{"verse":"10","text":"Porque la sabiduría inundará tu mente, y el conocimiento te hará feliz."},{"verse":"11","text":"Las buenas decisiones te mantendrán por el buen camino, y estarás a salvo si piensas usando la razón."},{"verse":"12","text":"Esto te guardará de los caminos del mal, de los hombres mentirosos"},{"verse":"13","text":"que se alejan del camino recto para andar en caminos de oscuridad."},{"verse":"14","text":"Ellos son felices haciendo el mal, y les gusta la perversión."},{"verse":"15","text":"Viven vidas extraviadas, cometiendo actos engañosos."},{"verse":"16","text":"También te guardará de la mujer que actúa con inmoralidad,2:16.“Mujer que actúa inmoralmente”: Literalmente “Una mujer extraña”. de mujeres que tal como una prostituta2:16.“Una mujer tal como una prostituta”: Literalmente “Una mujer extranjera”. Se cree que esta frase surge de la idea de que las prostitutas eran a menudo mujeres que venían de otras naciones. tratan de seducirte con elogios."},{"verse":"17","text":"Una mujer que ha abandonado al hombre con el que se casó en su juventud, y ha olvidado las promesas que hizo ante Dios."},{"verse":"18","text":"Lo que sucede en su casa conduce a la muerte, y seguir sus caminos te llevará a la tumba."},{"verse":"19","text":"Ninguno que va donde ella regresa, pues nunca más logran encontrar el camino de regreso a la vida."},{"verse":"20","text":"Así que tú sigue el camino del bien, y asegúrate de ir por los senderos de quienes hacen lo recto."},{"verse":"21","text":"Porque solo los rectos habitarán la tierra. Solo los honestos permanecerán en ella."},{"verse":"22","text":"Pero los malvados serán expulsados de ella, y los infieles serán arrancados de raíz."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 2,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Hijo mío, si aceptas mi palabra y valoras mis instrucciones;",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H0518",
+        "H0589",
+        "H1697",
+        "H1571",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "si prestas atención a la sabiduría y procuras entender;",
+      "strong": [
+        "H0518",
+        "H0413",
+        "H2451",
+        "H2451",
+        "H1571",
+        "H7919"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "si clamas pidiendo inteligencia y gritas pidiendo ayuda para comprender;",
+      "strong": [
+        "H3588",
+        "H6817",
+        "H7592",
+        "H8394",
+        "H3588",
+        "H2199",
+        "H7592",
+        "H5828",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "si la buscas como si fuera plata, y la persigues como si fuera un tesoro oculto,",
+      "strong": [
+        "H0518",
+        "H1931",
+        "H1245",
+        "H0349",
+        "H0518",
+        "H2351",
+        "H3701",
+        "H1571",
+        "H1931",
+        "H7291",
+        "H0349",
+        "H0518",
+        "H2351",
+        "H0259",
+        "H0214",
+        "H5641"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "entonces entenderás cómo debes relacionarte con el Señor y conocerás verdaderamente a Dios.",
+      "strong": [
+        "H0227",
+        "H0995",
+        "H0349",
+        "H5973",
+        "H1931",
+        "H3068",
+        "H1571",
+        "H3045",
+        "H0403",
+        "H3068",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "El Señor es la fuente de la sabiduría. Su palabra proporciona el conocimiento y la razón.",
+      "strong": [
+        "H3588",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H4599",
+        "H3588",
+        "H3588",
+        "H2451",
+        "H3588",
+        "H6310",
+        "H3588",
+        "H1847",
+        "H3588",
+        "H3588",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él da sano juicio a los que viven en rectitud, y defiende a los que tienen buen discernimiento.",
+      "strong": [
+        "H1931",
+        "H5414",
+        "H7495",
+        "H4941",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H1571",
+        "H8199",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1992",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Él sostiene a los que actúan con justicia y protege a los que confían en él.",
+      "strong": [
+        "H1931",
+        "H5564",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H5973",
+        "H4941",
+        "H1571",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H5564",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Entonces podrás reconocer lo que es recto y justo, y todo lo bueno , así como la forma en que debes vivir.",
+      "strong": [
+        "H0227",
+        "H3201",
+        "H3605",
+        "H3605",
+        "H1961",
+        "H3477",
+        "H1571",
+        "H6662",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H2896",
+        "H3541",
+        "H0349",
+        "H3605",
+        "H8389",
+        "H5921",
+        "H3605",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Porque la sabiduría inundará tu mente, y el conocimiento te hará feliz.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2451",
+        "H7857",
+        "H0859",
+        "H3588",
+        "H3588",
+        "H1847",
+        "H3588",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Las buenas decisiones te mantendrán por el buen camino, y estarás a salvo si piensas usando la razón.",
+      "strong": [
+        "H5921",
+        "H2896",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H2896",
+        "H1870",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H3467",
+        "H5921",
+        "H0559",
+        "H5921",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Esto te guardará de los caminos del mal, de los hombres mentirosos",
+      "strong": [
+        "H2063",
+        "H0859",
+        "H8104",
+        "H7451",
+        "H0582",
+        "H1870",
+        "H4480",
+        "H7451",
+        "H7451",
+        "H0582",
+        "H0376",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "que se alejan del camino recto para andar en caminos de oscuridad.",
+      "strong": [
+        "H0834",
+        "H3045",
+        "H4480",
+        "H1870",
+        "H3477",
+        "H5704",
+        "H3212",
+        "H3212",
+        "H1870",
+        "H4480",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Ellos son felices haciendo el mal, y les gusta la perversión.",
+      "strong": [
+        "H1992",
+        "H1961",
+        "H6213",
+        "H6213",
+        "H7451",
+        "H1571",
+        "H0413",
+        "H2938",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Viven vidas extraviadas, cometiendo actos engañosos.",
+      "strong": [
+        "H2416",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "También te guardará de la mujer que actúa con inmoralidad, de mujeres que tal como una prostituta tratan de seducirte con elogios.",
+      "strong": [
+        "H1571",
+        "H0859",
+        "H8104",
+        "H4480",
+        "H1931",
+        "H0802",
+        "H0834",
+        "H5973",
+        "H4480",
+        "H0802",
+        "H0834",
+        "H3651",
+        "H0349",
+        "H0259",
+        "H5608",
+        "H4480",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Una mujer que ha abandonado al hombre con el que se casó en su juventud, y ha olvidado las promesas que hizo ante Dios.",
+      "strong": [
+        "H0259",
+        "H0802",
+        "H0834",
+        "H3541",
+        "H0413",
+        "H0376",
+        "H5973",
+        "H1931",
+        "H0834",
+        "H3045",
+        "H3820",
+        "H5921",
+        "H1931",
+        "H5271",
+        "H1571",
+        "H3541",
+        "H1992",
+        "H0834",
+        "H6213",
+        "H6440",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Lo que sucede en su casa conduce a la muerte, y seguir sus caminos te llevará a la tumba.",
+      "strong": [
+        "H1931",
+        "H3588",
+        "H5060",
+        "H3588",
+        "H3588",
+        "H1004",
+        "H3588",
+        "H3588",
+        "H4194",
+        "H3588",
+        "H0935",
+        "H1931",
+        "H4570",
+        "H3588",
+        "H5375",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Ninguno que va donde ella regresa, pues nunca más logran encontrar el camino de regreso a la vida.",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H1980",
+        "H0834",
+        "H3605",
+        "H3588",
+        "H3808",
+        "H3808",
+        "H5674",
+        "H3605",
+        "H1870",
+        "H4480",
+        "H0413",
+        "H3605",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Así que tú sigue el camino del bien, y asegúrate de ir por los senderos de quienes hacen lo recto.",
+      "strong": [
+        "H3541",
+        "H4616",
+        "H0859",
+        "H1214",
+        "H1931",
+        "H1870",
+        "H4480",
+        "H2896",
+        "H1571",
+        "H6662",
+        "H3212",
+        "H1870",
+        "H0582",
+        "H0734",
+        "H6662",
+        "H4310",
+        "H6213",
+        "H1931",
+        "H3477"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Porque solo los rectos habitarán la tierra. Solo los honestos permanecerán en ella.",
+      "strong": [
+        "H3588",
+        "H0910",
+        "H3588",
+        "H3477",
+        "H7931",
+        "H3588",
+        "H0776",
+        "H0910",
+        "H3588",
+        "H3498",
+        "H8549",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Pero los malvados serán expulsados de ella, y los infieles serán arrancados de raíz.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H1961",
+        "H4480",
+        "H4480",
+        "H1571",
+        "H0582",
+        "H1961",
+        "H4480"
+      ]
+    }
+  ]
+}

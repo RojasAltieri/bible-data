@@ -1,1 +1,625 @@
-{"version":"spa-vbl","book":"job","chapter":21,"data":[{"verse":"1","text":"Job contestó:"},{"verse":"2","text":"“Por favor, escuchen atentamente lo que digo; eso sería un consuelo que podrían darme.21:2 In 15:11 Elifaz pregunta si los consuelos de Dios son demasiado poco para Job. Aquí Job le da la vuelta y pide consuelo a sus amigos."},{"verse":"3","text":"Tengan paciencia conmigo; déjenme hablar. Después de que haya habladao, pueden seguir burlándose de mí."},{"verse":"4","text":"¿Me estoy quejando de la gente? Por supuesto que no.21:4 Implícito. ¿Por qué no debería estar impaciente?"},{"verse":"5","text":"Mírenme. ¿No están horrorizados? Tápense la boca con la mano en señal de asombro."},{"verse":"6","text":"Cada vez que pienso en lo que me ha pasado me horrorizo y tiemblo de miedo."},{"verse":"7","text":"“¿Por qué siguen viviendo los malvados, que envejecen y son cada vez más poderosos?21:7 Zofar acaba de decir que el triunfo de los malvados no dura mucho tiempo (20:5)."},{"verse":"8","text":"Sus hijos están con ellos; ven crecer a sus nietos."},{"verse":"9","text":"Viven en sus casas con seguridad; no tienen miedo. Dios no usa su vara para golpearlos.21:9 En 9:34 Job se queja de ser golpeado por la vara de Dios."},{"verse":"10","text":"Sus toros siempre crían con éxito; sus vacas paren terneros y no abortan."},{"verse":"11","text":"Sacan a jugar a sus pequeños como si fueran corderos; sus niños bailan alrededor."},{"verse":"12","text":"Cantan acompañados de la pandereta y la lira; celebran con la música de la flauta."},{"verse":"13","text":"Viven felices y bajan al sepulcro en paz.21:13 Seol: el lugar de los muertos."},{"verse":"14","text":"Sin embargo, le dicen a Dios: ‘¡Vete lejos! No queremos saber nada de ti."},{"verse":"15","text":"¿Quién se cree el Todopoderoso para que le sirvamos como esclavos? ¿Qué beneficio hay para nosotros si le oramos?’"},{"verse":"16","text":"Esa gente cree que hace su propia fortuna, pero yo no acepto su forma de pensar.21:16 Literalmente, “los planes de los malvados me repugnan”."},{"verse":"17","text":"“Cuántas veces se apaga la lámpara de los malvados?21:17 En 18:5 Bildad afirma que la lámpara de los malvados se apaga. ¿Cuántas veces les sobreviene el desastre?21:17 En 18:12 Bildad mencionó que los malvados sufren un desastre. ¿Cuántas veces castiga Dios a los impíos en su cólera?"},{"verse":"18","text":"¿Son arrastrados como paja en el viento? ¿Viene un tornado y se los lleva?"},{"verse":"19","text":"Algunos dicen: ‘Dios guarda el castigo de la gente para sus hijos’. Pero yo digo: ‘Dios debería castigar a esas personas para que aprendan de ello’."},{"verse":"20","text":"Que ellos mismos vean su destrucción y beban profundamente de la ira de Dios."},{"verse":"21","text":"Porque no les importará lo que les ocurra a sus familias una vez que hayan muerto."},{"verse":"22","text":"“¿Puede alguien enseñarle a Dios algo que no sepa ya, puesto que él es quien juzga incluso a los seres celestiales?21:22 Literalmente, “los exaltados”."},{"verse":"23","text":"Una persona muere con buena salud, totalmente cómoda y segura."},{"verse":"24","text":"Su cuerpo está gordo por haber comido bien; sus huesos aún son fuertes.21:24 Literalmente, “la médula de sus huesos está húmeda”."},{"verse":"25","text":"Otro muere después de una vida miserable sin haber experimentado la felicidad."},{"verse":"26","text":"Sin embargo, ambos son enterrados en el mismo polvo; son tratados de igual manera en la muerte, comidos por los gusanos."},{"verse":"27","text":"“Sé lo que piensan y sus planes para hacerme mal."},{"verse":"28","text":"Pueden preguntarme: ‘¿Dónde está la casa del gran hombre? ¿Dónde está el lugar donde viven los malvados?’"},{"verse":"29","text":"¿No le han preguntado a los viajeros? ¿No le prestan atención a lo que dicen?"},{"verse":"30","text":"La gente malvada se salva en tiempos de desastre; es rescatada del día del juicio."},{"verse":"31","text":"¿Quién cuestiona sus acciones? ¿Quién les paga por lo que han hecho?"},{"verse":"32","text":"Cuando finalmente mueren y son llevados al cementerio, su tumba está custodiada. La tierra de la tumba los cubre suavemente."},{"verse":"33","text":"Todo el mundo asiste a sus funerales; una enorme procesión de gente viene a presentar sus últimos respetos.21:33 Literalmente, “los que le preceden son innumerables”."},{"verse":"34","text":"¿Por qué tratan de consolarme con tonterías?21:34 Literalmente, “vapor”. Sus respuestas no son más que una sarta de mentiras!”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 21,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job contestó:",
+      "strong": [
+        "H0347"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“Por favor, escuchen atentamente lo que digo; eso sería un consuelo que podrían darme.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H8085",
+        "H8085",
+        "H4405",
+        "H1961",
+        "H0559",
+        "H2063",
+        "H1961",
+        "H0259",
+        "H5162",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Tengan paciencia conmigo; déjenme hablar. Después de que haya habladao, pueden seguir burlándose de mí.",
+      "strong": [
+        "H0639",
+        "H0854",
+        "H1696",
+        "H0310",
+        "H4480",
+        "H0834",
+        "H1961",
+        "H3201",
+        "H0935",
+        "H4480",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Me estoy quejando de la gente? Por supuesto que no. ¿Por qué no debería estar impaciente?",
+      "strong": [
+        "H0413",
+        "H1961",
+        "H4480",
+        "H1931",
+        "H1471",
+        "H4069",
+        "H3808",
+        "H3808",
+        "H4069",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Mírenme. ¿No están horrorizados? Tápense la boca con la mano en señal de asombro.",
+      "strong": [
+        "H5921",
+        "H1961",
+        "H5921",
+        "H6310",
+        "H5921",
+        "H5921",
+        "H3027",
+        "H5921",
+        "H0226",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Cada vez que pienso en lo que me ha pasado me horrorizo y tiemblo de miedo.",
+      "strong": [
+        "H3605",
+        "H6471",
+        "H0834",
+        "H2803",
+        "H5921",
+        "H1931",
+        "H0834",
+        "H0413",
+        "H3541",
+        "H5674",
+        "H0413",
+        "H1571",
+        "H4480",
+        "H4032"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“¿Por qué siguen viviendo los malvados, que envejecen y son cada vez más poderosos?",
+      "strong": [
+        "H4069",
+        "H1571",
+        "H1980",
+        "H2416",
+        "H0582",
+        "H1571",
+        "H1571",
+        "H1961",
+        "H3605",
+        "H6471",
+        "H1571",
+        "H7989"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Sus hijos están con ellos; ven crecer a sus nietos.",
+      "strong": [
+        "H1931",
+        "H2233",
+        "H1961",
+        "H5973",
+        "H1992",
+        "H3212",
+        "H5973",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Viven en sus casas con seguridad; no tienen miedo. Dios no usa su vara para golpearlos.",
+      "strong": [
+        "H2416",
+        "H5921",
+        "H1931",
+        "H1004",
+        "H5921",
+        "H4009",
+        "H3808",
+        "H1992",
+        "H6343",
+        "H0430",
+        "H3808",
+        "H1931",
+        "H7626",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Sus toros siempre crían con éxito; sus vacas paren terneros y no abortan.",
+      "strong": [
+        "H1931",
+        "H6499",
+        "H5769",
+        "H5973",
+        "H1931",
+        "H6510",
+        "H6403",
+        "H7794",
+        "H3808",
+        "H1602"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Sacan a jugar a sus pequeños como si fueran corderos; sus niños bailan alrededor.",
+      "strong": [
+        "H2107",
+        "H0413",
+        "H0413",
+        "H1931",
+        "H6996",
+        "H0349",
+        "H0518",
+        "H6629",
+        "H1931",
+        "H3206",
+        "H5439"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Cantan acompañados de la pandereta y la lira; celebran con la música de la flauta.",
+      "strong": [
+        "H7891",
+        "H4480",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H5973",
+        "H1931",
+        "H7892",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Viven felices y bajan al sepulcro en paz.",
+      "strong": [
+        "H2416",
+        "H1571",
+        "H0413",
+        "H7585",
+        "H5921",
+        "H7965"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Sin embargo, le dicen a Dios: ‘¡Vete lejos! No queremos saber nada de ti.",
+      "strong": [
+        "H3808",
+        "H0413",
+        "H0559",
+        "H4480",
+        "H0430",
+        "H3212",
+        "H7350",
+        "H3808",
+        "H2654",
+        "H5046",
+        "H3808",
+        "H4480",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "¿Quién se cree el Todopoderoso para que le sirvamos como esclavos? ¿Qué beneficio hay para nosotros si le oramos?’",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H3588",
+        "H7706",
+        "H3588",
+        "H3588",
+        "H0413",
+        "H5647",
+        "H4100",
+        "H3588",
+        "H3426",
+        "H3588",
+        "H0587",
+        "H3588",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Esa gente cree que hace su propia fortuna, pero yo no acepto su forma de pensar.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H4480",
+        "H6213",
+        "H1931",
+        "H3588",
+        "H4480",
+        "H3808",
+        "H7522",
+        "H1931",
+        "H8389",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "“Cuántas veces se apaga la lámpara de los malvados? ¿Cuántas veces les sobreviene el desastre? ¿Cuántas veces castiga Dios a los impíos en su cólera?",
+      "strong": [
+        "H4100",
+        "H6471",
+        "H5921",
+        "H5921",
+        "H5216",
+        "H5921",
+        "H5921",
+        "H4100",
+        "H6471",
+        "H5921",
+        "H5921",
+        "H0611",
+        "H4100",
+        "H6471",
+        "H3198",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H7563",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "¿Son arrastrados como paja en el viento? ¿Viene un tornado y se los lleva?",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H8401",
+        "H5921",
+        "H1931",
+        "H7307",
+        "H0935",
+        "H0259",
+        "H1571",
+        "H1961",
+        "H1961",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Algunos dicen: ‘Dios guarda el castigo de la gente para sus hijos’. Pero yo digo: ‘Dios debería castigar a esas personas para que aprendan de ello’.",
+      "strong": [
+        "H0582",
+        "H0559",
+        "H0430",
+        "H8104",
+        "H1121",
+        "H7110",
+        "H1121",
+        "H1931",
+        "H1471",
+        "H5704",
+        "H1931",
+        "H3588",
+        "H0589",
+        "H0559",
+        "H0430",
+        "H0413",
+        "H5315",
+        "H5704",
+        "H3045",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Que ellos mismos vean su destrucción y beban profundamente de la ira de Dios.",
+      "strong": [
+        "H0834",
+        "H1992",
+        "H1992",
+        "H7200",
+        "H1931",
+        "H7701",
+        "H1571",
+        "H8354",
+        "H5627",
+        "H5869",
+        "H1931",
+        "H2534",
+        "H5869",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Porque no les importará lo que les ocurra a sus familias una vez que hayan muerto.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0413",
+        "H4100",
+        "H3588",
+        "H0413",
+        "H3588",
+        "H1931",
+        "H1004",
+        "H0259",
+        "H6471",
+        "H3588",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "“¿Puede alguien enseñarle a Dios algo que no sepa ya, puesto que él es quien juzga incluso a los seres celestiales?",
+      "strong": [
+        "H3201",
+        "H0376",
+        "H0413",
+        "H0430",
+        "H3920",
+        "H1931",
+        "H3808",
+        "H3045",
+        "H3528",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H8199",
+        "H0413",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Una persona muere con buena salud, totalmente cómoda y segura.",
+      "strong": [
+        "H0259",
+        "H5315",
+        "H5973",
+        "H2896",
+        "H3444",
+        "H0914",
+        "H1571",
+        "H0982"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Su cuerpo está gordo por haber comido bien; sus huesos aún son fuertes.",
+      "strong": [
+        "H1931",
+        "H5038",
+        "H2063",
+        "H5921",
+        "H1961",
+        "H0398",
+        "H2896",
+        "H1931",
+        "H6106",
+        "H5750",
+        "H1961",
+        "H4013"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Otro muere después de una vida miserable sin haber experimentado la felicidad.",
+      "strong": [
+        "H2088",
+        "H0310",
+        "H4480",
+        "H0259",
+        "H5315",
+        "H3808",
+        "H3808",
+        "H5172",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Sin embargo, ambos son enterrados en el mismo polvo; son tratados de igual manera en la muerte, comidos por los gusanos.",
+      "strong": [
+        "H3808",
+        "H8147",
+        "H1961",
+        "H6912",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H6083",
+        "H1961",
+        "H5921",
+        "H2505",
+        "H7235",
+        "H5921",
+        "H5921",
+        "H4194",
+        "H5921",
+        "H5921",
+        "H7415"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "“Sé lo que piensan y sus planes para hacerme mal.",
+      "strong": [
+        "H3045",
+        "H5921",
+        "H5921",
+        "H1897",
+        "H5921",
+        "H1931",
+        "H5921",
+        "H6213",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Pueden preguntarme: ‘¿Dónde está la casa del gran hombre? ¿Dónde está el lugar donde viven los malvados?’",
+      "strong": [
+        "H3201",
+        "H0834",
+        "H2063",
+        "H3588",
+        "H1004",
+        "H4480",
+        "H1419",
+        "H0376",
+        "H0834",
+        "H2063",
+        "H3588",
+        "H4725",
+        "H0834",
+        "H7563",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "¿No le han preguntado a los viajeros? ¿No le prestan atención a lo que dicen?",
+      "strong": [
+        "H3808",
+        "H0413",
+        "H4191",
+        "H0413",
+        "H0582",
+        "H3808",
+        "H0413",
+        "H0413",
+        "H3808",
+        "H3808",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "La gente malvada se salva en tiempos de desastre; es rescatada del día del juicio.",
+      "strong": [
+        "H3588",
+        "H1471",
+        "H3045",
+        "H3467",
+        "H3588",
+        "H3117",
+        "H3588",
+        "H0611",
+        "H3588",
+        "H4480",
+        "H3117",
+        "H4480",
+        "H4941"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "¿Quién cuestiona sus acciones? ¿Quién les paga por lo que han hecho?",
+      "strong": [
+        "H4310",
+        "H1931",
+        "H4310",
+        "H5921",
+        "H7999",
+        "H5921",
+        "H1931",
+        "H4310",
+        "H4191",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Cuando finalmente mueren y son llevados al cementerio, su tumba está custodiada. La tierra de la tumba los cubre suavemente.",
+      "strong": [
+        "H3588",
+        "H4191",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H0776",
+        "H5921",
+        "H1931",
+        "H5921",
+        "H1931",
+        "H4334"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Todo el mundo asiste a sus funerales; una enorme procesión de gente viene a presentar sus últimos respetos.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H8398",
+        "H6440",
+        "H1931",
+        "H0259",
+        "H6440",
+        "H1471",
+        "H0935",
+        "H6440",
+        "H7725",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "¿Por qué tratan de consolarme con tonterías? Sus respuestas no son más que una sarta de mentiras!”",
+      "strong": [
+        "H5921",
+        "H0834",
+        "H5608",
+        "H4480",
+        "H5162",
+        "H5973",
+        "H1931",
+        "H3808",
+        "H1961",
+        "H5750",
+        "H0834",
+        "H0259",
+        "H4480",
+        "H3576"
+      ]
+    }
+  ]
+}

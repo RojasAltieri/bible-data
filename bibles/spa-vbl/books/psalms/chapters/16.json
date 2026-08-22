@@ -1,1 +1,247 @@
-{"version":"spa-vbl","book":"psalms","chapter":16,"data":[{"verse":"1","text":"Cuídame, Señor, porque vengo a ti en busca de protección."},{"verse":"2","text":"Le digo al Señor: “Aparte de ti, Dios, nada bueno tengo”."},{"verse":"3","text":"En cuanto a la gente santa que vive en la tierra, ellos son los únicos verdaderamente grandes, y los aprecio.16:3 El significado de este versículo no está claro aún."},{"verse":"4","text":"Aquellos que siguen a otros dioses enfrentarán muchos problemas. No participaré en sus ofrendas de sangre, ni siquiera hablaré los nombres de sus dioses."},{"verse":"5","text":"Señor, Tú eres todo lo que tengo, tú me das lo que necesito y tú proteges mi futuro.16:5 Literalmente: “Tú eres mi porción, mi copa, y guardas mi destino”."},{"verse":"6","text":"Las divisiones de la tierra han obrado a mi favor:16:6 Se refiere a la forma en que estaba dividida la tierra, especialmente la Tierra Prometida cuando fue establecida por primera vez. Lo que el salmista quiere decir es que las líneas divisoras poducían tierra y eso era bueno para él. Literalmente: «Las líneas que dividen la tierra han caído para mi en lugares agradables». ¡Mi propiedad es maravillosa!"},{"verse":"7","text":"Bendeciré al Señor que me da buen consejo. Incluso por las noches habla a mi consciencia16:7 Literalmente: «mis riñones». y me dice lo que es recto."},{"verse":"8","text":"Siempre he mantenido al Señor delante a mí, y no seré zarandeado porque él está a mi lado."},{"verse":"9","text":"¡Por eso mi corazón se contenta! ¡Por eso estoy lleno de alegría! ¡Por eso mi cuerpo vive con una esperanza!"},{"verse":"10","text":"Porque no me abandonarás en la tumba, ni permitirás que tu santo experimente la descomposición de su cuerpo."},{"verse":"11","text":"Me has mostrado el camino de la vida, me has llenado de alegría con tu presencia, y con el placer de vivir contigo para siempre."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 16,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Cuídame, Señor, porque vengo a ti en busca de protección.",
+      "strong": [
+        "H0113",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H1245",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Le digo al Señor: “Aparte de ti, Dios, nada bueno tengo”.",
+      "strong": [
+        "H5921",
+        "H0559",
+        "H5921",
+        "H3068",
+        "H4513",
+        "H5921",
+        "H5921",
+        "H3068",
+        "H3808",
+        "H2896",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "En cuanto a la gente santa que vive en la tierra, ellos son los únicos verdaderamente grandes, y los aprecio.",
+      "strong": [
+        "H5921",
+        "H0834",
+        "H0413",
+        "H3605",
+        "H1471",
+        "H6918",
+        "H1992",
+        "H2416",
+        "H5921",
+        "H3605",
+        "H0776",
+        "H1992",
+        "H1961",
+        "H1992",
+        "H0403",
+        "H1419",
+        "H1571",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Aquellos que siguen a otros dioses enfrentarán muchos problemas. No participaré en sus ofrendas de sangre, ni siquiera hablaré los nombres de sus dioses.",
+      "strong": [
+        "H0479",
+        "H5921",
+        "H1980",
+        "H5921",
+        "H0312",
+        "H0430",
+        "H7235",
+        "H1077",
+        "H5921",
+        "H1931",
+        "H5258",
+        "H5921",
+        "H1818",
+        "H1077",
+        "H1696",
+        "H5921",
+        "H8034",
+        "H5921",
+        "H1931",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Señor, Tú eres todo lo que tengo, tú me das lo que necesito y tú proteges mi futuro.",
+      "strong": [
+        "H3068",
+        "H0859",
+        "H0859",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H2803",
+        "H0859",
+        "H0413",
+        "H5414",
+        "H1931",
+        "H0834",
+        "H1571",
+        "H0859",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Las divisiones de la tierra han obrado a mi favor: ¡Mi propiedad es maravillosa!",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H4191",
+        "H5921",
+        "H5921",
+        "H7522",
+        "H5921",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Bendeciré al Señor que me da buen consejo. Incluso por las noches habla a mi consciencia y me dice lo que es recto.",
+      "strong": [
+        "H1288",
+        "H0413",
+        "H3068",
+        "H0834",
+        "H0413",
+        "H5414",
+        "H2896",
+        "H3289",
+        "H5921",
+        "H1992",
+        "H3915",
+        "H1696",
+        "H3068",
+        "H0589",
+        "H1571",
+        "H0413",
+        "H5002",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H3477"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Siempre he mantenido al Señor delante a mí, y no seré zarandeado porque él está a mi lado.",
+      "strong": [
+        "H8548",
+        "H4392",
+        "H0413",
+        "H3068",
+        "H5048",
+        "H3588",
+        "H0589",
+        "H3588",
+        "H1077",
+        "H1961",
+        "H3588",
+        "H3588",
+        "H2063",
+        "H3588",
+        "H0589",
+        "H3802"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¡Por eso mi corazón se contenta! ¡Por eso estoy lleno de alegría! ¡Por eso mi cuerpo vive con una esperanza!",
+      "strong": [
+        "H3651",
+        "H3651",
+        "H0589",
+        "H3820",
+        "H3651",
+        "H3651",
+        "H3651",
+        "H1961",
+        "H4390",
+        "H4480",
+        "H8057",
+        "H3651",
+        "H3651",
+        "H0589",
+        "H5038",
+        "H2416",
+        "H5973",
+        "H0259",
+        "H8615"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Porque no me abandonarás en la tumba, ni permitirás que tu santo experimente la descomposición de su cuerpo.",
+      "strong": [
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H5414",
+        "H3588",
+        "H0859",
+        "H2623",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5038"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Me has mostrado el camino de la vida, me has llenado de alegría con tu presencia, y con el placer de vivir contigo para siempre.",
+      "strong": [
+        "H0413",
+        "H4191",
+        "H1931",
+        "H1870",
+        "H6440",
+        "H1931",
+        "H2416",
+        "H0413",
+        "H4191",
+        "H6440",
+        "H8057",
+        "H5973",
+        "H0859",
+        "H6440",
+        "H1571",
+        "H5973",
+        "H1931",
+        "H6440",
+        "H2421",
+        "H6440",
+        "H5704",
+        "H5769"
+      ]
+    }
+  ]
+}

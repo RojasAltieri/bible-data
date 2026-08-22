@@ -1,1 +1,177 @@
-{"version":"spa-vbl","book":"psalms","chapter":101,"data":[{"verse":"1","text":"Cantaré de tu inmenso amor y de tu buen juicio. Cantaré alabanzas a ti, Señor."},{"verse":"2","text":"Me aseguraré de que mi vida sea irreprochable. ¿Cuándo vendrás a ayudarme? Mi vida será íntegra, incluso en privado.101:2 “Incluso en privado”: Literalmente, “en mi casa”."},{"verse":"3","text":"No me fijaré en nada malo. Porque odio hacer el mal, y no quiero tener nada que ver con él."},{"verse":"4","text":"No tendré malos pensamientos, ni consideraré acción perversa, por más mínima que sea."},{"verse":"5","text":"Haré callar a cualquiera que levante calumnias contra su prójimo. No toleraré a nadie que sea orgulloso o arrogante."},{"verse":"6","text":"Yo busco a gente leal que viva conmigo; solo aquellos que son dignos de confianza me servirán."},{"verse":"7","text":"Nadie deshonesto vivirá en mi casa; ningún mentiroso será permitido en mi presencia."},{"verse":"8","text":"Trabajo cada día para silenciar a los malvados de la tierra, para librar a la ciudad del Señor de todos los que hacen mal."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 101,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Cantaré de tu inmenso amor y de tu buen juicio. Cantaré alabanzas a ti, Señor.",
+      "strong": [
+        "H7891",
+        "H4480",
+        "H0859",
+        "H0160",
+        "H1571",
+        "H4480",
+        "H0859",
+        "H2896",
+        "H4941",
+        "H7891",
+        "H8426",
+        "H3068",
+        "H0859",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Me aseguraré de que mi vida sea irreprochable. ¿Cuándo vendrás a ayudarme? Mi vida será íntegra, incluso en privado.",
+      "strong": [
+        "H0413",
+        "H4480",
+        "H4970",
+        "H0589",
+        "H5315",
+        "H1961",
+        "H4970",
+        "H0935",
+        "H0413",
+        "H0589",
+        "H5315",
+        "H1961",
+        "H8549",
+        "H7921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "No me fijaré en nada malo. Porque odio hacer el mal, y no quiero tener nada que ver con él.",
+      "strong": [
+        "H3808",
+        "H0413",
+        "H5921",
+        "H3808",
+        "H1100",
+        "H3808",
+        "H4895",
+        "H6213",
+        "H6213",
+        "H7451",
+        "H1571",
+        "H3808",
+        "H2654",
+        "H1961",
+        "H3808",
+        "H3808",
+        "H7200",
+        "H5973",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "No tendré malos pensamientos, ni consideraré acción perversa, por más mínima que sea.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H7451",
+        "H4284",
+        "H3808",
+        "H5027",
+        "H7451",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Haré callar a cualquiera que levante calumnias contra su prójimo. No toleraré a nadie que sea orgulloso o arrogante.",
+      "strong": [
+        "H6213",
+        "H2790",
+        "H5869",
+        "H3605",
+        "H3808",
+        "H7311",
+        "H5921",
+        "H1931",
+        "H7453",
+        "H3808",
+        "H5869",
+        "H3808",
+        "H3808",
+        "H1961",
+        "H0176"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Yo busco a gente leal que viva conmigo; solo aquellos que son dignos de confianza me servirán.",
+      "strong": [
+        "H0589",
+        "H1875",
+        "H5869",
+        "H1471",
+        "H1931",
+        "H2416",
+        "H5978",
+        "H1931",
+        "H0479",
+        "H1931",
+        "H1961",
+        "H5869",
+        "H4009",
+        "H0413",
+        "H8334"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Nadie deshonesto vivirá en mi casa; ningún mentiroso será permitido en mi presencia.",
+      "strong": [
+        "H3808",
+        "H2154",
+        "H2421",
+        "H5921",
+        "H0589",
+        "H1004",
+        "H3808",
+        "H8267",
+        "H3808",
+        "H5921",
+        "H0589",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Trabajo cada día para silenciar a los malvados de la tierra, para librar a la ciudad del Señor de todos los que hacen mal.",
+      "strong": [
+        "H5999",
+        "H3605",
+        "H3117",
+        "H5704",
+        "H3068",
+        "H3605",
+        "H4480",
+        "H3605",
+        "H0776",
+        "H5704",
+        "H7804",
+        "H3068",
+        "H3605",
+        "H5892",
+        "H4480",
+        "H3068",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H6466",
+        "H7563"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,298 @@
-{"version":"spa-vbl","book":"psalms","chapter":48,"data":[{"verse":"1","text":"¡El Señor es supremo! Merece la alabanza en la ciudad santa de nuestro Dios."},{"verse":"2","text":"El monte de Sión es alto y hermoso, trayendo felicidad a toda la tierra; la ciudad del gran Rey está sobre el lado nortep."},{"verse":"3","text":"Dios mismo está en la fortaleza de la ciudad; es conocido como su defensor."},{"verse":"4","text":"Miren lo que pasa cuando los reyes extranjeros unen fuerzas para atacar la ciudad."},{"verse":"5","text":"Tan pronto como la vieron quedaron asombrados y corrieron aterrorizados."},{"verse":"6","text":"Se sacudieron por todas partes, y estaban en dolor agonizante como una mujer dando a luz,"},{"verse":"7","text":"tal como el viento fuerte del este rompiendo el barco de Tarsis."},{"verse":"8","text":"Tal como hemos escuchado, pero ahora hemos visto la ciudad del Señor todopoderoso. Esta es la ciudad de nuestro Dios; Él la mantendrá segura por siempre. Selah."},{"verse":"9","text":"Dios, meditamos en tu gran amor mientras adoramos en el Templo."},{"verse":"10","text":"Como es digno de tu reputación, 48:10 Literalmente, “nombre”. Dios, las alabanzas a ti se extienden por todo el mundo. ¡Lo que haces siempre es bueno!"},{"verse":"11","text":"Deja que la gente del Monte de Sión se alegre; ¡Permite que la gente de Judá celebre porque tus mandatos siempre son justos!"},{"verse":"12","text":"Ve y dale un vistazo a Sión. Cuenta las torres mientras caminas."},{"verse":"13","text":"Inspecciona los fuertes. Examina las ciudadelas, para que puedas describirle todo a la siguiente generación, diciéndoles:"},{"verse":"14","text":"“Esto es lo que nuestro Dios es. Él es nuestro Rey por siempre y para siempre. Él mismo nos guiará hasta el final”.48:14 “Fin”. Se debate aún cómo termina este salmo. Algunos usan la frase para sugerir “hasta la muerte” otros “para siempre”, y otros creen que es parte o calco del siguiente salmo."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 48,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡El Señor es supremo! Merece la alabanza en la ciudad santa de nuestro Dios.",
+      "strong": [
+        "H1121",
+        "H0113",
+        "H1961",
+        "H1931",
+        "H8416",
+        "H5921",
+        "H1931",
+        "H5892",
+        "H6944",
+        "H1121",
+        "H0587",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El monte de Sión es alto y hermoso, trayendo felicidad a toda la tierra; la ciudad del gran Rey está sobre el lado nortep.",
+      "strong": [
+        "H1931",
+        "H2022",
+        "H4480",
+        "H6726",
+        "H1961",
+        "H1364",
+        "H1571",
+        "H3303",
+        "H0935",
+        "H3068",
+        "H3605",
+        "H1931",
+        "H0776",
+        "H1931",
+        "H5892",
+        "H4480",
+        "H1419",
+        "H4428",
+        "H2063",
+        "H5921",
+        "H1931",
+        "H3802"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Dios mismo está en la fortaleza de la ciudad; es conocido como su defensor.",
+      "strong": [
+        "H0430",
+        "H3605",
+        "H2063",
+        "H5921",
+        "H3605",
+        "H5797",
+        "H4480",
+        "H3605",
+        "H7151",
+        "H1961",
+        "H3045",
+        "H0349",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Miren lo que pasa cuando los reyes extranjeros unen fuerzas para atacar la ciudad.",
+      "strong": [
+        "H5027",
+        "H1931",
+        "H3045",
+        "H5674",
+        "H3588",
+        "H0582",
+        "H4428",
+        "H1616",
+        "H3581",
+        "H5704",
+        "H1931",
+        "H5892"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tan pronto como la vieron quedaron asombrados y corrieron aterrorizados.",
+      "strong": [
+        "H3966",
+        "H4120",
+        "H3588",
+        "H3588",
+        "H7200",
+        "H7604",
+        "H3588",
+        "H7323"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Se sacudieron por todas partes, y estaban en dolor agonizante como una mujer dando a luz,",
+      "strong": [
+        "H1992",
+        "H3651",
+        "H3605",
+        "H3027",
+        "H1571",
+        "H1961",
+        "H5921",
+        "H2427",
+        "H3651",
+        "H0259",
+        "H0802",
+        "H0413",
+        "H0216"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "tal como el viento fuerte del este rompiendo el barco de Tarsis.",
+      "strong": [
+        "H3651",
+        "H0349",
+        "H1931",
+        "H7307",
+        "H2389",
+        "H4480",
+        "H2088",
+        "H1931",
+        "H4480",
+        "H8659"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Tal como hemos escuchado, pero ahora hemos visto la ciudad del Señor todopoderoso. Esta es la ciudad de nuestro Dios; Él la mantendrá segura por siempre. Selah.",
+      "strong": [
+        "H3651",
+        "H0349",
+        "H0935",
+        "H3588",
+        "H6258",
+        "H0935",
+        "H7200",
+        "H1931",
+        "H5892",
+        "H4480",
+        "H0113",
+        "H7706",
+        "H2063",
+        "H1961",
+        "H1931",
+        "H5892",
+        "H4480",
+        "H0587",
+        "H0430",
+        "H1931",
+        "H1931",
+        "H0982",
+        "H5921",
+        "H5769",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Dios, meditamos en tu gran amor mientras adoramos en el Templo.",
+      "strong": [
+        "H3068",
+        "H5704",
+        "H0859",
+        "H1419",
+        "H0160",
+        "H5704",
+        "H5704",
+        "H1931",
+        "H1964"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Como es digno de tu reputación, Dios, las alabanzas a ti se extienden por todo el mundo. ¡Lo que haces siempre es bueno!",
+      "strong": [
+        "H0349",
+        "H1961",
+        "H4480",
+        "H0859",
+        "H0430",
+        "H1992",
+        "H8426",
+        "H0413",
+        "H0859",
+        "H3045",
+        "H5921",
+        "H3605",
+        "H1931",
+        "H8398",
+        "H1931",
+        "H0834",
+        "H6213",
+        "H5769",
+        "H1961",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Deja que la gente del Monte de Sión se alegre; ¡Permite que la gente de Judá celebre porque tus mandatos siempre son justos!",
+      "strong": [
+        "H7971",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H5921",
+        "H2022",
+        "H5921",
+        "H6726",
+        "H5921",
+        "H8056",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H5921",
+        "H3063",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H1961",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Ve y dale un vistazo a Sión. Cuenta las torres mientras caminas.",
+      "strong": [
+        "H3212",
+        "H1571",
+        "H0259",
+        "H0413",
+        "H6726",
+        "H6485",
+        "H1992",
+        "H4026",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Inspecciona los fuertes. Examina las ciudadelas, para que puedas describirle todo a la siguiente generación, diciéndoles:",
+      "strong": [
+        "H0582",
+        "H4013",
+        "H6884",
+        "H1992",
+        "H5704",
+        "H0834",
+        "H3201",
+        "H3605",
+        "H0413",
+        "H1931",
+        "H0312",
+        "H1755",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "“Esto es lo que nuestro Dios es. Él es nuestro Rey por siempre y para siempre. Él mismo nos guiará hasta el final”.",
+      "strong": [
+        "H2063",
+        "H1961",
+        "H1931",
+        "H4616",
+        "H0587",
+        "H0430",
+        "H1961",
+        "H1931",
+        "H1961",
+        "H0587",
+        "H4428",
+        "H4616",
+        "H5769",
+        "H1571",
+        "H4616",
+        "H5769",
+        "H1931",
+        "H1931",
+        "H0587",
+        "H5704",
+        "H1931"
+      ]
+    }
+  ]
+}

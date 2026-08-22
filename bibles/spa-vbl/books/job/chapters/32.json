@@ -1,1 +1,452 @@
-{"version":"spa-vbl","book":"job","chapter":32,"data":[{"verse":"1","text":"Los tres amigos de Job dejaron de responderle porque él seguía protestando su inocencia."},{"verse":"2","text":"Entonces Eliú, hijo de Baraquel el Buzita, de la familia de Ram, se enojó. Se enojó con Job por afirmar que él tenía la razón y no Dios."},{"verse":"3","text":"Eliú también se enfadó con los tres amigos de Job porque hacían ver que Dios estaba equivocado, ya que no habían sido capaces de responder a Job.32:3 O “porque no habían sido capaces de responder a Job, y aun así lo condenaron”."},{"verse":"4","text":"Elihú había esperado a que los otros tres hablaran con Job, ya que eran mayores que él."},{"verse":"5","text":"Pero al ver que no podían responder a Job, se enojó mucho."},{"verse":"6","text":"Eliú, hijo de Baraquel el Buzita, dijo: “Yo soy joven y ustedes son viejos, por eso me resistí a decirles lo que sé."},{"verse":"7","text":"Me dije a mí mismo: ‘Los que son mayores deben hablar, los que son mayores deben enseñar la sabiduría’."},{"verse":"8","text":"Sin embargo, hay un espíritu32:8 El espíritu y el aliento están estrechamente relacionados. Véase, por ejemplo, Génesis 2:7. en los seres humanos, el aliento del Todopoderoso, que les da entendimiento."},{"verse":"9","text":"No son los viejos los que son sabios, ni los ancianos los que saben lo que es correcto."},{"verse":"10","text":"Por eso te digo que me escuches ahora: déjame decirte lo que sé."},{"verse":"11","text":"Pues bien, esperé a oír lo que tenías que decir, escuchando tus ideas mientras buscabas las palabras adecuadas para hablar."},{"verse":"12","text":"Les he prestado mucha atención a todos, y ninguno ha demostrado que Job estuviera equivocado ni ha respondido a sus argumentos."},{"verse":"13","text":"No digan dentro de ustedes mismo: ‘Somos muy sabios’,32:13 Literalmente, “Hemos encontrado sabiduría”. porque Dios, y no un ser humano, les demostrará que están equivocados."},{"verse":"14","text":"Job no alineó sus argumentos contra mí, y yo no le responderé como ustedes lo hicieron."},{"verse":"15","text":"Se quedaron sin palabras,32:15 O “consternados”. sin nada más que decir."},{"verse":"16","text":"¿Debo seguir esperando, siendo que no hablan y solo están ahí de pie sin decir nada?"},{"verse":"17","text":"Pues ahora yo también daré mi respuesta. Les diré lo que sé."},{"verse":"18","text":"¡Tengo tanto que decir que no puedo retener las palabras!32:18 Literalmente, “Estoy lleno de palabras, mi espíritu presiona en mi vientre”."},{"verse":"19","text":"Por dentro soy como un vino en fermentación, embotellado; como odres nuevos a punto de estallar."},{"verse":"20","text":"Tengo que hablar antes de estallar;32:20 O “Debo hablar para encontrar alivio”. abriré mis labios para responderle."},{"verse":"21","text":"No tomaré partido, y no voy a adular a nadie."},{"verse":"22","text":"No sé adular, y si lo hiciera mi Creador pronto me destruiría”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 32,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los tres amigos de Job dejaron de responderle porque él seguía protestando su inocencia.",
+      "strong": [
+        "H1931",
+        "H7969",
+        "H7453",
+        "H3588",
+        "H0347",
+        "H5800",
+        "H3588",
+        "H6030",
+        "H3588",
+        "H1931",
+        "H0310",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Entonces Eliú, hijo de Baraquel el Buzita, de la familia de Ram, se enojó. Se enojó con Job por afirmar que él tenía la razón y no Dios.",
+      "strong": [
+        "H0227",
+        "H0453",
+        "H1121",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4940",
+        "H5921",
+        "H7410",
+        "H5921",
+        "H2534",
+        "H5921",
+        "H2534",
+        "H5921",
+        "H0347",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H7218",
+        "H5921",
+        "H5921",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Eliú también se enfadó con los tres amigos de Job porque hacían ver que Dios estaba equivocado, ya que no habían sido capaces de responder a Job.",
+      "strong": [
+        "H0453",
+        "H1571",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7969",
+        "H7453",
+        "H5921",
+        "H0347",
+        "H5921",
+        "H6213",
+        "H7200",
+        "H3808",
+        "H0430",
+        "H1961",
+        "H3528",
+        "H3808",
+        "H3808",
+        "H0834",
+        "H1961",
+        "H5921",
+        "H7725",
+        "H5921",
+        "H0347"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Elihú había esperado a que los otros tres hablaran con Job, ya que eran mayores que él.",
+      "strong": [
+        "H3588",
+        "H4480",
+        "H3588",
+        "H1992",
+        "H0312",
+        "H7969",
+        "H1696",
+        "H4480",
+        "H0347",
+        "H3528",
+        "H3588",
+        "H1961",
+        "H1419",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Pero al ver que no podían responder a Job, se enojó mucho.",
+      "strong": [
+        "H3588",
+        "H0413",
+        "H7200",
+        "H3588",
+        "H3588",
+        "H3201",
+        "H7725",
+        "H6310",
+        "H0347",
+        "H3045",
+        "H2534",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Eliú, hijo de Baraquel el Buzita, dijo: “Yo soy joven y ustedes son viejos, por eso me resistí a decirles lo que sé.",
+      "strong": [
+        "H0453",
+        "H1121",
+        "H5921",
+        "H5921",
+        "H0559",
+        "H0589",
+        "H0595",
+        "H0970",
+        "H5921",
+        "H1961",
+        "H3453",
+        "H5921",
+        "H3651",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Me dije a mí mismo: ‘Los que son mayores deben hablar, los que son mayores deben enseñar la sabiduría’.",
+      "strong": [
+        "H0413",
+        "H1696",
+        "H0413",
+        "H0589",
+        "H1931",
+        "H0582",
+        "H3045",
+        "H1961",
+        "H1419",
+        "H1696",
+        "H0582",
+        "H3045",
+        "H1961",
+        "H1419",
+        "H3384",
+        "H2451"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Sin embargo, hay un espíritu en los seres humanos, el aliento del Todopoderoso, que les da entendimiento.",
+      "strong": [
+        "H3808",
+        "H3426",
+        "H0259",
+        "H7307",
+        "H5921",
+        "H1931",
+        "H5315",
+        "H1397",
+        "H1931",
+        "H0553",
+        "H4480",
+        "H7706",
+        "H1931",
+        "H0413",
+        "H5414",
+        "H7922"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "No son los viejos los que son sabios, ni los ancianos los que saben lo que es correcto.",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H0582",
+        "H2205",
+        "H0582",
+        "H3808",
+        "H3808",
+        "H2450",
+        "H3808",
+        "H0582",
+        "H2205",
+        "H0582",
+        "H3808",
+        "H3045",
+        "H3808",
+        "H3808",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Por eso te digo que me escuches ahora: déjame decirte lo que sé.",
+      "strong": [
+        "H3651",
+        "H3651",
+        "H0859",
+        "H0559",
+        "H0834",
+        "H0413",
+        "H6258",
+        "H7971",
+        "H1931",
+        "H0834",
+        "H3651"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Pues bien, esperé a oír lo que tenías que decir, escuchando tus ideas mientras buscabas las palabras adecuadas para hablar.",
+      "strong": [
+        "H3588",
+        "H2896",
+        "H3176",
+        "H5704",
+        "H8085",
+        "H1697",
+        "H5704",
+        "H1961",
+        "H5704",
+        "H0559",
+        "H8085",
+        "H0859",
+        "H5704",
+        "H1992",
+        "H1697",
+        "H5704",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Les he prestado mucha atención a todos, y ninguno ha demostrado que Job estuviera equivocado ni ha respondido a sus argumentos.",
+      "strong": [
+        "H0413",
+        "H4392",
+        "H7227",
+        "H5704",
+        "H3605",
+        "H5704",
+        "H0376",
+        "H3541",
+        "H4480",
+        "H0347",
+        "H3426",
+        "H5704",
+        "H3541",
+        "H5704",
+        "H1931",
+        "H8394"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "No digan dentro de ustedes mismo: ‘Somos muy sabios’, porque Dios, y no un ser humano, les demostrará que están equivocados.",
+      "strong": [
+        "H3808",
+        "H0559",
+        "H8432",
+        "H4480",
+        "H1931",
+        "H1961",
+        "H3966",
+        "H6435",
+        "H0430",
+        "H1571",
+        "H3808",
+        "H0259",
+        "H5315",
+        "H0120",
+        "H0413",
+        "H3808",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Job no alineó sus argumentos contra mí, y yo no le responderé como ustedes lo hicieron.",
+      "strong": [
+        "H0347",
+        "H3808",
+        "H1931",
+        "H8394",
+        "H5921",
+        "H0589",
+        "H1571",
+        "H0589",
+        "H3808",
+        "H0413",
+        "H6030",
+        "H0349",
+        "H3808",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Se quedaron sin palabras, sin nada más que decir.",
+      "strong": [
+        "H3808",
+        "H7604",
+        "H3808",
+        "H4405",
+        "H3808",
+        "H3808",
+        "H5750",
+        "H3808",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "¿Debo seguir esperando, siendo que no hablan y solo están ahí de pie sin decir nada?",
+      "strong": [
+        "H0935",
+        "H3176",
+        "H1931",
+        "H3588",
+        "H3808",
+        "H1696",
+        "H3588",
+        "H0910",
+        "H1961",
+        "H8033",
+        "H3588",
+        "H5975",
+        "H3808",
+        "H0559",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Pues ahora yo también daré mi respuesta. Les diré lo que sé.",
+      "strong": [
+        "H3588",
+        "H6258",
+        "H0589",
+        "H1571",
+        "H5414",
+        "H6030",
+        "H1697",
+        "H0413",
+        "H0559",
+        "H1931",
+        "H0834",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "¡Tengo tanto que decir que no puedo retener las palabras!",
+      "strong": [
+        "H2803",
+        "H3651",
+        "H3588",
+        "H0559",
+        "H3588",
+        "H3588",
+        "H3201",
+        "H6113",
+        "H1992",
+        "H4405"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Por dentro soy como un vino en fermentación, embotellado; como odres nuevos a punto de estallar.",
+      "strong": [
+        "H5921",
+        "H8432",
+        "H0595",
+        "H0349",
+        "H0259",
+        "H3196",
+        "H5921",
+        "H0349",
+        "H2319",
+        "H0413",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Tengo que hablar antes de estallar; abriré mis labios para responderle.",
+      "strong": [
+        "H1696",
+        "H0834",
+        "H1696",
+        "H6440",
+        "H4480",
+        "H6605",
+        "H0589",
+        "H8193",
+        "H5704",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "No tomaré partido, y no voy a adular a nadie.",
+      "strong": [
+        "H3808",
+        "H5375",
+        "H1571",
+        "H3808",
+        "H1980",
+        "H6440",
+        "H6440",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "No sé adular, y si lo hiciera mi Creador pronto me destruiría”.",
+      "strong": [
+        "H3808",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H5375",
+        "H4120",
+        "H3588"
+      ]
+    }
+  ]
+}

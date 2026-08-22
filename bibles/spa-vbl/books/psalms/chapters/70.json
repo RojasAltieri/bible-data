@@ -1,1 +1,106 @@
-{"version":"spa-vbl","book":"psalms","chapter":70,"data":[{"verse":"1","text":"Oh, Dios, ¡sálvame! ¡Apresúrate a ayudarme!"},{"verse":"2","text":"Por favor, vence y humilla a los que tratan de matarme. Haz que los que me hieren retrocedan con deshonra."},{"verse":"3","text":"Que los que se burlan de mi se horroricen de su derrota."},{"verse":"4","text":"Pero que Sean felices todos los que vienen a ti; que los que aman tu salvación siempre digan: “¡Cuán grande es Dios!”"},{"verse":"5","text":"En lo que a mi concierne, soy un pobre y menesteroso. ¡Apresúrate, oh Dios, a ayudarme! ¡No esperes más!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 70,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Oh, Dios, ¡sálvame! ¡Apresúrate a ayudarme!",
+      "strong": [
+        "H1945",
+        "H0430",
+        "H3467",
+        "H2363",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Por favor, vence y humilla a los que tratan de matarme. Haz que los que me hieren retrocedan con deshonra.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H1571",
+        "H8213",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H5608",
+        "H4480",
+        "H2026",
+        "H6213",
+        "H0834",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H5973",
+        "H2781"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Que los que se burlan de mi se horroricen de su derrota.",
+      "strong": [
+        "H0834",
+        "H0582",
+        "H0834",
+        "H3045",
+        "H7451",
+        "H5315",
+        "H3045",
+        "H7451",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero que Sean felices todos los que vienen a ti; que los que aman tu salvación siempre digan: “¡Cuán grande es Dios!”",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H1961",
+        "H3605",
+        "H5921",
+        "H5921",
+        "H0935",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H2001",
+        "H0859",
+        "H6413",
+        "H5921",
+        "H0559",
+        "H4100",
+        "H1419",
+        "H1961",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "En lo que a mi concierne, soy un pobre y menesteroso. ¡Apresúrate, oh Dios, a ayudarme! ¡No esperes más!",
+      "strong": [
+        "H5921",
+        "H3605",
+        "H3605",
+        "H0413",
+        "H1431",
+        "H0595",
+        "H0259",
+        "H1800",
+        "H1571",
+        "H0034",
+        "H2363",
+        "H1945",
+        "H0430",
+        "H0413",
+        "H3808",
+        "H2442",
+        "H1245"
+      ]
+    }
+  ]
+}

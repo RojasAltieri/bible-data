@@ -1,1 +1,400 @@
-{"version":"spa-vbl","book":"psalms","chapter":38,"data":[{"verse":"1","text":"¡Señor, por favor no me condenes, por causa de tu enojo conmigo! ¡No me castigues con tu furia!"},{"verse":"2","text":"Tus flechas me han atravesado, tus manos han caído sobre mí."},{"verse":"3","text":"Por tu enojo hacia mí, ni una sola parte de mi cuerpo está sana. Estoy completamente enfermo por mis pecados."},{"verse":"4","text":"Me estoy ahogando en culpa. La carga es muy pesada de llevar."},{"verse":"5","text":"Mis heridas están infectadas, están comenzando a oler mal, y por culpa de mi terquedad."},{"verse":"6","text":"Estoy encorvado, retorcido por el dolor. Camino el día entero llorando y lamentándome."},{"verse":"7","text":"Estoy ardiendo por dentro de fiebre. Ninguna parte de mi cuerpo está sana."},{"verse":"8","text":"Estoy muy cansado, totalmente deshecho. Siento mi corazón como ruge de angustia."},{"verse":"9","text":"Señor, sabes lo que quiero desesperadamente, escuchas cada respiración que tomo."},{"verse":"10","text":"Mi corazón se está acelerando, dejándome sin fuerza. Mi vista está decayendo."},{"verse":"11","text":"Mis amados y amigos no se me acercan porque tienen miedo de contagiarse. Incluso mi familia se ha distanciado."},{"verse":"12","text":"Aquellos que intentan matarme me ponen trampas. Los que intentan herirme me amenazan, trabajando en sus planes engañosos todo el día."},{"verse":"13","text":"Yo actúo como si fuera sordo con sus palabras,38:13 Implícito. e intento parecer tonto para no tener que hablar."},{"verse":"14","text":"Como un hombre que no puede oír, y que no responde, ¡Ese soy yo!"},{"verse":"15","text":"¡Porque espero en ti, Señor! Tú me responderás, Dios mío."},{"verse":"16","text":"Señor, te pido que por favor mis enemigos no se jacten en frente mí, no dejes que se alegren cuando yo tropiece."},{"verse":"17","text":"Porque estoy por colapsar, el dolor nunca se detiene."},{"verse":"18","text":"Confieso mis pecados. Lamento horriblemente todo lo que he hecho."},{"verse":"19","text":"Tengo enemigos muy poderosos, son bastante activos, y me odian sin razón."},{"verse":"20","text":"Me pagan el bien con mal. Me acusan por el bien que he tratado de hacer."},{"verse":"21","text":"Señor, no me abandones, no te alejes de mí."},{"verse":"22","text":"Apresúrate, ven y ayúdame, ¡Oh, Señor, mi salvador!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 38,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Señor, por favor no me condenes, por causa de tu enojo conmigo! ¡No me castigues con tu furia!",
+      "strong": [
+        "H0113",
+        "H5921",
+        "H7522",
+        "H3808",
+        "H0413",
+        "H5921",
+        "H1697",
+        "H4480",
+        "H0859",
+        "H2534",
+        "H0854",
+        "H3808",
+        "H0413",
+        "H3256",
+        "H5973",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Tus flechas me han atravesado, tus manos han caído sobre mí.",
+      "strong": [
+        "H0859",
+        "H0413",
+        "H4191",
+        "H0859",
+        "H3027",
+        "H4191",
+        "H5307",
+        "H5921",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Por tu enojo hacia mí, ni una sola parte de mi cuerpo está sana. Estoy completamente enfermo por mis pecados.",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H2534",
+        "H5921",
+        "H5921",
+        "H3808",
+        "H0259",
+        "H1565",
+        "H2677",
+        "H5921",
+        "H5921",
+        "H5038",
+        "H5921",
+        "H7495",
+        "H1961",
+        "H2470",
+        "H5921",
+        "H0589",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Me estoy ahogando en culpa. La carga es muy pesada de llevar.",
+      "strong": [
+        "H0413",
+        "H1961",
+        "H5921",
+        "H5352",
+        "H1931",
+        "H4853",
+        "H1961",
+        "H3966",
+        "H3515",
+        "H6440",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Mis heridas están infectadas, están comenzando a oler mal, y por culpa de mi terquedad.",
+      "strong": [
+        "H0589",
+        "H4347",
+        "H1961",
+        "H1961",
+        "H4480",
+        "H7451",
+        "H3588",
+        "H3588",
+        "H5352",
+        "H4480",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Estoy encorvado, retorcido por el dolor. Camino el día entero llorando y lamentándome.",
+      "strong": [
+        "H1961",
+        "H3766",
+        "H6440",
+        "H1931",
+        "H2427",
+        "H1870",
+        "H1931",
+        "H3117",
+        "H8549",
+        "H1058",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Estoy ardiendo por dentro de fiebre. Ninguna parte de mi cuerpo está sana.",
+      "strong": [
+        "H1961",
+        "H3345",
+        "H5704",
+        "H8432",
+        "H5704",
+        "H3605",
+        "H2677",
+        "H5704",
+        "H0589",
+        "H5038",
+        "H2063",
+        "H7495"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Estoy muy cansado, totalmente deshecho. Siento mi corazón como ruge de angustia.",
+      "strong": [
+        "H1961",
+        "H3966",
+        "H5889",
+        "H0914",
+        "H5595",
+        "H0589",
+        "H3820",
+        "H3588",
+        "H1993",
+        "H3588",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Señor, sabes lo que quiero desesperadamente, escuchas cada respiración que tomo.",
+      "strong": [
+        "H0113",
+        "H3045",
+        "H5704",
+        "H5704",
+        "H2654",
+        "H3605",
+        "H5704",
+        "H3947"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Mi corazón se está acelerando, dejándome sin fuerza. Mi vista está decayendo.",
+      "strong": [
+        "H0589",
+        "H3820",
+        "H4480",
+        "H2063",
+        "H2814",
+        "H3808",
+        "H3581",
+        "H0589",
+        "H4758",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Mis amados y amigos no se me acercan porque tienen miedo de contagiarse. Incluso mi familia se ha distanciado.",
+      "strong": [
+        "H0589",
+        "H0157",
+        "H1571",
+        "H7453",
+        "H3808",
+        "H1992",
+        "H0413",
+        "H3588",
+        "H1992",
+        "H4032",
+        "H5869",
+        "H0589",
+        "H1004",
+        "H1992",
+        "H3541"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Aquellos que intentan matarme me ponen trampas. Los que intentan herirme me amenazan, trabajando en sus planes engañosos todo el día.",
+      "strong": [
+        "H0479",
+        "H0834",
+        "H2803",
+        "H2026",
+        "H0413",
+        "H8371",
+        "H0582",
+        "H0834",
+        "H2803",
+        "H0413",
+        "H5975",
+        "H1931",
+        "H3605",
+        "H1931",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Yo actúo como si fuera sordo con sus palabras, e intento parecer tonto para no tener que hablar.",
+      "strong": [
+        "H5315",
+        "H0349",
+        "H5315",
+        "H2351",
+        "H2795",
+        "H5973",
+        "H1931",
+        "H1696",
+        "H0834",
+        "H4758",
+        "H5704",
+        "H3808",
+        "H1961",
+        "H3117",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Como un hombre que no puede oír, y que no responde, ¡Ese soy yo!",
+      "strong": [
+        "H0349",
+        "H0259",
+        "H0376",
+        "H3808",
+        "H3808",
+        "H3201",
+        "H8085",
+        "H1571",
+        "H3808",
+        "H3808",
+        "H6030",
+        "H1931",
+        "H0595",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "¡Porque espero en ti, Señor! Tú me responderás, Dios mío.",
+      "strong": [
+        "H3808",
+        "H3176",
+        "H5921",
+        "H0859",
+        "H0113",
+        "H0859",
+        "H0413",
+        "H6030",
+        "H0430",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Señor, te pido que por favor mis enemigos no se jacten en frente mí, no dejes que se alegren cuando yo tropiece.",
+      "strong": [
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7522",
+        "H0589",
+        "H0341",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H5048",
+        "H6030",
+        "H3588",
+        "H5146",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H5062"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Porque estoy por colapsar, el dolor nunca se detiene.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H2427",
+        "H3588",
+        "H5921",
+        "H0748"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Confieso mis pecados. Lamento horriblemente todo lo que he hecho.",
+      "strong": [
+        "H3034",
+        "H0589",
+        "H2403",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H4392",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Tengo enemigos muy poderosos, son bastante activos, y me odian sin razón.",
+      "strong": [
+        "H2803",
+        "H0341",
+        "H3966",
+        "H7989",
+        "H3588",
+        "H5750",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Me pagan el bien con mal. Me acusan por el bien que he tratado de hacer.",
+      "strong": [
+        "H0413",
+        "H1931",
+        "H2896",
+        "H5973",
+        "H7451",
+        "H0413",
+        "H5921",
+        "H1931",
+        "H2896",
+        "H0834",
+        "H4392",
+        "H5953",
+        "H4480",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Señor, no me abandones, no te alejes de mí.",
+      "strong": [
+        "H0113",
+        "H3808",
+        "H0413",
+        "H3808",
+        "H0859",
+        "H8478",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Apresúrate, ven y ayúdame, ¡Oh, Señor, mi salvador!",
+      "strong": [
+        "H2363",
+        "H3212",
+        "H1571",
+        "H5826",
+        "H1945",
+        "H3068",
+        "H0589",
+        "H3467"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,219 @@
-{"version":"spa-vbl","book":"psalms","chapter":24,"data":[{"verse":"1","text":"La tierra es del Señor, y todo lo que está en ella le pertenece a Él. El mundo es suyo, y todos los que viven en él."},{"verse":"2","text":"Porque él es el único que colocó las bases de los mares, estableciéndolas sobre las aguas."},{"verse":"3","text":"¿Quién puede ir al monte del Señor? ¿Quién tiene el permiso de posarse sobre su lugar santo?"},{"verse":"4","text":"Aquellos que tengan manos limpias24:4 “Limpias” se refiere a Inocencia y sin culpa de pecado. y corazones puros, que no adoran ídolos,24:4 “No adoran ídolos” o “no toman el nombre del Señor en vano”. y que no mienten bajo juramento."},{"verse":"5","text":"Tomarán consigo la bendición del Señor, reivindicada por el Dios que los salva."},{"verse":"6","text":"Estos son los que podrán ir al Señor y lo adorarán delante ti, Dios de Jacob. Selah."},{"verse":"7","text":"¡Ábranse puertas! ¡Levántense, puertas antiguas! ¡Dejen que el Rey de gloria entre!"},{"verse":"8","text":"¿Quién es este Rey de gloria? El Señor, fuerte y poderoso, valiente en la batalla."},{"verse":"9","text":"¡Ábranse puertas! ¡Levántense, puertas antiguas! ¡Dejen que el Rey de gloria entre!"},{"verse":"10","text":"¿Quién es el Rey de gloria? El Señor todo poderoso, ¡Él es el Rey de gloria! Selah."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 24,
+  "data": [
+    {
+      "verse": "1",
+      "text": "La tierra es del Señor, y todo lo que está en ella le pertenece a Él. El mundo es suyo, y todos los que viven en él.",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H1961",
+        "H4480",
+        "H3068",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H3427",
+        "H5921",
+        "H1931",
+        "H0413",
+        "H3068",
+        "H3427",
+        "H3427",
+        "H8398",
+        "H1961",
+        "H1931",
+        "H1571",
+        "H3605",
+        "H3427",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H3427"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Porque él es el único que colocó las bases de los mares, estableciéndolas sobre las aguas.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3173",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3220",
+        "H5921",
+        "H5921",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Quién puede ir al monte del Señor? ¿Quién tiene el permiso de posarse sobre su lugar santo?",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H3212",
+        "H0413",
+        "H2022",
+        "H4480",
+        "H3068",
+        "H4310",
+        "H3426",
+        "H4310",
+        "H4480",
+        "H5921",
+        "H1931",
+        "H4725",
+        "H6944"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Aquellos que tengan manos limpias y corazones puros, que no adoran ídolos, y que no mienten bajo juramento.",
+      "strong": [
+        "H0479",
+        "H3808",
+        "H3709",
+        "H2889",
+        "H5355",
+        "H3824",
+        "H3808",
+        "H3808",
+        "H7812",
+        "H0457",
+        "H5355",
+        "H3808",
+        "H3808",
+        "H8266",
+        "H8478",
+        "H7621"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tomarán consigo la bendición del Señor, reivindicada por el Dios que los salva.",
+      "strong": [
+        "H5375",
+        "H5973",
+        "H1931",
+        "H1293",
+        "H4480",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H0834",
+        "H0582",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Estos son los que podrán ir al Señor y lo adorarán delante ti, Dios de Jacob. Selah.",
+      "strong": [
+        "H2088",
+        "H1961",
+        "H0582",
+        "H2088",
+        "H3201",
+        "H3212",
+        "H0413",
+        "H0113",
+        "H1571",
+        "H2088",
+        "H6440",
+        "H0859",
+        "H0430",
+        "H6440",
+        "H3290",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¡Ábranse puertas! ¡Levántense, puertas antiguas! ¡Dejen que el Rey de gloria entre!",
+      "strong": [
+        "H8179",
+        "H6965",
+        "H8179",
+        "H5769",
+        "H2308",
+        "H0834",
+        "H1931",
+        "H4428",
+        "H4480",
+        "H3519",
+        "H0996"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¿Quién es este Rey de gloria? El Señor, fuerte y poderoso, valiente en la batalla.",
+      "strong": [
+        "H4310",
+        "H2088",
+        "H2088",
+        "H4428",
+        "H4480",
+        "H3519",
+        "H4310",
+        "H3068",
+        "H1368",
+        "H3519",
+        "H1368",
+        "H1368",
+        "H5921",
+        "H1931",
+        "H4421"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¡Ábranse puertas! ¡Levántense, puertas antiguas! ¡Dejen que el Rey de gloria entre!",
+      "strong": [
+        "H8179",
+        "H6965",
+        "H8179",
+        "H5769",
+        "H2308",
+        "H0834",
+        "H1931",
+        "H4428",
+        "H4480",
+        "H3519",
+        "H0996"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Quién es el Rey de gloria? El Señor todo poderoso, ¡Él es el Rey de gloria! Selah.",
+      "strong": [
+        "H4310",
+        "H1931",
+        "H1931",
+        "H4428",
+        "H4480",
+        "H3519",
+        "H1931",
+        "H3068",
+        "H3605",
+        "H1368",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H4428",
+        "H4480",
+        "H3519",
+        "H5542"
+      ]
+    }
+  ]
+}

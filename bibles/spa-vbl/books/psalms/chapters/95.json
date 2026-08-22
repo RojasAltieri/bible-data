@@ -1,1 +1,235 @@
-{"version":"spa-vbl","book":"psalms","chapter":95,"data":[{"verse":"1","text":"¡Vengan, cantemos con alegría al Señor! ¡Gritemos triunfantes a la roca de nuestra salvación!"},{"verse":"2","text":"¡Vayamos ante él con acción de gracias! ¡Cantemos a él en voz alta en celebración!"},{"verse":"3","text":"porque el Señor es un Dios grande, el gran rey sobre todos los dioses."},{"verse":"4","text":"El manda sobre lo más profundo de la tierra y sobre lo más alto de los montes."},{"verse":"5","text":"El mar es de él, porque él lo hizo; la tierra seca le pertenece, porque él la formó."},{"verse":"6","text":"Vengan, entremos95:6 Habla de entrar al Templo a adorar. y adoremos, arrodillémonos ante el Señor nuestro creador."},{"verse":"7","text":"Porque él es nuestro Dios, y nosotros el pueblo que cuida como un pastor, el rebaño por el cual se preocupa. Si escuchas hoy su voz llamando,"},{"verse":"8","text":"no se rehúsen a responder,95:8 “No se rehúsen a responder”: Literalmente, “no endurezcan sus corazones”. “Como hicieron en Meribá, como hicieron ese día en Masá en el desierto,"},{"verse":"9","text":"cuando sus antepasados me provocaron, probando mi paciencia, incluso habiendo visto todo lo que había hecho."},{"verse":"10","text":"Por cuarenta años estuve disgustado con esa generación, y dije, ‘Ellos son personas que me son desleales con sus pensamientos, y se rehúsan a seguir mis caminos’."},{"verse":"11","text":"Entonces en mi frustración juré, ‘Ciertamente no entrarán en mi reposo’”.95:11 “Mi reposo”, refiriéndose a la Tierra Prometida."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 95,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Vengan, cantemos con alegría al Señor! ¡Gritemos triunfantes a la roca de nuestra salvación!",
+      "strong": [
+        "H0935",
+        "H5973",
+        "H8057",
+        "H0413",
+        "H3068",
+        "H3068",
+        "H1931",
+        "H6697",
+        "H4480",
+        "H0587",
+        "H6413"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Vayamos ante él con acción de gracias! ¡Cantemos a él en voz alta en celebración!",
+      "strong": [
+        "H3212",
+        "H6440",
+        "H1931",
+        "H5973",
+        "H6440",
+        "H6440",
+        "H1931",
+        "H5921",
+        "H6963",
+        "H1419",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "porque el Señor es un Dios grande, el gran rey sobre todos los dioses.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H3068",
+        "H3588",
+        "H0259",
+        "H3068",
+        "H1419",
+        "H5921",
+        "H1419",
+        "H4428",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El manda sobre lo más profundo de la tierra y sobre lo más alto de los montes.",
+      "strong": [
+        "H1931",
+        "H6680",
+        "H5921",
+        "H1931",
+        "H5750",
+        "H8482",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H5750",
+        "H1364",
+        "H4480",
+        "H0582",
+        "H2022"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El mar es de él, porque él lo hizo; la tierra seca le pertenece, porque él la formó.",
+      "strong": [
+        "H1931",
+        "H3220",
+        "H1931",
+        "H4480",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H6213",
+        "H1931",
+        "H0776",
+        "H6723",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H3335"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Vengan, entremos y adoremos, arrodillémonos ante el Señor nuestro creador.",
+      "strong": [
+        "H0935",
+        "H0935",
+        "H1571",
+        "H1288",
+        "H6440",
+        "H6213",
+        "H3068",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Porque él es nuestro Dios, y nosotros el pueblo que cuida como un pastor, el rebaño por el cual se preocupa. Si escuchas hoy su voz llamando,",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H1931",
+        "H0587",
+        "H0430",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H5971",
+        "H3588",
+        "H1875",
+        "H3588",
+        "H0259",
+        "H7462",
+        "H1931",
+        "H6629",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3588",
+        "H3117",
+        "H1931",
+        "H6963",
+        "H7121"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "no se rehúsen a responder, “Como hicieron en Meribá, como hicieron ese día en Masá en el desierto,",
+      "strong": [
+        "H3808",
+        "H3045",
+        "H0413",
+        "H7725",
+        "H0349",
+        "H6213",
+        "H5921",
+        "H0349",
+        "H6213",
+        "H1931",
+        "H3117",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H4057"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "cuando sus antepasados me provocaron, probando mi paciencia, incluso habiendo visto todo lo que había hecho.",
+      "strong": [
+        "H1571",
+        "H1931",
+        "H0413",
+        "H0589",
+        "H0639",
+        "H1961",
+        "H7200",
+        "H3605",
+        "H1931",
+        "H1571",
+        "H1961",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Por cuarenta años estuve disgustado con esa generación, y dije, ‘Ellos son personas que me son desleales con sus pensamientos, y se rehúsan a seguir mis caminos’.",
+      "strong": [
+        "H1870",
+        "H0705",
+        "H8141",
+        "H5975",
+        "H5973",
+        "H1931",
+        "H1755",
+        "H1571",
+        "H0559",
+        "H1992",
+        "H3808",
+        "H5315",
+        "H3808",
+        "H0413",
+        "H3808",
+        "H5973",
+        "H1992",
+        "H4284",
+        "H1571",
+        "H3045",
+        "H0413",
+        "H0935",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Entonces en mi frustración juré, ‘Ciertamente no entrarán en mi reposo’”.",
+      "strong": [
+        "H0227",
+        "H5921",
+        "H0589",
+        "H7650",
+        "H0389",
+        "H3808",
+        "H0935",
+        "H5921",
+        "H0589"
+      ]
+    }
+  ]
+}

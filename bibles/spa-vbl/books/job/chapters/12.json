@@ -1,1 +1,493 @@
-{"version":"spa-vbl","book":"job","chapter":12,"data":[{"verse":"1","text":"Job contestó:"},{"verse":"2","text":"“Ustedes realmente creen que son personas especiales, ¿no es así?12:2 Literalmente, “Sin duda ustedes son el pueblo”. Obviamente, cuando mueran, la sabiduría morirá con ustedes."},{"verse":"3","text":"Pero yo también tengo conocimientos, y ustedes no son mejores que yo. ¿No sabe todo el mundo las cosas que han dicho?"},{"verse":"4","text":"Pero mis amigos se ríen de mí porque invoqué a Dios y él me respondió: el hombre inocente que hace el bien se ha convertido en objeto de burla."},{"verse":"5","text":"La gente que está bien desprecia a los que tienen problemas; están dispuestos a empujar a los que ya resbalan."},{"verse":"6","text":"Los ladrones viven en paz, y los que hacen enojar a Dios viven seguros, confiando en su propia fuerza como su ‘dios’."},{"verse":"7","text":"“Pero si les preguntas a los animales, ellos te enseñarán; las aves del cielo te lo dirán;"},{"verse":"8","text":"pregúntale a la tierra y ella te enseñará; y los peces del mar te lo dirán."},{"verse":"9","text":"¿Quién de todos ellos no sabe que el Señor ha hecho esto?"},{"verse":"10","text":"Él da vida a todo ser viviente, y a toda la humanidad."},{"verse":"11","text":"El oído distingue12:11 Literalmente, “prueba”. palabras como el paladar distingue los alimentos."},{"verse":"12","text":"La sabiduría para distinguir pertenece a los ancianos, y la habilidad para discriminar correctamente pertenece a los que tienen una larga experiencia.12:12 También podría ser una pregunta: “¿Es la sabiduría con los viejos, y el entendimiento en la duración de los días?”"},{"verse":"13","text":"Dios tiene sabiduría y poder, el consejo y el entendimiento le pertenecen."},{"verse":"14","text":"Si derriba algo, nadie puede reconstruirlo. Si encarcela a alguien, nadie podrá liberarlo."},{"verse":"15","text":"Si Dios retiene las aguas, todo se seca; si las suelta, la tierra se inunda."},{"verse":"16","text":"Él es poderoso y victorioso;12:16 O “Él tiene poder y sabiduría”. tanto los engañadores como los engañados están sometidos a él."},{"verse":"17","text":"Lleva a los consejeros despojados de su sabiduría, convierte a los jueces en necios."},{"verse":"18","text":"Él le quita a los reyes sus gruesos collares y los hace vestir taparrabos.12:18 En otras palabras, convierte a los reyes en obreros."},{"verse":"19","text":"Él expulsa a los sacerdotes, despojados de sus vestimentas religiosas, y derriba a los poderosos."},{"verse":"20","text":"Quita el consejo de los consejeros fieles, quita el discernimiento de los ancianos."},{"verse":"21","text":"Derrama el desprecio sobre los príncipes y les quita el poder12:21 Literalmente, “afloja el cinturón”. de los fuertes."},{"verse":"22","text":"Él revela lo que está oculto en las tinieblas, y saca a la luz la sombra de la muerte."},{"verse":"23","text":"Él engrandece a las naciones y las destruye; expande a las naciones y las arruina."},{"verse":"24","text":"Él quita el entendimiento de los gobernantes12:24 Literalmente, “Desnuda los corazones de las cabezas de los pueblos de la tierra”. y los hace vagar por el desierto."},{"verse":"25","text":"Andan a tientas en la oscuridad, sin luz. Él los hace tambalearse como borrachos”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 12,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job contestó:",
+      "strong": [
+        "H0347"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“Ustedes realmente creen que son personas especiales, ¿no es así? Obviamente, cuando mueran, la sabiduría morirá con ustedes.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5315",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H4191",
+        "H3588",
+        "H2451",
+        "H4191",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Pero yo también tengo conocimientos, y ustedes no son mejores que yo. ¿No sabe todo el mundo las cosas que han dicho?",
+      "strong": [
+        "H3588",
+        "H4480",
+        "H1571",
+        "H2803",
+        "H1571",
+        "H3808",
+        "H3808",
+        "H2896",
+        "H4480",
+        "H4480",
+        "H3808",
+        "H3045",
+        "H3605",
+        "H4310",
+        "H8398",
+        "H1992",
+        "H1697",
+        "H4480",
+        "H4191",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero mis amigos se ríen de mí porque invoqué a Dios y él me respondió: el hombre inocente que hace el bien se ha convertido en objeto de burla.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H7453",
+        "H1961",
+        "H6662",
+        "H1961",
+        "H3588",
+        "H7121",
+        "H0413",
+        "H0430",
+        "H1571",
+        "H1931",
+        "H0413",
+        "H6030",
+        "H1931",
+        "H0376",
+        "H5355",
+        "H1961",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1961",
+        "H3541",
+        "H7725",
+        "H8549",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "La gente que está bien desprecia a los que tienen problemas; están dispuestos a empujar a los que ya resbalan.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H0834",
+        "H2063",
+        "H2896",
+        "H3988",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1992",
+        "H1961",
+        "H3559",
+        "H0413",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H3528"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los ladrones viven en paz, y los que hacen enojar a Dios viven seguros, confiando en su propia fuerza como su ‘dios’.",
+      "strong": [
+        "H0582",
+        "H1590",
+        "H2416",
+        "H5921",
+        "H7965",
+        "H1571",
+        "H0582",
+        "H3027",
+        "H6213",
+        "H0413",
+        "H0430",
+        "H2416",
+        "H0983",
+        "H5921",
+        "H1931",
+        "H3581",
+        "H0349",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Pero si les preguntas a los animales, ellos te enseñarán; las aves del cielo te lo dirán;",
+      "strong": [
+        "H3588",
+        "H4994",
+        "H0413",
+        "H7592",
+        "H0413",
+        "H0582",
+        "H0929",
+        "H1992",
+        "H0859",
+        "H3925",
+        "H1992",
+        "H5775",
+        "H4480",
+        "H8064",
+        "H0859",
+        "H1931",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "pregúntale a la tierra y ella te enseñará; y los peces del mar te lo dirán.",
+      "strong": [
+        "H0413",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H1931",
+        "H3220",
+        "H3384",
+        "H1571",
+        "H0582",
+        "H1710",
+        "H4480",
+        "H3220",
+        "H3220",
+        "H1931",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¿Quién de todos ellos no sabe que el Señor ha hecho esto?",
+      "strong": [
+        "H4310",
+        "H3588",
+        "H3605",
+        "H3027",
+        "H3808",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H3068",
+        "H3808",
+        "H6213",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Él da vida a todo ser viviente, y a toda la humanidad.",
+      "strong": [
+        "H3605",
+        "H5414",
+        "H5315",
+        "H0413",
+        "H3605",
+        "H5315",
+        "H2416",
+        "H1571",
+        "H0413",
+        "H3605",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "El oído distingue palabras como el paladar distingue los alimentos.",
+      "strong": [
+        "H1931",
+        "H8085",
+        "H0974",
+        "H4405",
+        "H0349",
+        "H1931",
+        "H0974",
+        "H0582",
+        "H0400"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "La sabiduría para distinguir pertenece a los ancianos, y la habilidad para discriminar correctamente pertenece a los que tienen una larga experiencia.",
+      "strong": [
+        "H2451",
+        "H2451",
+        "H5704",
+        "H0413",
+        "H0582",
+        "H2205",
+        "H1571",
+        "H2451",
+        "H5704",
+        "H0413",
+        "H0582",
+        "H3117",
+        "H2451",
+        "H0259",
+        "H7342"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Dios tiene sabiduría y poder, el consejo y el entendimiento le pertenecen.",
+      "strong": [
+        "H0430",
+        "H3426",
+        "H2451",
+        "H1571",
+        "H3027",
+        "H5973",
+        "H6098",
+        "H1571",
+        "H5973",
+        "H8394",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Si derriba algo, nadie puede reconstruirlo. Si encarcela a alguien, nadie podrá liberarlo.",
+      "strong": [
+        "H2005",
+        "H3381",
+        "H3920",
+        "H3808",
+        "H3201",
+        "H2005",
+        "H5921",
+        "H0376",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Si Dios retiene las aguas, todo se seca; si las suelta, la tierra se inunda.",
+      "strong": [
+        "H2005",
+        "H0430",
+        "H1992",
+        "H4325",
+        "H3605",
+        "H3045",
+        "H3001",
+        "H2005",
+        "H1992",
+        "H1931",
+        "H0776",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Él es poderoso y victorioso; tanto los engañadores como los engañados están sometidos a él.",
+      "strong": [
+        "H5973",
+        "H1961",
+        "H1368",
+        "H5797",
+        "H3651",
+        "H5973",
+        "H8582",
+        "H5973",
+        "H5973",
+        "H1961",
+        "H5973",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Lleva a los consejeros despojados de su sabiduría, convierte a los jueces en necios.",
+      "strong": [
+        "H3212",
+        "H0413",
+        "H0582",
+        "H3289",
+        "H7758",
+        "H4480",
+        "H1931",
+        "H8199",
+        "H0413",
+        "H0582",
+        "H8199",
+        "H3212",
+        "H0995"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Él le quita a los reyes sus gruesos collares y los hace vestir taparrabos.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H5493",
+        "H0413",
+        "H0582",
+        "H4428",
+        "H1931",
+        "H8082",
+        "H1571",
+        "H0582",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Él expulsa a los sacerdotes, despojados de sus vestimentas religiosas, y derriba a los poderosos.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H0582",
+        "H3548",
+        "H7758",
+        "H4480",
+        "H1931",
+        "H0899",
+        "H1571",
+        "H3381",
+        "H0413",
+        "H0582",
+        "H7989"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Quita el consejo de los consejeros fieles, quita el discernimiento de los ancianos.",
+      "strong": [
+        "H5493",
+        "H1931",
+        "H6098",
+        "H4480",
+        "H0582",
+        "H6098",
+        "H0539",
+        "H5493",
+        "H1931",
+        "H4480",
+        "H0582",
+        "H2205"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Derrama el desprecio sobre los príncipes y les quita el poder de los fuertes.",
+      "strong": [
+        "H8210",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8269",
+        "H5921",
+        "H5921",
+        "H5493",
+        "H5921",
+        "H3027",
+        "H5921",
+        "H5921",
+        "H4013"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Él revela lo que está oculto en las tinieblas, y saca a la luz la sombra de la muerte.",
+      "strong": [
+        "H1931",
+        "H1540",
+        "H1931",
+        "H4480",
+        "H2063",
+        "H5641",
+        "H4480",
+        "H1992",
+        "H2822",
+        "H1571",
+        "H3318",
+        "H4480",
+        "H1931",
+        "H6757",
+        "H1931",
+        "H6738",
+        "H4480",
+        "H1931",
+        "H6757"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Él engrandece a las naciones y las destruye; expande a las naciones y las arruina.",
+      "strong": [
+        "H1931",
+        "H7311",
+        "H0413",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H1992",
+        "H2717",
+        "H0413",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Él quita el entendimiento de los gobernantes y los hace vagar por el desierto.",
+      "strong": [
+        "H1931",
+        "H5493",
+        "H1931",
+        "H3820",
+        "H5971",
+        "H0582",
+        "H1571",
+        "H0582",
+        "H6213",
+        "H1870",
+        "H1931",
+        "H4057"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Andan a tientas en la oscuridad, sin luz. Él los hace tambalearse como borrachos”.",
+      "strong": [
+        "H1980",
+        "H0413",
+        "H5921",
+        "H1931",
+        "H2822",
+        "H3808",
+        "H0216",
+        "H1931",
+        "H0582",
+        "H6213",
+        "H0349",
+        "H7910"
+      ]
+    }
+  ]
+}

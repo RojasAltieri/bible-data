@@ -1,1 +1,224 @@
-{"version":"spa-vbl","book":"psalms","chapter":29,"data":[{"verse":"1","text":"Honren29:1 “Honrar”, se traduce así en lugar del término arcaico “adscribir”, que se refiere a afirmar una cualidad o atributo, o dar respeto. al Señor, hijos de Dios,29:1 Literalmente, “hijos de los dioses”. Puede referirse a ángeles o a todos los seres pensantes. honren su gloria y su poder."},{"verse":"2","text":"Honren al Señor por su glorioso carácter, inclínense con reverencia al Señor en su majestuosa santidad."},{"verse":"3","text":"La voz del Señor se escucha sobre los mares. El Dios de gloria truena. Los truenos del Señor se escuchan sobre el vasto océano."},{"verse":"4","text":"La voz del Señor es poderosa; la voz del Señor es majestuosa;"},{"verse":"5","text":"la voz del Señor destruye los cedros, incluso rompe los cedros del Líbano."},{"verse":"6","text":"Hace que las montañas del Líbano salten como un ternero, y el monte Hermon como un joven buey salvaje."},{"verse":"7","text":"La voz del Señor resplandece como rayos de luz."},{"verse":"8","text":"La voz del Señor causa terremotos en el desierto; el desierto de Kadesh tiembla."},{"verse":"9","text":"La voz del Señor hace que la cierva embarazada entre en labores de parto; desnuda los bosques. En su Templo todos los adoradores cantan, “¡Gloria!”"},{"verse":"10","text":"El Señor se sienta en su trono sobre las aguas tormentosas; el Señor es el Rey eternal."},{"verse":"11","text":"El Señor le da fuerza a su pueblo; el Señor los bendice con paz."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 29,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Honren al Señor, hijos de Dios, honren su gloria y su poder.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1121",
+        "H1121",
+        "H3068",
+        "H1931",
+        "H3519",
+        "H3519",
+        "H1931",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Honren al Señor por su glorioso carácter, inclínense con reverencia al Señor en su majestuosa santidad.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H3519",
+        "H5973",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H6944"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "La voz del Señor se escucha sobre los mares. El Dios de gloria truena. Los truenos del Señor se escuchan sobre el vasto océano.",
+      "strong": [
+        "H5921",
+        "H6963",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H0238",
+        "H5921",
+        "H5921",
+        "H3220",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H3519",
+        "H5921",
+        "H6963",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H8085",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "La voz del Señor es poderosa; la voz del Señor es majestuosa;",
+      "strong": [
+        "H1931",
+        "H6963",
+        "H4480",
+        "H3068",
+        "H1961",
+        "H2389",
+        "H1931",
+        "H6963",
+        "H4480",
+        "H3068",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "la voz del Señor destruye los cedros, incluso rompe los cedros del Líbano.",
+      "strong": [
+        "H1931",
+        "H6963",
+        "H4480",
+        "H3068",
+        "H2717",
+        "H0582",
+        "H0730",
+        "H0582",
+        "H0730",
+        "H4480",
+        "H3844"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Hace que las montañas del Líbano salten como un ternero, y el monte Hermon como un joven buey salvaje.",
+      "strong": [
+        "H6213",
+        "H1121",
+        "H1992",
+        "H4480",
+        "H3844",
+        "H3644",
+        "H0259",
+        "H1571",
+        "H1121",
+        "H2022",
+        "H2768",
+        "H3644",
+        "H0259",
+        "H0970",
+        "H7794"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "La voz del Señor resplandece como rayos de luz.",
+      "strong": [
+        "H1931",
+        "H6963",
+        "H4480",
+        "H3068",
+        "H0215",
+        "H0349",
+        "H7161",
+        "H4480",
+        "H0216"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "La voz del Señor causa terremotos en el desierto; el desierto de Kadesh tiembla.",
+      "strong": [
+        "H1931",
+        "H6963",
+        "H4480",
+        "H3068",
+        "H1697",
+        "H5921",
+        "H1931",
+        "H4057",
+        "H1931",
+        "H4057",
+        "H4480",
+        "H7493"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "La voz del Señor hace que la cierva embarazada entre en labores de parto; desnuda los bosques. En su Templo todos los adoradores cantan, “¡Gloria!”",
+      "strong": [
+        "H3605",
+        "H6963",
+        "H4480",
+        "H3068",
+        "H6213",
+        "H3605",
+        "H3605",
+        "H0365",
+        "H2029",
+        "H0996",
+        "H5921",
+        "H5656",
+        "H4480",
+        "H8025",
+        "H3605",
+        "H0842",
+        "H5921",
+        "H1931",
+        "H1964",
+        "H3605",
+        "H3605",
+        "H7891",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El Señor se sienta en su trono sobre las aguas tormentosas; el Señor es el Rey eternal.",
+      "strong": [
+        "H3427",
+        "H3068",
+        "H3045",
+        "H5921",
+        "H1931",
+        "H3678",
+        "H5921",
+        "H1992",
+        "H4325",
+        "H3427",
+        "H3068",
+        "H1961",
+        "H3427",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "El Señor le da fuerza a su pueblo; el Señor los bendice con paz.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0413",
+        "H5414",
+        "H3581",
+        "H3068",
+        "H1931",
+        "H5971",
+        "H1931",
+        "H3068",
+        "H0582",
+        "H1288",
+        "H5973",
+        "H7965"
+      ]
+    }
+  ]
+}

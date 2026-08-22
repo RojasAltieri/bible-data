@@ -1,1 +1,681 @@
-{"version":"spa-vbl","book":"proverbs","chapter":6,"data":[{"verse":"1","text":"Hijo mío, imagina que te has comprometido como codeudor para pagar una deuda a favor de tu vecino, y has estrechado tu mano con un extranjero para cerrar ese pacto,"},{"verse":"2","text":"quedando así atrapado por tu promesa, y preso por tu palabra."},{"verse":"3","text":"Esto es lo que debes hacer: Sal de ese compromiso, porque te has puesto bajo el poder de esa persona. Ve donde tu vecino con toda humildad y pídele que te libre de ese compromiso.6:3.“Que te libre de ese compromiso”.: Implícito."},{"verse":"4","text":"No te demores, ni te vayas a dormir sin haberlo resuelto. No descanses hasta haberlo hecho."},{"verse":"5","text":"Sal de esa deuda como la gacela que escapa de una trampa, como un ave que sale de la jaula del cazador."},{"verse":"6","text":"¡Ve y observa a las hormigas, holgazán! Aprende de lo que hacen, para que seas sabio."},{"verse":"7","text":"Ellas no tienen un líder, ni un dirigente, ni un gobernador,"},{"verse":"8","text":"y sin embargo trabajan duro durante el verano para obtener su alimento, recogiendo todo lo que necesitan para el tiempo de la cosecha."},{"verse":"9","text":"¿Hasta cuándo estarás allí acostado, holgazán? ¿Cuándo te levantarás de tu sueño?"},{"verse":"10","text":"Tú dices:6:10.“Tú dices”: Implícito. “Dormiré un poco más, solo una siesta, o cruzaré los brazos un poquito más para descansar”."},{"verse":"11","text":"Pero la pobreza te atacará como un ladrón, y la miseria como un guerrero armado."},{"verse":"12","text":"Los rebeldes y malvados andan por ahí diciendo mentiras,"},{"verse":"13","text":"guiñando un ojo, haciendo gestos escurridizos con sus pies, y haciendo señales descorteses con sus dedos."},{"verse":"14","text":"Sus mentes retorcidas solo traman maldad, causando problemas siempre."},{"verse":"15","text":"Por ello el desastre cae sobre tales personas, y en solo un instante son destruidos sin remedio."},{"verse":"16","text":"Hay seis cosas que el Señor aborrece, y aun siete que detesta:"},{"verse":"17","text":"los ojos arrogantes, una lengua mentirosa, las manos que matan al inocente,"},{"verse":"18","text":"una mente que conspira maldad, los pies que se apresuran a hacer el mal,"},{"verse":"19","text":"un testigo falso que miente, y los que causan discordia entre las familias."},{"verse":"20","text":"Hijo mío, presta atención a la instrucción de tu padre, y no rechaces la enseñanza de tu madre."},{"verse":"21","text":"Guárdalas siempre en tu mente. Átalas en tu cuello."},{"verse":"22","text":"Ellas te guiarán cuando camines, te cuidarán al dormir, y te hablarán al levantarte."},{"verse":"23","text":"Porque la instrucción es como una lámpara, y la enseñanza es como la luz. La corrección que surge de la disciplina es el camino a la vida."},{"verse":"24","text":"Te protegerá de una mujer malvada y de las palabras seductoras de una prostituta."},{"verse":"25","text":"No dejes que tu mente codicie su belleza, y dejes que te hipnotice con sus pestañas."},{"verse":"26","text":"Puedes comprar una prostituta por el precio de una rebanada de pan, pero el adulterio con la mujer de otro hombre puede costarte la vida."},{"verse":"27","text":"¿Puedes poner fuego en tu regazo sin quemar tu ropa?"},{"verse":"28","text":"¿Puedes caminar sobre carbón encendido sin abrasar tus pies?"},{"verse":"29","text":"Lo mismo ocurre con todo el que duerme con la esposa de otro hombre. Ningún hombre que la toque quedará sin castigo."},{"verse":"30","text":"La gente no condena a un ladrón, si este roba para satisfacer su hambre."},{"verse":"31","text":"Pero si lo atrapan, tiene que pagar siete veces lo que robó, incluso devolviendo todo lo que tenga en su casa."},{"verse":"32","text":"Cualquier hombre que comete adulterio con una mujer es insensato. El que así actúa se destruye a sí mismo."},{"verse":"33","text":"Tal hombre será herido y deshonrado. Su desgracia no cesará."},{"verse":"34","text":"Porque el celo hará enojar a su esposo, y no se contendrá al tomar venganza."},{"verse":"35","text":"Tal esposo rechazará cualquier tipo de compensación; y ninguna cantidad, por grande que sea, podrá pagarle."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 6,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Hijo mío, imagina que te has comprometido como codeudor para pagar una deuda a favor de tu vecino, y has estrechado tu mano con un extranjero para cerrar ese pacto,",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H1121",
+        "H0859",
+        "H4191",
+        "H0349",
+        "H6148",
+        "H7999",
+        "H0259",
+        "H3027",
+        "H0413",
+        "H7522",
+        "H1121",
+        "H0859",
+        "H7934",
+        "H1571",
+        "H4191",
+        "H0859",
+        "H3709",
+        "H5973",
+        "H0259",
+        "H5237",
+        "H6148",
+        "H1931",
+        "H1285"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "quedando así atrapado por tu promesa, y preso por tu palabra.",
+      "strong": [
+        "H5921",
+        "H3541",
+        "H5921",
+        "H0859",
+        "H5087",
+        "H1571",
+        "H3607",
+        "H5921",
+        "H0859",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Esto es lo que debes hacer: Sal de ese compromiso, porque te has puesto bajo el poder de esa persona. Ve donde tu vecino con toda humildad y pídele que te libre de ese compromiso.",
+      "strong": [
+        "H2063",
+        "H3588",
+        "H6213",
+        "H3588",
+        "H6213",
+        "H3318",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H3588",
+        "H4191",
+        "H3588",
+        "H8478",
+        "H3588",
+        "H3027",
+        "H3588",
+        "H1931",
+        "H5315",
+        "H3212",
+        "H0834",
+        "H6213",
+        "H7934",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5337",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "No te demores, ni te vayas a dormir sin haberlo resuelto. No descanses hasta haberlo hecho.",
+      "strong": [
+        "H3808",
+        "H5869",
+        "H3808",
+        "H5869",
+        "H3212",
+        "H5869",
+        "H3808",
+        "H3808",
+        "H5414",
+        "H5704",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Sal de esa deuda como la gacela que escapa de una trampa, como un ave que sale de la jaula del cazador.",
+      "strong": [
+        "H3318",
+        "H4480",
+        "H1931",
+        "H3027",
+        "H0349",
+        "H1931",
+        "H3027",
+        "H5337",
+        "H4480",
+        "H0259",
+        "H0349",
+        "H0259",
+        "H6833",
+        "H3027",
+        "H3318",
+        "H4480",
+        "H1931",
+        "H4480",
+        "H6718"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¡Ve y observa a las hormigas, holgazán! Aprende de lo que hacen, para que seas sabio.",
+      "strong": [
+        "H3212",
+        "H1571",
+        "H0413",
+        "H1992",
+        "H3045",
+        "H4480",
+        "H1931",
+        "H0834",
+        "H6213",
+        "H5704",
+        "H0834",
+        "H1961",
+        "H2449"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Ellas no tienen un líder, ni un dirigente, ni un gobernador,",
+      "strong": [
+        "H1992",
+        "H3808",
+        "H1992",
+        "H0259",
+        "H3808",
+        "H0259",
+        "H3808",
+        "H0259",
+        "H7860"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "y sin embargo trabajan duro durante el verano para obtener su alimento, recogiendo todo lo que necesitan para el tiempo de la cosecha.",
+      "strong": [
+        "H1571",
+        "H3808",
+        "H5998",
+        "H7186",
+        "H1931",
+        "H7019",
+        "H5704",
+        "H1931",
+        "H0400",
+        "H0622",
+        "H3605",
+        "H1931",
+        "H7105",
+        "H5704",
+        "H1931",
+        "H6256",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¿Hasta cuándo estarás allí acostado, holgazán? ¿Cuándo te levantarás de tu sueño?",
+      "strong": [
+        "H5704",
+        "H4970",
+        "H1961",
+        "H8033",
+        "H7901",
+        "H4970",
+        "H0859",
+        "H6965",
+        "H5704",
+        "H0859",
+        "H8142"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Tú dices: “Dormiré un poco más, solo una siesta, o cruzaré los brazos un poquito más para descansar”.",
+      "strong": [
+        "H0859",
+        "H0559",
+        "H7901",
+        "H0259",
+        "H4592",
+        "H5750",
+        "H0910",
+        "H0259",
+        "H0176",
+        "H0582",
+        "H7070",
+        "H0259",
+        "H2191",
+        "H5750",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Pero la pobreza te atacará como un ladrón, y la miseria como un guerrero armado.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H7389",
+        "H0859",
+        "H0349",
+        "H0259",
+        "H1590",
+        "H1571",
+        "H1931",
+        "H0349",
+        "H0259",
+        "H1869"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Los rebeldes y malvados andan por ahí diciendo mentiras,",
+      "strong": [
+        "H0582",
+        "H4784",
+        "H1571",
+        "H1980",
+        "H5921",
+        "H8033",
+        "H0559",
+        "H3576"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "guiñando un ojo, haciendo gestos escurridizos con sus pies, y haciendo señales descorteses con sus dedos.",
+      "strong": [
+        "H0259",
+        "H5869",
+        "H6213",
+        "H5973",
+        "H1931",
+        "H7272",
+        "H1571",
+        "H6213",
+        "H0226",
+        "H5973",
+        "H1931",
+        "H0676"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Sus mentes retorcidas solo traman maldad, causando problemas siempre.",
+      "strong": [
+        "H1931",
+        "H0910",
+        "H7451",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Por ello el desastre cae sobre tales personas, y en solo un instante son destruidos sin remedio.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H5921",
+        "H0611",
+        "H5307",
+        "H5921",
+        "H3651",
+        "H5315",
+        "H5921",
+        "H5921",
+        "H0910",
+        "H0259",
+        "H1961",
+        "H2040",
+        "H3808",
+        "H4832"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Hay seis cosas que el Señor aborrece, y aun siete que detesta:",
+      "strong": [
+        "H2007",
+        "H8337",
+        "H2007",
+        "H7651",
+        "H1931",
+        "H3068",
+        "H8130",
+        "H1571",
+        "H5750",
+        "H7651",
+        "H7651"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "los ojos arrogantes, una lengua mentirosa, las manos que matan al inocente,",
+      "strong": [
+        "H0582",
+        "H5869",
+        "H0259",
+        "H3956",
+        "H8267",
+        "H1992",
+        "H3027",
+        "H3027",
+        "H0413",
+        "H5355"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "una mente que conspira maldad, los pies que se apresuran a hacer el mal,",
+      "strong": [
+        "H0259",
+        "H0834",
+        "H7451",
+        "H0582",
+        "H7272",
+        "H0834",
+        "H3045",
+        "H0413",
+        "H6213",
+        "H1931",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "un testigo falso que miente, y los que causan discordia entre las familias.",
+      "strong": [
+        "H0259",
+        "H5707",
+        "H8267",
+        "H0834",
+        "H1571",
+        "H0582",
+        "H0834",
+        "H0996",
+        "H1992",
+        "H4940"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Hijo mío, presta atención a la instrucción de tu padre, y no rechaces la enseñanza de tu madre.",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H0413",
+        "H1931",
+        "H1121",
+        "H0859",
+        "H0001",
+        "H1571",
+        "H3808",
+        "H1931",
+        "H3948",
+        "H1121",
+        "H0859",
+        "H0517"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Guárdalas siempre en tu mente. Átalas en tu cuello.",
+      "strong": [
+        "H8104",
+        "H8548",
+        "H5921",
+        "H0859",
+        "H7194",
+        "H5921",
+        "H0859",
+        "H6677"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Ellas te guiarán cuando camines, te cuidarán al dormir, y te hablarán al levantarte.",
+      "strong": [
+        "H1931",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7878",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Porque la instrucción es como una lámpara, y la enseñanza es como la luz. La corrección que surge de la disciplina es el camino a la vida.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0259",
+        "H5216",
+        "H3588",
+        "H3588",
+        "H4148",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0216",
+        "H3588",
+        "H4148",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1870",
+        "H3588",
+        "H3588",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Te protegerá de una mujer malvada y de las palabras seductoras de una prostituta.",
+      "strong": [
+        "H0859",
+        "H7451",
+        "H0259",
+        "H0802",
+        "H1571",
+        "H7451",
+        "H1992",
+        "H1697",
+        "H7451",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "No dejes que tu mente codicie su belleza, y dejes que te hipnotice con sus pestañas.",
+      "strong": [
+        "H3808",
+        "H5146",
+        "H0834",
+        "H0859",
+        "H1931",
+        "H1571",
+        "H5146",
+        "H0834",
+        "H0859",
+        "H5973",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Puedes comprar una prostituta por el precio de una rebanada de pan, pero el adulterio con la mujer de otro hombre puede costarte la vida.",
+      "strong": [
+        "H3546",
+        "H0259",
+        "H3588",
+        "H3588",
+        "H3701",
+        "H3588",
+        "H0259",
+        "H3588",
+        "H3899",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0802",
+        "H3588",
+        "H0259",
+        "H0376",
+        "H3201",
+        "H3588",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "¿Puedes poner fuego en tu regazo sin quemar tu ropa?",
+      "strong": [
+        "H3546",
+        "H6186",
+        "H0784",
+        "H5921",
+        "H0859",
+        "H2436",
+        "H3808",
+        "H0801",
+        "H0859",
+        "H8071"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "¿Puedes caminar sobre carbón encendido sin abrasar tus pies?",
+      "strong": [
+        "H3546",
+        "H5921",
+        "H1197",
+        "H3808",
+        "H0859",
+        "H7272"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Lo mismo ocurre con todo el que duerme con la esposa de otro hombre. Ningún hombre que la toque quedará sin castigo.",
+      "strong": [
+        "H3808",
+        "H3605",
+        "H5060",
+        "H3605",
+        "H3605",
+        "H3808",
+        "H7901",
+        "H5060",
+        "H3605",
+        "H3618",
+        "H4480",
+        "H7453",
+        "H0376",
+        "H3605",
+        "H0376",
+        "H3808",
+        "H3605",
+        "H3498",
+        "H3808",
+        "H5352"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "La gente no condena a un ladrón, si este roba para satisfacer su hambre.",
+      "strong": [
+        "H3588",
+        "H1471",
+        "H3808",
+        "H3588",
+        "H0259",
+        "H1590",
+        "H3588",
+        "H2088",
+        "H3588",
+        "H3588",
+        "H7456"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Pero si lo atrapan, tiene que pagar siete veces lo que robó, incluso devolviendo todo lo que tenga en su casa.",
+      "strong": [
+        "H3588",
+        "H0518",
+        "H3605",
+        "H3426",
+        "H1952",
+        "H7999",
+        "H7659",
+        "H6471",
+        "H3605",
+        "H1952",
+        "H1497",
+        "H3605",
+        "H3605",
+        "H1952",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Cualquier hombre que comete adulterio con una mujer es insensato. El que así actúa se destruye a sí mismo.",
+      "strong": [
+        "H3605",
+        "H0376",
+        "H1931",
+        "H5973",
+        "H0259",
+        "H0802",
+        "H1931",
+        "H0191",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H2717",
+        "H0413",
+        "H1931",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Tal hombre será herido y deshonrado. Su desgracia no cesará.",
+      "strong": [
+        "H3651",
+        "H0376",
+        "H3808",
+        "H2490",
+        "H1571",
+        "H1931",
+        "H3808",
+        "H5486"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Porque el celo hará enojar a su esposo, y no se contendrá al tomar venganza.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H7068",
+        "H6213",
+        "H3588",
+        "H3588",
+        "H2860",
+        "H3588",
+        "H3808",
+        "H3808",
+        "H0413",
+        "H3947",
+        "H5359"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "Tal esposo rechazará cualquier tipo de compensación; y ninguna cantidad, por grande que sea, podrá pagarle.",
+      "strong": [
+        "H3651",
+        "H2860",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H7235",
+        "H3588",
+        "H1961",
+        "H3808"
+      ]
+    }
+  ]
+}

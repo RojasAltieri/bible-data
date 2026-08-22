@@ -1,1 +1,191 @@
-{"version":"spa-vbl","book":"psalms","chapter":47,"data":[{"verse":"1","text":"¡Aplauda todo el mundo! ¡Griten con alegría al Señor!"},{"verse":"2","text":"Porque nuestro Señor Altísimo es imponente; él es el gran rey de toda la tierra."},{"verse":"3","text":"Él somete a los otros pueblos bajo nosotros; pone a las naciones bajo nuestros pies."},{"verse":"4","text":"Él escogió la tierra prometida para nosotros; la orgullosa posesión de los descendientes de Jacob a quienes ama. Selah."},{"verse":"5","text":"Dios asciende a su trono47:5 Implícito. con grandes gritos, el Señor es acompañado con el sonido de trompetas."},{"verse":"6","text":"¡Canten alabanzas a Dios, canten, canten alabanzas a nuestro Rey, canten!"},{"verse":"7","text":"¡Porque el Señor es el Rey de toda la tierra; canten alabanzas con Salmos!"},{"verse":"8","text":"Dios gobierna sobre las naciones; se sienta sobre su santo trono."},{"verse":"9","text":"Los gobernantes de las naciones se reúnen junto con la gente del Dios de Abraham, porque los defensores47:9 Literalmente, “escudos”. de la tierra le pertenecen a Dios. Él será honrado por toda la tierra."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 47,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Aplauda todo el mundo! ¡Griten con alegría al Señor!",
+      "strong": [
+        "H3605",
+        "H1121",
+        "H8398",
+        "H5973",
+        "H8057",
+        "H0413",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Porque nuestro Señor Altísimo es imponente; él es el gran rey de toda la tierra.",
+      "strong": [
+        "H3588",
+        "H0587",
+        "H0113",
+        "H5945",
+        "H1961",
+        "H0366",
+        "H3605",
+        "H1961",
+        "H3605",
+        "H1419",
+        "H4428",
+        "H5971",
+        "H3605",
+        "H3605",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Él somete a los otros pueblos bajo nosotros; pone a las naciones bajo nuestros pies.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0312",
+        "H5971",
+        "H8478",
+        "H3605",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H8478",
+        "H0587",
+        "H7272"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Él escogió la tierra prometida para nosotros; la orgullosa posesión de los descendientes de Jacob a quienes ama. Selah.",
+      "strong": [
+        "H1931",
+        "H0977",
+        "H1931",
+        "H0776",
+        "H5971",
+        "H0587",
+        "H1931",
+        "H0272",
+        "H8478",
+        "H0582",
+        "H6631",
+        "H8478",
+        "H3290",
+        "H8478",
+        "H4310",
+        "H0157",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Dios asciende a su trono con grandes gritos, el Señor es acompañado con el sonido de trompetas.",
+      "strong": [
+        "H0430",
+        "H0413",
+        "H1931",
+        "H3678",
+        "H5973",
+        "H1419",
+        "H8643",
+        "H1931",
+        "H0113",
+        "H1961",
+        "H5973",
+        "H1931",
+        "H6963",
+        "H4480",
+        "H2689"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¡Canten alabanzas a Dios, canten, canten alabanzas a nuestro Rey, canten!",
+      "strong": [
+        "H7442",
+        "H8426",
+        "H3068",
+        "H3068",
+        "H7442",
+        "H7442",
+        "H8426",
+        "H3068",
+        "H0587",
+        "H4428",
+        "H7442"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¡Porque el Señor es el Rey de toda la tierra; canten alabanzas con Salmos!",
+      "strong": [
+        "H4428",
+        "H1931",
+        "H0113",
+        "H1961",
+        "H1931",
+        "H4428",
+        "H4480",
+        "H3605",
+        "H1931",
+        "H0776",
+        "H7442",
+        "H8426",
+        "H5973",
+        "H2167"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Dios gobierna sobre las naciones; se sienta sobre su santo trono.",
+      "strong": [
+        "H0430",
+        "H3557",
+        "H5921",
+        "H1992",
+        "H1471",
+        "H3045",
+        "H5921",
+        "H3588",
+        "H6918",
+        "H3678"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los gobernantes de las naciones se reúnen junto con la gente del Dios de Abraham, porque los defensores de la tierra le pertenecen a Dios. Él será honrado por toda la tierra.",
+      "strong": [
+        "H3427",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H0085",
+        "H5921",
+        "H3427",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H1961",
+        "H3513",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0776"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,535 @@
-{"version":"spa-vbl","book":"job","chapter":5,"data":[{"verse":"1","text":"“Llama si quieres, pero ¿quién te va a responder? ¿A qué ángel te vas a dirigir?"},{"verse":"2","text":"Ciertamente la ira mata al necio y la envidia al simple."},{"verse":"3","text":"He visto a un necio hacerse fuerte,5:3 Literalmente, “echar raíces”. pero enseguida maldije su casa."},{"verse":"4","text":"Sus hijos nunca están a salvo;5:4 Es posible que Elifaz tenga en mente a Job, ya que éste ha perdido a todos sus hijos. son aplastados en el tribunal5:4 Literalmente, “en la puerta”: la puerta de la ciudad donde se impartía justicia. sin nadie que los defienda."},{"verse":"5","text":"El hambriento se come todo lo que cosecha, tomando incluso lo que está protegido por un seto de espinas,5:5 El significado del hebreo no está claro. mientras otros procuran robar su riqueza."},{"verse":"6","text":"Porque el mal no nace del polvo, ni los problemas crecen de la tierra."},{"verse":"7","text":"Pero los seres humanos nacen para los problemas con la misma certeza que las chispas de un fuego vuelan hacia arriba."},{"verse":"8","text":"“Si fuera yo, iría donde Dios y expondría mi caso ante él."},{"verse":"9","text":"Él es quien hace cosas asombrosas, increíbles; ¡milagros que no se pueden contar!"},{"verse":"10","text":"Él hace llover sobre la tierra y envía agua a los campos."},{"verse":"11","text":"Exalta a los humildes y rescata a los que lloran."},{"verse":"12","text":"Frustra los planes de los astutos para que no tengan éxito."},{"verse":"13","text":"Él atrapa a los sabios en sus propios pensamientos astutos, y los planes de la gente retorcida se ven truncados."},{"verse":"14","text":"De día están a oscuras, y a mediodía tropiezan como si fuera de noche."},{"verse":"15","text":"Pero Dios es el que salva de sus comentarios cortantes,5:15 Literalmente, “la espada de su boca”. así como salva a los pobres de las acciones de los poderosos."},{"verse":"16","text":"Así los desvalidos tienen esperanza, y los malvados tienen que cerrar la boca."},{"verse":"17","text":"Mira qué feliz es la persona a la que Dios corrige, así que no desprecies la disciplina del Todopoderoso."},{"verse":"18","text":"Porque él causa dolor, pero proporciona alivio; él hiere, pero sus manos curan."},{"verse":"19","text":"Él te salvará de muchos desastres; una multitud de males no te afectará.5:19 Se utilizan los números 6 y 7, pero son un ejemplo de paralelismo numérico que simplemente indican una cantidad creciente."},{"verse":"20","text":"En tiempos de hambre te librará de la muerte, y en tiempos de guerra te salvará del poder de la espada."},{"verse":"21","text":"Estarás protegido de la calumnia de lengua afilada; y cuando llegue la violencia no tendrás miedo."},{"verse":"22","text":"Te reirás de la violencia y del hambre; no tendrás miedo de los animales salvajes,"},{"verse":"23","text":"porque estarás en paz con las piedras del campo5:23 El significado del hebreo no está claro. Algunos sugieren que las piedras en un campo causan dificultades para la agricultura y que esto no será un problema. y los animales salvajes estarán en paz contigo."},{"verse":"24","text":"Estarás seguro de que tu casa está a salvo, porque irás a donde vives y no habrá cosa alguna que te falte."},{"verse":"25","text":"También estarás seguro de que tendrás muchos hijos; tu descendencia será como la hierba5:25 En otras palabras, tan numerosos como innumerables briznas de hierba. de la tierra."},{"verse":"26","text":"Vivirás hasta una edad madura como una gavilla de grano cuando se cosecha."},{"verse":"27","text":"Mira, lo hemos examinado y es verdad. Escucha lo que te digo y aplícalo a ti mismo”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 5,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“Llama si quieres, pero ¿quién te va a responder? ¿A qué ángel te vas a dirigir?",
+      "strong": [
+        "H7121",
+        "H4994",
+        "H2654",
+        "H3588",
+        "H4310",
+        "H0859",
+        "H1980",
+        "H0413",
+        "H6030",
+        "H0413",
+        "H4310",
+        "H4397",
+        "H0859",
+        "H3212",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Ciertamente la ira mata al necio y la envidia al simple.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H2534",
+        "H4191",
+        "H0413",
+        "H3684",
+        "H3588",
+        "H3588",
+        "H7068",
+        "H0413",
+        "H6615"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "He visto a un necio hacerse fuerte, pero enseguida maldije su casa.",
+      "strong": [
+        "H4392",
+        "H7200",
+        "H0413",
+        "H0259",
+        "H3684",
+        "H2389",
+        "H3588",
+        "H5344",
+        "H1931",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Sus hijos nunca están a salvo; son aplastados en el tribunal sin nadie que los defienda.",
+      "strong": [
+        "H1931",
+        "H1121",
+        "H3808",
+        "H1961",
+        "H0413",
+        "H3467",
+        "H1961",
+        "H5921",
+        "H1121",
+        "H3808",
+        "H0376",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El hambriento se come todo lo que cosecha, tomando incluso lo que está protegido por un seto de espinas, mientras otros procuran robar su riqueza.",
+      "strong": [
+        "H1931",
+        "H8264",
+        "H3045",
+        "H0398",
+        "H3605",
+        "H1931",
+        "H7105",
+        "H3947",
+        "H1931",
+        "H7105",
+        "H2063",
+        "H5921",
+        "H0259",
+        "H4480",
+        "H6791",
+        "H5704",
+        "H0312",
+        "H1931",
+        "H7399"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Porque el mal no nace del polvo, ni los problemas crecen de la tierra.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H7451",
+        "H3808",
+        "H3318",
+        "H4480",
+        "H6083",
+        "H3808",
+        "H3588",
+        "H1396",
+        "H3588",
+        "H3588",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Pero los seres humanos nacen para los problemas con la misma certeza que las chispas de un fuego vuelan hacia arriba.",
+      "strong": [
+        "H3588",
+        "H1121",
+        "H5315",
+        "H1397",
+        "H3588",
+        "H1121",
+        "H3588",
+        "H3588",
+        "H4927",
+        "H3588",
+        "H1992",
+        "H3588",
+        "H0259",
+        "H0784",
+        "H0413",
+        "H1361"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "“Si fuera yo, iría donde Dios y expondría mi caso ante él.",
+      "strong": [
+        "H0518",
+        "H2351",
+        "H0589",
+        "H0935",
+        "H0834",
+        "H0430",
+        "H1571",
+        "H0589",
+        "H3820",
+        "H6440",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Él es quien hace cosas asombrosas, increíbles; ¡milagros que no se pueden contar!",
+      "strong": [
+        "H6213",
+        "H1961",
+        "H6213",
+        "H6213",
+        "H1697",
+        "H5704",
+        "H6213",
+        "H3045",
+        "H3201",
+        "H5608"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Él hace llover sobre la tierra y envía agua a los campos.",
+      "strong": [
+        "H5921",
+        "H6213",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H7971",
+        "H4325",
+        "H5921",
+        "H5921",
+        "H7704"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Exalta a los humildes y rescata a los que lloran.",
+      "strong": [
+        "H7760",
+        "H0582",
+        "H1571",
+        "H7760",
+        "H0582",
+        "H0834",
+        "H1058"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Frustra los planes de los astutos para que no tengan éxito.",
+      "strong": [
+        "H0582",
+        "H4480",
+        "H0582",
+        "H5704",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Él atrapa a los sabios en sus propios pensamientos astutos, y los planes de la gente retorcida se ven truncados.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H2450",
+        "H2450",
+        "H5921",
+        "H1931",
+        "H4284",
+        "H1571",
+        "H2450",
+        "H4480",
+        "H1931",
+        "H1471",
+        "H3045",
+        "H3212"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "De día están a oscuras, y a mediodía tropiezan como si fuera de noche.",
+      "strong": [
+        "H4480",
+        "H3119",
+        "H1961",
+        "H0413",
+        "H1571",
+        "H0413",
+        "H5045",
+        "H3782",
+        "H0349",
+        "H0518",
+        "H2351",
+        "H4480",
+        "H3915"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Pero Dios es el que salva de sus comentarios cortantes, así como salva a los pobres de las acciones de los poderosos.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H3027",
+        "H1931",
+        "H6310",
+        "H3467",
+        "H4480",
+        "H1931",
+        "H3541",
+        "H0349",
+        "H3467",
+        "H6310",
+        "H0582",
+        "H1800",
+        "H4480",
+        "H1992",
+        "H4480",
+        "H0582",
+        "H7989"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Así los desvalidos tienen esperanza, y los malvados tienen que cerrar la boca.",
+      "strong": [
+        "H3541",
+        "H1961",
+        "H1961",
+        "H8615",
+        "H1571",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Mira qué feliz es la persona a la que Dios corrige, así que no desprecies la disciplina del Todopoderoso.",
+      "strong": [
+        "H2009",
+        "H0834",
+        "H1961",
+        "H1931",
+        "H5315",
+        "H0413",
+        "H1931",
+        "H0834",
+        "H0430",
+        "H3198",
+        "H3541",
+        "H0834",
+        "H3808",
+        "H5203",
+        "H1931",
+        "H4480",
+        "H7706"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Porque él causa dolor, pero proporciona alivio; él hiere, pero sus manos curan.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H1697",
+        "H2427",
+        "H3588",
+        "H1931",
+        "H4272",
+        "H3588",
+        "H1931",
+        "H3027",
+        "H7495"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Él te salvará de muchos desastres; una multitud de males no te afectará.",
+      "strong": [
+        "H1931",
+        "H0859",
+        "H3467",
+        "H7451",
+        "H7227",
+        "H0259",
+        "H1995",
+        "H7451",
+        "H7451",
+        "H3808",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "En tiempos de hambre te librará de la muerte, y en tiempos de guerra te salvará del poder de la espada.",
+      "strong": [
+        "H5921",
+        "H5732",
+        "H4480",
+        "H7458",
+        "H0859",
+        "H5337",
+        "H4480",
+        "H1931",
+        "H4194",
+        "H1571",
+        "H5921",
+        "H5732",
+        "H4480",
+        "H4421",
+        "H0859",
+        "H3467",
+        "H4480",
+        "H3027",
+        "H4480",
+        "H1931",
+        "H2719"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Estarás protegido de la calumnia de lengua afilada; y cuando llegue la violencia no tendrás miedo.",
+      "strong": [
+        "H1961",
+        "H3588",
+        "H3588",
+        "H6233",
+        "H3588",
+        "H3956",
+        "H7819",
+        "H3588",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H2555",
+        "H3808",
+        "H1961",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Te reirás de la violencia y del hambre; no tendrás miedo de los animales salvajes,",
+      "strong": [
+        "H0859",
+        "H3372",
+        "H1931",
+        "H2555",
+        "H1571",
+        "H4480",
+        "H7458",
+        "H3808",
+        "H1961",
+        "H3372",
+        "H3372",
+        "H0582",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "porque estarás en paz con las piedras del campo y los animales salvajes estarán en paz contigo.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H5973",
+        "H7999",
+        "H5973",
+        "H1992",
+        "H0068",
+        "H5973",
+        "H7704",
+        "H3588",
+        "H5973",
+        "H2416",
+        "H1961",
+        "H5973",
+        "H7999",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Estarás seguro de que tu casa está a salvo, porque irás a donde vives y no habrá cosa alguna que te falte.",
+      "strong": [
+        "H1961",
+        "H0983",
+        "H3588",
+        "H3588",
+        "H0859",
+        "H1004",
+        "H2063",
+        "H3588",
+        "H3467",
+        "H3588",
+        "H3212",
+        "H3588",
+        "H0834",
+        "H2416",
+        "H3588",
+        "H3808",
+        "H1961",
+        "H1697",
+        "H3605",
+        "H3588",
+        "H3588",
+        "H6485"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "También estarás seguro de que tendrás muchos hijos; tu descendencia será como la hierba de la tierra.",
+      "strong": [
+        "H1571",
+        "H1961",
+        "H0983",
+        "H3588",
+        "H3588",
+        "H1961",
+        "H7227",
+        "H2233",
+        "H0859",
+        "H2233",
+        "H1961",
+        "H3588",
+        "H3588",
+        "H6212",
+        "H3588",
+        "H3588",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Vivirás hasta una edad madura como una gavilla de grano cuando se cosecha.",
+      "strong": [
+        "H2421",
+        "H5704",
+        "H0259",
+        "H6967",
+        "H0349",
+        "H0259",
+        "H6256",
+        "H1715",
+        "H6256",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Mira, lo hemos examinado y es verdad. Escucha lo que te digo y aplícalo a ti mismo”.",
+      "strong": [
+        "H2009",
+        "H1931",
+        "H0935",
+        "H1571",
+        "H1931",
+        "H3651",
+        "H8085",
+        "H1931",
+        "H1931",
+        "H0859",
+        "H0559",
+        "H1571",
+        "H0413",
+        "H0859",
+        "H1931"
+      ]
+    }
+  ]
+}

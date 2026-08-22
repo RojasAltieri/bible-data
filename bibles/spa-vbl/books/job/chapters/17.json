@@ -1,1 +1,303 @@
-{"version":"spa-vbl","book":"job","chapter":17,"data":[{"verse":"1","text":"“Mi espíritu está aplastado; mi vida se ha extinguido; la tumba está lista para mí."},{"verse":"2","text":"Los burladores me rodean. Veo cómo me ridiculizan amargamente."},{"verse":"3","text":"Dios, tienes que ofrecer por mí una garantía contigo mismo, pues ¿quién más será mi garante?"},{"verse":"4","text":"Has cerrado sus mentes al entendimiento,17:4 Como a menudo en el Antiguo Testamento, a Dios se le atribuyen acciones que no necesariamente ha cometido. ¡así que no les dejes ganar!"},{"verse":"5","text":"Traicionan a los amigos para beneficiarse ellos mismos y sus hijos sufren por ello.17:5 Literalmente, “los ojos de sus hijos fallarán”."},{"verse":"6","text":"Me han convertido en un proverbio de burla17:6 “Proverbio de burla”: en otras palabras, Job se ha convertido en un sinónimo de alguien de quien se burla la gente. entre el pueblo; me escupen en la cara."},{"verse":"7","text":"Mis ojos están agotados de tanto llorar y mi cuerpo es una sombra de lo que fue."},{"verse":"8","text":"La gente que se cree buena se escandaliza al verme. Los que son inocentes se sienten turbados por los impíos.17:8 Algunos comentaristas creen que Job está siendo sarcástico aquí y en el siguiente verso, comentando la actitud de sus amigos hacia él."},{"verse":"9","text":"Los que tienen razón prosperan, y los que tienen las manos limpias se hacen cada vez más fuertes."},{"verse":"10","text":"“¿Por qué no vuelves a repetir lo que has dicho?"},{"verse":"11","text":"Mi vida ha terminado. Mis planes han desaparecido. Mi corazón está roto."},{"verse":"12","text":"Convierten la noche en día, y dicen que la luz del día se acerca a la oscuridad.17:12 Refiriéndose a los amigos de Job, indicando que Job piensa que tienen todo al revés."},{"verse":"13","text":"¿Qué es lo que busco? Hacer mi hogar en el Seol,17:13 Seol: el lugar de los muertos. para hacer mi cama en la oscuridad?"},{"verse":"14","text":"¿Debo considerar a la tumba17:14 Literalmente, “fosa”. como mi padre, y al gusano como mi madre o como mi hermana?"},{"verse":"15","text":"Entonces, ¿dónde está mi esperanza? ¿Puede alguien ver alguna esperanza para mí?"},{"verse":"16","text":"¿Descenderá la esperanza conmigo hasta las puertas del Seol? ¿Bajaremos juntos al polvo?”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 17,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“Mi espíritu está aplastado; mi vida se ha extinguido; la tumba está lista para mí.",
+      "strong": [
+        "H0589",
+        "H7307",
+        "H2063",
+        "H0589",
+        "H3117",
+        "H3045",
+        "H3541",
+        "H1931",
+        "H2063",
+        "H5704",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Los burladores me rodean. Veo cómo me ridiculizan amargamente.",
+      "strong": [
+        "H0582",
+        "H3944",
+        "H0413",
+        "H5439",
+        "H7200",
+        "H0349",
+        "H0413",
+        "H4751"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Dios, tienes que ofrecer por mí una garantía contigo mismo, pues ¿quién más será mi garante?",
+      "strong": [
+        "H0430",
+        "H5750",
+        "H4310",
+        "H3027",
+        "H4994",
+        "H0259",
+        "H5973",
+        "H1931",
+        "H4994",
+        "H4310",
+        "H5750",
+        "H1931",
+        "H4994"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Has cerrado sus mentes al entendimiento, ¡así que no les dejes ganar!",
+      "strong": [
+        "H4191",
+        "H6113",
+        "H1931",
+        "H5921",
+        "H3820",
+        "H3651",
+        "H3588",
+        "H3808",
+        "H5921",
+        "H5146"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Traicionan a los amigos para beneficiarse ellos mismos y sus hijos sufren por ello.",
+      "strong": [
+        "H5869",
+        "H1121",
+        "H7453",
+        "H5704",
+        "H1992",
+        "H1992",
+        "H1571",
+        "H1931",
+        "H1121",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Me han convertido en un proverbio de burla entre el pueblo; me escupen en la cara.",
+      "strong": [
+        "H0413",
+        "H4191",
+        "H7725",
+        "H5921",
+        "H0259",
+        "H6440",
+        "H0996",
+        "H1931",
+        "H5971",
+        "H0413",
+        "H5921",
+        "H1931",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Mis ojos están agotados de tanto llorar y mi cuerpo es una sombra de lo que fue.",
+      "strong": [
+        "H0589",
+        "H5869",
+        "H1961",
+        "H5869",
+        "H3651",
+        "H1571",
+        "H0589",
+        "H5038",
+        "H1961",
+        "H0259",
+        "H6738",
+        "H5869",
+        "H3605",
+        "H3605",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "La gente que se cree buena se escandaliza al verme. Los que son inocentes se sienten turbados por los impíos.",
+      "strong": [
+        "H5921",
+        "H1471",
+        "H5921",
+        "H5921",
+        "H2896",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7563"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los que tienen razón prosperan, y los que tienen las manos limpias se hacen cada vez más fuertes.",
+      "strong": [
+        "H0582",
+        "H3027",
+        "H1992",
+        "H7218",
+        "H7951",
+        "H1571",
+        "H0582",
+        "H3027",
+        "H1992",
+        "H1992",
+        "H3027",
+        "H2889",
+        "H3045",
+        "H6213",
+        "H3605",
+        "H6471",
+        "H3254",
+        "H4013"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "“¿Por qué no vuelves a repetir lo que has dicho?",
+      "strong": [
+        "H5921",
+        "H3808",
+        "H3808",
+        "H7725",
+        "H0413",
+        "H3808",
+        "H3808",
+        "H4191",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Mi vida ha terminado. Mis planes han desaparecido. Mi corazón está roto.",
+      "strong": [
+        "H0589",
+        "H3117",
+        "H3541",
+        "H0589",
+        "H4191",
+        "H0589",
+        "H3824",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Convierten la noche en día, y dicen que la luz del día se acerca a la oscuridad.",
+      "strong": [
+        "H1931",
+        "H3915",
+        "H5921",
+        "H3117",
+        "H1571",
+        "H0559",
+        "H3117",
+        "H1931",
+        "H0216",
+        "H4480",
+        "H3117",
+        "H3045",
+        "H5921",
+        "H6440",
+        "H1931",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¿Qué es lo que busco? Hacer mi hogar en el Seol, para hacer mi cama en la oscuridad?",
+      "strong": [
+        "H0834",
+        "H1961",
+        "H1931",
+        "H0834",
+        "H1875",
+        "H6213",
+        "H0589",
+        "H5921",
+        "H1931",
+        "H5704",
+        "H6213",
+        "H0589",
+        "H4904",
+        "H5921",
+        "H1931",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "¿Debo considerar a la tumba como mi padre, y al gusano como mi madre o como mi hermana?",
+      "strong": [
+        "H0413",
+        "H1931",
+        "H0349",
+        "H0589",
+        "H0001",
+        "H1571",
+        "H0413",
+        "H8438",
+        "H0349",
+        "H0589",
+        "H0517",
+        "H0176",
+        "H0349",
+        "H0589",
+        "H0269"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Entonces, ¿dónde está mi esperanza? ¿Puede alguien ver alguna esperanza para mí?",
+      "strong": [
+        "H0227",
+        "H0834",
+        "H2063",
+        "H0589",
+        "H8615",
+        "H3201",
+        "H0376",
+        "H7200",
+        "H3605",
+        "H8615",
+        "H5704",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "¿Descenderá la esperanza conmigo hasta las puertas del Seol? ¿Bajaremos juntos al polvo?”",
+      "strong": [
+        "H3381",
+        "H5921",
+        "H8615",
+        "H3162",
+        "H5921",
+        "H5921",
+        "H1817",
+        "H5921",
+        "H3162",
+        "H5921",
+        "H6083"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,465 @@
-{"version":"spa-vbl","book":"proverbs","chapter":5,"data":[{"verse":"1","text":"Hijo mío, presta atención a mi sabiduría. Escucha con cuidado mientras te explico el buen consejo,"},{"verse":"2","text":"para que puedas tomar buenas decisiones, y protejas el conocimiento con tus labios.5:2.“Protejas el conocimiento con tu hablar”: Literalmente, “tus labios guardarán conocimiento”."},{"verse":"3","text":"Porque los labios de una mujer inmoral pueden ser dulces como la miel; los besos de sus labios pueden ser suaves como el aceite,"},{"verse":"4","text":"pero al final lo que obtendrás de ella es la amargura de ajenjo y el dolor cortante de una espada de doble filo."},{"verse":"5","text":"Ella te conducirá a la muerte, y te llevará hasta la tumba."},{"verse":"6","text":"Ella no sigue el camino que conduce a la vida, sino que deambula sin saber que está perdida."},{"verse":"7","text":"Ahora, hijo mío,5:7.El idioma hebreo tiene el plural “hijos” en este versículo, pero el resto del capítulo usa pronombres singulares, por lo tanto, como en la Septuaginta y la Vulgata usamos “hijo” aquí. escúchame. No rechaces lo que te he enseñado."},{"verse":"8","text":"¡Aléjate de ella! ¡No te acerques a su casa!"},{"verse":"9","text":"De lo contrario, estarás entregando tu honra a otros, y tu reputación quedará en manos de gente cruel."},{"verse":"10","text":"Los extranjeros gastarán tu riqueza, y todo aquello por lo que has trabajado quedará en manos de otro."},{"verse":"11","text":"Cuando llegues al fin de tus días, gemirás de dolor mientras la enfermedad destruye tu cuerpo."},{"verse":"12","text":"Y dirás: “Oh, cómo aborrecía la disciplina, y mi mente aborrecía la corrección!"},{"verse":"13","text":"No escuché lo que mi maestro decía, ni presté atención a mis instructores."},{"verse":"14","text":"Ahora estoy a punto de caer en total desgracia ante todos en la comunidad”."},{"verse":"15","text":"Bebe agua de tu propia cisterna, agua viva de tu propio pozo.5:15.El que hace la pregunta usa una comparación para señalar que el los esposos deben ser fieles el uno al otro."},{"verse":"16","text":"¿Por qué dejar que tus fuentes se esparzan por fuera, y tus fuentes de agua sean derramadas por las calles?"},{"verse":"17","text":"Guárdalas solo para ti, pues no son para compartirlas con extraños."},{"verse":"18","text":"Que tus fuentes de aguas sean benditas, y que disfrutes de la mujer con quien te casaste en tu juventud."},{"verse":"19","text":"Que ella sea para ti como una cierva amorosa, como una gacela llena de gracia. Que te intoxiques en sus pechos cada día, y te embriagues en su amor para siempre."},{"verse":"20","text":"¿Por qué dejarte intoxicar por una mujer inmoral? ¿Por qué aferrarte a los brazos de la mujer que actúa como prostituta?"},{"verse":"21","text":"Porque el Señor ve todo lo que las personas hacen, e investiga cada lugar donde van."},{"verse":"22","text":"Los malvados quedarán atrapados por causa de sus malas acciones. Las cuerdas de sus pecados los atarán."},{"verse":"23","text":"Morirán por su falta de dominio propio, y estarán perdidos por su gran insensatez."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 5,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Hijo mío, presta atención a mi sabiduría. Escucha con cuidado mientras te explico el buen consejo,",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H0413",
+        "H0589",
+        "H2451",
+        "H7181",
+        "H5973",
+        "H3027",
+        "H5704",
+        "H0859",
+        "H1121",
+        "H2896",
+        "H6098"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "para que puedas tomar buenas decisiones, y protejas el conocimiento con tus labios.",
+      "strong": [
+        "H5704",
+        "H0834",
+        "H3201",
+        "H3947",
+        "H2896",
+        "H1571",
+        "H1931",
+        "H1847",
+        "H5973",
+        "H0859",
+        "H8193"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Porque los labios de una mujer inmoral pueden ser dulces como la miel; los besos de sus labios pueden ser suaves como el aceite,",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H8193",
+        "H3588",
+        "H0259",
+        "H0802",
+        "H3201",
+        "H5315",
+        "H4452",
+        "H3588",
+        "H3588",
+        "H5197",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H8193",
+        "H3201",
+        "H5315",
+        "H5278",
+        "H3588",
+        "H3588",
+        "H8081"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "pero al final lo que obtendrás de ella es la amargura de ajenjo y el dolor cortante de una espada de doble filo.",
+      "strong": [
+        "H3588",
+        "H0413",
+        "H1931",
+        "H6310",
+        "H4480",
+        "H1931",
+        "H1961",
+        "H1931",
+        "H4751",
+        "H4480",
+        "H1571",
+        "H1931",
+        "H2427",
+        "H4480",
+        "H0259",
+        "H2719",
+        "H4480",
+        "H3718",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Ella te conducirá a la muerte, y te llevará hasta la tumba.",
+      "strong": [
+        "H1931",
+        "H0859",
+        "H0413",
+        "H1931",
+        "H4194",
+        "H1571",
+        "H0859",
+        "H5375",
+        "H5704",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Ella no sigue el camino que conduce a la vida, sino que deambula sin saber que está perdida.",
+      "strong": [
+        "H1931",
+        "H3808",
+        "H1214",
+        "H1931",
+        "H4570",
+        "H3808",
+        "H0413",
+        "H1931",
+        "H2416",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H3045",
+        "H3808",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Ahora, hijo mío, escúchame. No rechaces lo que te he enseñado.",
+      "strong": [
+        "H6258",
+        "H1121",
+        "H0589",
+        "H8085",
+        "H3808",
+        "H1931",
+        "H6258",
+        "H0859",
+        "H4392"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¡Aléjate de ella! ¡No te acerques a su casa!",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "De lo contrario, estarás entregando tu honra a otros, y tu reputación quedará en manos de gente cruel.",
+      "strong": [
+        "H5414",
+        "H1931",
+        "H1961",
+        "H0859",
+        "H1935",
+        "H0413",
+        "H0312",
+        "H1571",
+        "H0859",
+        "H3498",
+        "H5921",
+        "H3027",
+        "H5414",
+        "H1471",
+        "H0393"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los extranjeros gastarán tu riqueza, y todo aquello por lo que has trabajado quedará en manos de otro.",
+      "strong": [
+        "H0582",
+        "H1616",
+        "H0859",
+        "H7399",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H3581",
+        "H1931",
+        "H6435",
+        "H4191",
+        "H3811",
+        "H3498",
+        "H5921",
+        "H3027",
+        "H7646",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Cuando llegues al fin de tus días, gemirás de dolor mientras la enfermedad destruye tu cuerpo.",
+      "strong": [
+        "H3588",
+        "H0413",
+        "H7093",
+        "H4480",
+        "H0859",
+        "H3117",
+        "H4480",
+        "H2427",
+        "H5704",
+        "H1931",
+        "H2483",
+        "H2717",
+        "H0859",
+        "H5038"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Y dirás: “Oh, cómo aborrecía la disciplina, y mi mente aborrecía la corrección!",
+      "strong": [
+        "H1571",
+        "H0559",
+        "H1945",
+        "H0349",
+        "H8130",
+        "H1931",
+        "H1571",
+        "H0589",
+        "H8130",
+        "H1931",
+        "H4148"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "No escuché lo que mi maestro decía, ni presté atención a mis instructores.",
+      "strong": [
+        "H3808",
+        "H8085",
+        "H3808",
+        "H3808",
+        "H0589",
+        "H8269",
+        "H0559",
+        "H3808",
+        "H0413",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Ahora estoy a punto de caer en total desgracia ante todos en la comunidad”.",
+      "strong": [
+        "H6258",
+        "H1961",
+        "H0413",
+        "H7451",
+        "H3782",
+        "H8432",
+        "H6440",
+        "H3605",
+        "H8432",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Bebe agua de tu propia cisterna, agua viva de tu propio pozo.",
+      "strong": [
+        "H8354",
+        "H4325",
+        "H4325",
+        "H0859",
+        "H0953",
+        "H4325",
+        "H2416",
+        "H4325",
+        "H0859",
+        "H0875"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "¿Por qué dejar que tus fuentes se esparzan por fuera, y tus fuentes de agua sean derramadas por las calles?",
+      "strong": [
+        "H5921",
+        "H4325",
+        "H5414",
+        "H4325",
+        "H0859",
+        "H3595",
+        "H3045",
+        "H5921",
+        "H2351",
+        "H1571",
+        "H0859",
+        "H3595",
+        "H4325",
+        "H4325",
+        "H1961",
+        "H5064",
+        "H5921",
+        "H1992",
+        "H7339"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Guárdalas solo para ti, pues no son para compartirlas con extraños.",
+      "strong": [
+        "H8104",
+        "H0910",
+        "H1961",
+        "H0859",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H5973",
+        "H2213"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Que tus fuentes de aguas sean benditas, y que disfrutes de la mujer con quien te casaste en tu juventud.",
+      "strong": [
+        "H1961",
+        "H0859",
+        "H4726",
+        "H4480",
+        "H4325",
+        "H1961",
+        "H1571",
+        "H1961",
+        "H4480",
+        "H1931",
+        "H0802",
+        "H5973",
+        "H4310",
+        "H0859",
+        "H5921",
+        "H0859",
+        "H5271"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Que ella sea para ti como una cierva amorosa, como una gacela llena de gracia. Que te intoxiques en sus pechos cada día, y te embriagues en su amor para siempre.",
+      "strong": [
+        "H6256",
+        "H3605",
+        "H1961",
+        "H5704",
+        "H0859",
+        "H0349",
+        "H0259",
+        "H0365",
+        "H0349",
+        "H0259",
+        "H4392",
+        "H6256",
+        "H2580",
+        "H6256",
+        "H0859",
+        "H5921",
+        "H1931",
+        "H7699",
+        "H3605",
+        "H6256",
+        "H1571",
+        "H0859",
+        "H5921",
+        "H1931",
+        "H0160",
+        "H5704",
+        "H8548"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "¿Por qué dejarte intoxicar por una mujer inmoral? ¿Por qué aferrarte a los brazos de la mujer que actúa como prostituta?",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H4100",
+        "H0259",
+        "H0802",
+        "H4100",
+        "H4100",
+        "H0413",
+        "H1121",
+        "H7070",
+        "H1121",
+        "H1931",
+        "H0802",
+        "H4100",
+        "H4100"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Porque el Señor ve todo lo que las personas hacen, e investiga cada lugar donde van.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3068",
+        "H3212",
+        "H3605",
+        "H3605",
+        "H3588",
+        "H1992",
+        "H5315",
+        "H6213",
+        "H0834",
+        "H3605",
+        "H4725",
+        "H0834",
+        "H1980"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los malvados quedarán atrapados por causa de sus malas acciones. Las cuerdas de sus pecados los atarán.",
+      "strong": [
+        "H0582",
+        "H3427",
+        "H5921",
+        "H1697",
+        "H4480",
+        "H1931",
+        "H7451",
+        "H1992",
+        "H5688",
+        "H4480",
+        "H1931",
+        "H2403",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Morirán por su falta de dominio propio, y estarán perdidos por su gran insensatez.",
+      "strong": [
+        "H4191",
+        "H5921",
+        "H1931",
+        "H3971",
+        "H4480",
+        "H1571",
+        "H1961",
+        "H0006",
+        "H5921",
+        "H1931",
+        "H1419"
+      ]
+    }
+  ]
+}

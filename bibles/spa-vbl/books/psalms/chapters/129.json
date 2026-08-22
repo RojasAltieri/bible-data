@@ -1,1 +1,160 @@
-{"version":"spa-vbl","book":"psalms","chapter":129,"data":[{"verse":"1","text":"Muchos enemigos me han atacado desde que era joven. Que todo Israel diga:"},{"verse":"2","text":"Muchos enemigos me han atacado desde que era joven, pero nunca me vencieron."},{"verse":"3","text":"Me golpearon en la espalda, dejando largos surcos como si hubiera sido golpeado por un granjero."},{"verse":"4","text":"Pero el Señor hace lo correcto: me liberado de las ataduras de los impíos."},{"verse":"5","text":"Que todos los que odian Sión sean derrotados y humillados."},{"verse":"6","text":"Que sean como la grama que crece en los techos y se marchita antes de que pueda ser cosechada,"},{"verse":"7","text":"y que no es suficiente para que un segador la sostenga, ni suficiente para que el cosechador llene sus brazos.129:7 La imagen de algo inútil."},{"verse":"8","text":"Que al pasar nadie les diga, “La bendición del Señor esté sobre ti, te bendecimos en el nombre del Señor”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 129,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Muchos enemigos me han atacado desde que era joven. Que todo Israel diga:",
+      "strong": [
+        "H7227",
+        "H0341",
+        "H0413",
+        "H4191",
+        "H4480",
+        "H4994",
+        "H1961",
+        "H0970",
+        "H4994",
+        "H3605",
+        "H3478",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Muchos enemigos me han atacado desde que era joven, pero nunca me vencieron.",
+      "strong": [
+        "H7227",
+        "H0341",
+        "H0413",
+        "H4191",
+        "H4480",
+        "H3808",
+        "H1961",
+        "H0970",
+        "H3588",
+        "H3808",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Me golpearon en la espalda, dejando largos surcos como si hubiera sido golpeado por un granjero.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0310",
+        "H5800",
+        "H5772",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero el Señor hace lo correcto: me liberado de las ataduras de los impíos.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3068",
+        "H6213",
+        "H1931",
+        "H0413",
+        "H6662",
+        "H1992",
+        "H2256",
+        "H6662",
+        "H0582",
+        "H7563"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Que todos los que odian Sión sean derrotados y humillados.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H6726",
+        "H1961",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Que sean como la grama que crece en los techos y se marchita antes de que pueda ser cosechada,",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H2682",
+        "H1961",
+        "H7685",
+        "H5921",
+        "H1961",
+        "H1571",
+        "H1961",
+        "H6927",
+        "H4480",
+        "H1961",
+        "H3201",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "y que no es suficiente para que un segador la sostenga, ni suficiente para que el cosechador llene sus brazos.",
+      "strong": [
+        "H1571",
+        "H3808",
+        "H3808",
+        "H1961",
+        "H8505",
+        "H5704",
+        "H3808",
+        "H0259",
+        "H7114",
+        "H1931",
+        "H3808",
+        "H8505",
+        "H5704",
+        "H3808",
+        "H1931",
+        "H1931",
+        "H7070"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Que al pasar nadie les diga, “La bendición del Señor esté sobre ti, te bendecimos en el nombre del Señor”.",
+      "strong": [
+        "H3808",
+        "H0413",
+        "H5674",
+        "H3808",
+        "H0413",
+        "H0559",
+        "H1931",
+        "H1293",
+        "H4480",
+        "H3068",
+        "H2088",
+        "H5674",
+        "H0859",
+        "H0859",
+        "H5921",
+        "H5674",
+        "H8034",
+        "H4480",
+        "H3068"
+      ]
+    }
+  ]
+}

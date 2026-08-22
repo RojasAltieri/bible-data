@@ -1,1 +1,455 @@
-{"version":"spa-vbl","book":"job","chapter":29,"data":[{"verse":"1","text":"Job siguió hablando."},{"verse":"2","text":"“¡Ojalá volviera a los viejos tiempos en que Dios me cuidaba!"},{"verse":"3","text":"Su luz brillaba sobre mí y alumbraba mi camino en la oscuridad."},{"verse":"4","text":"Cuando era joven y fuerte, Dios era mi amigo y me hablaba en mi casa."},{"verse":"5","text":"El Todopoderoso seguía conmigo y estaba rodeado de mis hijos."},{"verse":"6","text":"Mis rebaños producían mucha leche,29:6 Literalmente, “Mis pasos fueron lavados con mantequilla”. y el aceite fluía libremente de mis prensas de aceitunas."},{"verse":"7","text":"Salí a la puerta de la ciudad y me senté en la plaza pública.29:7 Aquí se reunían los ancianos de la ciudad para discutir asuntos y juzgar disputas."},{"verse":"8","text":"Los jóvenes me veían y se apartaban del camino; los ancianos me defendían.29:8 Mostrando así respeto."},{"verse":"9","text":"Los dirigentes guardaron silencio y se taparon la boca con las manos."},{"verse":"10","text":"Las voces de los funcionarios se acallaron; se callaron en mi presencia."},{"verse":"11","text":"“Todos los que me escuchaban me alababan; los que me veían me elogiaban,"},{"verse":"12","text":"porque daba a los pobres que me llamaban y a los huérfanos que no tenían quien los ayudara."},{"verse":"13","text":"Los que estaban a punto de morir me bendijeron; hice cantar de alegría a la viuda."},{"verse":"14","text":"Siendo sincero y actuando correctamente29:14 Literalmente, “la rectitud y la justicia”, pero estos términos son anticuados y a veces se malinterpretan. La rectitud, por ejemplo, se refiere a la naturaleza de una persona más que a una demostración externa, mientras que la justicia no se refiere tanto a los aspectos legales como a hacer lo que es verdadero y correcto. eran lo que yo llevaba como ropa."},{"verse":"15","text":"Fui como los ojos para los ciegos y los pies para los cojos."},{"verse":"16","text":"Fui como un padre para los pobres, y defendí los derechos de los extranjeros."},{"verse":"17","text":"Rompí la mandíbula de los malvados y les hice soltar su presa de los dientes."},{"verse":"18","text":"Pensé que moriría en casa, después de muchos años.29:18 Literalmente, “Multiplicaré mis días como la arena”."},{"verse":"19","text":"Como un árbol, mis raíces se extienden hasta el agua; el rocío se posa en mis ramas durante la noche."},{"verse":"20","text":"Siempre se me concedían nuevos honores; mi fuerza se renovaba como un arco infalible."},{"verse":"21","text":"“La gente escuchaba atentamente lo que yo decía; se callaba al escuchar mis consejos."},{"verse":"22","text":"Una vez que yo hablaba, no tenían nada más que decir; lo que yo decía era suficiente.29:22 Literalmente, “mis palabras cayeron sobre ellos”."},{"verse":"23","text":"Me esperaban como quien espera la lluvia, con la boca abierta por la lluvia de primavera."},{"verse":"24","text":"Cuando les sonreía, apenas podían creerlo; mi aprobación significaba todo el mundo para ellos.29:24 Literalmente, “la luz de mi semblante no la arrojaron”."},{"verse":"25","text":"Decidí el camino a seguir como su líder, viviendo como un rey entre sus soldados, y cuando estaban tristes los consolaba”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 29,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job siguió hablando.",
+      "strong": [
+        "H0347",
+        "H7291",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¡Ojalá volviera a los viejos tiempos en que Dios me cuidaba!",
+      "strong": [
+        "H4310",
+        "H0413",
+        "H0582",
+        "H2205",
+        "H3117",
+        "H5921",
+        "H4310",
+        "H0430",
+        "H4310"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Su luz brillaba sobre mí y alumbraba mi camino en la oscuridad.",
+      "strong": [
+        "H1931",
+        "H0216",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1870",
+        "H5921",
+        "H5921",
+        "H2822"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Cuando era joven y fuerte, Dios era mi amigo y me hablaba en mi casa.",
+      "strong": [
+        "H3117",
+        "H1961",
+        "H0970",
+        "H5921",
+        "H2389",
+        "H0430",
+        "H1961",
+        "H5921",
+        "H7453",
+        "H5921",
+        "H5921",
+        "H1696",
+        "H5921",
+        "H5921",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El Todopoderoso seguía conmigo y estaba rodeado de mis hijos.",
+      "strong": [
+        "H1931",
+        "H7706",
+        "H0310",
+        "H5978",
+        "H1571",
+        "H1961",
+        "H5750",
+        "H0589",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Mis rebaños producían mucha leche, y el aceite fluía libremente de mis prensas de aceitunas.",
+      "strong": [
+        "H0589",
+        "H5739",
+        "H7227",
+        "H2461",
+        "H1571",
+        "H1931",
+        "H8081",
+        "H5071",
+        "H4480",
+        "H0589",
+        "H4480",
+        "H2132"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Salí a la puerta de la ciudad y me senté en la plaza pública.",
+      "strong": [
+        "H3318",
+        "H5921",
+        "H5921",
+        "H8179",
+        "H5921",
+        "H5921",
+        "H5892",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4108",
+        "H7121"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los jóvenes me veían y se apartaban del camino; los ancianos me defendían.",
+      "strong": [
+        "H0582",
+        "H0413",
+        "H7200",
+        "H1571",
+        "H3045",
+        "H4480",
+        "H1870",
+        "H0582",
+        "H2205",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los dirigentes guardaron silencio y se taparon la boca con las manos.",
+      "strong": [
+        "H0582",
+        "H8104",
+        "H1571",
+        "H3045",
+        "H1931",
+        "H6310",
+        "H5973",
+        "H1992",
+        "H3709"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Las voces de los funcionarios se acallaron; se callaron en mi presencia.",
+      "strong": [
+        "H1992",
+        "H6963",
+        "H5057",
+        "H0582",
+        "H3045",
+        "H3045",
+        "H1826",
+        "H5921",
+        "H0589",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "“Todos los que me escuchaban me alababan; los que me veían me elogiaban,",
+      "strong": [
+        "H3605",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H8085",
+        "H3588",
+        "H7442",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7200",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "porque daba a los pobres que me llamaban y a los huérfanos que no tenían quien los ayudara.",
+      "strong": [
+        "H3588",
+        "H5414",
+        "H3588",
+        "H3588",
+        "H1800",
+        "H3588",
+        "H3588",
+        "H7121",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3490",
+        "H3588",
+        "H3808",
+        "H1961",
+        "H4310",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los que estaban a punto de morir me bendijeron; hice cantar de alegría a la viuda.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H4191",
+        "H5921",
+        "H1288",
+        "H6213",
+        "H2167",
+        "H5921",
+        "H8057",
+        "H5921",
+        "H5921",
+        "H0490"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Siendo sincero y actuando correctamente eran lo que yo llevaba como ropa.",
+      "strong": [
+        "H1931",
+        "H1571",
+        "H1961",
+        "H1931",
+        "H0834",
+        "H0589",
+        "H5375",
+        "H0349",
+        "H8071"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Fui como los ojos para los ciegos y los pies para los cojos.",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H1961",
+        "H5869",
+        "H1961",
+        "H1961",
+        "H5787",
+        "H1571",
+        "H1961",
+        "H7272",
+        "H1961",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Fui como un padre para los pobres, y defendí los derechos de los extranjeros.",
+      "strong": [
+        "H3808",
+        "H0349",
+        "H0259",
+        "H0001",
+        "H5704",
+        "H0582",
+        "H1800",
+        "H1571",
+        "H0582",
+        "H4941",
+        "H4480",
+        "H0582",
+        "H1616"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Rompí la mandíbula de los malvados y les hice soltar su presa de los dientes.",
+      "strong": [
+        "H1931",
+        "H4480",
+        "H0582",
+        "H1571",
+        "H0413",
+        "H6213",
+        "H7971",
+        "H1931",
+        "H0957",
+        "H4480",
+        "H0582",
+        "H8127"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Pensé que moriría en casa, después de muchos años.",
+      "strong": [
+        "H2161",
+        "H3117",
+        "H5973",
+        "H1004",
+        "H0310",
+        "H5973",
+        "H7235",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Como un árbol, mis raíces se extienden hasta el agua; el rocío se posa en mis ramas durante la noche.",
+      "strong": [
+        "H0349",
+        "H0259",
+        "H6086",
+        "H0589",
+        "H8328",
+        "H3045",
+        "H5704",
+        "H3885",
+        "H4325",
+        "H3885",
+        "H2919",
+        "H3045",
+        "H5921",
+        "H0589",
+        "H7105",
+        "H1931",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Siempre se me concedían nuevos honores; mi fuerza se renovaba como un arco infalible.",
+      "strong": [
+        "H5769",
+        "H3045",
+        "H0413",
+        "H2319",
+        "H0589",
+        "H3581",
+        "H3045",
+        "H0349",
+        "H0259",
+        "H7198"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "“La gente escuchaba atentamente lo que yo decía; se callaba al escuchar mis consejos.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H8085",
+        "H8085",
+        "H1931",
+        "H0834",
+        "H0589",
+        "H0559",
+        "H3045",
+        "H0413",
+        "H8085",
+        "H0589",
+        "H6098"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Una vez que yo hablaba, no tenían nada más que decir; lo que yo decía era suficiente.",
+      "strong": [
+        "H0259",
+        "H6471",
+        "H3808",
+        "H5197",
+        "H1697",
+        "H3808",
+        "H1961",
+        "H3808",
+        "H5921",
+        "H3808",
+        "H0559",
+        "H1697",
+        "H3808",
+        "H5197",
+        "H0559",
+        "H1961",
+        "H8505"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Me esperaban como quien espera la lluvia, con la boca abierta por la lluvia de primavera.",
+      "strong": [
+        "H0413",
+        "H7663",
+        "H0349",
+        "H4310",
+        "H3176",
+        "H1931",
+        "H4306",
+        "H5973",
+        "H1931",
+        "H6310",
+        "H6605",
+        "H5921",
+        "H1931",
+        "H4306",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Cuando les sonreía, apenas podían creerlo; mi aprobación significaba todo el mundo para ellos.",
+      "strong": [
+        "H3588",
+        "H0413",
+        "H3201",
+        "H0589",
+        "H3605",
+        "H5307",
+        "H8398",
+        "H5704",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Decidí el camino a seguir como su líder, viviendo como un rey entre sus soldados, y cuando estaban tristes los consolaba”.",
+      "strong": [
+        "H0559",
+        "H3427",
+        "H1870",
+        "H0413",
+        "H0935",
+        "H7931",
+        "H1931",
+        "H2416",
+        "H7931",
+        "H0259",
+        "H4428",
+        "H0996",
+        "H1931",
+        "H4248",
+        "H1571",
+        "H3588",
+        "H3427",
+        "H6941",
+        "H3427"
+      ]
+    }
+  ]
+}

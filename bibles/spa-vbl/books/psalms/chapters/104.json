@@ -1,1 +1,686 @@
-{"version":"spa-vbl","book":"psalms","chapter":104,"data":[{"verse":"1","text":"¡Qué todo mi ser alabe al Señor! ¡Dios mío, eres tan grande, revestido en majestad y esplendor!"},{"verse":"2","text":"Usas la luz como vestidura; tú extiendes el tejido104:2 Literalmente, “la cortina de la tienda”. de los cielos."},{"verse":"3","text":"Colocas las vigas de tu casa en las nubes de lluvia. Haces de las nubes de los cielos tus carruajes. Te montas sobre las alas del viento."},{"verse":"4","text":"Haces de los vientos tus ángeles, y a las llamas de fuego tus sirvientes.104:4 Lectura de la Septuaginta; también se cita en Hebreos 1:7."},{"verse":"5","text":"Tú pusiste la tierra sobre sus bases; y nunca será estremecida."},{"verse":"6","text":"Estaba cubierta con océanos profundos, las aguas cubrían las montañas—"},{"verse":"7","text":"pero a tu orden las aguas huyeron; al sonido de tu trueno corren."},{"verse":"8","text":"Las montañas se levantaron y los valles se hundieron hasta donde tú habías determinado."},{"verse":"9","text":"Pusiste un límite para los océanos, para que no regresaran y volvieran a cubrir la tierra."},{"verse":"10","text":"Haces que los manantiales fluyan hacia los arroyos, bajando desde las montañas."},{"verse":"11","text":"Proveen agua para todos los animales salvajes, para que los caballos salvajes aplaquen su sed."},{"verse":"12","text":"Los pájaros construyen sus nidos entre los árboles al lado de las corrientes de agua, cantando entre el follaje."},{"verse":"13","text":"Envías lluvias sobre las montañas desde tu hogar en lo más alto; llenas la tierra con cosas buenas."},{"verse":"14","text":"Haces que la grama crezca para las vacas, y las plantas también para que la gente se alimente de ellas, cultivos de la tierra para servir como alimento,"},{"verse":"15","text":"y vino para hacerlos felices, aceite de oliva para hacer resplandecer sus rostros, y pan para hacerlos fuertes."},{"verse":"16","text":"Los árboles del Señor están bien regados, los cedros del líbano que Él plantó."},{"verse":"17","text":"Los gorriones se anidan ahí; las garzas hacen sus nidos en los más altos árboles."},{"verse":"18","text":"Las cabras salvajes viven en los picos de las montañas; y los damanes se esconden entre las rocas."},{"verse":"19","text":"Tú hiciste la luna para marcar los meses, y el sol sabe cuándo ponerse."},{"verse":"20","text":"Haces caer la oscuridad para que venga la noche, el momento en el que los animales del bosque salen a cazar.104:20 “cazar”: implícito."},{"verse":"21","text":"Los jóvenes leones rugen mientras buscan a su presa, buscando la comida que Dios les proveyó."},{"verse":"22","text":"Cuando el sol sale vuelven a sus guaridas para descansar."},{"verse":"23","text":"Entonces las personas salen a hacer sus tareas, y trabajan hasta el ocaso."},{"verse":"24","text":"Señor, ¡Cuántas cosas has hecho, todas ellas sabiamente formadas! La tierra está llena de tus criaturas."},{"verse":"25","text":"Considera el mar, profundo y ancho, lleno de todos los tipos de seres vivientes, grandes y pequeños."},{"verse":"26","text":"Los barcos navegan allí, y el Leviatán,104:26 U monstruo marino. que creaste para que jugara en él."},{"verse":"27","text":"Todas las criaturas te buscan para que les des comida en el momento correcto."},{"verse":"28","text":"Cuando se las provees, la recogen. Les repartes alimento a todos, y son saciados."},{"verse":"29","text":"Cuando te alejas de ellos, se aterrorizan; cuando retiras su aliento de vida, ellos mueren y regresan al polvo."},{"verse":"30","text":"Mas cuando envías tu aliento, son creados, y la vida cubre la tierra una vez más."},{"verse":"31","text":"¡Qué la gloria del Señor permanezca para siempre! El Señor se alegra con todo lo que ha hecho."},{"verse":"32","text":"Solo tiene que mirar hacia la tierra y esta tiembla; las montañas dejan salir humo a su toque."},{"verse":"33","text":"Cantaré al Señor mientras viva; cantaré alabanzas a Dios toda mi vida."},{"verse":"34","text":"Ojalá el Señor se plazca con mis pensamientos104:34 O “meditación”, “composición”. porque me alegro en el Señor."},{"verse":"35","text":"¡Sean destruidos los pecadores de la tierra; qué los malvados dejen de existir! ¡Todo mi ser alabe al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 104,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Qué todo mi ser alabe al Señor! ¡Dios mío, eres tan grande, revestido en majestad y esplendor!",
+      "strong": [
+        "H0834",
+        "H3605",
+        "H1431",
+        "H5315",
+        "H1984",
+        "H0413",
+        "H3068",
+        "H3068",
+        "H0589",
+        "H0859",
+        "H3966",
+        "H3966",
+        "H5921",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Usas la luz como vestidura; tú extiendes el tejido de los cielos.",
+      "strong": [
+        "H1931",
+        "H0216",
+        "H8008",
+        "H3644",
+        "H0859",
+        "H1931",
+        "H3407",
+        "H0582",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Colocas las vigas de tu casa en las nubes de lluvia. Haces de las nubes de los cielos tus carruajes. Te montas sobre las alas del viento.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H0859",
+        "H1004",
+        "H5921",
+        "H5921",
+        "H5645",
+        "H5921",
+        "H4306",
+        "H6213",
+        "H5921",
+        "H5921",
+        "H5645",
+        "H5921",
+        "H5921",
+        "H8064",
+        "H0859",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3671",
+        "H5921",
+        "H7307"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Haces de los vientos tus ángeles, y a las llamas de fuego tus sirvientes.",
+      "strong": [
+        "H6213",
+        "H4480",
+        "H0582",
+        "H7307",
+        "H0859",
+        "H4397",
+        "H1571",
+        "H0413",
+        "H1992",
+        "H3852",
+        "H4480",
+        "H0784",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tú pusiste la tierra sobre sus bases; y nunca será estremecida.",
+      "strong": [
+        "H0859",
+        "H7760",
+        "H5921",
+        "H0776",
+        "H5921",
+        "H1931",
+        "H5921",
+        "H5769",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Estaba cubierta con océanos profundos, las aguas cubrían las montañas—",
+      "strong": [
+        "H5975",
+        "H3682",
+        "H5921",
+        "H6009",
+        "H5921",
+        "H4325",
+        "H3680",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "pero a tu orden las aguas huyeron; al sonido de tu trueno corren.",
+      "strong": [
+        "H3588",
+        "H4480",
+        "H0859",
+        "H2905",
+        "H1992",
+        "H4325",
+        "H5127",
+        "H4480",
+        "H6963",
+        "H4480",
+        "H0859",
+        "H7323"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Las montañas se levantaron y los valles se hundieron hasta donde tú habías determinado.",
+      "strong": [
+        "H1992",
+        "H1992",
+        "H6965",
+        "H1571",
+        "H1992",
+        "H6010",
+        "H1992",
+        "H2088",
+        "H4725",
+        "H0859",
+        "H7093"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Pusiste un límite para los océanos, para que no regresaran y volvieran a cubrir la tierra.",
+      "strong": [
+        "H7760",
+        "H0259",
+        "H7097",
+        "H5704",
+        "H0582",
+        "H5704",
+        "H0834",
+        "H1077",
+        "H1571",
+        "H7760",
+        "H3680",
+        "H1366",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Haces que los manantiales fluyan hacia los arroyos, bajando desde las montañas.",
+      "strong": [
+        "H6213",
+        "H0834",
+        "H0582",
+        "H0413",
+        "H0582",
+        "H5158",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Proveen agua para todos los animales salvajes, para que los caballos salvajes aplaquen su sed.",
+      "strong": [
+        "H4325",
+        "H5704",
+        "H3605",
+        "H3605",
+        "H2416",
+        "H5704",
+        "H3605",
+        "H3605",
+        "H5483",
+        "H1931",
+        "H6772"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Los pájaros construyen sus nidos entre los árboles al lado de las corrientes de agua, cantando entre el follaje.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H5921",
+        "H5921",
+        "H6086",
+        "H5921",
+        "H3802",
+        "H5921",
+        "H5921",
+        "H5140",
+        "H5921",
+        "H4325",
+        "H7891",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Envías lluvias sobre las montañas desde tu hogar en lo más alto; llenas la tierra con cosas buenas.",
+      "strong": [
+        "H7971",
+        "H1653",
+        "H5921",
+        "H1992",
+        "H4480",
+        "H0859",
+        "H5921",
+        "H1931",
+        "H5750",
+        "H1364",
+        "H4392",
+        "H7646",
+        "H0776",
+        "H5973",
+        "H1697",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Haces que la grama crezca para las vacas, y las plantas también para que la gente se alimente de ellas, cultivos de la tierra para servir como alimento,",
+      "strong": [
+        "H6213",
+        "H4480",
+        "H1931",
+        "H2682",
+        "H0834",
+        "H4480",
+        "H1992",
+        "H6510",
+        "H1571",
+        "H1992",
+        "H5193",
+        "H3318",
+        "H4480",
+        "H4480",
+        "H1931",
+        "H1471",
+        "H4480",
+        "H4480",
+        "H1992",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H4480",
+        "H5647",
+        "H0349",
+        "H0400"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "y vino para hacerlos felices, aceite de oliva para hacer resplandecer sus rostros, y pan para hacerlos fuertes.",
+      "strong": [
+        "H1571",
+        "H3196",
+        "H5704",
+        "H8081",
+        "H6440",
+        "H5704",
+        "H6213",
+        "H1931",
+        "H6440",
+        "H1571",
+        "H3899",
+        "H5704",
+        "H4013"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los árboles del Señor están bien regados, los cedros del líbano que Él plantó.",
+      "strong": [
+        "H0582",
+        "H6086",
+        "H4480",
+        "H3068",
+        "H1961",
+        "H2896",
+        "H0582",
+        "H0730",
+        "H4480",
+        "H3844",
+        "H0834",
+        "H1931",
+        "H5193"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Los gorriones se anidan ahí; las garzas hacen sus nidos en los más altos árboles.",
+      "strong": [
+        "H0582",
+        "H3045",
+        "H7077",
+        "H8033",
+        "H1992",
+        "H6213",
+        "H1931",
+        "H5921",
+        "H0582",
+        "H5750",
+        "H1116",
+        "H6086"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Las cabras salvajes viven en los picos de las montañas; y los damanes se esconden entre las rocas.",
+      "strong": [
+        "H1992",
+        "H5795",
+        "H2416",
+        "H5921",
+        "H0582",
+        "H4480",
+        "H1992",
+        "H1571",
+        "H0582",
+        "H3045",
+        "H0996",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Tú hiciste la luna para marcar los meses, y el sol sabe cuándo ponerse.",
+      "strong": [
+        "H6213",
+        "H6213",
+        "H1931",
+        "H3394",
+        "H5704",
+        "H0582",
+        "H2320",
+        "H1571",
+        "H6213",
+        "H8121",
+        "H3045",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Haces caer la oscuridad para que venga la noche, el momento en el que los animales del bosque salen a cazar.",
+      "strong": [
+        "H6213",
+        "H3782",
+        "H3605",
+        "H2822",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H3605",
+        "H3915",
+        "H3605",
+        "H7281",
+        "H5921",
+        "H3605",
+        "H1961",
+        "H3605",
+        "H2416",
+        "H4480",
+        "H3293",
+        "H3318",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Los jóvenes leones rugen mientras buscan a su presa, buscando la comida que Dios les proveyó.",
+      "strong": [
+        "H0582",
+        "H0738",
+        "H5704",
+        "H1245",
+        "H0413",
+        "H1931",
+        "H0957",
+        "H1245",
+        "H1931",
+        "H2964",
+        "H0834",
+        "H0430",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Cuando el sol sale vuelven a sus guaridas para descansar.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H8121",
+        "H2224",
+        "H7725",
+        "H0413",
+        "H1931",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Entonces las personas salen a hacer sus tareas, y trabajan hasta el ocaso.",
+      "strong": [
+        "H0227",
+        "H1992",
+        "H5315",
+        "H3318",
+        "H5704",
+        "H6213",
+        "H1931",
+        "H5704",
+        "H5998",
+        "H5704",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Señor, ¡Cuántas cosas has hecho, todas ellas sabiamente formadas! La tierra está llena de tus criaturas.",
+      "strong": [
+        "H3068",
+        "H4100",
+        "H1697",
+        "H4191",
+        "H6213",
+        "H3605",
+        "H1992",
+        "H3335",
+        "H3605",
+        "H0776",
+        "H2063",
+        "H4390",
+        "H4480",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Considera el mar, profundo y ancho, lleno de todos los tipos de seres vivientes, grandes y pequeños.",
+      "strong": [
+        "H0995",
+        "H5973",
+        "H3220",
+        "H8482",
+        "H1571",
+        "H7342",
+        "H4390",
+        "H5973",
+        "H4557",
+        "H5973",
+        "H5973",
+        "H5315",
+        "H2416",
+        "H1419",
+        "H1571",
+        "H6996"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Los barcos navegan allí, y el Leviatán, que creaste para que jugara en él.",
+      "strong": [
+        "H0582",
+        "H8033",
+        "H1571",
+        "H1931",
+        "H2088",
+        "H5704",
+        "H2088",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Todas las criaturas te buscan para que les des comida en el momento correcto.",
+      "strong": [
+        "H3605",
+        "H1992",
+        "H0859",
+        "H1245",
+        "H5414",
+        "H6256",
+        "H0413",
+        "H5414",
+        "H6720",
+        "H5921",
+        "H3605",
+        "H7281"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Cuando se las provees, la recogen. Les repartes alimento a todos, y son saciados.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H1992",
+        "H7646",
+        "H3950",
+        "H1992",
+        "H0400",
+        "H0413",
+        "H3605",
+        "H1571",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Cuando te alejas de ellos, se aterrorizan; cuando retiras su aliento de vida, ellos mueren y regresan al polvo.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H6440",
+        "H1992",
+        "H3045",
+        "H3588",
+        "H1931",
+        "H0553",
+        "H6440",
+        "H5315",
+        "H1992",
+        "H4191",
+        "H1571",
+        "H0413",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Mas cuando envías tu aliento, son creados, y la vida cubre la tierra una vez más.",
+      "strong": [
+        "H5750",
+        "H3588",
+        "H7971",
+        "H0859",
+        "H0553",
+        "H1961",
+        "H1571",
+        "H1931",
+        "H5315",
+        "H3680",
+        "H1931",
+        "H0776",
+        "H0259",
+        "H6471",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "¡Qué la gloria del Señor permanezca para siempre! El Señor se alegra con todo lo que ha hecho.",
+      "strong": [
+        "H1961",
+        "H1931",
+        "H3519",
+        "H4480",
+        "H3068",
+        "H0539",
+        "H1961",
+        "H5769",
+        "H1931",
+        "H3068",
+        "H1961",
+        "H8055",
+        "H5973",
+        "H3605",
+        "H1931",
+        "H1961",
+        "H3541",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Solo tiene que mirar hacia la tierra y esta tiembla; las montañas dejan salir humo a su toque.",
+      "strong": [
+        "H0910",
+        "H3426",
+        "H0834",
+        "H7200",
+        "H0413",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H2063",
+        "H7493",
+        "H1992",
+        "H2308",
+        "H3318",
+        "H6227",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Cantaré al Señor mientras viva; cantaré alabanzas a Dios toda mi vida.",
+      "strong": [
+        "H7891",
+        "H0413",
+        "H3068",
+        "H5750",
+        "H2416",
+        "H7891",
+        "H8426",
+        "H3068",
+        "H3068",
+        "H3605",
+        "H0589",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Ojalá el Señor se plazca con mis pensamientos porque me alegro en el Señor.",
+      "strong": [
+        "H3863",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H5921",
+        "H0589",
+        "H4284",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "¡Sean destruidos los pecadores de la tierra; qué los malvados dejen de existir! ¡Todo mi ser alabe al Señor!",
+      "strong": [
+        "H1961",
+        "H2040",
+        "H0582",
+        "H2400",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H4480",
+        "H0582",
+        "H2308",
+        "H4480",
+        "H3605",
+        "H5315",
+        "H5315",
+        "H1984",
+        "H4480",
+        "H3068"
+      ]
+    }
+  ]
+}

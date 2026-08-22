@@ -1,1 +1,380 @@
-{"version":"spa-vbl","book":"job","chapter":11,"data":[{"verse":"1","text":"Entonces Zofar, el naamatita, comenzó a hablar y dijo:"},{"verse":"2","text":"“¿Acaso no hay que responder a tantas palabras? ¿O se demuestra que una persona tiene razón por hablar mucho?"},{"verse":"3","text":"¿Debería todo tu parloteo obligar a la gente a callarse? Cuando te burlas, ¿no debería alguien hacerte sentir avergonzado?"},{"verse":"4","text":"Tú has dicho: ‘Lo que enseño es la pura verdad’, y ‘a los ojos de Dios estoy limpio’."},{"verse":"5","text":"Si tan solo Dios hablara y te lo dijera directamente,"},{"verse":"6","text":"porque entonces te explicaría los secretos de la sabiduría. La verdadera sabiduría tiene muchas caras. El trato de Dios hacia ti es mucho mejor de lo que merece tu culpa."},{"verse":"7","text":"“¿Puedes descubrir los misterios de Dios? ¿Puedes descubrir toda la sabiduría del Todopoderoso?11:7 Literalmente, “¿Puedes averiguar el límite del Todopoderoso?”"},{"verse":"8","text":"Es más grande que los cielos, ¿qué puedes hacer? Es más profundo que el Seol,11:8 Seol: el inframundo, el lugar de los muertos. ¿qué puedes saber?"},{"verse":"9","text":"Se extiende más allá de la tierra y es más ancho que el mar."},{"verse":"10","text":"Si Dios viene y encarcela a alguien, o reúne al tribunal para juzgarlo, ¿quién puede detenerlo?"},{"verse":"11","text":"Porque Dios sabe quiénes son los que engañan: cuando ve que alguien peca, él pone su atención en él."},{"verse":"12","text":"Los tontos se volverán sabios cuando los asnos salvajes nazcan mansos!11:12 Los asnos salvajes, al igual que los caballos, no nacen domesticados de forma natural, por lo que la afirmación está diciendo que los estúpidos se conviertan en sabios es muy poco probable."},{"verse":"13","text":"“Pero si te arrepientes11:13 Literalmente, “endereza tu corazón”. y extiende tus manos para rezarle,"},{"verse":"14","text":"si te deshaces de tus pecados y no dejas que la maldad continúe en tu vida,11:14 Literalmente, “no permitan que la injusticia resida en sus tiendas”."},{"verse":"15","text":"entonces serás capaz de mantener la cabeza alta en la inocencia, estarás firme y sin miedo."},{"verse":"16","text":"Olvidarás tu miseria, recordándola sólo como agua bajo el puente."},{"verse":"17","text":"Tu vida brillará más que el sol del mediodía; incluso la oscuridad será como la mañana."},{"verse":"18","text":"Tendrás confianza porque hay esperanza; estarás protegido y descansarás confiado."},{"verse":"19","text":"Te acostarás a dormir sin que nadie te asuste, y muchos vendrán a pedir tu favor."},{"verse":"20","text":"Pero los ojos de los malvados fallarán, no podrán escapar, y su única esperanza es la muerte”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 11,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Zofar, el naamatita, comenzó a hablar y dijo:",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H5284",
+        "H2490",
+        "H0413",
+        "H1696",
+        "H1571",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Acaso no hay que responder a tantas palabras? ¿O se demuestra que una persona tiene razón por hablar mucho?",
+      "strong": [
+        "H0194",
+        "H3808",
+        "H3426",
+        "H3808",
+        "H6030",
+        "H0413",
+        "H1697",
+        "H0176",
+        "H3808",
+        "H3808",
+        "H0259",
+        "H5315",
+        "H3426",
+        "H7218",
+        "H1697",
+        "H1697",
+        "H7230"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Debería todo tu parloteo obligar a la gente a callarse? Cuando te burlas, ¿no debería alguien hacerte sentir avergonzado?",
+      "strong": [
+        "H3605",
+        "H0859",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H0413",
+        "H3932",
+        "H0859",
+        "H3808",
+        "H0376",
+        "H3637"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tú has dicho: ‘Lo que enseño es la pura verdad’, y ‘a los ojos de Dios estoy limpio’.",
+      "strong": [
+        "H0859",
+        "H4191",
+        "H0559",
+        "H1931",
+        "H1961",
+        "H8505",
+        "H1961",
+        "H1931",
+        "H2134",
+        "H1571",
+        "H5869",
+        "H1961",
+        "H5869",
+        "H5869",
+        "H0430",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Si tan solo Dios hablara y te lo dijera directamente,",
+      "strong": [
+        "H0518",
+        "H3966",
+        "H0910",
+        "H0430",
+        "H1696",
+        "H1571",
+        "H5973",
+        "H1931",
+        "H4448"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "porque entonces te explicaría los secretos de la sabiduría. La verdadera sabiduría tiene muchas caras. El trato de Dios hacia ti es mucho mejor de lo que merece tu culpa.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2451",
+        "H3588",
+        "H0571",
+        "H2451",
+        "H3426",
+        "H7227",
+        "H3588",
+        "H0559",
+        "H3588",
+        "H0430",
+        "H0413",
+        "H0859",
+        "H3588",
+        "H3966",
+        "H2896",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H0859",
+        "H5352"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“¿Puedes descubrir los misterios de Dios? ¿Puedes descubrir toda la sabiduría del Todopoderoso?",
+      "strong": [
+        "H3546",
+        "H0582",
+        "H5704",
+        "H0430",
+        "H3546",
+        "H3605",
+        "H1931",
+        "H2451",
+        "H4480",
+        "H7706"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Es más grande que los cielos, ¿qué puedes hacer? Es más profundo que el Seol, ¿qué puedes saber?",
+      "strong": [
+        "H1961",
+        "H5750",
+        "H1419",
+        "H4100",
+        "H0582",
+        "H8064",
+        "H4100",
+        "H3546",
+        "H6213",
+        "H1961",
+        "H5750",
+        "H6013",
+        "H4100",
+        "H1931",
+        "H4100",
+        "H3546",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Se extiende más allá de la tierra y es más ancho que el mar.",
+      "strong": [
+        "H4480",
+        "H5186",
+        "H4480",
+        "H8033",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H1961",
+        "H4480",
+        "H7342",
+        "H4480",
+        "H1931",
+        "H3220"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Si Dios viene y encarcela a alguien, o reúne al tribunal para juzgarlo, ¿quién puede detenerlo?",
+      "strong": [
+        "H0518",
+        "H0430",
+        "H0935",
+        "H1571",
+        "H0413",
+        "H0376",
+        "H0176",
+        "H0413",
+        "H5704",
+        "H4310",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Porque Dios sabe quiénes son los que engañan: cuando ve que alguien peca, él pone su atención en él.",
+      "strong": [
+        "H3588",
+        "H0430",
+        "H3045",
+        "H4310",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H8582",
+        "H3588",
+        "H7200",
+        "H3588",
+        "H0376",
+        "H2398",
+        "H1931",
+        "H1931",
+        "H3588",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Los tontos se volverán sabios cuando los asnos salvajes nazcan mansos!",
+      "strong": [
+        "H0582",
+        "H3045",
+        "H7725",
+        "H2450",
+        "H3588",
+        "H0582",
+        "H5895"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "“Pero si te arrepientes y extiende tus manos para rezarle,",
+      "strong": [
+        "H3588",
+        "H0518",
+        "H0859",
+        "H1571",
+        "H6566",
+        "H0859",
+        "H3709",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "si te deshaces de tus pecados y no dejas que la maldad continúe en tu vida,",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H4480",
+        "H0859",
+        "H2403",
+        "H1571",
+        "H5766",
+        "H3027",
+        "H1931",
+        "H5766",
+        "H5921",
+        "H0859",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "entonces serás capaz de mantener la cabeza alta en la inocencia, estarás firme y sin miedo.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H3588",
+        "H3588",
+        "H7218",
+        "H1419",
+        "H3588",
+        "H3588",
+        "H1961",
+        "H3559",
+        "H3588",
+        "H3808",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Olvidarás tu miseria, recordándola sólo como agua bajo el puente.",
+      "strong": [
+        "H0859",
+        "H0910",
+        "H3588",
+        "H4325",
+        "H8478",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Tu vida brillará más que el sol del mediodía; incluso la oscuridad será como la mañana.",
+      "strong": [
+        "H0859",
+        "H5315",
+        "H5750",
+        "H1961",
+        "H1931",
+        "H8121",
+        "H4480",
+        "H5045",
+        "H1931",
+        "H0653",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H1242"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Tendrás confianza porque hay esperanza; estarás protegido y descansarás confiado.",
+      "strong": [
+        "H1961",
+        "H4009",
+        "H3588",
+        "H3426",
+        "H8615",
+        "H1961",
+        "H3588",
+        "H7280",
+        "H0982"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Te acostarás a dormir sin que nadie te asuste, y muchos vendrán a pedir tu favor.",
+      "strong": [
+        "H0859",
+        "H6440",
+        "H3808",
+        "H0834",
+        "H0376",
+        "H0859",
+        "H1571",
+        "H7227",
+        "H0935",
+        "H6440",
+        "H0859",
+        "H7522"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Pero los ojos de los malvados fallarán, no podrán escapar, y su única esperanza es la muerte”.",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H5869",
+        "H4480",
+        "H0582",
+        "H7563",
+        "H3201",
+        "H4422",
+        "H1571",
+        "H1931",
+        "H0259",
+        "H8615",
+        "H1961",
+        "H1931",
+        "H4194"
+      ]
+    }
+  ]
+}

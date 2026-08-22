@@ -1,1 +1,127 @@
-{"version":"spa-vbl","book":"psalms","chapter":128,"data":[{"verse":"1","text":"¡Felices son los que alaban al Señor, todos los que siguen sus caminos!"},{"verse":"2","text":"Ustedes comerán el producto de sus manos. Estarán felices y les irá bien."},{"verse":"3","text":"Tu esposa será como una vid fructífera creciendo en tu casa. Tus hijos serán como retoños de olivo alrededor de tu mesa."},{"verse":"4","text":"Esta será la bendición del Señor para los que lo adoran."},{"verse":"5","text":"Que el Señor te bendiga desde Sión; que veas a Jerusalén prosperar todos los días de tu vida."},{"verse":"6","text":"Que veas a los hijos de tus hijos. ¡Y que Israel esté en paz!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 128,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Felices son los que alaban al Señor, todos los que siguen sus caminos!",
+      "strong": [
+        "H1961",
+        "H3605",
+        "H3605",
+        "H1984",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H1980",
+        "H1931",
+        "H1870"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Ustedes comerán el producto de sus manos. Estarán felices y les irá bien.",
+      "strong": [
+        "H0398",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H3709",
+        "H1961",
+        "H3588",
+        "H0413",
+        "H2534",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Tu esposa será como una vid fructífera creciendo en tu casa. Tus hijos serán como retoños de olivo alrededor de tu mesa.",
+      "strong": [
+        "H0859",
+        "H3618",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H1612",
+        "H6529",
+        "H1980",
+        "H5921",
+        "H0859",
+        "H1004",
+        "H0859",
+        "H1121",
+        "H1961",
+        "H0349",
+        "H1121",
+        "H5439",
+        "H1121",
+        "H0859",
+        "H7979"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Esta será la bendición del Señor para los que lo adoran.",
+      "strong": [
+        "H3651",
+        "H1961",
+        "H3588",
+        "H1288",
+        "H4480",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H7812"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Que el Señor te bendiga desde Sión; que veas a Jerusalén prosperar todos los días de tu vida.",
+      "strong": [
+        "H3117",
+        "H3605",
+        "H3068",
+        "H0859",
+        "H1288",
+        "H4480",
+        "H6726",
+        "H3117",
+        "H7200",
+        "H3068",
+        "H6743",
+        "H3605",
+        "H3605",
+        "H3117",
+        "H4480",
+        "H0859",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Que veas a los hijos de tus hijos. ¡Y que Israel esté en paz!",
+      "strong": [
+        "H5921",
+        "H7200",
+        "H5921",
+        "H1121",
+        "H1121",
+        "H5921",
+        "H0859",
+        "H1121",
+        "H5921",
+        "H5921",
+        "H3478",
+        "H2088",
+        "H5921",
+        "H7965"
+      ]
+    }
+  ]
+}

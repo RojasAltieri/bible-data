@@ -1,1 +1,594 @@
-{"version":"spa-vbl","book":"1-chronicles","chapter":24,"data":[{"verse":"1","text":"Los hijos de Aarón fueron colocados en divisiones de la siguiente manera. Los hijos de Aarón eran Nadab, Abiú, Eleazar e Itamar."},{"verse":"2","text":"Pero Nadab y Abiú murieron antes que su padre, y no tuvieron hijos. Sólo Eleazar e Itamar continuaron como sacerdotes."},{"verse":"3","text":"Con la ayuda de Sadoc, descendiente de Eleazar, y de Itamar, descendiente de Ahimelec, David los colocó en divisiones según sus funciones asignadas."},{"verse":"4","text":"Como los descendientes de Eleazar tenían más jefes que los de Itamar, se dividieron así: dieciséis jefes de familia de los descendientes de Eleazar, y ocho de los descendientes de Itamar."},{"verse":"5","text":"Se dividieron echando suertes, sin preferencia, porque había oficiales del santuario y oficiales de Dios tanto de los hijos de Eleazar como de los hijos de Itamar."},{"verse":"6","text":"Semaías hijo de Netanel, un levita, era el secretario. Anotó los nombres y las asignaciones en presencia del rey, de los funcionarios, del sacerdote Sadoc, de Ahimelec hijo de Abiatar y de los jefes de familia de los sacerdotes y levitas. Una familia de Eleazar y otra de Itamar fueron elegidas por turno."},{"verse":"7","text":"La primera suerte recayó en Joiarib. El segundo a Jedaías."},{"verse":"8","text":"La tercera a Harim. El cuarto a Seorim."},{"verse":"9","text":"La quinta a Malquías. La sexta a Mijamín."},{"verse":"10","text":"La séptima a Cos. La octava a Abías."},{"verse":"11","text":"La novena a Jesúa. La décima por Secanías."},{"verse":"12","text":"La undécima por Eliasib. La duodécima a Jacim."},{"verse":"13","text":"La decimotercera por Hupah. La decimocuarta por Jeshebeab."},{"verse":"14","text":"La decimoquinta por Bilga. El decimosexto a Immer."},{"verse":"15","text":"El decimoséptimo a Hezir. El decimoctavo a Afisés."},{"verse":"16","text":"La decimonovena a Petaías. El vigésimo a Hezequiel."},{"verse":"17","text":"El vigésimo primero a Jaquín. El vigésimo segundo a Gamul."},{"verse":"18","text":"El vigésimo tercero a Delaía. El vigésimo cuarto a Maazías."},{"verse":"19","text":"Este era el orden en que cada grupo debía servir cuando entraba en la casa del Señor, siguiendo el procedimiento que les había definido su antepasado Aarón, según las instrucciones del Señor, el Dios de Israel."},{"verse":"20","text":"Estos fueron el resto de los hijos de Leví: de Los hijos de Amram: Shubael; de Los hijos de Shubael: Jehdeiah."},{"verse":"21","text":"Para Rehabía, de sus hijos Isías (el primogénito)."},{"verse":"22","text":"De los Izharitas: Shelomoth;"},{"verse":"23","text":"Los hijos de Hebrón: Jeriah (el mayor), Amariah (el segundo), Jahaziel (el tercero) y Jecamán (el cuarto)."},{"verse":"24","text":"El hijo de Uziel: Miqueas; de Los hijos de Miqueas: Shamir."},{"verse":"25","text":"El hermano de Micaías: Isías; de Los hijos de Isías: Zacarías."},{"verse":"26","text":"Los hijos de Merari: Mahli y Musi. El hijo de Jaaziah: Beno."},{"verse":"27","text":"Los hijos de Merari: de Jaaziah: Beno, Shoham, Zaccur e Ibri."},{"verse":"28","text":"De Mahli: Eleazar, que no tuvo hijos."},{"verse":"29","text":"De Cis: el hijo de Cis, Jerajmeel."},{"verse":"30","text":"Los hijos de Musi: Mahli, Eder y Jerimot."},{"verse":"31","text":"También echaron suertes de la misma manera que sus parientes los descendientes de Aarón. Lo hicieron en presencia del rey David, de Sadoc, de Ahimelec y de los jefes de familia de los sacerdotes y de los levitas, tanto de los jefes de familia como de sus hermanos menores."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-chronicles",
+  "chapter": 24,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los hijos de Aarón fueron colocados en divisiones de la siguiente manera. Los hijos de Aarón eran Nadab, Abiú, Eleazar e Itamar.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H0175",
+        "H1961",
+        "H3427",
+        "H5921",
+        "H1121",
+        "H1931",
+        "H0312",
+        "H7235",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H0175",
+        "H1961",
+        "H5070",
+        "H0030",
+        "H0499",
+        "H0834"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Pero Nadab y Abiú murieron antes que su padre, y no tuvieron hijos. Sólo Eleazar e Itamar continuaron como sacerdotes.",
+      "strong": [
+        "H3588",
+        "H5070",
+        "H1571",
+        "H0030",
+        "H4191",
+        "H6440",
+        "H3808",
+        "H1992",
+        "H0001",
+        "H1571",
+        "H3808",
+        "H1961",
+        "H1121",
+        "H0910",
+        "H0499",
+        "H1961",
+        "H1961",
+        "H3548"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Con la ayuda de Sadoc, descendiente de Eleazar, y de Itamar, descendiente de Ahimelec, David los colocó en divisiones según sus funciones asignadas.",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H5828",
+        "H4480",
+        "H6659",
+        "H4480",
+        "H0499",
+        "H1571",
+        "H4480",
+        "H4480",
+        "H1732",
+        "H1121",
+        "H4480",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Como los descendientes de Eleazar tenían más jefes que los de Itamar, se dividieron así: dieciséis jefes de familia de los descendientes de Eleazar, y ocho de los descendientes de Itamar.",
+      "strong": [
+        "H0349",
+        "H1121",
+        "H6631",
+        "H4480",
+        "H0499",
+        "H1961",
+        "H4480",
+        "H7218",
+        "H4480",
+        "H1121",
+        "H4480",
+        "H4480",
+        "H3541",
+        "H8337",
+        "H7218",
+        "H4480",
+        "H1004",
+        "H4480",
+        "H1121",
+        "H6631",
+        "H4480",
+        "H0499",
+        "H1571",
+        "H8083",
+        "H4480",
+        "H1121",
+        "H6631",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Se dividieron echando suertes, sin preferencia, porque había oficiales del santuario y oficiales de Dios tanto de los hijos de Eleazar como de los hijos de Itamar.",
+      "strong": [
+        "H1961",
+        "H7411",
+        "H1486",
+        "H3808",
+        "H3588",
+        "H1961",
+        "H7860",
+        "H5973",
+        "H6944",
+        "H3588",
+        "H7860",
+        "H3588",
+        "H0430",
+        "H3651",
+        "H3588",
+        "H1121",
+        "H1121",
+        "H3588",
+        "H0499",
+        "H3588",
+        "H3588",
+        "H1121",
+        "H1121",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Semaías hijo de Netanel, un levita, era el secretario. Anotó los nombres y las asignaciones en presencia del rey, de los funcionarios, del sacerdote Sadoc, de Ahimelec hijo de Abiatar y de los jefes de familia de los sacerdotes y levitas. Una familia de Eleazar y otra de Itamar fueron elegidas por turno.",
+      "strong": [
+        "H8098",
+        "H1121",
+        "H4480",
+        "H0259",
+        "H3881",
+        "H1121",
+        "H1121",
+        "H5608",
+        "H1121",
+        "H8034",
+        "H1571",
+        "H1992",
+        "H4480",
+        "H6440",
+        "H4480",
+        "H4428",
+        "H4480",
+        "H1121",
+        "H4480",
+        "H3548",
+        "H6659",
+        "H4480",
+        "H1121",
+        "H4480",
+        "H1571",
+        "H4480",
+        "H1121",
+        "H8269",
+        "H4480",
+        "H1004",
+        "H4480",
+        "H1121",
+        "H3548",
+        "H1571",
+        "H3881",
+        "H0259",
+        "H1004",
+        "H4480",
+        "H0499",
+        "H1571",
+        "H5750",
+        "H4480",
+        "H1961",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "La primera suerte recayó en Joiarib. El segundo a Jedaías.",
+      "strong": [
+        "H1931",
+        "H7223",
+        "H1486",
+        "H3318",
+        "H3080",
+        "H1931",
+        "H8145",
+        "H0413",
+        "H3048"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "La tercera a Harim. El cuarto a Seorim.",
+      "strong": [
+        "H1931",
+        "H7992",
+        "H0413",
+        "H2766",
+        "H1931",
+        "H7243",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "La quinta a Malquías. La sexta a Mijamín.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H1931",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "La séptima a Cos. La octava a Abías.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H6976",
+        "H1931",
+        "H0413",
+        "H0029"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "La novena a Jesúa. La décima por Secanías.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H3442",
+        "H1931",
+        "H6241",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "La undécima por Eliasib. La duodécima a Jacim.",
+      "strong": [
+        "H1931",
+        "H5921",
+        "H0475",
+        "H1931",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "La decimotercera por Hupah. La decimocuarta por Jeshebeab.",
+      "strong": [
+        "H1931",
+        "H5921",
+        "H1931",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "La decimoquinta por Bilga. El decimosexto a Immer.",
+      "strong": [
+        "H1931",
+        "H5921",
+        "H1083",
+        "H1931",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "El decimoséptimo a Hezir. El decimoctavo a Afisés.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H2387",
+        "H1931",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "La decimonovena a Petaías. El vigésimo a Hezequiel.",
+      "strong": [
+        "H1931",
+        "H0413",
+        "H1931",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "El vigésimo primero a Jaquín. El vigésimo segundo a Gamul.",
+      "strong": [
+        "H1931",
+        "H7223",
+        "H0413",
+        "H1931",
+        "H8147",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "El vigésimo tercero a Delaía. El vigésimo cuarto a Maazías.",
+      "strong": [
+        "H1931",
+        "H7969",
+        "H0413",
+        "H1931",
+        "H7243",
+        "H0413",
+        "H4590"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Este era el orden en que cada grupo debía servir cuando entraba en la casa del Señor, siguiendo el procedimiento que les había definido su antepasado Aarón, según las instrucciones del Señor, el Dios de Israel.",
+      "strong": [
+        "H2088",
+        "H1961",
+        "H1931",
+        "H6680",
+        "H5921",
+        "H3027",
+        "H3605",
+        "H5647",
+        "H3588",
+        "H0935",
+        "H5921",
+        "H1931",
+        "H1004",
+        "H4480",
+        "H3068",
+        "H0310",
+        "H1931",
+        "H3027",
+        "H6680",
+        "H1961",
+        "H1931",
+        "H0175",
+        "H5921",
+        "H1992",
+        "H4480",
+        "H3068",
+        "H1931",
+        "H3068",
+        "H4480",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Estos fueron el resto de los hijos de Leví: de Los hijos de Amram: Shubael; de Los hijos de Shubael: Jehdeiah.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1121",
+        "H3499",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3878",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H6019",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Para Rehabía, de sus hijos Isías (el primogénito).",
+      "strong": [
+        "H5704",
+        "H7345",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H3449",
+        "H1121",
+        "H1060"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "De los Izharitas: Shelomoth; de Los hijos de Shelomoth: Jahat.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Los hijos de Hebrón: Jeriah (el mayor), Amariah (el segundo), Jahaziel (el tercero) y Jecamán (el cuarto).",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2275",
+        "H1121",
+        "H1419",
+        "H1121",
+        "H8145",
+        "H3166",
+        "H1121",
+        "H7992",
+        "H1571",
+        "H3360",
+        "H1121",
+        "H7243"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El hijo de Uziel: Miqueas; de Los hijos de Miqueas: Shamir.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H4320",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H4320"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "El hermano de Micaías: Isías; de Los hijos de Isías: Zacarías.",
+      "strong": [
+        "H1121",
+        "H0251",
+        "H1121",
+        "H3449",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3449",
+        "H2148"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Los hijos de Merari: Mahli y Musi. El hijo de Jaaziah: Beno.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H4847",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Los hijos de Merari: de Jaaziah: Beno, Shoham, Zaccur e Ibri.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H4847",
+        "H1121",
+        "H0834"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "De Mahli: Eleazar, que no tuvo hijos.",
+      "strong": [
+        "H1121",
+        "H0499",
+        "H3808",
+        "H3808",
+        "H1961",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "De Cis: el hijo de Cis, Jerajmeel.",
+      "strong": [
+        "H1121",
+        "H7027",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H7027"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Los hijos de Musi: Mahli, Eder y Jerimot. Estos eran los hijos de los levitas, según sus familias.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5740",
+        "H1571",
+        "H0428",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3881",
+        "H5921",
+        "H1931",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "También echaron suertes de la misma manera que sus parientes los descendientes de Aarón. Lo hicieron en presencia del rey David, de Sadoc, de Ahimelec y de los jefes de familia de los sacerdotes y de los levitas, tanto de los jefes de familia como de sus hermanos menores.",
+      "strong": [
+        "H1571",
+        "H5307",
+        "H1486",
+        "H6440",
+        "H1571",
+        "H4927",
+        "H7235",
+        "H1571",
+        "H1992",
+        "H1992",
+        "H6631",
+        "H6440",
+        "H0175",
+        "H1992",
+        "H6213",
+        "H5921",
+        "H6440",
+        "H4480",
+        "H4428",
+        "H1732",
+        "H6440",
+        "H6659",
+        "H6440",
+        "H1571",
+        "H6440",
+        "H1992",
+        "H7218",
+        "H6440",
+        "H1004",
+        "H6440",
+        "H1992",
+        "H3548",
+        "H1571",
+        "H6440",
+        "H1992",
+        "H3881",
+        "H3651",
+        "H6440",
+        "H1992",
+        "H7218",
+        "H6440",
+        "H1004",
+        "H1571",
+        "H6440",
+        "H1992",
+        "H0251",
+        "H6996"
+      ]
+    }
+  ]
+}

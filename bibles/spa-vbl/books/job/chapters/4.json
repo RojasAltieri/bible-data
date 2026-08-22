@@ -1,1 +1,405 @@
-{"version":"spa-vbl","book":"job","chapter":4,"data":[{"verse":"1","text":"Entonces Elifaz, el temanita, le respondió a Job"},{"verse":"2","text":"“¿Podría decir una palabra? No quiero molestarte, pero ¿quién podría callar y no responder?4:2 En otras palabras, la situación exigía una respuesta."},{"verse":"3","text":"Ciertamente has alentado a mucha gente y has apoyado a los que son débiles."},{"verse":"4","text":"Tus consejos han ayudado a los que tropiezan para no caer, y has fortalecido a los que tienen las rodillas débiles."},{"verse":"5","text":"Pero ahora eres tú el que sufre y estás molesto."},{"verse":"6","text":"¿No fue tu reverencia a Dios lo que te dio confianza y tu integridad lo que te dio esperanza?"},{"verse":"7","text":"Piénsalo: ¿desde cuándo mueren los inocentes? ¿Desde cuándo se destruye a la gente buena?"},{"verse":"8","text":"¡Por lo que he visto, los mismos que plantan4:8 Literalmente, “arado”. el mal y siembran problemas son quienes cosechan tales frutos!"},{"verse":"9","text":"Un soplo de Dios los destruye; una ráfaga de su cólera los aniquila."},{"verse":"10","text":"Los leones pueden rugir y gruñir, pero sus dientes se rompen."},{"verse":"11","text":"Hasta un león muere por falta de alimento, y las crías de la leona se dispersan."},{"verse":"12","text":"“Una palabra se acercó sigilosamente a mí; un susurro llegó a mi oído."},{"verse":"13","text":"Pensamientos inquietantes vinieron a mí en pesadillas, como cuando caes en un sueño profundo."},{"verse":"14","text":"Me aterroricé y temblé; todos mis huesos se estremecieron."},{"verse":"15","text":"Entonces un soplo4:15 O “espíritu” - la palabra es la misma para ambos. me rozó la cara y me puso la piel de gallina."},{"verse":"16","text":"Algo se detuvo, pero no pude ver su rostro. Mis ojos sólo podían distinguir una forma. Estaba totalmente silencioso, y entonces oí una voz:"},{"verse":"17","text":"‘¿Puede alguien ser justo ante Dios? ¿Puede alguien ser puro ante su Creador?"},{"verse":"18","text":"Si ni siquiera se fía de sus siervos y dice que sus ángeles se equivocan,"},{"verse":"19","text":"¿cuánto más los que viven en estas casas de barro,4:19 Refiriéndose al ser humano y a su creación por Dios a partir del polvo de la tierra. cuyos cimientos se basan en el polvo, que se deshacen como la ropa por causa de la polilla?"},{"verse":"20","text":"Vivos por la mañana, muertos al anochecer. Mueren sin que nadie lo note."},{"verse":"21","text":"Son como las cuerdas de una tienda de campaña, que se levantan y se derrumban con la muerte. Mueren sin sabiduría’.”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 4,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Elifaz, el temanita, le respondió a Job",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H8489",
+        "H0413",
+        "H6030",
+        "H0413",
+        "H0347"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Podría decir una palabra? No quiero molestarte, pero ¿quién podría callar y no responder?",
+      "strong": [
+        "H0559",
+        "H0259",
+        "H1697",
+        "H3808",
+        "H2654",
+        "H3588",
+        "H4310",
+        "H2790",
+        "H1571",
+        "H3808",
+        "H7725"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Ciertamente has alentado a mucha gente y has apoyado a los que son débiles.",
+      "strong": [
+        "H2009",
+        "H4191",
+        "H0413",
+        "H7227",
+        "H1471",
+        "H1571",
+        "H4191",
+        "H0413",
+        "H0582",
+        "H3027",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tus consejos han ayudado a los que tropiezan para no caer, y has fortalecido a los que tienen las rodillas débiles.",
+      "strong": [
+        "H0859",
+        "H6098",
+        "H4191",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H3782",
+        "H5704",
+        "H3808",
+        "H3782",
+        "H1571",
+        "H4191",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1992",
+        "H1992",
+        "H1290"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Pero ahora eres tú el que sufre y estás molesto.",
+      "strong": [
+        "H3588",
+        "H6258",
+        "H0859",
+        "H0859",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0428"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¿No fue tu reverencia a Dios lo que te dio confianza y tu integridad lo que te dio esperanza?",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H0859",
+        "H0413",
+        "H0430",
+        "H3808",
+        "H3808",
+        "H0859",
+        "H5414",
+        "H4009",
+        "H1571",
+        "H0859",
+        "H8537",
+        "H3808",
+        "H3808",
+        "H0859",
+        "H5414",
+        "H8615"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Piénsalo: ¿desde cuándo mueren los inocentes? ¿Desde cuándo se destruye a la gente buena?",
+      "strong": [
+        "H4480",
+        "H3588",
+        "H4191",
+        "H1931",
+        "H4480",
+        "H3588",
+        "H1931",
+        "H2717",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¡Por lo que he visto, los mismos que plantan el mal y siembran problemas son quienes cosechan tales frutos!",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H0834",
+        "H4392",
+        "H7200",
+        "H0582",
+        "H1992",
+        "H0834",
+        "H1931",
+        "H7451",
+        "H1571",
+        "H1961",
+        "H4310",
+        "H0428",
+        "H7019"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Un soplo de Dios los destruye; una ráfaga de su cólera los aniquila.",
+      "strong": [
+        "H0259",
+        "H5397",
+        "H5397",
+        "H0430",
+        "H0582",
+        "H2717",
+        "H0259",
+        "H5397",
+        "H1931",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los leones pueden rugir y gruñir, pero sus dientes se rompen.",
+      "strong": [
+        "H0582",
+        "H0738",
+        "H3201",
+        "H1571",
+        "H3588",
+        "H1931",
+        "H8127",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Hasta un león muere por falta de alimento, y las crías de la leona se dispersan.",
+      "strong": [
+        "H1097",
+        "H0259",
+        "H0738",
+        "H5921",
+        "H3971",
+        "H1121",
+        "H2964",
+        "H1571",
+        "H1992",
+        "H1121",
+        "H1931",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "“Una palabra se acercó sigilosamente a mí; un susurro llegó a mi oído.",
+      "strong": [
+        "H0259",
+        "H1697",
+        "H4480",
+        "H5066",
+        "H4480",
+        "H0589",
+        "H0259",
+        "H0935",
+        "H4480",
+        "H0589",
+        "H8085"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Pensamientos inquietantes vinieron a mí en pesadillas, como cuando caes en un sueño profundo.",
+      "strong": [
+        "H5587",
+        "H0935",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H0259",
+        "H2472",
+        "H8482"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Me aterroricé y temblé; todos mis huesos se estremecieron.",
+      "strong": [
+        "H0413",
+        "H1571",
+        "H7230",
+        "H0589",
+        "H6106",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Entonces un soplo me rozó la cara y me puso la piel de gallina.",
+      "strong": [
+        "H0227",
+        "H0259",
+        "H7307",
+        "H5921",
+        "H5921",
+        "H6440",
+        "H5921",
+        "H5921",
+        "H7760",
+        "H5921",
+        "H5785",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Algo se detuvo, pero no pude ver su rostro. Mis ojos sólo podían distinguir una forma. Estaba totalmente silencioso, y entonces oí una voz:",
+      "strong": [
+        "H3920",
+        "H3808",
+        "H3607",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H7200",
+        "H1931",
+        "H4758",
+        "H0589",
+        "H5869",
+        "H0910",
+        "H3201",
+        "H0259",
+        "H8389",
+        "H5975",
+        "H0914",
+        "H1571",
+        "H0227",
+        "H8085",
+        "H0259",
+        "H6963"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "‘¿Puede alguien ser justo ante Dios? ¿Puede alguien ser puro ante su Creador?",
+      "strong": [
+        "H3201",
+        "H0376",
+        "H5315",
+        "H6662",
+        "H6440",
+        "H0430",
+        "H3201",
+        "H0376",
+        "H5315",
+        "H2889",
+        "H6440",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Si ni siquiera se fía de sus siervos y dice que sus ángeles se equivocan,",
+      "strong": [
+        "H2005",
+        "H3808",
+        "H3808",
+        "H4480",
+        "H1931",
+        "H5650",
+        "H1571",
+        "H5002",
+        "H3808",
+        "H1931",
+        "H4397",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¿cuánto más los que viven en estas casas de barro, cuyos cimientos se basan en el polvo, que se deshacen como la ropa por causa de la polilla?",
+      "strong": [
+        "H0834",
+        "H5750",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H0428",
+        "H1004",
+        "H6440",
+        "H2563",
+        "H5921",
+        "H3245",
+        "H3045",
+        "H1316",
+        "H5921",
+        "H1931",
+        "H6083",
+        "H0834",
+        "H3045",
+        "H7931",
+        "H1931",
+        "H8071",
+        "H6440",
+        "H6440",
+        "H6440",
+        "H1931",
+        "H6211"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Vivos por la mañana, muertos al anochecer. Mueren sin que nadie lo note.",
+      "strong": [
+        "H2416",
+        "H5921",
+        "H1931",
+        "H1242",
+        "H2491",
+        "H0413",
+        "H4191",
+        "H1097",
+        "H0834",
+        "H0376",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Son como las cuerdas de una tienda de campaña, que se levantan y se derrumban con la muerte. Mueren sin sabiduría’”.",
+      "strong": [
+        "H3808",
+        "H0349",
+        "H1992",
+        "H5688",
+        "H4480",
+        "H0259",
+        "H0168",
+        "H4480",
+        "H3808",
+        "H3808",
+        "H5375",
+        "H1571",
+        "H3808",
+        "H5973",
+        "H2451",
+        "H4191",
+        "H4191",
+        "H3808"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,559 @@
-{"version":"spa-vbl","book":"job","chapter":22,"data":[{"verse":"1","text":"Entonces Elifaz el temanita respondió y dijo:"},{"verse":"2","text":"“¿Cómo puede alguien ser de ayuda a Dios? Incluso los sabios sólo se ayudan a sí mismos."},{"verse":"3","text":"¿Acaso le sirve de algo al Todopoderoso que seas una buena persona?22:3 “Buena persona”: o “justo”. ¿Qué gana él si haces lo correcto?"},{"verse":"4","text":"¿Acaso te corrige y te acusa por tu reverencia?22:4 Elifaz está diciendo que si Job fuera realmente inocente no estaría sufriendo el castigo de Dios."},{"verse":"5","text":"No ¡Es porque eres muy malvado! ¡Tus pecados son interminables!"},{"verse":"6","text":"Sin motivo alguno tomaste la ropa de tu hermano como garantía de una deuda y lo dejaste desnudo."},{"verse":"7","text":"Le negaste el agua al sediento y alimento al hambriento."},{"verse":"8","text":"¿Es que acaso la tierra le pertenece a los poderosos, y sólo los privilegiados tienen derecho a vivir en ella?22:8 Sugiriendo que esta es la actitud de Job."},{"verse":"9","text":"Has despedido a las viudas con las manos vacías; has aplastado los brazos extendidos de los huérfanos, que pedían ayuda.22:9 “Pedir ayuda” implicaba."},{"verse":"10","text":"Por eso estás rodeado de trampas para atraparte, y por eso de repente te asusta el terror."},{"verse":"11","text":"Por eso está tan oscuro que no puedes ver, y por eso sientes que te ahogas.22:11 Literalmente, “la abundancia de agua te cubre”."},{"verse":"12","text":"“¿Acaso Dios no vive en el cielo más alto y mira hasta las estrellas más altas?"},{"verse":"13","text":"Pero tú preguntas: ‘¿Qué sabe Dios? ¿Cómo puede ver y juzgar lo que ocurre aquí abajo, en la oscuridad?"},{"verse":"14","text":"Unas densas nubes lo cubren para que no pueda ver nada mientras camina por el cielo’.22:14 Elifaz acusa a Job de creer en un Dios distante, desinteresado e inmune a lo que ocurre en la tierra."},{"verse":"15","text":"“¿Por qué insistes en seguir el pensamiento tradicional de los malvados?22:15 Literalmente, “las viejas sendas por las que caminaban los malvados”."},{"verse":"16","text":"Fueron llevados antes de tiempo; todo lo que habían construido fue arrasado."},{"verse":"17","text":"Habían dicho a Dios: ‘¡Vete lejos! ¿Qué puede hacernos el Todopoderoso?’"},{"verse":"18","text":"Y, sin embargo, era él quien había llenado sus casas de bienes; pero no aceptaba su manera de pensar”.22:18 Elifaz utiliza exactamente las mismas palabras que Job en 21:16."},{"verse":"19","text":"“Los que hacen el bien se alegran cuando ven la destrucción de los malvados,22:19 Literalmente, “eso”, refiriéndose al versículo 16. y los inocentes se burlan de ellos,"},{"verse":"20","text":"diciendo: ‘Nuestros enemigos han sido destruidos, y el fuego ha quemado todo lo que queda de ellos’."},{"verse":"21","text":"“Vuelve a Dios y reconcíliate con él, y volverás a ser próspero."},{"verse":"22","text":"Escucha lo que te dice y no olvides sus palabras."},{"verse":"23","text":"Si te vuelves a Dios serás restaurado. Si renuncias a tu vida pecaminosa22:23 Literalmente, “quita la maldad de tu tienda”."},{"verse":"24","text":"y dejas tu amor por el dinero y el deseo de posesiones,22:24 Literalmente, “arroja tu oro al polvo, el oro de Ofir al lecho del río”. Como Job ya lo ha perdido todo, esto debe verse en sentido figurado."},{"verse":"25","text":"entonces el Todopoderoso será tu oro y tu plata preciosa."},{"verse":"26","text":"“Entonces te deleitarás en el Todopoderoso y podrás darle la cara sin sentirte avergonzado."},{"verse":"27","text":"Orarás a él, y él te escuchará, y cumplirás tus promesas a él."},{"verse":"28","text":"Todo lo que decidas hacer tendrá éxito, y dondequiera que vayas, la luz brillará sobre ti."},{"verse":"29","text":"Cuando otros se humillen y digas: ‘Por favor, ayúdales’, Dios los salvará."},{"verse":"30","text":"Dios salva a los inocentes, y tú te salvarás si haces lo que es justo”.22:30 Literalmente, “si tus manos están limpias”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 22,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Elifaz el temanita respondió y dijo:",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H8489",
+        "H6030",
+        "H1571",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Cómo puede alguien ser de ayuda a Dios? Incluso los sabios sólo se ayudan a sí mismos.",
+      "strong": [
+        "H3588",
+        "H3201",
+        "H0376",
+        "H5315",
+        "H5921",
+        "H5828",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H2450",
+        "H0910",
+        "H5921",
+        "H5826",
+        "H5921",
+        "H3588",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Acaso le sirve de algo al Todopoderoso que seas una buena persona? ¿Qué gana él si haces lo correcto?",
+      "strong": [
+        "H0194",
+        "H0413",
+        "H3276",
+        "H3588",
+        "H3920",
+        "H0413",
+        "H7706",
+        "H3588",
+        "H1961",
+        "H0259",
+        "H2896",
+        "H5315",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H6213",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Acaso te corrige y te acusa por tu reverencia?",
+      "strong": [
+        "H0194",
+        "H5973",
+        "H3198",
+        "H1571",
+        "H5973",
+        "H5921",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "No ¡Es porque eres muy malvado! ¡Tus pecados son interminables!",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H3808",
+        "H0859",
+        "H3966",
+        "H7451",
+        "H0859",
+        "H5771",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Sin motivo alguno tomaste la ropa de tu hermano como garantía de una deuda y lo dejaste desnudo.",
+      "strong": [
+        "H3808",
+        "H1697",
+        "H0376",
+        "H3947",
+        "H3588",
+        "H8071",
+        "H3588",
+        "H0859",
+        "H0251",
+        "H3588",
+        "H3588",
+        "H0259",
+        "H3027",
+        "H3588",
+        "H1931",
+        "H0622",
+        "H6174"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Le negaste el agua al sediento y alimento al hambriento.",
+      "strong": [
+        "H0413",
+        "H1931",
+        "H4325",
+        "H0413",
+        "H1571",
+        "H0400",
+        "H0413",
+        "H8264"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¿Es que acaso la tierra le pertenece a los poderosos, y sólo los privilegiados tienen derecho a vivir en ella?",
+      "strong": [
+        "H1961",
+        "H0834",
+        "H0194",
+        "H1931",
+        "H0776",
+        "H0413",
+        "H6440",
+        "H3427",
+        "H7989",
+        "H1571",
+        "H0910",
+        "H3427",
+        "H1992",
+        "H3233",
+        "H6440",
+        "H2421",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Has despedido a las viudas con las manos vacías; has aplastado los brazos extendidos de los huérfanos, que pedían ayuda.",
+      "strong": [
+        "H4191",
+        "H0413",
+        "H1992",
+        "H0490",
+        "H5973",
+        "H1992",
+        "H3027",
+        "H7387",
+        "H4191",
+        "H0582",
+        "H2220",
+        "H4480",
+        "H0582",
+        "H3490",
+        "H0834",
+        "H7592",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Por eso estás rodeado de trampas para atraparte, y por eso de repente te asusta el terror.",
+      "strong": [
+        "H5921",
+        "H3651",
+        "H0428",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3651",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6343"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Por eso está tan oscuro que no puedes ver, y por eso sientes que te ahogas.",
+      "strong": [
+        "H5921",
+        "H3651",
+        "H2063",
+        "H3966",
+        "H3808",
+        "H3808",
+        "H3546",
+        "H7200",
+        "H1571",
+        "H5921",
+        "H3651",
+        "H3808",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "“¿Acaso Dios no vive en el cielo más alto y mira hasta las estrellas más altas?",
+      "strong": [
+        "H0194",
+        "H0430",
+        "H3808",
+        "H2416",
+        "H3588",
+        "H3588",
+        "H8064",
+        "H3588",
+        "H7311",
+        "H3588",
+        "H7200",
+        "H5704",
+        "H1992",
+        "H3556",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Pero tú preguntas: ‘¿Qué sabe Dios? ¿Cómo puede ver y juzgar lo que ocurre aquí abajo, en la oscuridad?",
+      "strong": [
+        "H3588",
+        "H8199",
+        "H7592",
+        "H4100",
+        "H3045",
+        "H0430",
+        "H4100",
+        "H3201",
+        "H7200",
+        "H1571",
+        "H4100",
+        "H4100",
+        "H6311",
+        "H4295",
+        "H5921",
+        "H1931",
+        "H6205"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Unas densas nubes lo cubren para que no pueda ver nada mientras camina por el cielo’.",
+      "strong": [
+        "H6541",
+        "H0653",
+        "H5645",
+        "H3808",
+        "H3680",
+        "H5704",
+        "H3808",
+        "H3808",
+        "H3201",
+        "H7200",
+        "H3808",
+        "H5704",
+        "H1980",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "“¿Por qué insistes en seguir el pensamiento tradicional de los malvados?",
+      "strong": [
+        "H5769",
+        "H1869",
+        "H5921",
+        "H0935",
+        "H1931",
+        "H3820",
+        "H4480",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Fueron llevados antes de tiempo; todo lo que habían construido fue arrasado.",
+      "strong": [
+        "H1961",
+        "H6440",
+        "H6256",
+        "H6256",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H0834",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Habían dicho a Dios: ‘¡Vete lejos! ¿Qué puede hacernos el Todopoderoso?’",
+      "strong": [
+        "H0834",
+        "H0559",
+        "H4480",
+        "H0430",
+        "H3212",
+        "H7350",
+        "H4100",
+        "H3201",
+        "H1931",
+        "H7706"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Y, sin embargo, era él quien había llenado sus casas de bienes; pero no aceptaba su manera de pensar”.",
+      "strong": [
+        "H1571",
+        "H3808",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H1961",
+        "H1931",
+        "H1004",
+        "H4480",
+        "H3588",
+        "H7563",
+        "H1931",
+        "H7235",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "“Los que hacen el bien se alegran cuando ven la destrucción de los malvados, y los inocentes se burlan de ellos,",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H7200",
+        "H3045",
+        "H8055",
+        "H3932",
+        "H7200",
+        "H1931",
+        "H7701",
+        "H6662",
+        "H0582",
+        "H5355",
+        "H0582",
+        "H3045",
+        "H6662",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "diciendo: ‘Nuestros enemigos han sido destruidos, y el fuego ha quemado todo lo que queda de ellos’.",
+      "strong": [
+        "H0559",
+        "H0587",
+        "H0341",
+        "H4191",
+        "H1961",
+        "H2040",
+        "H1571",
+        "H1931",
+        "H0784",
+        "H3808",
+        "H1197",
+        "H3605",
+        "H3808",
+        "H3808",
+        "H7604",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "“Vuelve a Dios y reconcíliate con él, y volverás a ser próspero.",
+      "strong": [
+        "H7725",
+        "H5973",
+        "H0430",
+        "H1571",
+        "H5973",
+        "H5973",
+        "H1571",
+        "H7725",
+        "H5973",
+        "H5315",
+        "H4994"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Escucha lo que te dice y no olvides sus palabras.",
+      "strong": [
+        "H0238",
+        "H1931",
+        "H4994",
+        "H0859",
+        "H5002",
+        "H1571",
+        "H3808",
+        "H7911",
+        "H1931",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Si te vuelves a Dios serás restaurado. Si renuncias a tu vida pecaminosa",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H7725",
+        "H5704",
+        "H0430",
+        "H1961",
+        "H0518",
+        "H5704",
+        "H0859",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "y dejas tu amor por el dinero y el deseo de posesiones,",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H0160",
+        "H5921",
+        "H5921",
+        "H3701",
+        "H5921",
+        "H5921",
+        "H0183",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "entonces el Todopoderoso será tu oro y tu plata preciosa.",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H7706",
+        "H1961",
+        "H0859",
+        "H1220",
+        "H1571",
+        "H0859",
+        "H3701",
+        "H3368"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "“Entonces te deleitarás en el Todopoderoso y podrás darle la cara sin sentirte avergonzado.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7706",
+        "H3588",
+        "H3201",
+        "H5414",
+        "H5921",
+        "H6440",
+        "H3808",
+        "H3637"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Orarás a él, y él te escuchará, y cumplirás tus promesas a él.",
+      "strong": [
+        "H6279",
+        "H0413",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H0859",
+        "H8085",
+        "H1571",
+        "H0859",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Todo lo que decidas hacer tendrá éxito, y dondequiera que vayas, la luz brillará sobre ti.",
+      "strong": [
+        "H3605",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H3212",
+        "H5921",
+        "H0216",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Cuando otros se humillen y digas: ‘Por favor, ayúdales’, Dios los salvará.",
+      "strong": [
+        "H3588",
+        "H0312",
+        "H3045",
+        "H3588",
+        "H0559",
+        "H3588",
+        "H7522",
+        "H0430",
+        "H3588",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Dios salva a los inocentes, y tú te salvarás si haces lo que es justo”.",
+      "strong": [
+        "H0430",
+        "H3467",
+        "H0413",
+        "H0582",
+        "H5355",
+        "H0859",
+        "H0859",
+        "H3467",
+        "H0518",
+        "H6213",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H6662"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,157 @@
-{"version":"spa-vbl","book":"psalms","chapter":114,"data":[{"verse":"1","text":"A través del éxodo de Israel desde Egipto, cuando los descendientes de Jacob salieron de aquella nación extranjera,114:1 “Nación extranjera”: Literalmente, “pueblo de un idioma extranjero”."},{"verse":"2","text":"la tierra de Judá se convirtió en el santuario del Señor, Israel su reino."},{"verse":"3","text":"El mar rojo los vio y huyó; el río Jordán también se retiró."},{"verse":"4","text":"Las montañas brincaron114:4 Literalmente “brincaron”, pero esto sugiere una acción lúdica cuando el contexto deja en claro que el salto se debe al miedo y no a la alegría. como carneros, los cerros saltaron114:4 “Saltaron”: implícito. La imagen es de montañas y colinas temblando como en un terremoto. como ovejas."},{"verse":"5","text":"Oh, Mar Rojo, ¿Por qué huiste? Río Jordán, ¿Por qué volviste a atrás?"},{"verse":"6","text":"Montañas, ¿Por qué saltaron alarmadas? Montes, ¿Por qué se asustaron como ovejas?"},{"verse":"7","text":"Tierra, tiembla ante la presencia del Señor, ¡Tiembla ante la presencia del Dios de Jacob!"},{"verse":"8","text":"Él es el único que puede convertir una roca en manantial de aguas; y hacer brotar el agua de piedras solidas.114:8 Ver Éxodo 17:1-7; Números 20:1-13."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 114,
+  "data": [
+    {
+      "verse": "1",
+      "text": "A través del éxodo de Israel desde Egipto, cuando los descendientes de Jacob salieron de aquella nación extranjera,",
+      "strong": [
+        "H0413",
+        "H4480",
+        "H5971",
+        "H3478",
+        "H4480",
+        "H4714",
+        "H3588",
+        "H0582",
+        "H6631",
+        "H5971",
+        "H3290",
+        "H3318",
+        "H5971",
+        "H1931",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "la tierra de Judá se convirtió en el santuario del Señor, Israel su reino.",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H4480",
+        "H3063",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H6944",
+        "H4480",
+        "H0113",
+        "H3478",
+        "H1931",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El mar rojo los vio y huyó; el río Jordán también se retiró.",
+      "strong": [
+        "H1931",
+        "H3220",
+        "H0582",
+        "H7200",
+        "H1571",
+        "H5127",
+        "H1931",
+        "H5104",
+        "H3383",
+        "H1571",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Las montañas brincaron como carneros, los cerros saltaron como ovejas.",
+      "strong": [
+        "H1992",
+        "H0349",
+        "H0352",
+        "H1121",
+        "H7540",
+        "H0349",
+        "H6629"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Oh, Mar Rojo, ¿Por qué huiste? Río Jordán, ¿Por qué volviste a atrás?",
+      "strong": [
+        "H4100",
+        "H3220",
+        "H3588",
+        "H3588",
+        "H5251",
+        "H5104",
+        "H3383",
+        "H3588",
+        "H3588",
+        "H7725",
+        "H3588",
+        "H0268"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Montañas, ¿Por qué saltaron alarmadas? Montes, ¿Por qué se asustaron como ovejas?",
+      "strong": [
+        "H5921",
+        "H1121",
+        "H7540",
+        "H2022",
+        "H5921",
+        "H1121",
+        "H3045",
+        "H0349",
+        "H6629"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tierra, tiembla ante la presencia del Señor, ¡Tiembla ante la presencia del Dios de Jacob!",
+      "strong": [
+        "H0776",
+        "H7493",
+        "H6440",
+        "H1931",
+        "H6440",
+        "H4480",
+        "H0113",
+        "H7493",
+        "H6440",
+        "H1931",
+        "H6440",
+        "H4480",
+        "H0430",
+        "H6440",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Él es el único que puede convertir una roca en manantial de aguas; y hacer brotar el agua de piedras solidas.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H1931",
+        "H3173",
+        "H4325",
+        "H3201",
+        "H7725",
+        "H0259",
+        "H6697",
+        "H5921",
+        "H4726",
+        "H4325",
+        "H4325",
+        "H1571",
+        "H6213",
+        "H1931",
+        "H4325",
+        "H4325",
+        "H0068",
+        "H6276"
+      ]
+    }
+  ]
+}

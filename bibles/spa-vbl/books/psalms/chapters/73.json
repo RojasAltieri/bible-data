@@ -1,1 +1,503 @@
-{"version":"spa-vbl","book":"psalms","chapter":73,"data":[{"verse":"1","text":"Dios es ciertamente bueno con Israel. Con los que tienen pureza en sus mentes.73:1 Literalmente, “corazones”. Según la comprensión hebrea, el pensamiento se llevaba a cabo en el corazón."},{"verse":"2","text":"Pero yo caí, y mis pies comenzaron a resbalar,73:2 El salmista indica que estaba perdiendo la fe."},{"verse":"3","text":"porque tuve celos de pretenciosos, y vi que le iba muy bien a los malvados."},{"verse":"4","text":"Parecen nunca enfermarse; lucen fuertes y saludables."},{"verse":"5","text":"Ellos no tienen problemas como los demás, y no son afectados por los desastres como el resto del mundo."},{"verse":"6","text":"Su collar es su orgullo, y se visten con violencia."},{"verse":"7","text":"Sus ojos sobresalen por su gordura, y sus mentes están llenas de vanidad y egoísmo.73:7 O “de sus corazones malvados emana iniquidad”."},{"verse":"8","text":"Ellos se burlan de las personas y hablan con maldad. Con arrogancia y crueldad lanzan amenazas."},{"verse":"9","text":"En su hablar irrespetan al cielo, y difaman a los habitantes de la tierra."},{"verse":"10","text":"Por ello la gente los busca y creen todo lo que ellos dicen.73:10 Es difícil entender el texto hebreo aquí: “Por ello trae de regreso a su pueblo aquí y ellos agotan la abundancia de aguas”."},{"verse":"11","text":"“Dios no se dará cuenta”, dicen. “¡El Altísimo no sabe nada de lo que está pasando!”"},{"verse":"12","text":"¡Miren a los malvados! ¡No tienen nada de qué preocuparse en el mundo y siempre están ganando dinero!"},{"verse":"13","text":"Ha sido inútil mantener mi mente pura y mis manos limpias."},{"verse":"14","text":"Soy maldito con sufrimientos todo el día; cada mañana sufro castigo."},{"verse":"15","text":"Si le hubiese hablado así a otros73:15 Se refiere de nuevo a los malvados de los que se habla en el versículo 11. habría traicionado a tu pueblo, Señor."},{"verse":"16","text":"Así que reflexioné y traté de entenderlo,73:16 El salmista trata de entender por qué prosperan los malvados. pero parecía muy difícil para mi,"},{"verse":"17","text":"hasta que fui al Templo de Dios. Entonces entendí el fin de los malvados."},{"verse":"18","text":"Porque tu los mandas por un camino resbaladizo. Los envías a la destrucción."},{"verse":"19","text":"¡Cuán rápido son destruidos! Su fin es espantoso."},{"verse":"20","text":"Como al despertar después de un sueño, Señor, te olvidarás de ellos."},{"verse":"21","text":"En ese tiempo mis pensamientos se volvieron amargos. Me sentí atravesado con cuchillos."},{"verse":"22","text":"Era necio e ignorante. Como una bestia salvaje delante de ti."},{"verse":"23","text":"Sin embargo, siempre estoy contigo, y tú sostienes mi mano."},{"verse":"24","text":"Tú me dices qué hacer, y al final me recibirás en tu gloria."},{"verse":"25","text":"¿A quién más he de ver en el cielo si no a ti? Y en la tierra no anhelo nada sino a ti."},{"verse":"26","text":"Mi cuerpo y mi mente podrás fallar, pero Dios es el fundamento de mi vida. Él es mío para siempre!"},{"verse":"27","text":"Los que están lejos de Dios morirán. Tú destruirás a los que te son infieles."},{"verse":"28","text":"¡Pero yo amo estar cerca de Dios! He elegido al Señor Dios como mi protector, y contaré todo lo que has hecho."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 73,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios es ciertamente bueno con Israel. Con los que tienen pureza en sus mentes.",
+      "strong": [
+        "H0430",
+        "H1961",
+        "H0389",
+        "H2896",
+        "H5973",
+        "H3478",
+        "H5973",
+        "H0582",
+        "H0834",
+        "H1992",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Pero yo caí, y mis pies comenzaron a resbalar,",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H5307",
+        "H1571",
+        "H0589",
+        "H7272",
+        "H2490",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "porque tuve celos de pretenciosos, y vi que le iba muy bien a los malvados.",
+      "strong": [
+        "H3588",
+        "H5258",
+        "H7065",
+        "H3588",
+        "H3588",
+        "H7200",
+        "H3588",
+        "H0413",
+        "H1980",
+        "H3966",
+        "H7965",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Parecen nunca enfermarse; lucen fuertes y saludables.",
+      "strong": [
+        "H3588",
+        "H4013",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Ellos no tienen problemas como los demás, y no son afectados por los desastres como el resto del mundo.",
+      "strong": [
+        "H1992",
+        "H3808",
+        "H1992",
+        "H5973",
+        "H5973",
+        "H1571",
+        "H1571",
+        "H3808",
+        "H3808",
+        "H5921",
+        "H5973",
+        "H5973",
+        "H5973",
+        "H3499",
+        "H5973",
+        "H8398"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Su collar es su orgullo, y se visten con violencia.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H1931",
+        "H1571",
+        "H3651",
+        "H5973",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Sus ojos sobresalen por su gordura, y sus mentes están llenas de vanidad y egoísmo.",
+      "strong": [
+        "H1931",
+        "H5869",
+        "H5921",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H3824",
+        "H4392",
+        "H5869",
+        "H1892",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Ellos se burlan de las personas y hablan con maldad. Con arrogancia y crueldad lanzan amenazas.",
+      "strong": [
+        "H1992",
+        "H3045",
+        "H7451",
+        "H1992",
+        "H5315",
+        "H1571",
+        "H1696",
+        "H5973",
+        "H7451",
+        "H5973",
+        "H1571",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "En su hablar irrespetan al cielo, y difaman a los habitantes de la tierra.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H1696",
+        "H0413",
+        "H8064",
+        "H1571",
+        "H6310",
+        "H0582",
+        "H3427",
+        "H4480",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Por ello la gente los busca y creen todo lo que ellos dicen.",
+      "strong": [
+        "H3651",
+        "H1931",
+        "H1931",
+        "H5971",
+        "H0582",
+        "H1245",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H5971",
+        "H1992",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "“Dios no se dará cuenta”, dicen. “¡El Altísimo no sabe nada de lo que está pasando!”",
+      "strong": [
+        "H0430",
+        "H3808",
+        "H3045",
+        "H5414",
+        "H6485",
+        "H0559",
+        "H1931",
+        "H5945",
+        "H3808",
+        "H3045",
+        "H3808",
+        "H4480",
+        "H1931",
+        "H3045",
+        "H3426",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¡Miren a los malvados! ¡No tienen nada de qué preocuparse en el mundo y siempre están ganando dinero!",
+      "strong": [
+        "H5027",
+        "H0413",
+        "H0582",
+        "H7563",
+        "H1992",
+        "H3808",
+        "H4480",
+        "H0834",
+        "H5921",
+        "H1931",
+        "H8398",
+        "H1571",
+        "H5769",
+        "H2009",
+        "H3701"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Ha sido inútil mantener mi mente pura y mis manos limpias.",
+      "strong": [
+        "H3541",
+        "H1961",
+        "H0589",
+        "H2889",
+        "H1571",
+        "H0589",
+        "H3709",
+        "H2889"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Soy maldito con sufrimientos todo el día; cada mañana sufro castigo.",
+      "strong": [
+        "H1961",
+        "H0779",
+        "H5060",
+        "H3605",
+        "H3605",
+        "H3117",
+        "H3605",
+        "H1242",
+        "H5375",
+        "H7110"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Si le hubiese hablado así a otros habría traicionado a tu pueblo, Señor.",
+      "strong": [
+        "H2009",
+        "H0413",
+        "H1961",
+        "H1696",
+        "H3541",
+        "H0413",
+        "H0312",
+        "H0413",
+        "H0859",
+        "H5971",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Así que reflexioné y traté de entenderlo, pero parecía muy difícil para mi,",
+      "strong": [
+        "H2063",
+        "H1931",
+        "H1571",
+        "H5869",
+        "H3588",
+        "H5869",
+        "H3966",
+        "H3515",
+        "H5704",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "hasta que fui al Templo de Dios. Entonces entendí el fin de los malvados.",
+      "strong": [
+        "H5704",
+        "H5704",
+        "H1961",
+        "H5704",
+        "H1964",
+        "H5704",
+        "H0430",
+        "H0227",
+        "H3045",
+        "H1931",
+        "H7093",
+        "H5704",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Porque tu los mandas por un camino resbaladizo. Los envías a la destrucción.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0582",
+        "H5921",
+        "H0259",
+        "H1870",
+        "H0582",
+        "H7971",
+        "H0413",
+        "H1931",
+        "H7701"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¡Cuán rápido son destruidos! Su fin es espantoso.",
+      "strong": [
+        "H4100",
+        "H1961",
+        "H2040",
+        "H1931",
+        "H7093",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Como al despertar después de un sueño, Señor, te olvidarás de ellos.",
+      "strong": [
+        "H0349",
+        "H0413",
+        "H0310",
+        "H4480",
+        "H0259",
+        "H2472",
+        "H0113",
+        "H0859",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "En ese tiempo mis pensamientos se volvieron amargos. Me sentí atravesado con cuchillos.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H6256",
+        "H0589",
+        "H4284",
+        "H3045",
+        "H7725",
+        "H3588",
+        "H3588",
+        "H2719"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Era necio e ignorante. Como una bestia salvaje delante de ti.",
+      "strong": [
+        "H1961",
+        "H1198",
+        "H1961",
+        "H5973",
+        "H0259",
+        "H2416",
+        "H5973",
+        "H5973",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Sin embargo, siempre estoy contigo, y tú sostienes mi mano.",
+      "strong": [
+        "H3808",
+        "H8548",
+        "H1961",
+        "H5973",
+        "H1571",
+        "H0859",
+        "H0589",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Tú me dices qué hacer, y al final me recibirás en tu gloria.",
+      "strong": [
+        "H0859",
+        "H0413",
+        "H0559",
+        "H0834",
+        "H6213",
+        "H3519",
+        "H0413",
+        "H0413",
+        "H3947",
+        "H5921",
+        "H0859",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "¿A quién más he de ver en el cielo si no a ti? Y en la tierra no anhelo nada sino a ti.",
+      "strong": [
+        "H5973",
+        "H4310",
+        "H3808",
+        "H4392",
+        "H5973",
+        "H7200",
+        "H5973",
+        "H5973",
+        "H8064",
+        "H3808",
+        "H3808",
+        "H5973",
+        "H5973",
+        "H1571",
+        "H5973",
+        "H1931",
+        "H0776",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H5973",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Mi cuerpo y mi mente podrás fallar, pero Dios es el fundamento de mi vida. Él es mío para siempre!",
+      "strong": [
+        "H0589",
+        "H5038",
+        "H1571",
+        "H0589",
+        "H3201",
+        "H3588",
+        "H0430",
+        "H1961",
+        "H1931",
+        "H3247",
+        "H4480",
+        "H0589",
+        "H5315",
+        "H1931",
+        "H1961",
+        "H0589",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Los que están lejos de Dios morirán. Tú destruirás a los que te son infieles.",
+      "strong": [
+        "H3605",
+        "H3588",
+        "H2009",
+        "H7350",
+        "H4480",
+        "H0430",
+        "H4191",
+        "H0859",
+        "H5595",
+        "H4480",
+        "H3605",
+        "H3588",
+        "H4480",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "¡Pero yo amo estar cerca de Dios! He elegido al Señor Dios como mi protector, y contaré todo lo que has hecho.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H0157",
+        "H7138",
+        "H4480",
+        "H3069",
+        "H4392",
+        "H0413",
+        "H0113",
+        "H3069",
+        "H0349",
+        "H0589",
+        "H1571",
+        "H5608",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H4191",
+        "H6213"
+      ]
+    }
+  ]
+}

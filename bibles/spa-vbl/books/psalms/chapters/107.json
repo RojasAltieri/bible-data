@@ -1,1 +1,822 @@
-{"version":"spa-vbl","book":"psalms","chapter":107,"data":[{"verse":"1","text":"¡Agradezcan al Señor, porque él es bueno! ¡Su misericordioso amor perdura para siempre!"},{"verse":"2","text":"Que todos a los que salvó salgan a gritarle al mundo; aquellos a quienes rescató del poder del enemigo."},{"verse":"3","text":"Los ha reunido desde tierras lejanas, desde el este y el oeste, y del norte y el sur.107:3 “Sur”: Literalmente “el mar”."},{"verse":"4","text":"Ellos vagaron por el árido desierto, sin encontrar una sola ciudad en la que vivir."},{"verse":"5","text":"Hambrientos y sedientos, se desanimaron."},{"verse":"6","text":"Entonces clamaron al Señor para que los ayudara, y los salvó de su sufrimiento."},{"verse":"7","text":"Los guió por un camino directo a la ciudad donde podrían vivir."},{"verse":"8","text":"Alaben al Señor por su gran amor, y por todas las cosas hermosas que hace por la gente."},{"verse":"9","text":"Porque brinda agua al sediento, y alimenta a los hambrientos."},{"verse":"10","text":"Algunos se sientan en completas tinieblas, prisioneros de la miseria y atados con cadenas de hierro,"},{"verse":"11","text":"Porque se han revelado contra lo que Dios ha dicho; han rechazado la dirección del Altísimo."},{"verse":"12","text":"Entonces Dios humillará su orgullo con los problemas de la vida; tropezarán y no habrá nadie cerca que los ayude a no caer."},{"verse":"13","text":"Y llamarán al Señor en medio de sus problemas, y los salvará de su sufrimiento."},{"verse":"14","text":"Los traerá de vuelta desde las tinieblas, romperá en pedazos sus cadenas."},{"verse":"15","text":"Alaben al Señor por su gran amor, y por todas las cosas hermosas que hace por la gente."},{"verse":"16","text":"Porque Él rompe las puertas de bronce, y corta las barras de hierro.107:16 O encarcelamiento."},{"verse":"17","text":"Ellos fueron necios al rebelarse; y sufrieron por sus pecados."},{"verse":"18","text":"No quisieron comer; y estuvieron a las puertas de la muerte."},{"verse":"19","text":"Entonces llamaron al Señor para que los ayudara, y Él los salvó de su sufrimiento."},{"verse":"20","text":"Dio la orden y fueron sanados; los salvó de la tumba."},{"verse":"21","text":"Alaben al Señor por su gran amor, y por todas las cosas hermosas que hace por la gente."},{"verse":"22","text":"Preséntense ante él con ofrendas de gratitud y canten de alegría sobre lo que ha hecho."},{"verse":"23","text":"Los que zarpan en barcos, y cruzan océanos para ganar la vida,"},{"verse":"24","text":"ellos han visto el increíble poder de Dios en marcha, y las maravillas que hizo en aguas profundas."},{"verse":"25","text":"Él solo tiene que hablar para causar vientos tormentosos y levantar grandes olas,"},{"verse":"26","text":"Lanzando a los barcos al aire y luego arrastrándolos una vez más al suelo. Los navegantes estaban tan aterrorizados que su coraje se desvaneció."},{"verse":"27","text":"Se tambalearon, cayendo de lado a lado como ebrios, todas sus habilidades de marineros les fueron inútiles."},{"verse":"28","text":"Entonces llamaron al Señor para que los ayudara, y Él los salvó de su sufrimiento."},{"verse":"29","text":"Calmó la tempestad, y las olas se aquietaron."},{"verse":"30","text":"Los navegantes estaban tan felices de que las aguas se hubieran calmado, y el Señor los llevó hasta el puerto que querían."},{"verse":"31","text":"Alaben al Señor por su gran amor, y por todas las cosas hermosas que ha hecho por su pueblo."},{"verse":"32","text":"Digan cuán maravilloso es en frente de toda la congregación y de los ancianos."},{"verse":"33","text":"Él seca ríos y convierte tierras en desiertos; las cascadas de agua dejan de fluir y la tierra se vuelve seca y polvorienta."},{"verse":"34","text":"Los terrenos fructíferos se convierten tierras arenosas y baldías a causa de la maldad de los que allí vivían."},{"verse":"35","text":"Pero Él también se vuelve y hace lagunas de agua en mitad del desierto, y hace fluir cascadas en tierras secas."},{"verse":"36","text":"Trae a la gente hambrienta a un lugar donde pueden reconstruir sus ciudades."},{"verse":"37","text":"Ellos siembran sus campos y plantan viñas, produciendo buena cosecha."},{"verse":"38","text":"Él cuida de su pueblo, y este aumenta su tamaño drásticamente, también el número de sus ganados!"},{"verse":"39","text":"Cuando son pocos, reducidos por el dolor, la miseria y la opresión."},{"verse":"40","text":"Derrama su desprecio hacia sus líderes, haciéndolos vagar, perdidos en el desierto."},{"verse":"41","text":"Pero Él saca al pobre de sus problemas, y hace a sus familias tan grandes como los rebaños."},{"verse":"42","text":"Los que viven en rectitud mirarán lo que está pasando y se alegrarán, pero los malvados serán silenciados."},{"verse":"43","text":"Aquellos que son sabios prestarán atención a esto, y meditarán en el gran amor de Dios."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 107,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Agradezcan al Señor, porque él es bueno! ¡Su misericordioso amor perdura para siempre!",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2896",
+        "H3588",
+        "H2617",
+        "H0160",
+        "H3588",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Que todos a los que salvó salgan a gritarle al mundo; aquellos a quienes rescató del poder del enemigo.",
+      "strong": [
+        "H3027",
+        "H3605",
+        "H3068",
+        "H0582",
+        "H3027",
+        "H3467",
+        "H3318",
+        "H3068",
+        "H0413",
+        "H8398",
+        "H0479",
+        "H3068",
+        "H4310",
+        "H6561",
+        "H4480",
+        "H3027",
+        "H4480",
+        "H6862"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Los ha reunido desde tierras lejanas, desde el este y el oeste, y del norte y el sur.",
+      "strong": [
+        "H0582",
+        "H3541",
+        "H4480",
+        "H0776",
+        "H4480",
+        "H1931",
+        "H4217",
+        "H1571",
+        "H1931",
+        "H1571",
+        "H4480",
+        "H6828",
+        "H1571",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Ellos vagaron por el árido desierto, sin encontrar una sola ciudad en la que vivir.",
+      "strong": [
+        "H1992",
+        "H1870",
+        "H1931",
+        "H4057",
+        "H3808",
+        "H4672",
+        "H1565",
+        "H5892",
+        "H5921",
+        "H1931",
+        "H3808",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Hambrientos y sedientos, se desanimaron.",
+      "strong": [
+        "H7457",
+        "H1571",
+        "H6771",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Entonces clamaron al Señor para que los ayudara, y los salvó de su sufrimiento.",
+      "strong": [
+        "H0227",
+        "H6817",
+        "H0413",
+        "H3068",
+        "H5704",
+        "H1992",
+        "H1992",
+        "H1571",
+        "H1992",
+        "H3467",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los guió por un camino directo a la ciudad donde podrían vivir.",
+      "strong": [
+        "H0582",
+        "H3212",
+        "H1870",
+        "H0259",
+        "H1870",
+        "H0413",
+        "H1931",
+        "H5892",
+        "H0834",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Alaben al Señor por su gran amor, y por todas las cosas hermosas que hace por la gente.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H1419",
+        "H0160",
+        "H1571",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H2896",
+        "H1121",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Porque brinda agua al sediento, y alimenta a los hambrientos.",
+      "strong": [
+        "H3588",
+        "H4325",
+        "H0413",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H7457"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Algunos se sientan en completas tinieblas, prisioneros de la miseria y atados con cadenas de hierro,",
+      "strong": [
+        "H0582",
+        "H3045",
+        "H0995",
+        "H5921",
+        "H2822",
+        "H4480",
+        "H1931",
+        "H1571",
+        "H3729",
+        "H5973",
+        "H2397",
+        "H4480",
+        "H1270"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Porque se han revelado contra lo que Dios ha dicho; han rechazado la dirección del Altísimo.",
+      "strong": [
+        "H3588",
+        "H3045",
+        "H4191",
+        "H5046",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H0430",
+        "H3541",
+        "H0559",
+        "H4191",
+        "H3588",
+        "H4480",
+        "H5945"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Entonces Dios humillará su orgullo con los problemas de la vida; tropezarán y no habrá nadie cerca que los ayude a no caer.",
+      "strong": [
+        "H0227",
+        "H0430",
+        "H1931",
+        "H5973",
+        "H0582",
+        "H4480",
+        "H1931",
+        "H5315",
+        "H3782",
+        "H1571",
+        "H3808",
+        "H1961",
+        "H0376",
+        "H7138",
+        "H0834",
+        "H0582",
+        "H0413",
+        "H3808",
+        "H3782"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Y llamarán al Señor en medio de sus problemas, y los salvará de su sufrimiento.",
+      "strong": [
+        "H1571",
+        "H7121",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H1992",
+        "H1571",
+        "H1992",
+        "H3467",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Los traerá de vuelta desde las tinieblas, romperá en pedazos sus cadenas.",
+      "strong": [
+        "H0582",
+        "H0935",
+        "H4480",
+        "H2015",
+        "H4480",
+        "H1992",
+        "H2822",
+        "H6605",
+        "H3318",
+        "H7167",
+        "H1931",
+        "H2397"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Alaben al Señor por su gran amor, y por todas las cosas hermosas que hace por la gente.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H1419",
+        "H0160",
+        "H1571",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H2896",
+        "H1121",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Porque Él rompe las puertas de bronce, y corta las barras de hierro.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1992",
+        "H1817",
+        "H3588",
+        "H5153",
+        "H3588",
+        "H2404",
+        "H1992",
+        "H1280",
+        "H3588",
+        "H1270"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Ellos fueron necios al rebelarse; y sufrieron por sus pecados.",
+      "strong": [
+        "H1992",
+        "H1961",
+        "H0995",
+        "H0413",
+        "H1571",
+        "H1870",
+        "H1931",
+        "H6588"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "No quisieron comer; y estuvieron a las puertas de la muerte.",
+      "strong": [
+        "H3808",
+        "H0014",
+        "H5315",
+        "H5704",
+        "H1961",
+        "H5704",
+        "H1992",
+        "H8179",
+        "H5704",
+        "H3605",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Entonces llamaron al Señor para que los ayudara, y Él los salvó de su sufrimiento.",
+      "strong": [
+        "H0227",
+        "H7121",
+        "H0413",
+        "H3068",
+        "H5704",
+        "H1992",
+        "H1992",
+        "H1571",
+        "H1992",
+        "H1992",
+        "H3467",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Dio la orden y fueron sanados; los salvó de la tumba.",
+      "strong": [
+        "H5414",
+        "H1931",
+        "H2905",
+        "H1571",
+        "H1961",
+        "H0582",
+        "H3467",
+        "H1697",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Alaben al Señor por su gran amor, y por todas las cosas hermosas que hace por la gente.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H1419",
+        "H0160",
+        "H1571",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H2896",
+        "H1121",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Preséntense ante él con ofrendas de gratitud y canten de alegría sobre lo que ha hecho.",
+      "strong": [
+        "H6440",
+        "H1931",
+        "H5973",
+        "H4979",
+        "H4480",
+        "H1571",
+        "H7442",
+        "H4480",
+        "H8057",
+        "H5921",
+        "H1931",
+        "H0834",
+        "H3541",
+        "H4639"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Los que zarpan en barcos, y cruzan océanos para ganar la vida,",
+      "strong": [
+        "H0582",
+        "H4325",
+        "H5921",
+        "H1571",
+        "H5704",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "ellos han visto el increíble poder de Dios en marcha, y las maravillas que hizo en aguas profundas.",
+      "strong": [
+        "H1992",
+        "H4191",
+        "H7200",
+        "H1992",
+        "H3027",
+        "H4480",
+        "H3068",
+        "H5921",
+        "H1870",
+        "H1571",
+        "H1992",
+        "H6381",
+        "H1992",
+        "H6213",
+        "H5921",
+        "H4325",
+        "H6013"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Él solo tiene que hablar para causar vientos tormentosos y levantar grandes olas,",
+      "strong": [
+        "H1931",
+        "H0910",
+        "H3426",
+        "H5591",
+        "H1696",
+        "H5704",
+        "H7307",
+        "H1571",
+        "H6965",
+        "H1419"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Lanzando a los barcos al aire y luego arrastrándolos una vez más al suelo. Los navegantes estaban tan aterrorizados que su coraje se desvaneció.",
+      "strong": [
+        "H0413",
+        "H0582",
+        "H0413",
+        "H1571",
+        "H5927",
+        "H0259",
+        "H6471",
+        "H5750",
+        "H0413",
+        "H0582",
+        "H1961",
+        "H3966",
+        "H0834",
+        "H1931",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Se tambalearon, cayendo de lado a lado como ebrios, todas sus habilidades de marineros les fueron inútiles.",
+      "strong": [
+        "H3045",
+        "H5307",
+        "H4480",
+        "H3802",
+        "H0413",
+        "H3802",
+        "H0349",
+        "H3605",
+        "H1931",
+        "H4480",
+        "H0582",
+        "H0413",
+        "H1961",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Entonces llamaron al Señor para que los ayudara, y Él los salvó de su sufrimiento.",
+      "strong": [
+        "H0227",
+        "H7121",
+        "H0413",
+        "H3068",
+        "H5704",
+        "H1992",
+        "H1992",
+        "H1571",
+        "H1992",
+        "H1992",
+        "H3467",
+        "H4480",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Calmó la tempestad, y las olas se aquietaron.",
+      "strong": [
+        "H1931",
+        "H5591",
+        "H1571",
+        "H1992",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Los navegantes estaban tan felices de que las aguas se hubieran calmado, y el Señor los llevó hasta el puerto que querían.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H3966",
+        "H3588",
+        "H3588",
+        "H1992",
+        "H4325",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H0113",
+        "H3588",
+        "H3947",
+        "H5704",
+        "H3588",
+        "H4231",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Alaben al Señor por su gran amor, y por todas las cosas hermosas que ha hecho por su pueblo.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H1419",
+        "H0160",
+        "H1571",
+        "H5921",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H2896",
+        "H1121",
+        "H3541",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Digan cuán maravilloso es en frente de toda la congregación y de los ancianos.",
+      "strong": [
+        "H0559",
+        "H4100",
+        "H3372",
+        "H1961",
+        "H5921",
+        "H5048",
+        "H5971",
+        "H3605",
+        "H1931",
+        "H6951",
+        "H1571",
+        "H5971",
+        "H0582",
+        "H2205"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Él seca ríos y convierte tierras en desiertos; las cascadas de agua dejan de fluir y la tierra se vuelve seca y polvorienta.",
+      "strong": [
+        "H1931",
+        "H6723",
+        "H5105",
+        "H1571",
+        "H0776",
+        "H5921",
+        "H1992",
+        "H4325",
+        "H4325",
+        "H2308",
+        "H4325",
+        "H1571",
+        "H1931",
+        "H0776",
+        "H3045",
+        "H7760",
+        "H6723",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Los terrenos fructíferos se convierten tierras arenosas y baldías a causa de la maldad de los que allí vivían.",
+      "strong": [
+        "H3427",
+        "H3045",
+        "H0776",
+        "H1571",
+        "H0413",
+        "H1697",
+        "H7451",
+        "H1931",
+        "H7451",
+        "H7451",
+        "H3427",
+        "H0834",
+        "H8033",
+        "H3427"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "Pero Él también se vuelve y hace lagunas de agua en mitad del desierto, y hace fluir cascadas en tierras secas.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H1571",
+        "H3045",
+        "H7760",
+        "H1571",
+        "H6213",
+        "H4325",
+        "H4325",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H4057",
+        "H1571",
+        "H6213",
+        "H5921",
+        "H0776",
+        "H3002"
+      ]
+    },
+    {
+      "verse": "36",
+      "text": "Trae a la gente hambrienta a un lugar donde pueden reconstruir sus ciudades.",
+      "strong": [
+        "H0935",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H7457",
+        "H0413",
+        "H0259",
+        "H4725",
+        "H8033",
+        "H3201",
+        "H1931",
+        "H5892"
+      ]
+    },
+    {
+      "verse": "37",
+      "text": "Ellos siembran sus campos y plantan viñas, produciendo buena cosecha.",
+      "strong": [
+        "H1992",
+        "H1931",
+        "H7704",
+        "H1571",
+        "H3754",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "38",
+      "text": "Él cuida de su pueblo, y este aumenta su tamaño drásticamente, también el número de sus ganados!",
+      "strong": [
+        "H1931",
+        "H1875",
+        "H4480",
+        "H1931",
+        "H5971",
+        "H1571",
+        "H2088",
+        "H7235",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H4557",
+        "H4480",
+        "H1931",
+        "H4735"
+      ]
+    },
+    {
+      "verse": "39",
+      "text": "Cuando son pocos, reducidos por el dolor, la miseria y la opresión.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H4591",
+        "H5921",
+        "H1931",
+        "H3015",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H3906"
+      ]
+    },
+    {
+      "verse": "40",
+      "text": "Derrama su desprecio hacia sus líderes, haciéndolos vagar, perdidos en el desierto.",
+      "strong": [
+        "H8210",
+        "H1931",
+        "H1870",
+        "H1931",
+        "H0006",
+        "H5921",
+        "H5921",
+        "H4057"
+      ]
+    },
+    {
+      "verse": "41",
+      "text": "Pero Él saca al pobre de sus problemas, y hace a sus familias tan grandes como los rebaños.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3318",
+        "H0413",
+        "H1800",
+        "H4480",
+        "H1931",
+        "H1571",
+        "H6213",
+        "H7760",
+        "H1931",
+        "H4940",
+        "H3966",
+        "H1419",
+        "H4940",
+        "H0582",
+        "H5739"
+      ]
+    },
+    {
+      "verse": "42",
+      "text": "Los que viven en rectitud mirarán lo que está pasando y se alegrarán, pero los malvados serán silenciados.",
+      "strong": [
+        "H3605",
+        "H6310",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H7200",
+        "H3605",
+        "H6310",
+        "H2063",
+        "H5674",
+        "H1571",
+        "H3045",
+        "H3588",
+        "H3605",
+        "H5766"
+      ]
+    },
+    {
+      "verse": "43",
+      "text": "Aquellos que son sabios prestarán atención a esto, y meditarán en el gran amor de Dios.",
+      "strong": [
+        "H0479",
+        "H4310",
+        "H1961",
+        "H2450",
+        "H3068",
+        "H2063",
+        "H1571",
+        "H5921",
+        "H4310",
+        "H1419",
+        "H0160",
+        "H4480",
+        "H3068"
+      ]
+    }
+  ]
+}

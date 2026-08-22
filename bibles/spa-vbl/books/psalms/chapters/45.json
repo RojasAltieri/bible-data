@@ -1,1 +1,371 @@
-{"version":"spa-vbl","book":"psalms","chapter":45,"data":[{"verse":"1","text":"Fui movido a escribir sobre esto. Déjame compartir lo que he escrito para el rey. Lo que diré viene de la pluma de un hábil escritor."},{"verse":"2","text":"Eres más guapo que cualquier otro. Siempre hablas con tanta gracia, porque Dios te ha bendecido."},{"verse":"3","text":"¡Agita tu espada, gran guerrero! ¡Cabalga poderoso en gloria y majestad!"},{"verse":"4","text":"en tu camino majestuoso a la victoria, en defensa de la verdad, la humildad, y lo correcto, porque eres fuerte y puedes actuar de forma poderosa.45:4 Literalmente, “Que tu diestra enseñe tus obras temerosas”."},{"verse":"5","text":"Tus flechas perforan los corazones de tus enemigos; las naciones caen a tus pies."},{"verse":"6","text":"Tu trono viene de Dios, y permanecerá para siempre. El cetro con el que gobiernas es un cero de justicia."},{"verse":"7","text":"Tú amas lo que está bien y aborreces o malo. Por eso es que Dios, tu Dios, te ha puesto por encima de todos al ungirte con el aceite de la victoria."},{"verse":"8","text":"Tus mantos son perfumados con aloe, mirra y casia; te hace feliz la música que es tocada en instrumentos de cuerda en hermosos palacios decorados con marfil."},{"verse":"9","text":"Entre las mujeres nobles están las hijas del rey; la reina permanece detrás de ti en tu lado derecho, llevando joyería echa con oro refinado de Ofir."},{"verse":"10","text":"Escucha lo que tengo que decirte, hija;45:10 El salmista se dirige a la reina. presta atención, por favor. Olvídate de tu pueblo y tu familia."},{"verse":"11","text":"Que el rey te desea por tu hermosura; respétalo, porque él es tu Señor."},{"verse":"12","text":"El pueblo45:12 Literalmente, “la hija”. de Tiro vendrá con regalos; la gente rica buscará tu favor."},{"verse":"13","text":"Dentro de su preparación, la princesa luce hermosa con su vestido de oro."},{"verse":"14","text":"Vistiendo sus hermosas ropas ella es traída al rey, seguida por sus damas de honor."},{"verse":"15","text":"¡Qué procesión tan feliz y alegre entra al palacio del rey!"},{"verse":"16","text":"Tus hijos tomarán el lugar de tu padre; como princesa los harás gobernadores sobre la tierra."},{"verse":"17","text":"Por mis palabras45:17 Implícito. Evidentemente el salmista no viviría a través de todas las generaciones. serás famosa a través de las generaciones, y las naciones te adorarán para siempre."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 45,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Fui movido a escribir sobre esto. Déjame compartir lo que he escrito para el rey. Lo que diré viene de la pluma de un hábil escritor.",
+      "strong": [
+        "H1961",
+        "H5921",
+        "H3789",
+        "H5921",
+        "H2063",
+        "H7971",
+        "H5921",
+        "H5921",
+        "H4392",
+        "H3789",
+        "H5921",
+        "H5921",
+        "H4428",
+        "H5921",
+        "H5921",
+        "H0559",
+        "H0935",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H2450"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Eres más guapo que cualquier otro. Siempre hablas con tanta gracia, porque Dios te ha bendecido.",
+      "strong": [
+        "H0859",
+        "H5750",
+        "H1697",
+        "H3605",
+        "H0259",
+        "H5769",
+        "H5973",
+        "H2580",
+        "H4428",
+        "H0430",
+        "H0859",
+        "H3541"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Agita tu espada, gran guerrero! ¡Cabalga poderoso en gloria y majestad!",
+      "strong": [
+        "H0859",
+        "H2719",
+        "H1419",
+        "H7392",
+        "H1368",
+        "H5921",
+        "H3519",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "en tu camino majestuoso a la victoria, en defensa de la verdad, la humildad, y lo correcto, porque eres fuerte y puedes actuar de forma poderosa.",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H1870",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0571",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0859",
+        "H1368",
+        "H5921",
+        "H3546",
+        "H5921",
+        "H8389",
+        "H1368"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tus flechas perforan los corazones de tus enemigos; las naciones caen a tus pies.",
+      "strong": [
+        "H0859",
+        "H5921",
+        "H3824",
+        "H5921",
+        "H0859",
+        "H0341",
+        "H5921",
+        "H1471",
+        "H7901",
+        "H5921",
+        "H0859",
+        "H7272"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Tu trono viene de Dios, y permanecerá para siempre. El cetro con el que gobiernas es un cero de justicia.",
+      "strong": [
+        "H0859",
+        "H3678",
+        "H0935",
+        "H8478",
+        "H0430",
+        "H1571",
+        "H5975",
+        "H5971",
+        "H5769",
+        "H5307",
+        "H7626",
+        "H5973",
+        "H5307",
+        "H5971",
+        "H1961",
+        "H0259",
+        "H8478",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tú amas lo que está bien y aborreces o malo. Por eso es que Dios, tu Dios, te ha puesto por encima de todos al ungirte con el aceite de la victoria.",
+      "strong": [
+        "H0859",
+        "H0157",
+        "H1931",
+        "H0834",
+        "H2063",
+        "H2896",
+        "H1571",
+        "H8130",
+        "H0176",
+        "H7451",
+        "H5703",
+        "H3651",
+        "H1961",
+        "H0834",
+        "H0430",
+        "H0859",
+        "H0430",
+        "H0859",
+        "H3541",
+        "H3588",
+        "H5703",
+        "H4605",
+        "H4480",
+        "H3605",
+        "H0413",
+        "H5973",
+        "H1931",
+        "H8081",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Tus mantos son perfumados con aloe, mirra y casia; te hace feliz la música que es tocada en instrumentos de cuerda en hermosos palacios decorados con marfil.",
+      "strong": [
+        "H0859",
+        "H1961",
+        "H5921",
+        "H4753",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H7892",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H3627",
+        "H5921",
+        "H5921",
+        "H4998",
+        "H0759",
+        "H5921",
+        "H8143"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Entre las mujeres nobles están las hijas del rey; la reina permanece detrás de ti en tu lado derecho, llevando joyería echa con oro refinado de Ofir.",
+      "strong": [
+        "H4480",
+        "H1992",
+        "H0802",
+        "H7991",
+        "H1961",
+        "H1992",
+        "H1323",
+        "H4480",
+        "H4428",
+        "H3605",
+        "H4427",
+        "H5975",
+        "H0310",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H0859",
+        "H3802",
+        "H3233",
+        "H5375",
+        "H1644",
+        "H4480",
+        "H2091",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Escucha lo que tengo que decirte, hija; presta atención, por favor. Olvídate de tu pueblo y tu familia.",
+      "strong": [
+        "H0238",
+        "H1931",
+        "H1323",
+        "H2803",
+        "H1323",
+        "H1323",
+        "H4428",
+        "H7522",
+        "H4480",
+        "H0859",
+        "H5971",
+        "H1571",
+        "H0859",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Que el rey te desea por tu hermosura; respétalo, porque él es tu Señor.",
+      "strong": [
+        "H5971",
+        "H1931",
+        "H4428",
+        "H0859",
+        "H2654",
+        "H5921",
+        "H0859",
+        "H3308",
+        "H3588",
+        "H1931",
+        "H1961",
+        "H0859",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El pueblo de Tiro vendrá con regalos; la gente rica buscará tu favor.",
+      "strong": [
+        "H1931",
+        "H5971",
+        "H3588",
+        "H6865",
+        "H0935",
+        "H3588",
+        "H1931",
+        "H1471",
+        "H7227",
+        "H1245",
+        "H0859",
+        "H7522"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Dentro de su preparación, la princesa luce hermosa con su vestido de oro.",
+      "strong": [
+        "H6440",
+        "H6440",
+        "H1931",
+        "H1931",
+        "H3303",
+        "H5973",
+        "H1931",
+        "H3847",
+        "H6440",
+        "H2470"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Vistiendo sus hermosas ropas ella es traída al rey, seguida por sus damas de honor.",
+      "strong": [
+        "H1931",
+        "H2896",
+        "H0899",
+        "H3605",
+        "H1961",
+        "H4428",
+        "H4428",
+        "H4428",
+        "H1931",
+        "H8282",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "¡Qué procesión tan feliz y alegre entra al palacio del rey!",
+      "strong": [
+        "H0834",
+        "H3966",
+        "H1571",
+        "H8056",
+        "H0935",
+        "H4428",
+        "H4480",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Tus hijos tomarán el lugar de tu padre; como princesa los harás gobernadores sobre la tierra.",
+      "strong": [
+        "H0859",
+        "H1121",
+        "H3947",
+        "H1931",
+        "H4725",
+        "H4480",
+        "H0859",
+        "H0001",
+        "H0349",
+        "H0582",
+        "H6213",
+        "H0324",
+        "H5921",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Por mis palabras serás famosa a través de las generaciones, y las naciones te adorarán para siempre.",
+      "strong": [
+        "H8478",
+        "H0589",
+        "H1697",
+        "H1961",
+        "H8478",
+        "H8478",
+        "H1992",
+        "H1755",
+        "H1571",
+        "H1992",
+        "H1471",
+        "H0859",
+        "H1961",
+        "H3605"
+      ]
+    }
+  ]
+}

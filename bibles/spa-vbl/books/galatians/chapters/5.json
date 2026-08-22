@@ -1,1 +1,549 @@
-{"version":"spa-vbl","book":"galatians","chapter":5,"data":[{"verse":"1","text":"Cristo nos libertó para que pudiéramos tener verdadera libertad. Así que estén firmes y no se agobien nuevamente por el yugo de la esclavitud."},{"verse":"2","text":"Permítanme decirles francamente: si dependen del camino de la circuncisión, Cristo no les será de beneficio en absoluto."},{"verse":"3","text":"Permítanme repetir: todo hombre que es circuncidado tiene que cumplir toda la ley."},{"verse":"4","text":"Los que entre ustedes creen que pueden ser justificados por la ley, están separados de Cristo y han abandonado la gracia."},{"verse":"5","text":"Porque por medio del Espíritu creemos y aguardamos la esperanza de ser justificados."},{"verse":"6","text":"Porque en Cristo Jesús, ser circuncidado o no circuncidado no logra nada; lo único que importa es la fe que obra por el amor."},{"verse":"7","text":"¡Lo estaban haciendo muy bien! ¿Quién se interpuso en el camino y les impidió convencerse de la verdad?"},{"verse":"8","text":"Esta “persuasión” sin duda no proviene de Aquél que los llama."},{"verse":"9","text":"Ustedes solo necesitan un poco de levadura para que crezca toda la masa."},{"verse":"10","text":"Estoy seguro en el Señor que ustedes no cambiarán su manera de pensar, y que el que los está confundiendo afrontará las consecuencias,5:10 O, “juicio”. quienquiera que sea."},{"verse":"11","text":"En cuanto a mí, hermanos y hermanas, si aún estamos en favor de la circuncisión, ¿por qué me siguen persiguiendo? Si eso fuera cierto, eliminaría el tema de la cruz, que tanto ofende a la gente."},{"verse":"12","text":"¡Ojalá quienes los agobian fueran más allá de la circuncisión y se castraran!5:12 No debe tomarse de manera literal, por supuesto, sino simbólicamente, llevando la filosofía de la circuncisión al extremo."},{"verse":"13","text":"¡Ustedes, mis hermanos y hermanas, fueron llamados para ser libres! Simplemente no usen su libertad como excusa para satisfacer su naturaleza pecaminosa. En lugar de ello, sírvanse unos a otros en amor."},{"verse":"14","text":"Pues toda la ley se resume en este mandamiento: “Amarás a tu prójimo como a ti mismo”.5:14. Citando Levítico 19:18."},{"verse":"15","text":"Pero si se atacan y se destruyen unos a otros, cuídense de no destruirse ustedes mismos por completo."},{"verse":"16","text":"Mi consejo es que caminen por el Espíritu. No satisfagan los deseos de su naturaleza pecaminosa."},{"verse":"17","text":"Porque los deseos de la naturaleza pecaminosa son contrarios al Espíritu, y los deseos del Espíritu son opuestos a la naturaleza pecaminosa. Se pelean entre sí, de modo que ustedes no hacen lo que quieren hacer."},{"verse":"18","text":"Pero si el Espíritu los guía, no están bajo la ley."},{"verse":"19","text":"Es claro lo que la naturaleza pecaminosa trae como resultado: inmoralidad sexual, indecencia, sensualidad,"},{"verse":"20","text":"idolatría, hechicería, odio, rivalidad, celos, rabia, ambición egoísta, disensión, herejía,"},{"verse":"21","text":"envidia, embriaguez, banquetes, y cosas semejantes. Tal como les advertí antes, les vuelvo a advertir: ninguna persona que se comporte de esta manera heredará el reino de Dios."},{"verse":"22","text":"Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe,"},{"verse":"23","text":"mansedumbre y dominio propio. ¡No hay ley que se oponga a estas cosas!"},{"verse":"24","text":"Los que pertenecen a Cristo han clavado en la cruz su naturaleza humana pecaminosa, junto con todas sus pasiones y deseos pecaminosos."},{"verse":"25","text":"Si vivimos en el Espíritu debemos caminar también en el Espíritu."},{"verse":"26","text":"No nos volvamos jactanciosos, ni nos irritemos unos a otros, ni tengamos envidia unos de otros."}]}
+{
+  "version": "spa-vbl",
+  "book": "galatians",
+  "chapter": 5,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Cristo nos libertó para que pudiéramos tener verdadera libertad. Así que estén firmes y no se agobien nuevamente por el yugo de la esclavitud.",
+      "strong": [
+        "G5547",
+        "H0587",
+        "G3361",
+        "G3588",
+        "H1961",
+        "H0571",
+        "G1657",
+        "G2532",
+        "G3588",
+        "H1961",
+        "G4739",
+        "G2532",
+        "G3361",
+        "G2532",
+        "G3588",
+        "G3588",
+        "G2218",
+        "G3588",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Permítanme decirles francamente: si dependen del camino de la circuncisión, Cristo no les será de beneficio en absoluto.",
+      "strong": [
+        "G1437",
+        "H4480",
+        "H1870",
+        "G3754",
+        "H1931",
+        "G5547",
+        "G3762",
+        "H0413",
+        "H1961",
+        "G3754",
+        "G3754"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Permítanme repetir: todo hombre que es circuncidado tiene que cumplir toda la ley.",
+      "strong": [
+        "G3956",
+        "H0376",
+        "G3754",
+        "H1961",
+        "G4059",
+        "H3426",
+        "G3754",
+        "G3956",
+        "G3588",
+        "G3551"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Los que entre ustedes creen que pueden ser justificados por la ley, están separados de Cristo y han abandonado la gracia.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G1722",
+        "G3588",
+        "H3201",
+        "H5315",
+        "G1344",
+        "G1722",
+        "G3588",
+        "G3551",
+        "H1961",
+        "G1722",
+        "G5547",
+        "G3551",
+        "H4191",
+        "G3588",
+        "G5485"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Porque por medio del Espíritu creemos y aguardamos la esperanza de ser justificados.",
+      "strong": [
+        "G1063",
+        "G1537",
+        "H8432",
+        "G1537",
+        "G4151",
+        "G1063",
+        "H6822",
+        "G1537",
+        "G1680",
+        "G1537",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Porque en Cristo Jesús, ser circuncidado o no circuncidado no logra nada; lo único que importa es la fe que obra por el amor.",
+      "strong": [
+        "G1063",
+        "G1722",
+        "G5547",
+        "G2424",
+        "H5315",
+        "G4061",
+        "H0176",
+        "G3777",
+        "G4061",
+        "G3777",
+        "G5100",
+        "H1931",
+        "H3173",
+        "G1063",
+        "H1961",
+        "H1931",
+        "G4102",
+        "G1063",
+        "G1754",
+        "G1223",
+        "G5100",
+        "H0160"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¡Lo estaban haciendo muy bien! ¿Quién se interpuso en el camino y les impidió convencerse de la verdad?",
+      "strong": [
+        "G5101",
+        "H1961",
+        "H6213",
+        "H3966",
+        "G2573",
+        "G5101",
+        "H3045",
+        "H5921",
+        "H1931",
+        "H1870",
+        "H1571",
+        "H0413",
+        "H4513",
+        "H4480",
+        "H1931",
+        "H0571"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Esta “persuasión” sin duda no proviene de Aquél que los llama.",
+      "strong": [
+        "G3588",
+        "G3988",
+        "G3756",
+        "G3756",
+        "G1537",
+        "G3588",
+        "G3588",
+        "G3588",
+        "G2564"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Ustedes solo necesitan un poco de levadura para que crezca toda la masa.",
+      "strong": [
+        "H0910",
+        "G3588",
+        "H4592",
+        "G3588",
+        "G2219",
+        "H5704",
+        "G3588",
+        "H0834",
+        "G3650",
+        "G3588",
+        "G5445"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Estoy seguro en el Señor que ustedes no cambiarán su manera de pensar, y que el que los está confundiendo afrontará las consecuencias, quienquiera que sea.",
+      "strong": [
+        "G1510",
+        "H0983",
+        "G1722",
+        "G3588",
+        "G2962",
+        "G3754",
+        "G3762",
+        "G3588",
+        "H7235",
+        "G1722",
+        "G1161",
+        "G3754",
+        "G3588",
+        "G3754",
+        "G3588",
+        "G3588",
+        "G3588",
+        "G3748",
+        "G3754",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "En cuanto a mí, hermanos y hermanas, si aún estamos en favor de la circuncisión, ¿por qué me siguen persiguiendo? Si eso fuera cierto, eliminaría el tema de la cruz, que tanto ofende a la gente.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G1161",
+        "G3588",
+        "H0251",
+        "G1161",
+        "H0269",
+        "G1487",
+        "G2089",
+        "H3427",
+        "G3588",
+        "H7522",
+        "G3588",
+        "G3588",
+        "G4061",
+        "G3588",
+        "G3588",
+        "G1473",
+        "H1980",
+        "G1487",
+        "H3651",
+        "H2351",
+        "H3588",
+        "G3588",
+        "H3372",
+        "G3588",
+        "G3588",
+        "G4716",
+        "G3588",
+        "H3651",
+        "G1161",
+        "G3588",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¡Ojalá quienes los agobian fueran más allá de la circuncisión y se castraran!",
+      "strong": [
+        "G3785",
+        "H4310",
+        "G3588",
+        "G2532",
+        "H8033",
+        "G3588",
+        "G3588",
+        "G2532",
+        "G2532"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¡Ustedes, mis hermanos y hermanas, fueron llamados para ser libres! Simplemente no usen su libertad como excusa para satisfacer su naturaleza pecaminosa. En lugar de ello, sírvanse unos a otros en amor.",
+      "strong": [
+        "H0589",
+        "H0251",
+        "G1063",
+        "H0269",
+        "H1961",
+        "G2564",
+        "G1519",
+        "H5315",
+        "H2670",
+        "G3361",
+        "G3588",
+        "G1657",
+        "G1519",
+        "G1519",
+        "G3588",
+        "G1519",
+        "H4725",
+        "G1909",
+        "H1931",
+        "G3588",
+        "G1519",
+        "G3588",
+        "G1519",
+        "H0160"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Pues toda la ley se resume en este mandamiento: “Amarás a tu prójimo como a ti mismo”.",
+      "strong": [
+        "G1063",
+        "G3956",
+        "G3588",
+        "G3551",
+        "H3045",
+        "G1722",
+        "G3588",
+        "H2942",
+        "H0157",
+        "G1722",
+        "G4771",
+        "G4139",
+        "G5613",
+        "G1722",
+        "G4572",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Pero si se atacan y se destruyen unos a otros, cuídense de no destruirse ustedes mismos por completo.",
+      "strong": [
+        "G1161",
+        "G1487",
+        "G2532",
+        "G2532",
+        "G2532",
+        "H0428",
+        "G1161",
+        "G5259",
+        "G5259",
+        "G3361",
+        "H1992",
+        "G5259"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Mi consejo es que caminen por el Espíritu. No satisfagan los deseos de su naturaleza pecaminosa.",
+      "strong": [
+        "H0589",
+        "H6098",
+        "G3756",
+        "G2532",
+        "G1161",
+        "G1161",
+        "G4151",
+        "G3756",
+        "G2532",
+        "G1939",
+        "G1161",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Porque los deseos de la naturaleza pecaminosa son contrarios al Espíritu, y los deseos del Espíritu son opuestos a la naturaleza pecaminosa. Se pelean entre sí, de modo que ustedes no hacen lo que quieren hacer.",
+      "strong": [
+        "G1063",
+        "G3588",
+        "G2596",
+        "G3588",
+        "H1961",
+        "G3588",
+        "G4151",
+        "G1161",
+        "G3588",
+        "G3588",
+        "G4151",
+        "H1961",
+        "G2596",
+        "G3588",
+        "H3045",
+        "H3898",
+        "G2596",
+        "G1437",
+        "G2596",
+        "H5352",
+        "G3588",
+        "G3361",
+        "G4160",
+        "G3588",
+        "G3588",
+        "G2309",
+        "G4160"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Pero si el Espíritu los guía, no están bajo la ley.",
+      "strong": [
+        "G1161",
+        "G1487",
+        "G1161",
+        "G4151",
+        "H0582",
+        "H5090",
+        "G3756",
+        "H1961",
+        "G5259",
+        "H1931",
+        "G3551"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Es claro lo que la naturaleza pecaminosa trae como resultado: inmoralidad sexual, indecencia, sensualidad,",
+      "strong": [
+        "H1961",
+        "H0216",
+        "G3588",
+        "G3588",
+        "G3588",
+        "H0935",
+        "H0349"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "idolatría, hechicería, odio, rivalidad, celos, rabia, ambición egoísta, disensión, herejía,",
+      "strong": [
+        "G1495",
+        "H4895",
+        "G2205"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "envidia, embriaguez, banquetes, y cosas semejantes. Tal como les advertí antes, les vuelvo a advertir: ninguna persona que se comporte de esta manera heredará el reino de Dios.",
+      "strong": [
+        "G5355",
+        "G3178",
+        "H4960",
+        "G2532",
+        "G3739",
+        "G3664",
+        "G5108",
+        "G2531",
+        "H0413",
+        "G2532",
+        "H0413",
+        "H7592",
+        "G3664",
+        "G3756",
+        "H5315",
+        "G3754",
+        "G2532",
+        "G3588",
+        "G3778",
+        "H7235",
+        "G2816",
+        "G3588",
+        "H4427",
+        "G3588",
+        "G2316"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe,",
+      "strong": [
+        "G1161",
+        "G3588",
+        "G2590",
+        "G3588",
+        "G4151",
+        "H1961",
+        "H0160",
+        "G5479",
+        "G1515",
+        "G3115",
+        "G5544",
+        "G5544",
+        "G4102"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "mansedumbre y dominio propio. ¡No hay ley que se oponga a estas cosas!",
+      "strong": [
+        "G4240",
+        "G1510",
+        "G3756",
+        "G3588",
+        "G3551",
+        "G3588",
+        "H3045",
+        "G2596",
+        "G3588",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los que pertenecen a Cristo han clavado en la cruz su naturaleza humana pecaminosa, junto con todas sus pasiones y deseos pecaminosos.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G1161",
+        "G5547",
+        "H4191",
+        "G3588",
+        "G3588",
+        "G3588",
+        "G4561",
+        "H5921",
+        "G4862",
+        "H3605",
+        "G3588",
+        "G2532",
+        "G1939"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Si vivimos en el Espíritu debemos caminar también en el Espíritu.",
+      "strong": [
+        "G1487",
+        "G2198",
+        "G2532",
+        "G1487",
+        "G4151",
+        "G2532",
+        "G2532",
+        "G1487",
+        "G4151"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "No nos volvamos jactanciosos, ni nos irritemos unos a otros, ni tengamos envidia unos de otros.",
+      "strong": [
+        "G3361",
+        "H0587",
+        "H7725",
+        "G3361",
+        "H0587",
+        "H0428",
+        "H0413",
+        "H0312",
+        "G3361",
+        "H1961",
+        "H7065",
+        "H0428",
+        "H4480",
+        "H0312"
+      ]
+    }
+  ]
+}

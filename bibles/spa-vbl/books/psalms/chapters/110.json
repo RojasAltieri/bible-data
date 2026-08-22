@@ -1,1 +1,159 @@
-{"version":"spa-vbl","book":"psalms","chapter":110,"data":[{"verse":"1","text":"El Señor dijo a mi Señor,110:1 “My Lord”: en la época del Nuevo Testamento esto se aplicaba al Mesías, pero no se hace explícito en este texto. (Ver como ejemplo: Mateo 22:41-46; Marcos 12:35-37; Lucas 20:41-44). “Siéntate a mi derecha, hasta que haga de tus enemigos un estrado para ti”.110:1 “Estrado”: Símbolo de sumisión."},{"verse":"2","text":"El Señor extenderá tu poderío desde Sión; y gobernarás sobre tus enemigos."},{"verse":"3","text":"Tu pueblo te seguirá en el día en que tu poder sea revelado en las montañas santas, renovado en fuerza cada mañana como el rocío al amanecer.110:3 Este versículo tiene muchos problemas en la traducción, particularmente al final. Literalmente: “desde el útero, desde el amanecer, hasta ti, el rocío de nuestra juventud”."},{"verse":"4","text":"El Señor ha hecho un pacto que no romperá: “Eres un sacerdote para siempre, siguiendo la orden de Melquisedec”."},{"verse":"5","text":"El Señor permanece a tu lado para apoyarte; derribará a reyes en su ira."},{"verse":"6","text":"Ejecutará juicios en las naciones, llenando sus tierras con cadáveres. Derrotará a los que gobiernan toda la tierra."},{"verse":"7","text":"Él110:7 Refiriénfose al rey. Se hace explícito en el versículo 2, no el Señor Dios. beberá de arroyos ante el camino.110:7 En otras palabras, el rey será refrescado.  Por lo tanto,110:7 “Por lo tanto”: queriendo decir que esto es por todas las razones citadas en el salmo.  será victorioso."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 110,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El Señor dijo a mi Señor, “Siéntate a mi derecha, hasta que haga de tus enemigos un estrado para ti”.",
+      "strong": [
+        "H3427",
+        "H3068",
+        "H5002",
+        "H5704",
+        "H0589",
+        "H3068",
+        "H3427",
+        "H5704",
+        "H0589",
+        "H3225",
+        "H5704",
+        "H5704",
+        "H6213",
+        "H5704",
+        "H0859",
+        "H0341",
+        "H0259",
+        "H1916",
+        "H5704",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El Señor extenderá tu poderío desde Sión; y gobernarás sobre tus enemigos.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H7971",
+        "H0859",
+        "H1935",
+        "H4480",
+        "H6726",
+        "H5797",
+        "H5921",
+        "H0859",
+        "H0341"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Tu pueblo te seguirá en el día en que tu poder sea revelado en las montañas santas, renovado en fuerza cada mañana como el rocío al amanecer.",
+      "strong": [
+        "H0859",
+        "H5971",
+        "H0859",
+        "H5921",
+        "H1931",
+        "H3117",
+        "H5921",
+        "H5971",
+        "H0859",
+        "H3027",
+        "H1961",
+        "H5046",
+        "H5921",
+        "H1992",
+        "H6944",
+        "H5921",
+        "H3581",
+        "H3117",
+        "H4279",
+        "H0349",
+        "H1931",
+        "H2919",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El Señor ha hecho un pacto que no romperá: “Eres un sacerdote para siempre, siguiendo la orden de Melquisedec”.",
+      "strong": [
+        "H5921",
+        "H3068",
+        "H3808",
+        "H6213",
+        "H0259",
+        "H1285",
+        "H3808",
+        "H3808",
+        "H6605",
+        "H0859",
+        "H0259",
+        "H3548",
+        "H5921",
+        "H5769",
+        "H0310",
+        "H5921",
+        "H2905",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El Señor permanece a tu lado para apoyarte; derribará a reyes en su ira.",
+      "strong": [
+        "H5921",
+        "H0113",
+        "H5975",
+        "H5921",
+        "H0859",
+        "H3802",
+        "H5921",
+        "H8214",
+        "H5921",
+        "H4428",
+        "H5921",
+        "H1931",
+        "H2534"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Ejecutará juicios en las naciones, llenando sus tierras con cadáveres. Derrotará a los que gobiernan toda la tierra.",
+      "strong": [
+        "H6213",
+        "H4941",
+        "H5921",
+        "H5921",
+        "H1471",
+        "H1931",
+        "H0776",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él beberá de arroyos ante el camino. Por lo tanto, será victorioso.",
+      "strong": [
+        "H5921",
+        "H8354",
+        "H5921",
+        "H5158",
+        "H6440",
+        "H5921",
+        "H1870",
+        "H5921",
+        "H5921",
+        "H3651",
+        "H1961"
+      ]
+    }
+  ]
+}

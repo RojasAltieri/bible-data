@@ -1,1 +1,230 @@
-{"version":"spa-vbl","book":"psalms","chapter":60,"data":[{"verse":"1","text":"¡Tú, Dios, nos has rechazado! ¡Nos has quebrantado, te has enojado con nosotros; pero ahora nos recibes nuevamente!60:1 Literalmente, “restauras”."},{"verse":"2","text":"Has enviado terremotos a nuestra tierra y la has dividido. Ahora sana las grietas porque la tierra todavía tiene temblores."},{"verse":"3","text":"Has sido muy duro con tu pueblo; nos diste un vino que nos hizo tambalear."},{"verse":"4","text":"Pero a los que te respetan les has dado el estandarte de la verdad para desplegarse y unirse.60:4 En el hebreo no está claro y se presta para multiples interpretaciones. Selah. ¡Rescata a los que amas!"},{"verse":"5","text":"¡Respóndenos, y sálvanos con tu poder!"},{"verse":"6","text":"Dios ha hablado desde su tiempo: “He dividido a Síquem triunfantemente, y parte del valle de Sucot.60:6 Esto posiblemente se refiere a la division del país cuando los israelistas entraron a la tierra prometida."},{"verse":"7","text":"Tanto Gilead como Manasés me pertenecen. Efraín es mi casco, y Judá es mi cetro.60:7 Efraín era una tribu de muchos guerreros, y se le considera sinónimo del reino del norte; mientras que Judá era la tribu de donde venían los reyes, y simbolizaba al reino del sur."},{"verse":"8","text":"Trataré a Moab como mi lavabo; pondré mi sandalia sobre Edom; gritaré en triunfo sobre Filistia”.60:8 Todos estos son símbolos de victoria y sometimiento."},{"verse":"9","text":"¿Quién me traerá a la ciudad fortificada? ¿Quién me guiará a Edom? 60:9 Ya que es improbable que el que habla en estas líneas sea de Dios, se conjetura que es el rey el que habla. La ciudad fortificada probablemente es Selá, la capital de Edom, que más tarde se llamó Petra."},{"verse":"10","text":"¿Nos has rechazado, Dios? ¿No dirigirás a tus ejércitos?"},{"verse":"11","text":"Por favor una mano de ayuda en contra de nuestros enemigos, porque la ayuda humana no vale la pena.60:11 Literalmente, “la ayuda del hombre es en vano”."},{"verse":"12","text":"Nuestra fuerza está en Dios, y él destruirá a nuestros enemigos."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 60,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Tú, Dios, nos has rechazado! ¡Nos has quebrantado, te has enojado con nosotros; pero ahora nos recibes nuevamente!",
+      "strong": [
+        "H0859",
+        "H0430",
+        "H5921",
+        "H4191",
+        "H5921",
+        "H4191",
+        "H7665",
+        "H5921",
+        "H4191",
+        "H7107",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H6258",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Has enviado terremotos a nuestra tierra y la has dividido. Ahora sana las grietas porque la tierra todavía tiene temblores.",
+      "strong": [
+        "H4191",
+        "H7971",
+        "H0413",
+        "H0587",
+        "H0776",
+        "H1571",
+        "H1931",
+        "H4191",
+        "H6258",
+        "H7495",
+        "H1992",
+        "H3588",
+        "H1931",
+        "H0776",
+        "H5750",
+        "H3426"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Has sido muy duro con tu pueblo; nos diste un vino que nos hizo tambalear.",
+      "strong": [
+        "H4191",
+        "H1961",
+        "H3966",
+        "H7186",
+        "H5973",
+        "H0859",
+        "H5971",
+        "H0587",
+        "H5414",
+        "H0259",
+        "H0935",
+        "H0834",
+        "H0587",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero a los que te respetan les has dado el estandarte de la verdad para desplegarse y unirse. Selah. ¡Rescata a los que amas!",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0413",
+        "H4191",
+        "H5414",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0571",
+        "H3588",
+        "H3588",
+        "H5542",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0157"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¡Respóndenos, y sálvanos con tu poder!",
+      "strong": [
+        "H6030",
+        "H1571",
+        "H3467",
+        "H5973",
+        "H0859",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Dios ha hablado desde su tiempo: “He dividido a Síquem triunfantemente, y parte del valle de Sucot.",
+      "strong": [
+        "H0430",
+        "H3541",
+        "H1696",
+        "H6440",
+        "H1931",
+        "H6256",
+        "H4392",
+        "H6440",
+        "H1571",
+        "H2677",
+        "H4480",
+        "H1516",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tanto Gilead como Manasés me pertenecen. Efraín es mi casco, y Judá es mi cetro.",
+      "strong": [
+        "H3651",
+        "H0349",
+        "H4519",
+        "H0413",
+        "H1961",
+        "H0589",
+        "H1571",
+        "H3063",
+        "H1961",
+        "H0589",
+        "H7626"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Trataré a Moab como mi lavabo; pondré mi sandalia sobre Edom; gritaré en triunfo sobre Filistia”.",
+      "strong": [
+        "H0413",
+        "H4124",
+        "H0349",
+        "H0589",
+        "H7760",
+        "H0589",
+        "H5921",
+        "H0123",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¿Quién me traerá a la ciudad fortificada? ¿Quién me guiará a Edom?",
+      "strong": [
+        "H4310",
+        "H0413",
+        "H0935",
+        "H0413",
+        "H1931",
+        "H5892",
+        "H4310",
+        "H0413",
+        "H0413",
+        "H0123"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Nos has rechazado, Dios? ¿No dirigirás a tus ejércitos?",
+      "strong": [
+        "H5921",
+        "H4191",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H0859",
+        "H6635"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Por favor una mano de ayuda en contra de nuestros enemigos, porque la ayuda humana no vale la pena.",
+      "strong": [
+        "H5704",
+        "H7522",
+        "H0259",
+        "H3027",
+        "H5704",
+        "H5828",
+        "H5704",
+        "H5921",
+        "H5704",
+        "H0587",
+        "H0341",
+        "H3588",
+        "H1931",
+        "H5828",
+        "H0376",
+        "H3808",
+        "H2896",
+        "H1931",
+        "H0068"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Nuestra fuerza está en Dios, y él destruirá a nuestros enemigos.",
+      "strong": [
+        "H0587",
+        "H3581",
+        "H2063",
+        "H3318",
+        "H0430",
+        "H1571",
+        "H1931",
+        "H7843",
+        "H0413",
+        "H0587",
+        "H0341"
+      ]
+    }
+  ]
+}

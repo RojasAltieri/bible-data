@@ -1,1 +1,369 @@
-{"version":"spa-vbl","book":"psalms","chapter":115,"data":[{"verse":"1","text":"No para nosotros, Señor, no para nosotros, sino para ti Señor, toda la gloria debe ser dada, por tu gran amor y verdad."},{"verse":"2","text":"Por qué deberían las naciones paganas preguntar, “¿Dónde está tu Dios?”"},{"verse":"3","text":"Nuestro Dios está en el cielo, y Él hace lo que quiere."},{"verse":"4","text":"Sus ídolos son solo objetos hechos de plata y de oro por manos humanas."},{"verse":"5","text":"Tienen bocas, pero no pueden hablar. Tienen ojos, pero no pueden ver."},{"verse":"6","text":"Tienen oídos, pero no pueden oír. Tienen narices, pero no pueden oler."},{"verse":"7","text":"Tienen manos, pero no pueden sentir. Tienen pies, pero no pueden caminar. Ni un solo sonido viene de sus gargantas.115:7 En otras palabras, no hay sonido en su respirar."},{"verse":"8","text":"Todos los que hacen ídolos se vuelven como ellos, y también pasa esto con los confían en ellos."},{"verse":"9","text":"Israel, ¡Confía en el Señor! Él es el único que te ayuda y te protege."},{"verse":"10","text":"Descendientes de Aarón, ¡confíen en el Señor! Él es el único que los protege y los ayuda."},{"verse":"11","text":"Aquellos que honran al Señor, ¡Confíen en el Señor! Él es el único que los protege y los salva."},{"verse":"12","text":"El Señor nos recordará y será bueno con nosotros. Él bendecirá a Israel, bendecirá a los descendientes de Aarón."},{"verse":"13","text":"El Señor bendecirá a todos los que lo adoran, quienesquiera que sean. 115:13 “Quienesquiera que sean”: Literalmente, “los pequeños con los grandes”."},{"verse":"14","text":"Que el Señor sea bueno contigo, contigo y con tus hijos."},{"verse":"15","text":"Que seas bendecido por el Señor que hizo los cielos y la tierra."},{"verse":"16","text":"Los cielos pertenecen al Señor, pero él le ha dado la tierra a la humanidad."},{"verse":"17","text":"La muerte no alaba al Señor, ni ninguno de aquellos que han descendido al silencio de la tumba"},{"verse":"18","text":"Pero nosotros, los que estamos vivos alabaremos al Señor desde ahora y para siempre. ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 115,
+  "data": [
+    {
+      "verse": "1",
+      "text": "No para nosotros, Señor, no para nosotros, sino para ti Señor, toda la gloria debe ser dada, por tu gran amor y verdad.",
+      "strong": [
+        "H3808",
+        "H5921",
+        "H5921",
+        "H3068",
+        "H3808",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H5921",
+        "H3519",
+        "H4135",
+        "H5315",
+        "H5414",
+        "H5921",
+        "H0859",
+        "H1419",
+        "H0160",
+        "H3588",
+        "H0571"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Por qué deberían las naciones paganas preguntar, “¿Dónde está tu Dios?”",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H1992",
+        "H1471",
+        "H0834",
+        "H2063",
+        "H0859",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Nuestro Dios está en el cielo, y Él hace lo que quiere.",
+      "strong": [
+        "H0587",
+        "H0430",
+        "H2063",
+        "H5921",
+        "H3605",
+        "H8064",
+        "H1571",
+        "H3605",
+        "H6213",
+        "H6213",
+        "H3605",
+        "H2654"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Sus ídolos son solo objetos hechos de plata y de oro por manos humanas.",
+      "strong": [
+        "H1931",
+        "H6091",
+        "H1961",
+        "H0910",
+        "H4639",
+        "H4480",
+        "H3701",
+        "H1571",
+        "H4480",
+        "H2091",
+        "H3027",
+        "H3027",
+        "H0120"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tienen bocas, pero no pueden hablar. Tienen ojos, pero no pueden ver.",
+      "strong": [
+        "H1992",
+        "H6310",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H1696",
+        "H1992",
+        "H5869",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H7200"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Tienen oídos, pero no pueden oír. Tienen narices, pero no pueden oler.",
+      "strong": [
+        "H1992",
+        "H8085",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H8085",
+        "H1992",
+        "H3588",
+        "H3808",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Tienen manos, pero no pueden sentir. Tienen pies, pero no pueden caminar. Ni un solo sonido viene de sus gargantas.",
+      "strong": [
+        "H1992",
+        "H3027",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H1992",
+        "H7272",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H3808",
+        "H0259",
+        "H0910",
+        "H6963",
+        "H1980",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Todos los que hacen ídolos se vuelven como ellos, y también pasa esto con los confían en ellos.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H1961",
+        "H6213",
+        "H0457",
+        "H1961",
+        "H7725",
+        "H3644",
+        "H3605",
+        "H1571",
+        "H1571",
+        "H5674",
+        "H6213",
+        "H5973",
+        "H3605",
+        "H5564",
+        "H5921",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Israel, ¡Confía en el Señor! Él es el único que te ayuda y te protege.",
+      "strong": [
+        "H3478",
+        "H0982",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3173",
+        "H1931",
+        "H0859",
+        "H5828",
+        "H1571",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Descendientes de Aarón, ¡confíen en el Señor! Él es el único que los protege y los ayuda.",
+      "strong": [
+        "H6631",
+        "H4480",
+        "H0175",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3173",
+        "H1931",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Aquellos que honran al Señor, ¡Confíen en el Señor! Él es el único que los protege y los salva.",
+      "strong": [
+        "H0479",
+        "H1931",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3173",
+        "H1931",
+        "H1931",
+        "H1571",
+        "H1931",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El Señor nos recordará y será bueno con nosotros. Él bendecirá a Israel, bendecirá a los descendientes de Aarón.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0587",
+        "H1571",
+        "H1961",
+        "H2896",
+        "H5973",
+        "H0587",
+        "H1931",
+        "H1288",
+        "H3068",
+        "H3478",
+        "H1288",
+        "H3068",
+        "H0582",
+        "H6631",
+        "H4480",
+        "H0175"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "El Señor bendecirá a todos los que lo adoran, quienesquiera que sean.",
+      "strong": [
+        "H5973",
+        "H3068",
+        "H1288",
+        "H5973",
+        "H3605",
+        "H5973",
+        "H0834",
+        "H1931",
+        "H7812",
+        "H0834",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Que el Señor sea bueno contigo, contigo y con tus hijos.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H3068",
+        "H1961",
+        "H2896",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0859",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Que seas bendecido por el Señor que hizo los cielos y la tierra.",
+      "strong": [
+        "H0834",
+        "H1961",
+        "H5921",
+        "H6213",
+        "H3068",
+        "H0834",
+        "H6213",
+        "H0582",
+        "H8064",
+        "H1571",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los cielos pertenecen al Señor, pero él le ha dado la tierra a la humanidad.",
+      "strong": [
+        "H1121",
+        "H8064",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H1121",
+        "H0413",
+        "H3541",
+        "H5414",
+        "H1931",
+        "H0776",
+        "H3068",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "La muerte no alaba al Señor, ni ninguno de aquellos que han descendido al silencio de la tumba",
+      "strong": [
+        "H3605",
+        "H4191",
+        "H3808",
+        "H1984",
+        "H0413",
+        "H0113",
+        "H3808",
+        "H3808",
+        "H4480",
+        "H3605",
+        "H3808",
+        "H4191",
+        "H0413",
+        "H4480",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Pero nosotros, los que estamos vivos alabaremos al Señor desde ahora y para siempre. ¡Alaben al Señor!",
+      "strong": [
+        "H3588",
+        "H0587",
+        "H0582",
+        "H6258",
+        "H3427",
+        "H2416",
+        "H5704",
+        "H0113",
+        "H5704",
+        "H6258",
+        "H5704",
+        "H5704",
+        "H5769",
+        "H1984",
+        "H5704",
+        "H0113"
+      ]
+    }
+  ]
+}

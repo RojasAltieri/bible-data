@@ -1,1 +1,420 @@
-{"version":"spa-vbl","book":"job","chapter":27,"data":[{"verse":"1","text":"Job comenzó a hablar de nuevo.27:1 Dado que los oradores se presentan antes de sus discursos, parece probable que las palabras anteriores (por ejemplo, 26:5-14) no sean de Job."},{"verse":"2","text":"“Les prometo que, mientras viva Dios, que me ha negado la justicia; el Todopoderoso, que me ha amargado la vida,"},{"verse":"3","text":"mientras tenga vida, mientras el aliento de Dios permanezca en mis fosas nasales,"},{"verse":"4","text":"mis labios nunca dirán mentiras, mi lengua nunca será deshonesta."},{"verse":"5","text":"Nunca aceptaré que tengan la razón; insistiré en mi inocencia hasta el día de mi muerte."},{"verse":"6","text":"Estoy convencido de que tengo razón y nunca dejaré de creerlo; mi conciencia27:6 Literalmente, “corazón”. no me condenará mientras viva."},{"verse":"7","text":"“Que mi enemigo se vuelva como los malvados; que los que se oponen a mí se vuelvan como los que hacen el mal."},{"verse":"8","text":"Porque, ¿qué esperanza tienen los que rechazan a Dios, cuando él los derribe, cuando Dios ponga fin a sus vidas?"},{"verse":"9","text":"Cuando les lleguen tiempos de angustia, ¿escuchará Dios su grito de auxilio?"},{"verse":"10","text":"¿Tienen una buena relación con el Todopoderoso? ¿Pueden invocar a Dios en cualquier momento?"},{"verse":"11","text":"Permítanme explicarles el poder de Dios. No voy a retener nada de lo que el Todopoderoso ha planeado."},{"verse":"12","text":"Si todos ustedes han reconocido esto, ¿por qué hablan de tonterías tan vanas?"},{"verse":"13","text":"“Esto es lo que Dios dispone como destino para los malvados, esta es la herencia que los despiadados recibirán del Todopoderoso,27:13 Los versículos 13-23 son controvertidos, ya que parecen ser una negación de lo que Job ya ha declarado. Sin embargo, puede estar sugiriendo irónicamente que esto es lo que les ocurrirá a sus consoladores, basándose en lo que ellos mismos creen."},{"verse":"14","text":"aunque tengan muchos hijos, experimentarán muertes violentas27:14 Literalmente, “Por espada”. o morirán de hambre."},{"verse":"15","text":"Los que sobrevivan morirán de enfermedad, y ni siquiera sus viudas se lamentarán por ellos."},{"verse":"16","text":"Aunque amontonen plata como polvo y ropa como montones de barro,"},{"verse":"17","text":"los que hacen el bien se pondrán la ropa y los inocentes se repartirán la plata."},{"verse":"18","text":"Construyen sus casas como la polilla;27:18 La polilla representa algo débil y frágil. como un endeble refugio hecho por un vigilante."},{"verse":"19","text":"Se acuestan ricos, pero nunca más. Porque cuando se despiertan, todo ha desaparecido."},{"verse":"20","text":"Olas de pánico los inundan; en la noche un torbellino los arrebata."},{"verse":"21","text":"El viento del este los levanta y se van, llevados lejos de donde estaban."},{"verse":"22","text":"El viento los golpea con toda su fuerza; intentan escapar desesperadamente."},{"verse":"23","text":"Las personas27:23 No está claro quién se representa aquí como sujeto: el viento, los seres humanos o Dios. La idea es que los malvados son objeto de burla y mofa. aplaudirles y sisearles allí donde estén”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 27,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Job comenzó a hablar de nuevo.",
+      "strong": [
+        "H0347",
+        "H2490",
+        "H0413",
+        "H1696",
+        "H4480",
+        "H2319"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“Les prometo que, mientras viva Dios, que me ha negado la justicia; el Todopoderoso, que me ha amargado la vida,",
+      "strong": [
+        "H0413",
+        "H0834",
+        "H5704",
+        "H2416",
+        "H0430",
+        "H0834",
+        "H0413",
+        "H3541",
+        "H1931",
+        "H4941",
+        "H1931",
+        "H7706",
+        "H0834",
+        "H0413",
+        "H3541",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "mientras tenga vida, mientras el aliento de Dios permanezca en mis fosas nasales,",
+      "strong": [
+        "H5750",
+        "H1961",
+        "H5315",
+        "H5750",
+        "H3588",
+        "H0553",
+        "H3588",
+        "H0430",
+        "H0539",
+        "H3588",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "mis labios nunca dirán mentiras, mi lengua nunca será deshonesta.",
+      "strong": [
+        "H0589",
+        "H8193",
+        "H3808",
+        "H0559",
+        "H3576",
+        "H0589",
+        "H3956",
+        "H3808",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Nunca aceptaré que tengan la razón; insistiré en mi inocencia hasta el día de mi muerte.",
+      "strong": [
+        "H3808",
+        "H4480",
+        "H1931",
+        "H7218",
+        "H4480",
+        "H0589",
+        "H5704",
+        "H1931",
+        "H3117",
+        "H4480",
+        "H0589",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Estoy convencido de que tengo razón y nunca dejaré de creerlo; mi conciencia no me condenará mientras viva.",
+      "strong": [
+        "H1961",
+        "H4480",
+        "H3808",
+        "H2803",
+        "H7218",
+        "H1571",
+        "H3808",
+        "H7971",
+        "H4480",
+        "H0589",
+        "H3808",
+        "H0413",
+        "H3198",
+        "H5704",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Que mi enemigo se vuelva como los malvados; que los que se oponen a mí se vuelvan como los que hacen el mal.",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H0341",
+        "H1961",
+        "H3254",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H0413",
+        "H1961",
+        "H1961",
+        "H7725",
+        "H1961",
+        "H1961",
+        "H1961",
+        "H6213",
+        "H1931",
+        "H7563"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Porque, ¿qué esperanza tienen los que rechazan a Dios, cuando él los derribe, cuando Dios ponga fin a sus vidas?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H8615",
+        "H1992",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0430",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0430",
+        "H7896",
+        "H7093",
+        "H3588",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Cuando les lleguen tiempos de angustia, ¿escuchará Dios su grito de auxilio?",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H5732",
+        "H5921",
+        "H6869",
+        "H8085",
+        "H0430",
+        "H3588",
+        "H7121",
+        "H5921",
+        "H5833"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Tienen una buena relación con el Todopoderoso? ¿Pueden invocar a Dios en cualquier momento?",
+      "strong": [
+        "H1992",
+        "H0259",
+        "H2896",
+        "H5921",
+        "H5921",
+        "H7706",
+        "H3201",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H3605",
+        "H7281"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Permítanme explicarles el poder de Dios. No voy a retener nada de lo que el Todopoderoso ha planeado.",
+      "strong": [
+        "H5973",
+        "H3027",
+        "H5973",
+        "H0430",
+        "H3808",
+        "H1980",
+        "H5973",
+        "H6113",
+        "H3808",
+        "H5973",
+        "H3808",
+        "H3808",
+        "H5973",
+        "H7706",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Si todos ustedes han reconocido esto, ¿por qué hablan de tonterías tan vanas?",
+      "strong": [
+        "H2005",
+        "H3605",
+        "H4191",
+        "H2088",
+        "H2088",
+        "H4100",
+        "H1696",
+        "H4480",
+        "H3966",
+        "H7723"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "“Esto es lo que Dios dispone como destino para los malvados, esta es la herencia que los despiadados recibirán del Todopoderoso,",
+      "strong": [
+        "H2088",
+        "H2088",
+        "H2088",
+        "H2088",
+        "H0430",
+        "H5973",
+        "H3198",
+        "H5973",
+        "H5973",
+        "H2088",
+        "H2088",
+        "H1931",
+        "H5159",
+        "H2088",
+        "H5973",
+        "H5973",
+        "H7706"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "aunque tengan muchos hijos, experimentarán muertes violentas o morirán de hambre.",
+      "strong": [
+        "H3808",
+        "H7235",
+        "H1121",
+        "H0176",
+        "H4191",
+        "H1121",
+        "H7458"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los que sobrevivan morirán de enfermedad, y ni siquiera sus viudas se lamentarán por ellos.",
+      "strong": [
+        "H0582",
+        "H3808",
+        "H4191",
+        "H4480",
+        "H2483",
+        "H1571",
+        "H3808",
+        "H1931",
+        "H0490",
+        "H3808",
+        "H1058",
+        "H5921",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Aunque amontonen plata como polvo y ropa como montones de barro,",
+      "strong": [
+        "H3588",
+        "H3701",
+        "H0349",
+        "H6083",
+        "H1571",
+        "H8071",
+        "H0349",
+        "H2563",
+        "H4480",
+        "H2563"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "los que hacen el bien se pondrán la ropa y los inocentes se repartirán la plata.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H3045",
+        "H5564",
+        "H1931",
+        "H8071",
+        "H5355",
+        "H0582",
+        "H3045",
+        "H1931",
+        "H3701"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Construyen sus casas como la polilla; como un endeble refugio hecho por un vigilante.",
+      "strong": [
+        "H1931",
+        "H1004",
+        "H0349",
+        "H1931",
+        "H6211",
+        "H0349",
+        "H0259",
+        "H4869",
+        "H6213",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Se acuestan ricos, pero nunca más. Porque cuando se despiertan, todo ha desaparecido.",
+      "strong": [
+        "H3808",
+        "H3588",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H3588",
+        "H3808",
+        "H3605",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Olas de pánico los inundan; en la noche un torbellino los arrebata.",
+      "strong": [
+        "H4325",
+        "H0582",
+        "H5921",
+        "H1931",
+        "H3915",
+        "H0259",
+        "H5492",
+        "H0582",
+        "H2414"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "El viento del este los levanta y se van, llevados lejos de donde estaban.",
+      "strong": [
+        "H1931",
+        "H7307",
+        "H4480",
+        "H2088",
+        "H0582",
+        "H5375",
+        "H1571",
+        "H3045",
+        "H1980",
+        "H7350",
+        "H4480",
+        "H4725",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "El viento los golpea con toda su fuerza; intentan escapar desesperadamente.",
+      "strong": [
+        "H5921",
+        "H7307",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H3581",
+        "H2803",
+        "H4422"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Las personas aplaudirles y sisearles allí donde estén”.",
+      "strong": [
+        "H5921",
+        "H5315",
+        "H5921",
+        "H8033",
+        "H5921",
+        "H1961"
+      ]
+    }
+  ]
+}

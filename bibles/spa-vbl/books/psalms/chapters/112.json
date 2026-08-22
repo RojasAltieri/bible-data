@@ -1,1 +1,207 @@
-{"version":"spa-vbl","book":"psalms","chapter":112,"data":[{"verse":"1","text":"¡Alaben al Señor! ¡Felices son los que lo respetan, quienes aman seguir sus mandamientos!"},{"verse":"2","text":"Sus descendientes prosperarán en la tierra prometida; los hijos de aquellos que hacen el bien serán prosperados."},{"verse":"3","text":"Sus familias112:3 Literalmente “casa”, pero no como una edificación, sino como un linaje familiar. serán ricas; porque el bien que ellos hacen tendrá resultados eternos."},{"verse":"4","text":"La luz brillará en las tinieblas para aquellos que viven en rectitud, para aquellos que son corteses, compasivos, y buenos."},{"verse":"5","text":"Las cosas buenas llegan a aquellos que son generosos con sus préstamos y que son honestos a la hora de hacer negocios."},{"verse":"6","text":"Porque nunca caerán. Los que viven con rectitud nunca serán olvidados."},{"verse":"7","text":"No tienen miedo de las noticias que vengan porque confían completamente en Dios."},{"verse":"8","text":"Están seguros y son valientes, y ven a sus enemigos derrotados."},{"verse":"9","text":"Comparten de forma generosa, dándole al pobre; el bien que hacen tendrá resultados eternos. Serán respetados grandemente."},{"verse":"10","text":"Mas los impíos mirarán todo esto y se enojarán; rechinarán sus dientes con ira. Se consumirán, y todo lo que esperaban vendrá a ser nada."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 112,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor! ¡Felices son los que lo respetan, quienes aman seguir sus mandamientos!",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H3068",
+        "H1961",
+        "H0582",
+        "H0834",
+        "H1931",
+        "H4310",
+        "H2001",
+        "H0935",
+        "H1931",
+        "H4687"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Sus descendientes prosperarán en la tierra prometida; los hijos de aquellos que hacen el bien serán prosperados.",
+      "strong": [
+        "H1931",
+        "H6631",
+        "H7919",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H1961",
+        "H2233",
+        "H4480",
+        "H0479",
+        "H1961",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Sus familias serán ricas; porque el bien que ellos hacen tendrá resultados eternos.",
+      "strong": [
+        "H1931",
+        "H1004",
+        "H1961",
+        "H3588",
+        "H1931",
+        "H1952",
+        "H1952",
+        "H1992",
+        "H6213",
+        "H1961",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "La luz brillará en las tinieblas para aquellos que viven en rectitud, para aquellos que son corteses, compasivos, y buenos.",
+      "strong": [
+        "H1931",
+        "H0216",
+        "H5921",
+        "H1992",
+        "H2822",
+        "H5704",
+        "H0479",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H5704",
+        "H0479",
+        "H0834",
+        "H1961",
+        "H1571",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Las cosas buenas llegan a aquellos que son generosos con sus préstamos y que son honestos a la hora de hacer negocios.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H2896",
+        "H0413",
+        "H0479",
+        "H1697",
+        "H1961",
+        "H5973",
+        "H1931",
+        "H1571",
+        "H1697",
+        "H1961",
+        "H0413",
+        "H1931",
+        "H8160",
+        "H1697",
+        "H6213",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Porque nunca caerán. Los que viven con rectitud nunca serán olvidados.",
+      "strong": [
+        "H3588",
+        "H3808",
+        "H4131",
+        "H1961",
+        "H3588",
+        "H2416",
+        "H3588",
+        "H3559",
+        "H3808",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "No tienen miedo de las noticias que vengan porque confían completamente en Dios.",
+      "strong": [
+        "H3808",
+        "H1992",
+        "H3372",
+        "H3372",
+        "H1992",
+        "H3808",
+        "H0935",
+        "H3808",
+        "H5564",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Están seguros y son valientes, y ven a sus enemigos derrotados.",
+      "strong": [
+        "H1961",
+        "H0983",
+        "H5704",
+        "H3808",
+        "H1368",
+        "H5704",
+        "H7200",
+        "H5704",
+        "H1931",
+        "H6862"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Comparten de forma generosa, dándole al pobre; el bien que hacen tendrá resultados eternos. Serán respetados grandemente.",
+      "strong": [
+        "H5414",
+        "H8389",
+        "H5414",
+        "H0413",
+        "H1800",
+        "H1931",
+        "H2896",
+        "H0834",
+        "H6213",
+        "H1961",
+        "H5769",
+        "H1961",
+        "H1419"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Mas los impíos mirarán todo esto y se enojarán; rechinarán sus dientes con ira. Se consumirán, y todo lo que esperaban vendrá a ser nada.",
+      "strong": [
+        "H5750",
+        "H0582",
+        "H7563",
+        "H7200",
+        "H3605",
+        "H2063",
+        "H1571",
+        "H3045",
+        "H1931",
+        "H8127",
+        "H5973",
+        "H2534",
+        "H3045",
+        "H8313",
+        "H1571",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H7663",
+        "H0935",
+        "H0413",
+        "H5315",
+        "H3808"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,100 @@
-{"version":"spa-vbl","book":"psalms","chapter":123,"data":[{"verse":"1","text":"Alzo mi vista hacia ti, el único que gobierna desde los cielos."},{"verse":"2","text":"Tal como los siervos miran a su amo, o como la esclava mira a la señora de su casa, así fijamos nuestra mirada en ti, Señor, esperando que seas misericordioso con nosotros."},{"verse":"3","text":"Por favor, ten misericordia con nosotros, Señor, tennos misericordia. Ya hemos tenido mucho desprecio por parte de la gente."},{"verse":"4","text":"Ya hemos tenido más que suficiente de los insultos del orgulloso, y el menosprecio del arrogante."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 123,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Alzo mi vista hacia ti, el único que gobierna desde los cielos.",
+      "strong": [
+        "H5375",
+        "H5375",
+        "H4758",
+        "H0413",
+        "H0859",
+        "H3427",
+        "H3173",
+        "H0834",
+        "H3557",
+        "H4480",
+        "H3427",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Tal como los siervos miran a su amo, o como la esclava mira a la señora de su casa, así fijamos nuestra mirada en ti, Señor, esperando que seas misericordioso con nosotros.",
+      "strong": [
+        "H3651",
+        "H5704",
+        "H0582",
+        "H5650",
+        "H6437",
+        "H5704",
+        "H1931",
+        "H0157",
+        "H5704",
+        "H5704",
+        "H1931",
+        "H2009",
+        "H5704",
+        "H1931",
+        "H1404",
+        "H5704",
+        "H1931",
+        "H1004",
+        "H3651",
+        "H0587",
+        "H5704",
+        "H0859",
+        "H3068",
+        "H6960",
+        "H5704",
+        "H1961",
+        "H7349",
+        "H5704",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Por favor, ten misericordia con nosotros, Señor, tennos misericordia. Ya hemos tenido mucho desprecio por parte de la gente.",
+      "strong": [
+        "H3588",
+        "H7522",
+        "H3045",
+        "H2603",
+        "H3588",
+        "H0587",
+        "H3068",
+        "H2603",
+        "H3528",
+        "H0935",
+        "H7227",
+        "H3588",
+        "H2677",
+        "H3588",
+        "H3588",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Ya hemos tenido más que suficiente de los insultos del orgulloso, y el menosprecio del arrogante.",
+      "strong": [
+        "H3528",
+        "H0935",
+        "H7227",
+        "H0834",
+        "H8505",
+        "H7646",
+        "H0582",
+        "H4480",
+        "H1571",
+        "H1931",
+        "H0957",
+        "H4480"
+      ]
+    }
+  ]
+}

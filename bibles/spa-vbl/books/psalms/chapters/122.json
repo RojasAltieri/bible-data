@@ -1,1 +1,179 @@
-{"version":"spa-vbl","book":"psalms","chapter":122,"data":[{"verse":"1","text":"Me alegré cuando me dijeron, “Vamos a la casa del Señor”."},{"verse":"2","text":"Ahora estamos de pie dentro de tus puertas, Jerusalén!"},{"verse":"3","text":"Jerusalén está construida como una ciudad en la que el pueblo puede reunirse.122:3 “El pueblo puede reunirse”, o, “que estén cerca unos de otros”."},{"verse":"4","text":"Todas las tribus del Señor suben allí, siguiendo la orden dada a Israel para agradecer al Señor."},{"verse":"5","text":"Aquí es donde los tronos son colocados, donde los mandamientos son dados, los tronos de la casa de David."},{"verse":"6","text":"Oren para que Jerusalén pueda estar en paz. Que todos los que aman a Jerusalén permanezcan a salvo."},{"verse":"7","text":"Que allá paz dentro de tus muros, y seguridad dentro de tu fortaleza."},{"verse":"8","text":"En nombre de mi familia y amigos, diré ahora, “Que estés en paz”."},{"verse":"9","text":"En nombre de la casa de Jehová nuestro Dios, oraré para que siempre les vaya bien."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 122,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Me alegré cuando me dijeron, “Vamos a la casa del Señor”.",
+      "strong": [
+        "H0413",
+        "H8056",
+        "H3588",
+        "H0413",
+        "H0559",
+        "H3212",
+        "H3068",
+        "H1931",
+        "H1004",
+        "H4480",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Ahora estamos de pie dentro de tus puertas, Jerusalén!",
+      "strong": [
+        "H6258",
+        "H3427",
+        "H4480",
+        "H7272",
+        "H8432",
+        "H4480",
+        "H0859",
+        "H8179"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Jerusalén está construida como una ciudad en la que el pueblo puede reunirse.",
+      "strong": [
+        "H2063",
+        "H0349",
+        "H0259",
+        "H5892",
+        "H5921",
+        "H1931",
+        "H0834",
+        "H1931",
+        "H5971",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Todas las tribus del Señor suben allí, siguiendo la orden dada a Israel para agradecer al Señor.",
+      "strong": [
+        "H3605",
+        "H1992",
+        "H7626",
+        "H4480",
+        "H3068",
+        "H5927",
+        "H8033",
+        "H0310",
+        "H1931",
+        "H2905",
+        "H5414",
+        "H3068",
+        "H3478",
+        "H5704",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Aquí es donde los tronos son colocados, donde los mandamientos son dados, los tronos de la casa de David.",
+      "strong": [
+        "H8033",
+        "H3588",
+        "H8033",
+        "H3427",
+        "H3588",
+        "H3427",
+        "H8033",
+        "H3427",
+        "H4687",
+        "H3588",
+        "H5414",
+        "H3427",
+        "H3588",
+        "H3588",
+        "H1004",
+        "H3588",
+        "H1732"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Oren para que Jerusalén pueda estar en paz. Que todos los que aman a Jerusalén permanezcan a salvo.",
+      "strong": [
+        "H6293",
+        "H5704",
+        "H0834",
+        "H3201",
+        "H5921",
+        "H7965",
+        "H0834",
+        "H3605",
+        "H0582",
+        "H0834",
+        "H2001",
+        "H0413",
+        "H0413",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Que allá paz dentro de tus muros, y seguridad dentro de tu fortaleza.",
+      "strong": [
+        "H1961",
+        "H8033",
+        "H7965",
+        "H8432",
+        "H4480",
+        "H0859",
+        "H2346",
+        "H1571",
+        "H4009",
+        "H8432",
+        "H4480",
+        "H0859",
+        "H5797"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "En nombre de mi familia y amigos, diré ahora, “Que estés en paz”.",
+      "strong": [
+        "H5921",
+        "H8034",
+        "H4480",
+        "H4994",
+        "H1004",
+        "H1571",
+        "H7453",
+        "H1696",
+        "H4994",
+        "H4994",
+        "H1961",
+        "H5921",
+        "H7965"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "En nombre de la casa de Jehová nuestro Dios, oraré para que siempre les vaya bien.",
+      "strong": [
+        "H5921",
+        "H8034",
+        "H4480",
+        "H1931",
+        "H1004",
+        "H4480",
+        "H3068",
+        "H0587",
+        "H3068",
+        "H7878",
+        "H4616",
+        "H4616",
+        "H5769",
+        "H0413",
+        "H3212",
+        "H2896"
+      ]
+    }
+  ]
+}

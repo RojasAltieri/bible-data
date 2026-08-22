@@ -1,1 +1,206 @@
-{"version":"spa-vbl","book":"psalms","chapter":20,"data":[{"verse":"1","text":"Que el señor te responda cuando estés en problemas; que el nombre del Dios de Jacob te proteja.20:1 La palabra “nombre” en el Antiguo Testamento no solo representa a la persona sino su naturaleza y carácter."},{"verse":"2","text":"Que el Señor te envíe su ayuda desde el santuario, y que te sostenga desde Sión."},{"verse":"3","text":"Que el Señor recuerde todas tus ofrendas, y que acepte todos los holocaustos que elevaste desde tu altar. Selah."},{"verse":"4","text":"Que el Señor te conceda todos los deseos de tu corazón. Que haga que todos tus planes prosperen."},{"verse":"5","text":"Que todos gritemos de alegría por tu victoria, y despleguemos estandartes en nombre de nuestro Dios.20:5 El pueblo se dirige al rey y aclama su victoria, y en celebración de ello erigen estandartes. Que el Señor responda todas tus peticiones."},{"verse":"6","text":"Ahora sé que el Señor salvó a aquél que había ungido. Le responderá desde su santo cielo, y salvará a su ungido con su diestra poderosa."},{"verse":"7","text":"Algunos creen en carruajes y otros en caballos de guerra, pero nosotros confiamos en quien20:7 “Quien”: literalmente “nombre”. es el Señor."},{"verse":"8","text":"Ellos se desmoronan y caen, pero nosotros nos levantamos y nos ponemos en pie."},{"verse":"9","text":"¡Que el Señor salve al rey! ¡Por favor respóndenos cuando clamemos por ayuda!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 20,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Que el señor te responda cuando estés en problemas; que el nombre del Dios de Jacob te proteja.",
+      "strong": [
+        "H0834",
+        "H1931",
+        "H0113",
+        "H0859",
+        "H7725",
+        "H3588",
+        "H1961",
+        "H5921",
+        "H0834",
+        "H1931",
+        "H8034",
+        "H4480",
+        "H0430",
+        "H4480",
+        "H3290",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Que el Señor te envíe su ayuda desde el santuario, y que te sostenga desde Sión.",
+      "strong": [
+        "H3117",
+        "H1931",
+        "H3068",
+        "H0859",
+        "H7971",
+        "H1931",
+        "H5828",
+        "H4480",
+        "H1931",
+        "H4720",
+        "H1571",
+        "H3117",
+        "H0859",
+        "H4480",
+        "H6726"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Que el Señor recuerde todas tus ofrendas, y que acepte todos los holocaustos que elevaste desde tu altar. Selah.",
+      "strong": [
+        "H5828",
+        "H1931",
+        "H0113",
+        "H3605",
+        "H0859",
+        "H4979",
+        "H1571",
+        "H5828",
+        "H7306",
+        "H3605",
+        "H0582",
+        "H5930",
+        "H5828",
+        "H4480",
+        "H0859",
+        "H4196",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Que el Señor te conceda todos los deseos de tu corazón. Que haga que todos tus planes prosperen.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H0113",
+        "H0859",
+        "H3605",
+        "H3605",
+        "H4480",
+        "H0859",
+        "H3820",
+        "H3605",
+        "H6213",
+        "H3605",
+        "H3605",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Que todos gritemos de alegría por tu victoria, y despleguemos estandartes en nombre de nuestro Dios. Que el Señor responda todas tus peticiones.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H5414",
+        "H8057",
+        "H5414",
+        "H0859",
+        "H1571",
+        "H5921",
+        "H8034",
+        "H5414",
+        "H0587",
+        "H0430",
+        "H3605",
+        "H3605",
+        "H0113",
+        "H7725",
+        "H3605",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Ahora sé que el Señor salvó a aquél que había ungido. Le responderá desde su santo cielo, y salvará a su ungido con su diestra poderosa.",
+      "strong": [
+        "H6258",
+        "H3045",
+        "H3605",
+        "H3605",
+        "H3068",
+        "H3467",
+        "H3068",
+        "H3605",
+        "H3605",
+        "H1961",
+        "H4899",
+        "H0413",
+        "H6030",
+        "H4480",
+        "H1931",
+        "H6918",
+        "H8064",
+        "H1571",
+        "H3467",
+        "H3068",
+        "H1931",
+        "H4899",
+        "H5973",
+        "H1931",
+        "H3225",
+        "H2389"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Algunos creen en carruajes y otros en caballos de guerra, pero nosotros confiamos en quien es el Señor.",
+      "strong": [
+        "H0582",
+        "H3588",
+        "H3588",
+        "H0312",
+        "H3588",
+        "H5483",
+        "H3588",
+        "H4421",
+        "H3588",
+        "H0587",
+        "H0982",
+        "H3588",
+        "H4310",
+        "H3588",
+        "H3588",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Ellos se desmoronan y caen, pero nosotros nos levantamos y nos ponemos en pie.",
+      "strong": [
+        "H1992",
+        "H3045",
+        "H1571",
+        "H7901",
+        "H3588",
+        "H0587",
+        "H0587",
+        "H1571",
+        "H0587",
+        "H5921",
+        "H3247"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¡Que el Señor salve al rey! ¡Por favor respóndenos cuando clamemos por ayuda!",
+      "strong": [
+        "H1992",
+        "H5307",
+        "H0113",
+        "H3467",
+        "H0413",
+        "H4428",
+        "H5921",
+        "H7522",
+        "H6030",
+        "H3588",
+        "H5921",
+        "H5828"
+      ]
+    }
+  ]
+}

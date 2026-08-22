@@ -1,1 +1,103 @@
-{"version":"spa-vbl","book":"psalms","chapter":100,"data":[{"verse":"1","text":"¡Griten de alegría al Señor, habitantes de toda la tierra!"},{"verse":"2","text":"Alábenlo con gozo; ¡Vengan a su presencia con canciones de júbilo!"},{"verse":"3","text":"¡Sepan que el Señor es Dios! Él nos creó, y le pertenecemos.100:3 “Y le pertenecemos”: también: “no nos creamos a nosotros mismos”. Somos su pueblo, el rebaño por el cual se preocupa."},{"verse":"4","text":"Entren por sus puertas con agradecimientos; ingresen a sus atrios con alabanzas. Agradézcanle; alábenlo."},{"verse":"5","text":"Porque el Señor es bueno. Su gran amor dura para siempre; y su fidelidad permanecerá por todas las generaciones."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 100,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Griten de alegría al Señor, habitantes de toda la tierra!",
+      "strong": [
+        "H4480",
+        "H8057",
+        "H0413",
+        "H3068",
+        "H3427",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Alábenlo con gozo; ¡Vengan a su presencia con canciones de júbilo!",
+      "strong": [
+        "H5973",
+        "H8057",
+        "H0935",
+        "H6440",
+        "H1931",
+        "H6440",
+        "H5973",
+        "H7892",
+        "H6440",
+        "H8643"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Sepan que el Señor es Dios! Él nos creó, y le pertenecemos. Somos su pueblo, el rebaño por el cual se preocupa.",
+      "strong": [
+        "H3045",
+        "H3588",
+        "H1931",
+        "H3068",
+        "H1931",
+        "H3068",
+        "H1931",
+        "H0587",
+        "H3588",
+        "H1931",
+        "H1961",
+        "H1931",
+        "H5971",
+        "H1931",
+        "H6629",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Entren por sus puertas con agradecimientos; ingresen a sus atrios con alabanzas. Agradézcanle; alábenlo.",
+      "strong": [
+        "H0935",
+        "H5921",
+        "H1931",
+        "H8179",
+        "H5973",
+        "H0413",
+        "H1931",
+        "H2691",
+        "H5973",
+        "H8426"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Porque el Señor es bueno. Su gran amor dura para siempre; y su fidelidad permanecerá por todas las generaciones.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3068",
+        "H3588",
+        "H2896",
+        "H3588",
+        "H1419",
+        "H0160",
+        "H7186",
+        "H5704",
+        "H5769",
+        "H3588",
+        "H3588",
+        "H5975",
+        "H3588",
+        "H1755",
+        "H1992",
+        "H1755"
+      ]
+    }
+  ]
+}

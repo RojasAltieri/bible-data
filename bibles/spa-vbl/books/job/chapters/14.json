@@ -1,1 +1,436 @@
-{"version":"spa-vbl","book":"job","chapter":14,"data":[{"verse":"1","text":"“La vida14:1 Literalmente, “hombre que nace de mujer”, por lo que se refiere a la vida humana en general. es corta y está llena de problemas,"},{"verse":"2","text":"como una flor que florece y se marchita, como una sombra pasajera que pronto desaparece."},{"verse":"3","text":"¿Acaso te fijas en mí, Dios? ¿Por qué tienes que arrastrarme a los tribunales?"},{"verse":"4","text":"¿Quién puede sacar algo limpio de lo impuro? Nadie."},{"verse":"5","text":"Tú has determinado cuánto tiempo viviremos: el número de meses, un límite de tiempo para nuestras vidas."},{"verse":"6","text":"Así que déjanos tranquilos y danos un poco de paz, para que, como el obrero, podamos disfrutar de unas horas de descanso al final del día."},{"verse":"7","text":"“Incluso un árbol cortado tiene la esperanza de volver a brotar, de echar brotes y seguir viviendo."},{"verse":"8","text":"Aunque sus raíces envejezcan en la tierra y su tronco muera en el suelo,"},{"verse":"9","text":"sólo un hilo de agua14:9 Literalmente, “Olor de agua”. hará que brote y se ramifique como una planta joven."},{"verse":"10","text":"“Pero los seres humanos mueren, su fuerza disminuye; perecen, y ¿dónde están entonces?"},{"verse":"11","text":"Como el agua que se evapora de un lago y un río que se seca y desaparece,"},{"verse":"12","text":"así los seres humanos se acuestan y no vuelven a levantarse. NO despertarán de su sueño hasta que los cielos dejen de existir."},{"verse":"13","text":"“Quisiera que me escondieran en el Seol;14:13 Seol: El lugar de los muertos. escóndeme allí hasta que tu ira desaparezca. Fija allí un tiempo definido para mí, y acuérdate de mi."},{"verse":"14","text":"¿Volverán a vivir los muertos? Entonces tendría esperanza durante todo mi tiempo de angustia hasta que llegue mi liberación."},{"verse":"15","text":"Me llamarías y yo te respondería; me añorarías, al ser que has creado."},{"verse":"16","text":"Entonces me cuidarías14:16 Literalmente, “cuentas mis pasos”. y no me vigilarías para ver si peco."},{"verse":"17","text":"Mis pecados estarían sellados en una bolsa y tú cubrirías mi culpa."},{"verse":"18","text":"“Pero así como las montañas se desmoronan y caen, y las rocas se derrumban;"},{"verse":"19","text":"así como el agua desgasta las piedras, como las inundaciones arrastran el suelo, así destruyes la esperanza que tienen los pueblos."},{"verse":"20","text":"Los dominas continuamente y desaparecen; distorsionas sus rostros al morir y entonces los despides."},{"verse":"21","text":"Sus hijos pueden llegar a ser importantes o caer de sus puestos, pero ellos no saben ni se enteran de nada de esto."},{"verse":"22","text":"Cuando la gente muere sólo conoce su propio dolor y está triste por sí misma”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 14,
+  "data": [
+    {
+      "verse": "1",
+      "text": "“La vida es corta y está llena de problemas,",
+      "strong": [
+        "H7646",
+        "H3117",
+        "H1961",
+        "H2404",
+        "H1571",
+        "H2063",
+        "H4392",
+        "H7646"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "como una flor que florece y se marchita, como una sombra pasajera que pronto desaparece.",
+      "strong": [
+        "H0349",
+        "H0259",
+        "H5322",
+        "H3808",
+        "H6731",
+        "H1571",
+        "H3808",
+        "H0349",
+        "H0259",
+        "H6738",
+        "H3808",
+        "H4120"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Acaso te fijas en mí, Dios? ¿Por qué tienes que arrastrarme a los tribunales?",
+      "strong": [
+        "H0194",
+        "H5869",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H5750",
+        "H5921",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Quién puede sacar algo limpio de lo impuro? Nadie.",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H5267",
+        "H3920",
+        "H2889",
+        "H5414",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tú has determinado cuánto tiempo viviremos: el número de meses, un límite de tiempo para nuestras vidas.",
+      "strong": [
+        "H6213",
+        "H4191",
+        "H7093",
+        "H0834",
+        "H3117",
+        "H2421",
+        "H6213",
+        "H4557",
+        "H4480",
+        "H2320",
+        "H0259",
+        "H7097",
+        "H4480",
+        "H3117",
+        "H5704",
+        "H0587",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Así que déjanos tranquilos y danos un poco de paz, para que, como el obrero, podamos disfrutar de unas horas de descanso al final del día.",
+      "strong": [
+        "H3541",
+        "H5921",
+        "H2308",
+        "H5921",
+        "H5414",
+        "H0259",
+        "H4592",
+        "H5921",
+        "H7965",
+        "H5704",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6541",
+        "H5921",
+        "H4496",
+        "H5921",
+        "H5921",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Incluso un árbol cortado tiene la esperanza de volver a brotar, de echar brotes y seguir viviendo.",
+      "strong": [
+        "H0259",
+        "H6086",
+        "H3772",
+        "H3426",
+        "H3588",
+        "H8615",
+        "H3588",
+        "H7725",
+        "H3588",
+        "H3588",
+        "H3201",
+        "H3588",
+        "H0935",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Aunque sus raíces envejezcan en la tierra y su tronco muera en el suelo,",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H8328",
+        "H5921",
+        "H1931",
+        "H6083",
+        "H1571",
+        "H1931",
+        "H4191",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "sólo un hilo de agua hará que brote y se ramifique como una planta joven.",
+      "strong": [
+        "H0910",
+        "H0259",
+        "H4325",
+        "H4325",
+        "H6213",
+        "H4325",
+        "H6524",
+        "H1571",
+        "H3045",
+        "H3644",
+        "H0259",
+        "H5194",
+        "H0970"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "“Pero los seres humanos mueren, su fuerza disminuye; perecen, y ¿dónde están entonces?",
+      "strong": [
+        "H3588",
+        "H0582",
+        "H5315",
+        "H1397",
+        "H4191",
+        "H1931",
+        "H3581",
+        "H7043",
+        "H0006",
+        "H1571",
+        "H0834",
+        "H1961",
+        "H0227"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Como el agua que se evapora de un lago y un río que se seca y desaparece,",
+      "strong": [
+        "H0349",
+        "H1931",
+        "H4325",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H0259",
+        "H1571",
+        "H0259",
+        "H5104",
+        "H4480",
+        "H4480",
+        "H3001",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "así los seres humanos se acuestan y no vuelven a levantarse. NO despertarán de su sueño hasta que los cielos dejen de existir.",
+      "strong": [
+        "H3541",
+        "H0582",
+        "H5315",
+        "H1397",
+        "H3808",
+        "H5704",
+        "H3808",
+        "H7725",
+        "H5704",
+        "H6965",
+        "H3808",
+        "H5782",
+        "H5704",
+        "H1931",
+        "H8142",
+        "H5704",
+        "H3808",
+        "H0582",
+        "H8064",
+        "H2308",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "“Quisiera que me escondieran en el Seol; escóndeme allí hasta que tu ira desaparezca. Fija allí un tiempo definido para mí, y acuérdate de mi.",
+      "strong": [
+        "H2654",
+        "H4310",
+        "H4310",
+        "H5704",
+        "H4310",
+        "H5641",
+        "H8033",
+        "H5704",
+        "H4310",
+        "H0859",
+        "H2534",
+        "H8033",
+        "H0259",
+        "H6256",
+        "H5704",
+        "H0589",
+        "H5704",
+        "H2142",
+        "H5704",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "¿Volverán a vivir los muertos? Entonces tendría esperanza durante todo mi tiempo de angustia hasta que llegue mi liberación.",
+      "strong": [
+        "H7725",
+        "H5704",
+        "H2421",
+        "H3605",
+        "H4191",
+        "H3117",
+        "H8615",
+        "H3605",
+        "H0589",
+        "H3117",
+        "H5704",
+        "H6869",
+        "H5704",
+        "H5704",
+        "H0935",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Me llamarías y yo te respondería; me añorarías, al ser que has creado.",
+      "strong": [
+        "H0413",
+        "H1571",
+        "H0589",
+        "H0859",
+        "H0413",
+        "H0413",
+        "H5315",
+        "H3027",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Entonces me cuidarías y no me vigilarías para ver si peco.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H3588",
+        "H3808",
+        "H5921",
+        "H5921",
+        "H7200",
+        "H3588",
+        "H2398"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Mis pecados estarían sellados en una bolsa y tú cubrirías mi culpa.",
+      "strong": [
+        "H0589",
+        "H6588",
+        "H5921",
+        "H0259",
+        "H3599",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H5352"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "“Pero así como las montañas se desmoronan y caen, y las rocas se derrumban;",
+      "strong": [
+        "H3588",
+        "H3541",
+        "H0349",
+        "H1992",
+        "H3045",
+        "H1571",
+        "H5307",
+        "H1571",
+        "H1992",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "así como el agua desgasta las piedras, como las inundaciones arrastran el suelo, así destruyes la esperanza que tienen los pueblos.",
+      "strong": [
+        "H3541",
+        "H0349",
+        "H1931",
+        "H4325",
+        "H1992",
+        "H0068",
+        "H0349",
+        "H1992",
+        "H1931",
+        "H3541",
+        "H1104",
+        "H1931",
+        "H8615",
+        "H4325",
+        "H1992",
+        "H0582",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Los dominas continuamente y desaparecen; distorsionas sus rostros al morir y entonces los despides.",
+      "strong": [
+        "H0582",
+        "H8548",
+        "H1571",
+        "H1846",
+        "H1931",
+        "H6440",
+        "H0413",
+        "H4191",
+        "H1571",
+        "H0227",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Sus hijos pueden llegar a ser importantes o caer de sus puestos, pero ellos no saben ni se enteran de nada de esto.",
+      "strong": [
+        "H1931",
+        "H1121",
+        "H3201",
+        "H0935",
+        "H0413",
+        "H5315",
+        "H0176",
+        "H3782",
+        "H1121",
+        "H1931",
+        "H2026",
+        "H3588",
+        "H1992",
+        "H3808",
+        "H3045",
+        "H3808",
+        "H3045",
+        "H1121",
+        "H3808",
+        "H1121",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Cuando la gente muere sólo conoce su propio dolor y está triste por sí misma”.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H1471",
+        "H0910",
+        "H3045",
+        "H1931",
+        "H2427",
+        "H5921",
+        "H5921",
+        "H5620",
+        "H5921",
+        "H5921",
+        "H4927"
+      ]
+    }
+  ]
+}

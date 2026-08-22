@@ -1,1 +1,414 @@
-{"version":"spa-vbl","book":"job","chapter":8,"data":[{"verse":"1","text":"Entonces Bildad el Suhita habló y dijo:"},{"verse":"2","text":"“¿Cuánto tiempo más seguirás hablando así? Las palabras que salen de tu boca son un montón de aire caliente!8:2 “Mucho aire caliente”: literalmente, “un fuerte viento”."},{"verse":"3","text":"¿Pervierte Dios la justicia? ¿Acaso el Todopoderoso pervierte lo que es justo?"},{"verse":"4","text":"Tus hijos debieron pecar contra él, y por eso merecieron el castigo que les infligió."},{"verse":"5","text":"Pero si oras a Dios y le pides ayuda,"},{"verse":"6","text":"si llevas una vida limpia y haces lo que es justo, entonces él actuará para enderezar las cosas en su hogar.8:6 Literalmente, “restablece tu legítima morada”."},{"verse":"7","text":"Aunque comiencen con casi nada, ¡terminarán con mucho!"},{"verse":"8","text":"“¿Por qué no preguntan lo que descubrieron las generaciones anteriores, y examinan lo que descubrieron nuestros antepasados? ¡Nosotros nacimos ayer y no sabemos nada!"},{"verse":"9","text":"Nuestros días en la tierra se desvanecen tan rápido como una sombra que pasa."},{"verse":"10","text":"¿Acaso no8:10 “Ellos:” refiriéndose a los antepasados mencionados en el versículo 8. te enseñan y te explican lo que saben?"},{"verse":"11","text":"¿Puede crecer el papiro donde no hay pantano? ¿Pueden crecer los juncos sin agua?"},{"verse":"12","text":"Incluso sin ser cortados, mientras aún florecen, se marchitan más rápido que la hierba."},{"verse":"13","text":"Esto es lo que le sucede a todo el que se olvida de Dios. Las esperanzas de los que viven sin Dios se reducen a nada."},{"verse":"14","text":"Su confianza es como si se aferraran8:14 En el sentido de “apoyarse”. a una endeble tela de araña."},{"verse":"15","text":"Buscan la seguridad en su casa, pero ésta no les proporciona ningún apoyo. Intentan aferrarse a ella, pero es fugaz."},{"verse":"16","text":"Los que viven sin Dios son como una planta exuberante que crece al sol y extiende sus brotes por todo el jardín."},{"verse":"17","text":"Enreda sus raíces entre las piedras y se aferra a la roca."},{"verse":"18","text":"Pero cuando es cortada, el lugar donde estaba la repudia, diciendo: ‘Nunca te vi’."},{"verse":"19","text":"Entonces su vida se acaba, y otra plata brota de la tierra para ocupar su lugar."},{"verse":"20","text":"“Mira, Dios no rechaza a quien es inocente, ni apoya a quien es culpable."},{"verse":"21","text":"Él puede hacer que vuelvas a reír de felicidad y a gritar de alegría."},{"verse":"22","text":"Los que te odian serán avergonzados, y el lugar donde viven los malvados8:22 “Lugar donde viven los malvados”: literalmente, “tienda de los malvados”. será destruido”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 8,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Bildad el Suhita habló y dijo:",
+      "strong": [
+        "H0227",
+        "H1085",
+        "H1931",
+        "H7747",
+        "H6030",
+        "H1571",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Cuánto tiempo más seguirás hablando así? Las palabras que salen de tu boca son un montón de aire caliente!",
+      "strong": [
+        "H0834",
+        "H6256",
+        "H5704",
+        "H1961",
+        "H1696",
+        "H3541",
+        "H1992",
+        "H6310",
+        "H5704",
+        "H3318",
+        "H5704",
+        "H0859",
+        "H6310",
+        "H6310",
+        "H0259",
+        "H1530",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Pervierte Dios la justicia? ¿Acaso el Todopoderoso pervierte lo que es justo?",
+      "strong": [
+        "H0430",
+        "H1931",
+        "H6664",
+        "H0194",
+        "H1931",
+        "H7706",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tus hijos debieron pecar contra él, y por eso merecieron el castigo que les infligió.",
+      "strong": [
+        "H0859",
+        "H1121",
+        "H2398",
+        "H5921",
+        "H1121",
+        "H1571",
+        "H3027",
+        "H3651",
+        "H1121",
+        "H7110",
+        "H1121",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Pero si oras a Dios y le pides ayuda,",
+      "strong": [
+        "H3588",
+        "H0518",
+        "H0413",
+        "H0430",
+        "H1571",
+        "H0413",
+        "H7592",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "si llevas una vida limpia y haces lo que es justo, entonces él actuará para enderezar las cosas en su hogar.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H5315",
+        "H2889",
+        "H3588",
+        "H6213",
+        "H5921",
+        "H3588",
+        "H3588",
+        "H6662",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1697",
+        "H5921",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Aunque comiencen con casi nada, ¡terminarán con mucho!",
+      "strong": [
+        "H3588",
+        "H5973",
+        "H4592",
+        "H3808",
+        "H5973",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "“¿Por qué no preguntan lo que descubrieron las generaciones anteriores, y examinan lo que descubrieron nuestros antepasados? ¡Nosotros nacimos ayer y no sabemos nada!",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H1540",
+        "H1992",
+        "H1755",
+        "H3588",
+        "H0974",
+        "H1931",
+        "H3588",
+        "H1540",
+        "H0587",
+        "H0587",
+        "H8543",
+        "H3588",
+        "H3588",
+        "H3045",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Nuestros días en la tierra se desvanecen tan rápido como una sombra que pasa.",
+      "strong": [
+        "H0587",
+        "H3117",
+        "H5921",
+        "H5921",
+        "H0776",
+        "H3045",
+        "H3966",
+        "H3588",
+        "H0259",
+        "H6738",
+        "H3588",
+        "H5674"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Acaso no te enseñan y te explican lo que saben?",
+      "strong": [
+        "H0194",
+        "H3808",
+        "H0859",
+        "H3384",
+        "H1571",
+        "H0859",
+        "H3808",
+        "H3808",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "¿Puede crecer el papiro donde no hay pantano? ¿Pueden crecer los juncos sin agua?",
+      "strong": [
+        "H3201",
+        "H1931",
+        "H0834",
+        "H3808",
+        "H3426",
+        "H3201",
+        "H0582",
+        "H3808",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Incluso sin ser cortados, mientras aún florecen, se marchitan más rápido que la hierba.",
+      "strong": [
+        "H3808",
+        "H5315",
+        "H7112",
+        "H5750",
+        "H5750",
+        "H3808",
+        "H5750",
+        "H3808",
+        "H3605",
+        "H2682"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Esto es lo que le sucede a todo el que se olvida de Dios. Las esperanzas de los que viven sin Dios se reducen a nada.",
+      "strong": [
+        "H3651",
+        "H1961",
+        "H3605",
+        "H3605",
+        "H0413",
+        "H5060",
+        "H0413",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H3651",
+        "H7911",
+        "H0430",
+        "H1992",
+        "H7911",
+        "H3605",
+        "H3605",
+        "H2416",
+        "H3808",
+        "H0430",
+        "H3651",
+        "H0413",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Su confianza es como si se aferraran a una endeble tela de araña.",
+      "strong": [
+        "H1931",
+        "H4009",
+        "H1961",
+        "H0349",
+        "H0518",
+        "H3045",
+        "H0413",
+        "H0259",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Buscan la seguridad en su casa, pero ésta no les proporciona ningún apoyo. Intentan aferrarse a ella, pero es fugaz.",
+      "strong": [
+        "H1245",
+        "H5921",
+        "H4009",
+        "H5921",
+        "H1931",
+        "H1004",
+        "H3588",
+        "H5975",
+        "H3808",
+        "H5921",
+        "H3808",
+        "H2803",
+        "H5921",
+        "H5921",
+        "H3588",
+        "H5975"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los que viven sin Dios son como una planta exuberante que crece al sol y extiende sus brotes por todo el jardín.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H2416",
+        "H3808",
+        "H0430",
+        "H1961",
+        "H5921",
+        "H0259",
+        "H7105",
+        "H1931",
+        "H7685",
+        "H5921",
+        "H8121",
+        "H5921",
+        "H5186",
+        "H1931",
+        "H5921",
+        "H3605",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Enreda sus raíces entre las piedras y se aferra a la roca.",
+      "strong": [
+        "H1931",
+        "H8328",
+        "H5921",
+        "H5921",
+        "H0068",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6697"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Pero cuando es cortada, el lugar donde estaba la repudia, diciendo: ‘Nunca te vi’.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1961",
+        "H1438",
+        "H1931",
+        "H4725",
+        "H4725",
+        "H1961",
+        "H1931",
+        "H0559",
+        "H3808",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Entonces su vida se acaba, y otra plata brota de la tierra para ocupar su lugar.",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H5315",
+        "H1931",
+        "H1571",
+        "H5750",
+        "H3701",
+        "H6779",
+        "H4480",
+        "H1931",
+        "H6083",
+        "H5704",
+        "H1931",
+        "H4725"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "“Mira, Dios no rechaza a quien es inocente, ni apoya a quien es culpable.",
+      "strong": [
+        "H2005",
+        "H0430",
+        "H3808",
+        "H0413",
+        "H4310",
+        "H3027",
+        "H5355",
+        "H3808",
+        "H0413",
+        "H4310",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Él puede hacer que vuelvas a reír de felicidad y a gritar de alegría.",
+      "strong": [
+        "H1931",
+        "H3201",
+        "H6213",
+        "H5704",
+        "H7725",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H5704",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los que te odian serán avergonzados, y el lugar donde viven los malvados será destruido”.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H0859",
+        "H1961",
+        "H3001",
+        "H1571",
+        "H1931",
+        "H4725",
+        "H0834",
+        "H7563",
+        "H0582",
+        "H1961",
+        "H7703"
+      ]
+    }
+  ]
+}

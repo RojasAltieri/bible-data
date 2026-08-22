@@ -1,1 +1,576 @@
-{"version":"spa-vbl","book":"job","chapter":30,"data":[{"verse":"1","text":"Pero ahora se ríen de mí personas mucho más jóvenes que yo; personas a cuyos padres no pondría a trabajar con mis perros pastores."},{"verse":"2","text":"Son demasiado débiles para serme útiles y están agotados."},{"verse":"3","text":"Adelgazados por el hambre y la necesidad, tratan de comer la tierra seca en el desierto oscuro y desolado."},{"verse":"4","text":"Allí recogen hierbas del desierto y las hojas de los arbustos, y comen las raíces de las retamas."},{"verse":"5","text":"Fueron expulsados de la comunidad."},{"verse":"6","text":"La gente gritaba tras ellos como si fueran ladrones. Tienen que vivir en barrancos peligrosos, en cuevas y entre las rocas."},{"verse":"7","text":"Gritan como animales entre los arbustos; se acurrucan entre la maleza para refugiarse."},{"verse":"8","text":"Son gente insensata, sin nombre, que ha sido expulsada de la tierra."},{"verse":"9","text":"Pero ahora se burlan de mí en sus cantos; ¡me he convertido en un chiste para ellos!"},{"verse":"10","text":"Me desprecian y rehúyen; no dudan en escupirme a la cara."},{"verse":"11","text":"Dios ha aflojado la cuerda de mi arco30:11 En otras palabras, Dios ha dejado a Job sin poder. y me ha humillado."},{"verse":"12","text":"La chusma se levanta contra mí, y me hace correr;30:12 El hebreo no es claro. como una ciudad sitiada planifican formas de destruirme.30:12 La frase alude a la construcción de rampas para atacar una ciudad sitiada."},{"verse":"13","text":"Cortan mi vía de escape; provocan mi caída y lo hacen sin ayuda de nadie."},{"verse":"14","text":"Entran por una amplia brecha; se precipitan mientras el muro se derrumba.30:14 La ilustración de una ciudad asediada continúa con la imagen de los invasores entrando a través de una muralla que ha sido derribada."},{"verse":"15","text":"Me invaden los terrores; mi honor se lo lleva el viento; mi salvación se desvanece como una nube."},{"verse":"16","text":"Y ahora mi vida se desvanece; cada día la desesperación30:16 Literalmente, “días de aflicción”. me atenaza."},{"verse":"17","text":"Por la noche mis huesos agonizan; el dolor me roe y no cesa."},{"verse":"18","text":"Dios me agarra bruscamente por la ropa; me tira del cuello de la camisa."},{"verse":"19","text":"Me ha arrojado al barro; me ha humillado como polvo y ceniza."},{"verse":"20","text":"Dios, clamo a ti, pero no respondes; me presento ante ti, pero ni siquiera te fijas en mí."},{"verse":"21","text":"Te has vuelto cruel conmigo; usas tu poder para hacerme sufrir."},{"verse":"22","text":"Me levantas y me llevas en el viento; me arrojas en el torbellino."},{"verse":"23","text":"Sé que me llevas a la muerte, al lugar donde van todos los vivos."},{"verse":"24","text":"¿Quién querría dar una patada a un hombre cuando está abatido,30:24 Más literalmente, “Seguramente nadie que levante la mano contra el necesitado”. O “¿Acaso no tiende la mano alguien que está en un montón de ruinas?” El hebreo no es claro. cuando claman por ayuda en su momento de dificultad?"},{"verse":"25","text":"¿No lloré por los que pasaban por momentos difíciles? ¿No me afligí por lo que sufrían los pobres?"},{"verse":"26","text":"Pero cuando busqué el bien, sólo vino el mal, y cuando esperé la luz, todo lo que vino fue oscuridad."},{"verse":"27","text":"En mi interior hay confusión,30:27 Literalmente, “Mis intestinos hierven”. nunca se detiene; me enfrento a días de desesperación."},{"verse":"28","text":"Estoy tan deprimido; ver el sol no ayuda.30:28 Literalmente, “Estoy ennegrecido, pero no por el sol”. Esto puede referirse alternativamente a alguna enfermedad de la piel. Me pongo de pie en la asamblea y clamo por ayuda."},{"verse":"29","text":"Soy como un hermano de los chacales, un compañero de los búhos.30:29 O avestruces. Algunos creen que esto amplía los gritos mencionados en el verso anterior, como las llamadas lúgubres de los animales y las aves."},{"verse":"30","text":"Mi piel se ennegrece sobre mí; y mis huesos arden dentro de mí."},{"verse":"31","text":"Mi lira sólo toca canciones tristes, y mi pipa es la voz de los que lloran."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 30,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Pero ahora se ríen de mí personas mucho más jóvenes que yo; personas a cuyos padres no pondría a trabajar con mis perros pastores.",
+      "strong": [
+        "H3588",
+        "H6258",
+        "H5921",
+        "H4480",
+        "H5921",
+        "H5315",
+        "H3966",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H5315",
+        "H5921",
+        "H5921",
+        "H0001",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H5973",
+        "H0589",
+        "H3611",
+        "H7462"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Son demasiado débiles para serme útiles y están agotados.",
+      "strong": [
+        "H1961",
+        "H7235",
+        "H5921",
+        "H1961",
+        "H1571",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Adelgazados por el hambre y la necesidad, tratan de comer la tierra seca en el desierto oscuro y desolado.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H7458",
+        "H1571",
+        "H1931",
+        "H5608",
+        "H4480",
+        "H0398",
+        "H1931",
+        "H0776",
+        "H6723",
+        "H5921",
+        "H1931",
+        "H4057",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Allí recogen hierbas del desierto y las hojas de los arbustos, y comen las raíces de las retamas.",
+      "strong": [
+        "H8033",
+        "H3950",
+        "H0219",
+        "H5921",
+        "H4057",
+        "H5921",
+        "H5921",
+        "H5929",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3899",
+        "H5921",
+        "H8328",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Fueron expulsados de la comunidad.",
+      "strong": [
+        "H1961",
+        "H4480",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "La gente gritaba tras ellos como si fueran ladrones. Tienen que vivir en barrancos peligrosos, en cuevas y entre las rocas.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H0310",
+        "H1992",
+        "H7931",
+        "H0518",
+        "H1590",
+        "H1992",
+        "H0834",
+        "H2421",
+        "H5921",
+        "H5921",
+        "H4492",
+        "H1571",
+        "H0996",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Gritan como animales entre los arbustos; se acurrucan entre la maleza para refugiarse.",
+      "strong": [
+        "H8478",
+        "H0929",
+        "H8478",
+        "H0582",
+        "H3045",
+        "H8478",
+        "H1931",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Son gente insensata, sin nombre, que ha sido expulsada de la tierra.",
+      "strong": [
+        "H1961",
+        "H1471",
+        "H1471",
+        "H1097",
+        "H8034",
+        "H4480",
+        "H3541",
+        "H1961",
+        "H4480",
+        "H1571",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Pero ahora se burlan de mí en sus cantos; ¡me he convertido en un chiste para ellos!",
+      "strong": [
+        "H3588",
+        "H6258",
+        "H1961",
+        "H4480",
+        "H1961",
+        "H5921",
+        "H1992",
+        "H0413",
+        "H4392",
+        "H7725",
+        "H5921",
+        "H0259",
+        "H1961",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Me desprecian y rehúyen; no dudan en escupirme a la cara.",
+      "strong": [
+        "H4480",
+        "H0936",
+        "H1571",
+        "H3808",
+        "H4480",
+        "H4480",
+        "H1931",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Dios ha aflojado la cuerda de mi arco y me ha humillado.",
+      "strong": [
+        "H0430",
+        "H3541",
+        "H3588",
+        "H3588",
+        "H0589",
+        "H7198",
+        "H3588",
+        "H3588",
+        "H3541",
+        "H6031"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "La chusma se levanta contra mí, y me hace correr; como una ciudad sitiada planifican formas de destruirme.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5375",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H0259",
+        "H5892",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Cortan mi vía de escape; provocan mi caída y lo hacen sin ayuda de nadie.",
+      "strong": [
+        "H0589",
+        "H1697",
+        "H4480",
+        "H4422",
+        "H0589",
+        "H7667",
+        "H1571",
+        "H3808",
+        "H6213",
+        "H3808",
+        "H5826",
+        "H4480",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Entran por una amplia brecha; se precipitan mientras el muro se derrumba.",
+      "strong": [
+        "H0935",
+        "H8478",
+        "H0259",
+        "H3045",
+        "H5704",
+        "H1931",
+        "H2346",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Me invaden los terrores; mi honor se lo lleva el viento; mi salvación se desvanece como una nube.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H1091",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5375",
+        "H5921",
+        "H7307",
+        "H5921",
+        "H6413",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H5645"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Y ahora mi vida se desvanece; cada día la desesperación me atenaza.",
+      "strong": [
+        "H5921",
+        "H6258",
+        "H5921",
+        "H5315",
+        "H5921",
+        "H3117",
+        "H3117",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Por la noche mis huesos agonizan; el dolor me roe y no cesa.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H3915",
+        "H0589",
+        "H6106",
+        "H5921",
+        "H2427",
+        "H5921",
+        "H5921",
+        "H3808",
+        "H2308"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Dios me agarra bruscamente por la ropa; me tira del cuello de la camisa.",
+      "strong": [
+        "H0430",
+        "H0413",
+        "H3581",
+        "H1931",
+        "H8071",
+        "H0413",
+        "H3384",
+        "H4480",
+        "H6677",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Me ha arrojado al barro; me ha humillado como polvo y ceniza.",
+      "strong": [
+        "H0413",
+        "H3541",
+        "H0413",
+        "H2563",
+        "H0413",
+        "H3541",
+        "H6031",
+        "H4911",
+        "H6083",
+        "H1571",
+        "H0665"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Dios, clamo a ti, pero no respondes; me presento ante ti, pero ni siquiera te fijas en mí.",
+      "strong": [
+        "H0430",
+        "H7768",
+        "H0413",
+        "H0859",
+        "H3588",
+        "H3808",
+        "H6030",
+        "H0413",
+        "H5414",
+        "H6440",
+        "H0859",
+        "H3588",
+        "H3808",
+        "H0859",
+        "H5975",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Te has vuelto cruel conmigo; usas tu poder para hacerme sufrir.",
+      "strong": [
+        "H0859",
+        "H4191",
+        "H7725",
+        "H0393",
+        "H0854",
+        "H0859",
+        "H3027",
+        "H5704",
+        "H6213",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Me levantas y me llevas en el viento; me arrojas en el torbellino.",
+      "strong": [
+        "H0413",
+        "H1571",
+        "H0413",
+        "H5921",
+        "H1931",
+        "H7307",
+        "H0413",
+        "H5921",
+        "H1931",
+        "H5492"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Sé que me llevas a la muerte, al lugar donde van todos los vivos.",
+      "strong": [
+        "H3045",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H4194",
+        "H0413",
+        "H4725",
+        "H0834",
+        "H1980",
+        "H3605",
+        "H3605",
+        "H2416"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "¿Quién querría dar una patada a un hombre cuando está abatido, cuando claman por ayuda en su momento de dificultad?",
+      "strong": [
+        "H4310",
+        "H5414",
+        "H0259",
+        "H0413",
+        "H0259",
+        "H0376",
+        "H3588",
+        "H2063",
+        "H8217",
+        "H3588",
+        "H7121",
+        "H3027",
+        "H5828",
+        "H5921",
+        "H1931",
+        "H7281",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "¿No lloré por los que pasaban por momentos difíciles? ¿No me afligí por lo que sufrían los pobres?",
+      "strong": [
+        "H3808",
+        "H1058",
+        "H5921",
+        "H0582",
+        "H3808",
+        "H5674",
+        "H5921",
+        "H3808",
+        "H0413",
+        "H6031",
+        "H5921",
+        "H3808",
+        "H3808",
+        "H0582",
+        "H1800"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Pero cuando busqué el bien, sólo vino el mal, y cuando esperé la luz, todo lo que vino fue oscuridad.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H1875",
+        "H3588",
+        "H2896",
+        "H0910",
+        "H0935",
+        "H3588",
+        "H7451",
+        "H3588",
+        "H3588",
+        "H6960",
+        "H3588",
+        "H0216",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H0935",
+        "H1961",
+        "H0653"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "En mi interior hay confusión, nunca se detiene; me enfrento a días de desesperación.",
+      "strong": [
+        "H5921",
+        "H0589",
+        "H6442",
+        "H3426",
+        "H3639",
+        "H3808",
+        "H3808",
+        "H0748",
+        "H0413",
+        "H0413",
+        "H3117",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Estoy tan deprimido; ver el sol no ayuda. Me pongo de pie en la asamblea y clamo por ayuda.",
+      "strong": [
+        "H1961",
+        "H3966",
+        "H7200",
+        "H1931",
+        "H8121",
+        "H3808",
+        "H5828",
+        "H0413",
+        "H5414",
+        "H4480",
+        "H3247",
+        "H5921",
+        "H1931",
+        "H1571",
+        "H7768",
+        "H5921",
+        "H5828"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Soy como un hermano de los chacales, un compañero de los búhos.",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H0259",
+        "H0251",
+        "H4480",
+        "H1961",
+        "H0259",
+        "H7453",
+        "H4480",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Mi piel se ennegrece sobre mí; y mis huesos arden dentro de mí.",
+      "strong": [
+        "H5921",
+        "H5785",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0589",
+        "H6106",
+        "H5921",
+        "H4480",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Mi lira sólo toca canciones tristes, y mi pipa es la voz de los que lloran.",
+      "strong": [
+        "H1961",
+        "H0910",
+        "H5060",
+        "H7892",
+        "H6941",
+        "H1571",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H6963",
+        "H4480",
+        "H1961",
+        "H1961",
+        "H1058"
+      ]
+    }
+  ]
+}

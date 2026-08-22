@@ -1,1 +1,486 @@
-{"version":"spa-vbl","book":"psalms","chapter":74,"data":[{"verse":"1","text":"Oh, Dios, ¿por qué nos has rechazado? ¿Acaso será para siempre? ¿Por qué tu ira consume como fuego abrasador a las ovejas de tu rebaño?"},{"verse":"2","text":"Recuerda al pueblo que formaste hace mucho tiempo. La tribu que redimiste e hiciste tuya. Recuerda también al monte de Sión, tu casa."},{"verse":"3","text":"Ven y camina en medio de estas ruinas.74:3 De Jerusalén. El enemigo ha destruido tu Templo por completo."},{"verse":"4","text":"El enemigo ha gritado en victoria justo en el lugar donde te reuniste con nosotros.74:4 Refiriéndose al Templo. Han levantado sus estandartes como símbolos de su victoria."},{"verse":"5","text":"Actuaron como hombres que talan el bosque con sus hachas."},{"verse":"6","text":"Con hachas y martillos destrozaron los paneles tallados."},{"verse":"7","text":"Luego prendieron fuego a tu Templo, reduciéndolo a cenizas. Profanaron tu casa, el lugar que lleva tu nombre."},{"verse":"8","text":"Dijeron para sí mismos: “¡Destruyámoslo todo!” Así que quemaron cada uno de los lugares de adoración a Dios en la tierra."},{"verse":"9","text":"Ya no vemos ninguna de tus señales.74:9 Generalmente se refiere a señales milagrosas de Dios.  No ha quedado ni un profeta, y ninguno entre nosotros sabe hasta cuándo durará esto."},{"verse":"10","text":"¿Hasta cuándo, Dios, te ridiculizará el enemigo? ¿Van a insultar tu nombre74:10 Literalmente, “nombre”. para siempre?"},{"verse":"11","text":"¿Por qué te abstienes de actuar? ¡Actúa ahora y destrúyelos!74:11 Las metáforas hebreas requieren interpretación. Literalmente, “¿por qué retraes tu mano? Y tu diestra se consume en tu seno”."},{"verse":"12","text":"Pero tu, Dios, eres nuestro74:12 En el hebreo dice “mi rey”. rey desde hace mucho tiempo. Nos has salvado muchas veces en esta tierra."},{"verse":"13","text":"Tu fuiste aquél74:13 Aquí se hace énfasis en el pronombre personal, así como en los versículos siguientes. Puede ser para identificar que fue el verdadero Dios de la creación que hizo estas cosas, contrario a historias similares que daban el crédito a dioses paganos.  que dividió el mar con tu poder, y rompiste las cabezas de los monstruos marinos."},{"verse":"14","text":"Tú fuiste Aquél que aplastó las cabezas de Leviatán, 74:14 Un monstruo marino que también se menciona en Job. y su cuerpo lo diste a comer a los animales del desierto."},{"verse":"15","text":"Tú fuiste Aquél que hizo fluir los ríos y fuentes de aguas. También hiciste que los ríos permanentes se secaran."},{"verse":"16","text":"Tú creaste el día y también la noche. Hiciste la luna74:16 Literalmente, “luminaria”, puede incluir la luz de las estrellas.  y el sol."},{"verse":"17","text":"Tú estableciste los límites de la tierra;74:17 Ver Génesis 1:9-10. Estableciste el verano y el invierno."},{"verse":"18","text":"No olvides cómo el enemigo te ha ridiculizado, Señor, y con cuanto irrespeto han insultado tu nombre."},{"verse":"19","text":"¡No dejes que estos animales salvajes maten a tus tórtolas!74:19 El pueblo de Israel se compara a las palomas por ser mansas e indefensas. ¡No abandones a tu pueblo para siempre!"},{"verse":"20","text":"Recuerda la promesa del pacto,74:20 Literalmente, “pacto”.  porque la tierra está llena de lugares oscuros y de violencia."},{"verse":"21","text":"No dejes que los que sufren sean maltratados otra vez. Deja que los pobres y necesitados te alaben."},{"verse":"22","text":"Levántate, Dios, y pelea tu causa. No olvides cuánto te han insultado estas personas necias todo el tiempo."},{"verse":"23","text":"¡No ignores lo que han dicho tus enemigos, porque sus acusaciones contra ti son cada vez peores!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 74,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Oh, Dios, ¿por qué nos has rechazado? ¿Acaso será para siempre? ¿Por qué tu ira consume como fuego abrasador a las ovejas de tu rebaño?",
+      "strong": [
+        "H4100",
+        "H0430",
+        "H4100",
+        "H4100",
+        "H4100",
+        "H4191",
+        "H0194",
+        "H1961",
+        "H5704",
+        "H5769",
+        "H4100",
+        "H4100",
+        "H0859",
+        "H2534",
+        "H4191",
+        "H4100",
+        "H0784",
+        "H0398",
+        "H0413",
+        "H1992",
+        "H6629",
+        "H4480",
+        "H0859",
+        "H6629"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Recuerda al pueblo que formaste hace mucho tiempo. La tribu que redimiste e hiciste tuya. Recuerda también al monte de Sión, tu casa.",
+      "strong": [
+        "H0413",
+        "H5971",
+        "H2088",
+        "H3335",
+        "H6213",
+        "H3966",
+        "H6256",
+        "H1931",
+        "H7626",
+        "H2088",
+        "H1350",
+        "H0834",
+        "H6213",
+        "H0859",
+        "H2088",
+        "H0413",
+        "H2022",
+        "H4480",
+        "H6726",
+        "H0859",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Ven y camina en medio de estas ruinas. El enemigo ha destruido tu Templo por completo.",
+      "strong": [
+        "H3212",
+        "H1571",
+        "H1980",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H0428",
+        "H3605",
+        "H0341",
+        "H3541",
+        "H7703",
+        "H0859",
+        "H1964",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "El enemigo ha gritado en victoria justo en el lugar donde te reuniste con nosotros. Han levantado sus estandartes como símbolos de su victoria.",
+      "strong": [
+        "H1931",
+        "H6887",
+        "H3541",
+        "H5921",
+        "H6662",
+        "H5921",
+        "H1931",
+        "H4725",
+        "H0834",
+        "H0859",
+        "H5973",
+        "H0587",
+        "H4191",
+        "H1931",
+        "H7580",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Actuaron como hombres que talan el bosque con sus hachas.",
+      "strong": [
+        "H0349",
+        "H0376",
+        "H3045",
+        "H1931",
+        "H0842",
+        "H5973",
+        "H1931",
+        "H3590"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Con hachas y martillos destrozaron los paneles tallados.",
+      "strong": [
+        "H5973",
+        "H3590",
+        "H1571",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Luego prendieron fuego a tu Templo, reduciéndolo a cenizas. Profanaron tu casa, el lugar que lleva tu nombre.",
+      "strong": [
+        "H4994",
+        "H0784",
+        "H0413",
+        "H0859",
+        "H1964",
+        "H0413",
+        "H2490",
+        "H0859",
+        "H1004",
+        "H1931",
+        "H4725",
+        "H0834",
+        "H5375",
+        "H0859",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Dijeron para sí mismos: “¡Destruyámoslo todo!” Así que quemaron cada uno de los lugares de adoración a Dios en la tierra.",
+      "strong": [
+        "H0559",
+        "H5704",
+        "H0518",
+        "H1992",
+        "H3605",
+        "H3541",
+        "H3605",
+        "H3605",
+        "H0259",
+        "H4480",
+        "H3605",
+        "H5892",
+        "H4480",
+        "H0413",
+        "H0430",
+        "H5921",
+        "H3605",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Ya no vemos ninguna de tus señales. No ha quedado ni un profeta, y ninguno entre nosotros sabe hasta cuándo durará esto.",
+      "strong": [
+        "H3528",
+        "H3808",
+        "H7200",
+        "H3808",
+        "H5750",
+        "H0859",
+        "H0226",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H0259",
+        "H5030",
+        "H5704",
+        "H3808",
+        "H3808",
+        "H0587",
+        "H3045",
+        "H5704",
+        "H4100",
+        "H6965",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Hasta cuándo, Dios, te ridiculizará el enemigo? ¿Van a insultar tu nombre para siempre?",
+      "strong": [
+        "H5704",
+        "H4970",
+        "H0430",
+        "H0859",
+        "H1931",
+        "H6862",
+        "H1980",
+        "H5704",
+        "H0859",
+        "H8034",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "¿Por qué te abstienes de actuar? ¡Actúa ahora y destrúyelos!",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H0859",
+        "H4480",
+        "H6258",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Pero tu, Dios, eres nuestro rey desde hace mucho tiempo. Nos has salvado muchas veces en esta tierra.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0430",
+        "H0859",
+        "H0587",
+        "H4428",
+        "H4480",
+        "H6213",
+        "H3966",
+        "H6256",
+        "H0587",
+        "H4191",
+        "H7227",
+        "H6471",
+        "H5921",
+        "H2063",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Tu fuiste aquél que dividió el mar con tu poder, y rompiste las cabezas de los monstruos marinos.",
+      "strong": [
+        "H0859",
+        "H1961",
+        "H1931",
+        "H5921",
+        "H5921",
+        "H3220",
+        "H5921",
+        "H0859",
+        "H3027",
+        "H5921",
+        "H5010",
+        "H5921",
+        "H7218",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Tú fuiste Aquél que aplastó las cabezas de Leviatán, y su cuerpo lo diste a comer a los animales del desierto.",
+      "strong": [
+        "H0859",
+        "H1961",
+        "H1931",
+        "H5971",
+        "H1992",
+        "H7218",
+        "H5971",
+        "H1571",
+        "H1931",
+        "H5038",
+        "H1931",
+        "H5414",
+        "H0413",
+        "H0398",
+        "H0413",
+        "H0582",
+        "H0929",
+        "H4480",
+        "H4057"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Tú fuiste Aquél que hizo fluir los ríos y fuentes de aguas. También hiciste que los ríos permanentes se secaran.",
+      "strong": [
+        "H0859",
+        "H1961",
+        "H1931",
+        "H0834",
+        "H6213",
+        "H0582",
+        "H5105",
+        "H1571",
+        "H3595",
+        "H4480",
+        "H4325",
+        "H1571",
+        "H6213",
+        "H0834",
+        "H0582",
+        "H5105",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Tú creaste el día y también la noche. Hiciste la luna y el sol.",
+      "strong": [
+        "H0859",
+        "H1931",
+        "H3117",
+        "H1571",
+        "H1571",
+        "H1931",
+        "H3915",
+        "H6213",
+        "H1931",
+        "H3394",
+        "H1571",
+        "H1931",
+        "H8121"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Tú estableciste los límites de la tierra; Estableciste el verano y el invierno.",
+      "strong": [
+        "H0859",
+        "H5324",
+        "H3605",
+        "H4480",
+        "H3605",
+        "H0776",
+        "H5324",
+        "H3605",
+        "H7019",
+        "H1571",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "No olvides cómo el enemigo te ha ridiculizado, Señor, y con cuanto irrespeto han insultado tu nombre.",
+      "strong": [
+        "H3808",
+        "H7911",
+        "H0349",
+        "H1931",
+        "H0341",
+        "H0859",
+        "H3541",
+        "H3068",
+        "H1571",
+        "H5973",
+        "H0834",
+        "H4191",
+        "H0859",
+        "H8034"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "¡No dejes que estos animales salvajes maten a tus tórtolas! ¡No abandones a tu pueblo para siempre!",
+      "strong": [
+        "H3808",
+        "H5146",
+        "H0834",
+        "H0428",
+        "H2416",
+        "H2026",
+        "H0413",
+        "H0859",
+        "H8449",
+        "H3808",
+        "H0413",
+        "H0859",
+        "H5971",
+        "H5414",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Recuerda la promesa del pacto, porque la tierra está llena de lugares oscuros y de violencia.",
+      "strong": [
+        "H3588",
+        "H5087",
+        "H4480",
+        "H1285",
+        "H3588",
+        "H3588",
+        "H0776",
+        "H2063",
+        "H4390",
+        "H3588",
+        "H5892",
+        "H3588",
+        "H3588",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "No dejes que los que sufren sean maltratados otra vez. Deja que los pobres y necesitados te alaben.",
+      "strong": [
+        "H3808",
+        "H5146",
+        "H0834",
+        "H0582",
+        "H0834",
+        "H1961",
+        "H5750",
+        "H6471",
+        "H7971",
+        "H0834",
+        "H0582",
+        "H1800",
+        "H1571",
+        "H0859",
+        "H1984"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Levántate, Dios, y pelea tu causa. No olvides cuánto te han insultado estas personas necias todo el tiempo.",
+      "strong": [
+        "H6965",
+        "H0430",
+        "H1571",
+        "H3898",
+        "H0859",
+        "H7379",
+        "H3808",
+        "H7911",
+        "H0834",
+        "H4480",
+        "H4191",
+        "H0428",
+        "H5315",
+        "H3605",
+        "H3605",
+        "H3117"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "¡No ignores lo que han dicho tus enemigos, porque sus acusaciones contra ti son cada vez peores!",
+      "strong": [
+        "H3808",
+        "H1931",
+        "H0834",
+        "H4191",
+        "H0559",
+        "H0859",
+        "H0341",
+        "H3588",
+        "H1931",
+        "H7855",
+        "H5921",
+        "H0859",
+        "H1961",
+        "H3605",
+        "H6471"
+      ]
+    }
+  ]
+}

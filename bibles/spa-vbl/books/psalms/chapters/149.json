@@ -1,1 +1,183 @@
-{"version":"spa-vbl","book":"psalms","chapter":149,"data":[{"verse":"1","text":"¡Alaben al Señor! ¡Canten una canción nueva al Señor! ¡Alábenlo en medio de la reunión de sus seguidores fieles!"},{"verse":"2","text":"Que Israel celebre a su Creador. Que el pueblo de Sión se alegre en su Rey."},{"verse":"3","text":"Alaben su naturaleza con danza; canten alabanzas a él con acompañamiento de panderetas y harpas."},{"verse":"4","text":"Porque el Señor se alegra con su pueblo, y honra a los oprimidos con su salvación."},{"verse":"5","text":"Que los fieles celebren la honra del Señor, que canten incluso desde sus camas."},{"verse":"6","text":"Que sus alabanzas siempre estén en sus labios, que tengan una espada de doble filo en sus manos,"},{"verse":"7","text":"listos para vengarse de las naciones, y castigar a los pueblos extranjeros,"},{"verse":"8","text":"para encarcelar a sus reyes con grilletes y a sus líderes con cadenas de hierro,"},{"verse":"9","text":"para imponer el juicio decretado contra ellos. Esta es la honra de sus fieles seguidores. ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 149,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor! ¡Canten una canción nueva al Señor! ¡Alábenlo en medio de la reunión de sus seguidores fieles!",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H3068",
+        "H7442",
+        "H0259",
+        "H7892",
+        "H2319",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H1931",
+        "H6951",
+        "H4480",
+        "H1931",
+        "H0539"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Que Israel celebre a su Creador. Que el pueblo de Sión se alegre en su Rey.",
+      "strong": [
+        "H1121",
+        "H3478",
+        "H0413",
+        "H1931",
+        "H1121",
+        "H1121",
+        "H5971",
+        "H1121",
+        "H6726",
+        "H3045",
+        "H8056",
+        "H5921",
+        "H1931",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Alaben su naturaleza con danza; canten alabanzas a él con acompañamiento de panderetas y harpas.",
+      "strong": [
+        "H1984",
+        "H1931",
+        "H5973",
+        "H7442",
+        "H8426",
+        "H0413",
+        "H1931",
+        "H5973",
+        "H4480",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Porque el Señor se alegra con su pueblo, y honra a los oprimidos con su salvación.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3068",
+        "H5971",
+        "H8055",
+        "H3588",
+        "H3588",
+        "H5971",
+        "H3588",
+        "H3513",
+        "H3588",
+        "H3588",
+        "H6231",
+        "H3588",
+        "H3588",
+        "H6413"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Que los fieles celebren la honra del Señor, que canten incluso desde sus camas.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H0539",
+        "H5921",
+        "H3519",
+        "H5921",
+        "H0113",
+        "H5921",
+        "H7442",
+        "H5921",
+        "H1931",
+        "H4904"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Que sus alabanzas siempre estén en sus labios, que tengan una espada de doble filo en sus manos,",
+      "strong": [
+        "H3027",
+        "H1931",
+        "H8426",
+        "H5769",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H8193",
+        "H3027",
+        "H0259",
+        "H2719",
+        "H4480",
+        "H3718",
+        "H3027",
+        "H5921",
+        "H1931",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "listos para vengarse de las naciones, y castigar a los pueblos extranjeros,",
+      "strong": [
+        "H5704",
+        "H4480",
+        "H1992",
+        "H1471",
+        "H1571",
+        "H0413",
+        "H0582",
+        "H3816",
+        "H1616"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "para encarcelar a sus reyes con grilletes y a sus líderes con cadenas de hierro,",
+      "strong": [
+        "H5704",
+        "H0413",
+        "H1931",
+        "H4428",
+        "H5973",
+        "H1571",
+        "H0413",
+        "H1931",
+        "H5973",
+        "H2397",
+        "H4480",
+        "H1270"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "para imponer el juicio decretado contra ellos. Esta es la honra de sus fieles seguidores. ¡Alaben al Señor!",
+      "strong": [
+        "H5704",
+        "H1931",
+        "H4941",
+        "H3789",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H3513",
+        "H4480",
+        "H1931",
+        "H0539",
+        "H1984",
+        "H0413",
+        "H0113"
+      ]
+    }
+  ]
+}

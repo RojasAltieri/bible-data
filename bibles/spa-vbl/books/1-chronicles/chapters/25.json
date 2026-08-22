@@ -1,1 +1,641 @@
-{"version":"spa-vbl","book":"1-chronicles","chapter":25,"data":[{"verse":"1","text":"David y los líderes de los levitas25:1.“Líderes de los levitas”: Muchas traducciones lo traducen como “comandantes del ejército”, lo que parece una función extraña para ellos aquí. Sin embargo, la palabra también se utiliza para designar a los líderes de una reunión de levitas (véase, por ejemplo, Números 4:3; Números 8:24-25). Véase también 15:16 en este libro para una descripción similar. eligió a hombres de las familias de Asaf, Hemán y Jedutún para que sirvieran profetizando acompañados de liras, arpas y címbalos. Esta es la lista de los que realizaron este servicio:"},{"verse":"2","text":"De los hijos de Asaf: Zaccur, José, Netanías y Asarela. Estos hijos de Asaf estaban bajo la supervisión de Asaf, quien profetizaba bajo la supervisión del rey."},{"verse":"3","text":"De los hijos de Jedutún: Gedalías, Zeri, Jesaías, Simei, Hasabías y Matatías, seis en total, bajo la supervisión de su padre Jedutún, que profetizaban acompañados del arpa, dando gracias y alabando al Señor."},{"verse":"4","text":"De los hijos de Hemán: Buquías, Matanías, Uziel, Sebuel, Jerimot, Hananías, Hanani, Eliatá, Giddalti, Romamti-ezer, Josbecasa, Maloti, Hotir y Mahaziot."},{"verse":"5","text":"Todos estos hijos de Hemán, el vidente del rey, le fueron dados por las promesas de Dios de honrarlo, pues Dios le dio a Hemán catorce hijos y tres hijas."},{"verse":"6","text":"Todos ellos estaban bajo la supervisión de sus padres para la música de la casa del Señor con címbalos, arpas y liras, para el servicio de la casa de Dios. Asaf, Jedutún y Hemán estaban bajo la supervisión del rey."},{"verse":"7","text":"Junto con sus parientes, todos ellos entrenados y hábiles en el canto al Señor, sumaban 288."},{"verse":"8","text":"Echaron suertes para cualquier responsabilidad que tuvieran, el menos importante igual al más importante, el maestro al alumno."},{"verse":"9","text":"La primera suerte, que era para Asaf, recayó en José, sus hijos y su hermano, 12 en total. La segunda recayó en Gedalías, sus hijos y sus hermanos, 12 en total."},{"verse":"10","text":"La tercera cayó en manos de Zacur, sus hijos y sus hermanos, 12 en total."},{"verse":"11","text":"La cuarta cayó en manos de Izri, sus hijos y sus hermanos, 12 en total."},{"verse":"12","text":"La quinta cayó en manos de Netanías, sus hijos y sus hermanos, 12 en total."},{"verse":"13","text":"La sexta cayó en manos de Buquías, sus hijos y sus hermanos, 12 en total."},{"verse":"14","text":"La séptima cayó en manos de Jesarela, sus hijos y sus hermanos, 12 en total."},{"verse":"15","text":"La octava cayó en manos de Jesaías, sus hijos y sus hermanos, 12 en total."},{"verse":"16","text":"La novena cayó en manos de Matanías, sus hijos y sus hermanos, 12 en total."},{"verse":"17","text":"La décima cayó en manos de Simei, sus hijos y sus hermanos, 12 en total."},{"verse":"18","text":"La undécima cayó en manos de Azarel, sus hijos y sus hermanos, 12 en total."},{"verse":"19","text":"La duodécima cayó en manos de Hasabías, sus hijos y sus hermanos, 12 en total."},{"verse":"20","text":"La decimotercera cayó en manos de Subael, sus hijos y sus hermanos, 12 en total."},{"verse":"21","text":"El decimocuarto cayó en manos de Matatías, sus hijos y sus hermanos, 12 en total."},{"verse":"22","text":"La decimoquinta cayó en manos de Jerimot, sus hijos y sus hermanos, 12 en total."},{"verse":"23","text":"La decimosexta cayó en manos de Hananías, sus hijos y sus hermanos, 12 en total."},{"verse":"24","text":"La decimoséptima cayó en manos de Josbecasa, sus hijos y sus hermanos, 12 en total."},{"verse":"25","text":"La decimoctava cayó en manos de Hanani"},{"verse":"26","text":"La decimonovena cayó en manos de Maloti, sus hijos y sus hermanos, 12 en total."},{"verse":"27","text":"La vigésima cayó en manos de Eliata, sus hijos y sus hermanos, 12 en total."},{"verse":"28","text":"El vigésimo primero cayó en manos de Hotir, sus hijos y sus hermanos, 12 en total."},{"verse":"29","text":"El vigésimo segundo cayó en manos de Gidalti, sus hijos y sus hermanos, 12 en total."},{"verse":"30","text":"El vigésimo tercero cayó en manos de Mahaziot, sus hijos y sus hermanos, 12 en total."},{"verse":"31","text":"El vigésimo cuarto cayó en manos de Romanti-Ezer, sus hijos y sus hermanos, 12 en total."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-chronicles",
+  "chapter": 25,
+  "data": [
+    {
+      "verse": "1",
+      "text": "David y los líderes de los levitas eligió a hombres de las familias de Asaf, Hemán y Jedutún para que sirvieran profetizando acompañados de liras, arpas y címbalos. Esta es la lista de los que realizaron este servicio:",
+      "strong": [
+        "H1732",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3881",
+        "H0977",
+        "H0413",
+        "H1121",
+        "H1121",
+        "H1992",
+        "H4940",
+        "H1121",
+        "H1968",
+        "H1571",
+        "H1961",
+        "H1121",
+        "H5012",
+        "H1121",
+        "H3658",
+        "H1571",
+        "H4700",
+        "H1961",
+        "H1961",
+        "H1931",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1961",
+        "H5650"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "De los hijos de Asaf: Zaccur, José, Netanías y Asarela. Estos hijos de Asaf estaban bajo la supervisión de Asaf, quien profetizaba bajo la supervisión del rey.",
+      "strong": [
+        "H5921",
+        "H1121",
+        "H1121",
+        "H5921",
+        "H3130",
+        "H5921",
+        "H0428",
+        "H1121",
+        "H5921",
+        "H1961",
+        "H8478",
+        "H5921",
+        "H5921",
+        "H4310",
+        "H8478",
+        "H5921",
+        "H5921",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "De los hijos de Jedutún: Gedalías, Zeri, Jesaías, Simei, Hasabías y Matatías, seis en total, bajo la supervisión de su padre Jedutún, que profetizaban acompañados del arpa, dando gracias y alabando al Señor.",
+      "strong": [
+        "H5921",
+        "H1121",
+        "H1121",
+        "H5921",
+        "H1436",
+        "H3470",
+        "H2811",
+        "H5921",
+        "H8337",
+        "H5921",
+        "H8478",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H0001",
+        "H5921",
+        "H5012",
+        "H5921",
+        "H3658",
+        "H5921",
+        "H1984",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "De los hijos de Hemán: Buquías, Matanías, Uziel, Sebuel, Jerimot, Hananías, Hanani, Eliatá, Giddalti, Romamti-ezer, Josbecasa, Maloti, Hotir y Mahaziot.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1968",
+        "H7619",
+        "H2608",
+        "H2607",
+        "H7320",
+        "H3436",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Todos estos hijos de Hemán, el vidente del rey, le fueron dados por las promesas de Dios de honrarlo, pues Dios le dio a Hemán catorce hijos y tres hijas.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H1121",
+        "H1121",
+        "H1968",
+        "H3605",
+        "H2374",
+        "H4480",
+        "H4428",
+        "H0413",
+        "H1961",
+        "H5414",
+        "H1697",
+        "H1992",
+        "H1121",
+        "H0430",
+        "H1121",
+        "H3588",
+        "H0430",
+        "H0413",
+        "H5414",
+        "H0413",
+        "H1968",
+        "H0702",
+        "H1121",
+        "H1571",
+        "H7969",
+        "H1323"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Todos ellos estaban bajo la supervisión de sus padres para la música de la casa del Señor con címbalos, arpas y liras, para el servicio de la casa de Dios. Asaf, Jedutún y Hemán estaban bajo la supervisión del rey.",
+      "strong": [
+        "H3605",
+        "H3027",
+        "H1961",
+        "H8478",
+        "H5921",
+        "H5921",
+        "H1931",
+        "H0001",
+        "H5921",
+        "H5921",
+        "H7892",
+        "H5921",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H4700",
+        "H3658",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5650",
+        "H5921",
+        "H5921",
+        "H1004",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H1968",
+        "H1961",
+        "H8478",
+        "H5921",
+        "H5921",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Junto con sus parientes, todos ellos entrenados y hábiles en el canto al Señor, sumaban 288.",
+      "strong": [
+        "H5973",
+        "H5973",
+        "H1931",
+        "H3605",
+        "H3605",
+        "H1571",
+        "H5973",
+        "H5973",
+        "H7891",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Echaron suertes para cualquier responsabilidad que tuvieran, el menos importante igual al más importante, el maestro al alumno.",
+      "strong": [
+        "H5307",
+        "H1486",
+        "H5973",
+        "H3605",
+        "H0834",
+        "H5973",
+        "H5307",
+        "H2505",
+        "H0413",
+        "H5750",
+        "H5973",
+        "H8269",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "La primera suerte, que era para Asaf, recayó en José, sus hijos y su hermano, 12 en total. La segunda recayó en Gedalías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H7223",
+        "H1486",
+        "H1931",
+        "H1931",
+        "H5704",
+        "H3318",
+        "H3130",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H3318",
+        "H1931",
+        "H8145",
+        "H3318",
+        "H1436",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H3318"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "La tercera cayó en manos de Zacur, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H7992",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "La cuarta cayó en manos de Izri, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "La quinta cayó en manos de Netanías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "La sexta cayó en manos de Buquías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "La séptima cayó en manos de Jesarela, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "La octava cayó en manos de Jesaías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H3470",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "La novena cayó en manos de Matanías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "La décima cayó en manos de Simei, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H6241",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "La undécima cayó en manos de Azarel, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "La duodécima cayó en manos de Hasabías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H2811",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "La decimotercera cayó en manos de Subael, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H7619",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "El decimocuarto cayó en manos de Matatías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1121",
+        "H6240",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "La decimoquinta cayó en manos de Jerimot, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H2568",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "La decimosexta cayó en manos de Hananías, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H2608",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "La decimoséptima cayó en manos de Josbecasa, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H3436",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "La decimoctava cayó en manos de Hanani sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H2607",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "La decimonovena cayó en manos de Maloti, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "La vigésima cayó en manos de Eliata, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1931",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "El vigésimo primero cayó en manos de Hotir, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1121",
+        "H7223",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "El vigésimo segundo cayó en manos de Gidalti, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1121",
+        "H8147",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "El vigésimo tercero cayó en manos de Mahaziot, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1121",
+        "H7969",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "El vigésimo cuarto cayó en manos de Romanti-Ezer, sus hijos y sus hermanos, 12 en total.",
+      "strong": [
+        "H1121",
+        "H7243",
+        "H5307",
+        "H5921",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H1931",
+        "H0251",
+        "H5921"
+      ]
+    }
+  ]
+}

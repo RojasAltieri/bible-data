@@ -1,1 +1,362 @@
-{"version":"spa-vbl","book":"psalms","chapter":7,"data":[{"verse":"1","text":"Señor, mi Dios, tu eres mi protección. Sálvame de los que me persiguen. ¡Por favor, rescátame!"},{"verse":"2","text":"De lo contrario, me devorarán como a un león, y me harán trizas sin nadie que me salve."},{"verse":"3","text":"Si he hecho aquello de lo que me acusan,7:3 “Hecho aquello de lo que me acusan”. Literalmente dice: “Hecho esto”. si mis manos son culpables,"},{"verse":"4","text":"si he pagado mal a un amigo, si le he robado a mi enemigo sin razón,"},{"verse":"5","text":"entonces deja que mis enemigos me alcancen, y déjalos que me atrapen hasta llevarme al suelo y que arrastren mi reputación en el polvo. Selah."},{"verse":"6","text":"Levántate, Señor, y en tu ira álzate contra mis enemigos. ¡Despiértate, Señor, y hazme justicia!7:6 El salmista usa esta metáfora humana para describir a Dios. Pedirle a Dios que despierte es sin duda no el significado literal, sino un ruego para que Dios actúe. Del mismo modo, la petición de que la ira de Dios sea dirigida contra los enemigos de David, refleja un deseo de ser vindicado, pero no es una descipción de la naturaleza de Dios."},{"verse":"7","text":"Junta a las naciones delante de ti, gobiérnalas desde tu trono que está en lo alto."},{"verse":"8","text":"El Señor juzga a todos los pueblos. Defiéndeme, Señor, conforme a mi rectitud e integridad."},{"verse":"9","text":"Por favor, ponle fin a todo el mal hecho por los malvados. Vindica a los que hacen el bien, porque tú eres el Señor de justicia que examina las mentes y los corazones."},{"verse":"10","text":"El Altísimo es mi defensa. Es el que salva a los que viven en justicia."},{"verse":"11","text":"Dios es un juez justo que se enoja con los que hacen el mal."},{"verse":"12","text":"Si no se arrepienten, él afilará su espada. Ya tiene armado su arco."},{"verse":"13","text":"Ha preparado armas mortales, y tiene preparadas flechas ardientes."},{"verse":"14","text":"¡Miren cómo los malvados conciben el mal! Se embarazan con maldad, y dan a luz al engaño."},{"verse":"15","text":"Cavan un pozo profundo para hacer caer a la gente, pero son ellos mismos quienes caen en él."},{"verse":"16","text":"La maldad que hacen rebota y cae sobre sus cabezas; y su violencia caerá sobre sus propios cráneos."},{"verse":"17","text":"Agradeceré al Señor porque él hace justicia; cantaré alabanzas al nombre del Altísimo."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 7,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, mi Dios, tu eres mi protección. Sálvame de los que me persiguen. ¡Por favor, rescátame!",
+      "strong": [
+        "H3068",
+        "H5921",
+        "H3068",
+        "H0859",
+        "H0859",
+        "H5921",
+        "H3467",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7291",
+        "H5921",
+        "H7522"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "De lo contrario, me devorarán como a un león, y me harán trizas sin nadie que me salve.",
+      "strong": [
+        "H4480",
+        "H3605",
+        "H0413",
+        "H0349",
+        "H3068",
+        "H0259",
+        "H0738",
+        "H1571",
+        "H0413",
+        "H6213",
+        "H3808",
+        "H3605",
+        "H3605",
+        "H0413",
+        "H3467"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Si he hecho aquello de lo que me acusan, si mis manos son culpables,",
+      "strong": [
+        "H6435",
+        "H4392",
+        "H5315",
+        "H1931",
+        "H4480",
+        "H1931",
+        "H6435",
+        "H0413",
+        "H6435",
+        "H0589",
+        "H3027",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "si he pagado mal a un amigo, si le he robado a mi enemigo sin razón,",
+      "strong": [
+        "H3426",
+        "H4392",
+        "H1580",
+        "H7451",
+        "H3068",
+        "H0259",
+        "H7453",
+        "H3426",
+        "H0413",
+        "H4392",
+        "H3068",
+        "H0589",
+        "H0341",
+        "H3808",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "entonces deja que mis enemigos me alcancen, y déjalos que me atrapen hasta llevarme al suelo y que arrastren mi reputación en el polvo. Selah.",
+      "strong": [
+        "H0227",
+        "H7971",
+        "H0834",
+        "H0589",
+        "H0341",
+        "H0413",
+        "H1571",
+        "H0834",
+        "H0413",
+        "H5704",
+        "H5375",
+        "H0413",
+        "H1571",
+        "H0834",
+        "H0589",
+        "H5921",
+        "H1931",
+        "H6083",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Levántate, Señor, y en tu ira álzate contra mis enemigos. ¡Despiértate, Señor, y hazme justicia!",
+      "strong": [
+        "H6965",
+        "H0113",
+        "H3519",
+        "H5921",
+        "H0859",
+        "H2534",
+        "H5375",
+        "H5921",
+        "H0589",
+        "H0341",
+        "H5782",
+        "H0113",
+        "H3519",
+        "H6213",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Junta a las naciones delante de ti, gobiérnalas desde tu trono que está en lo alto.",
+      "strong": [
+        "H0622",
+        "H3068",
+        "H1992",
+        "H1471",
+        "H6440",
+        "H4480",
+        "H0859",
+        "H4480",
+        "H0859",
+        "H3678",
+        "H0834",
+        "H6965",
+        "H5921",
+        "H1931",
+        "H1364"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "El Señor juzga a todos los pueblos. Defiéndeme, Señor, conforme a mi rectitud e integridad.",
+      "strong": [
+        "H5921",
+        "H0113",
+        "H8199",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H3816",
+        "H1777",
+        "H0113",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3559",
+        "H0834",
+        "H8537"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Por favor, ponle fin a todo el mal hecho por los malvados. Vindica a los que hacen el bien, porque tú eres el Señor de justicia que examina las mentes y los corazones.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H7121",
+        "H7093",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H7451",
+        "H6213",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H2896",
+        "H5921",
+        "H8199",
+        "H0859",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H6664",
+        "H5921",
+        "H6884",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3824"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El Altísimo es mi defensa. Es el que salva a los que viven en justicia.",
+      "strong": [
+        "H1931",
+        "H5945",
+        "H1961",
+        "H4994",
+        "H1961",
+        "H1931",
+        "H4994",
+        "H3467",
+        "H0413",
+        "H0582",
+        "H4994",
+        "H7563",
+        "H5921",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Dios es un juez justo que se enoja con los que hacen el mal.",
+      "strong": [
+        "H0430",
+        "H1961",
+        "H0259",
+        "H8199",
+        "H6662",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H5921",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Si no se arrepienten, él afilará su espada. Ya tiene armado su arco.",
+      "strong": [
+        "H0518",
+        "H3808",
+        "H3045",
+        "H3605",
+        "H1931",
+        "H2719",
+        "H3528",
+        "H3426",
+        "H1869",
+        "H1931",
+        "H7198"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Ha preparado armas mortales, y tiene preparadas flechas ardientes.",
+      "strong": [
+        "H3808",
+        "H5402",
+        "H1571",
+        "H3426",
+        "H4639",
+        "H8314"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "¡Miren cómo los malvados conciben el mal! Se embarazan con maldad, y dan a luz al engaño.",
+      "strong": [
+        "H5027",
+        "H0349",
+        "H0582",
+        "H5674",
+        "H1931",
+        "H6466",
+        "H3045",
+        "H5973",
+        "H5771",
+        "H1571",
+        "H1835",
+        "H0413",
+        "H0216",
+        "H0413",
+        "H4820"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Cavan un pozo profundo para hacer caer a la gente, pero son ellos mismos quienes caen en él.",
+      "strong": [
+        "H0259",
+        "H0875",
+        "H8482",
+        "H5704",
+        "H6213",
+        "H3782",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H3588",
+        "H1961",
+        "H1992",
+        "H1992",
+        "H4310",
+        "H7901",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "La maldad que hacen rebota y cae sobre sus cabezas; y su violencia caerá sobre sus propios cráneos.",
+      "strong": [
+        "H1931",
+        "H5771",
+        "H0834",
+        "H6466",
+        "H1571",
+        "H5307",
+        "H5921",
+        "H1931",
+        "H7218",
+        "H1571",
+        "H1931",
+        "H2555",
+        "H5307",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Agradeceré al Señor porque él hace justicia; cantaré alabanzas al nombre del Altísimo.",
+      "strong": [
+        "H5921",
+        "H0113",
+        "H5921",
+        "H5921",
+        "H6213",
+        "H6664",
+        "H7891",
+        "H8426",
+        "H5921",
+        "H8034",
+        "H5921",
+        "H5945"
+      ]
+    }
+  ]
+}

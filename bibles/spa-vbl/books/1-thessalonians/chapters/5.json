@@ -1,1 +1,549 @@
-{"version":"spa-vbl","book":"1-thessalonians","chapter":5,"data":[{"verse":"1","text":"Hermanos y hermanas, no necesitamos escribirles sobre los tiempos proféticos y las fechas."},{"verse":"2","text":"Ustedes mismos saben bien que el día del Señor vendrá como un ladrón en la noche."},{"verse":"3","text":"Cuando la gente hable de paz y seguridad, de repente vendrá destrucción sobre ellos. Será como el inicio repentino de los dolores de parto, y ciertamente no escaparán."},{"verse":"4","text":"Pero ustedes, hermanos y hermanas, no están en tinieblas respecto a esto, de modo que no serán tomados por sorpresa cuando venga como ladrón en el Día del Juicio.5:4 Literalmente, “Día”."},{"verse":"5","text":"Porque ustedes son todos hijos de la luz e hijos del día. No pertenecemos a la noche ni a las tinieblas."},{"verse":"6","text":"De modo que no deberíamos estar durmiendo como todos los demás, sino que debemos permanecer despiertos y mantener nuestra mente lúcida."},{"verse":"7","text":"Porque en la noche es cuando la gente duerme; y es en la noche que se emborrachan."},{"verse":"8","text":"Pero como nosotros pertenecemos al día, debemos mantener nuestras mentes limpias, ceñidos con la coraza de fe y amor, y usando como casco la esperanza de la salvación."},{"verse":"9","text":"Porque Dios no nos ha puesto en sitio de castigo, sino que nos ha reservado para salvación por medio de nuestro Señor Jesucristo."},{"verse":"10","text":"Él es quien murió por5:10 “por” en el sentido de “por causa de” más que “en lugar de”. nosotros para que, ya sea que vivamos o muramos, podamos vivir con él."},{"verse":"11","text":"Así que anímense y fortalézcanse unos a otros, como lo han venido haciendo."},{"verse":"12","text":"Hermanos y hermanas, les pedimos que respeten a los que están con ustedes, a quienes los guían en el Señor y les enseñan."},{"verse":"13","text":"Deben valorarlos grandemente en amor por la obra que hacen. Vivan en paz unos con otros."},{"verse":"14","text":"Los exhortamos, hermanos y hermanas, a que adviertan a los que son perezosos, animen a los que están ansiosos, ayuden a los débiles, y sean pacientes con todos."},{"verse":"15","text":"Asegúrense de que ninguno de ustedes pague mal por mal, sino traten siempre de hacer el bien unos a otros."},{"verse":"16","text":"Estén siempre llenos de alegría,"},{"verse":"17","text":"nunca dejen de orar,"},{"verse":"18","text":"estén agradecidos en todas las situaciones, porque esto es lo que Dios quiere que hagan en Cristo Jesús."},{"verse":"19","text":"No refrenen al Espíritu,"},{"verse":"20","text":"no menosprecien la profecía,"},{"verse":"21","text":"asegúrense de comprobarlo todo. Aférrense a todo lo que sea bueno;"},{"verse":"22","text":"y manténganse apartados de todo tipo de mal."},{"verse":"23","text":"Que el mismo Dios de paz los santifique por completo, y que todo su ser—cuerpo, mente y espíritu—permanezca irreprochable para el regreso de nuestro Señor Jesucristo."},{"verse":"24","text":"Aquél que los llama es fiel, y cumplirá."},{"verse":"25","text":"Hermanos y hermanas, oren por nosotros."},{"verse":"26","text":"Saluden a todos los creyentes de allí con afecto.5:26 Literalmente, “con un beso santo”."},{"verse":"27","text":"Les pido, por medio del Señor, que esta carta sea leída a todos los creyentes."},{"verse":"28","text":"Que la gracia de nuestro Señor Jesucristo esté con ustedes."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-thessalonians",
+  "chapter": 5,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Hermanos y hermanas, no necesitamos escribirles sobre los tiempos proféticos y las fechas.",
+      "strong": [
+        "H0251",
+        "G2532",
+        "H0269",
+        "G3756",
+        "G5532",
+        "G4012",
+        "G3588",
+        "G2540",
+        "G2532",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Ustedes mismos saben bien que el día del Señor vendrá como un ladrón en la noche.",
+      "strong": [
+        "H1992",
+        "G1492",
+        "H2896",
+        "G3754",
+        "G3748",
+        "G2250",
+        "H4480",
+        "G2962",
+        "G2064",
+        "G5613",
+        "G1722",
+        "G2812",
+        "G1722",
+        "H1931",
+        "G3571"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Cuando la gente hable de paz y seguridad, de repente vendrá destrucción sobre ellos. Será como el inicio repentino de los dolores de parto, y ciertamente no escaparán.",
+      "strong": [
+        "G3752",
+        "G3588",
+        "H1471",
+        "H1696",
+        "G1722",
+        "G1515",
+        "G2532",
+        "H4009",
+        "G1722",
+        "G2186",
+        "G3639",
+        "G1722",
+        "G3588",
+        "H1961",
+        "G5618",
+        "G3588",
+        "H6597",
+        "G1722",
+        "G3588",
+        "G5604",
+        "G1722",
+        "G2532",
+        "H0389",
+        "G3756",
+        "G1628"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero ustedes, hermanos y hermanas, no están en tinieblas respecto a esto, de modo que no serán tomados por sorpresa cuando venga como ladrón en el Día del Juicio.",
+      "strong": [
+        "G1161",
+        "H0251",
+        "G1161",
+        "H0269",
+        "G3756",
+        "H1961",
+        "G1722",
+        "G4655",
+        "H3282",
+        "G1722",
+        "G1722",
+        "G1722",
+        "H5352",
+        "G3588",
+        "G3756",
+        "H1961",
+        "G1722",
+        "G5613",
+        "H0935",
+        "G5613",
+        "G2812",
+        "G1722",
+        "G3588",
+        "G2250",
+        "G3588",
+        "G2250"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Porque ustedes son todos hijos de la luz e hijos del día. No pertenecemos a la noche ni a las tinieblas.",
+      "strong": [
+        "G1063",
+        "G1510",
+        "G3956",
+        "G5207",
+        "H4480",
+        "H1931",
+        "G5457",
+        "G2532",
+        "G5207",
+        "H4480",
+        "G2250",
+        "G3756",
+        "H0413",
+        "H1931",
+        "G3571",
+        "G3761",
+        "H0413",
+        "H1992",
+        "G4655"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "De modo que no deberíamos estar durmiendo como todos los demás, sino que debemos permanecer despiertos y mantener nuestra mente lúcida.",
+      "strong": [
+        "G3588",
+        "H5352",
+        "G3588",
+        "G3361",
+        "G2518",
+        "G5613",
+        "H3605",
+        "G3588",
+        "G3062",
+        "G3361",
+        "G3588",
+        "G2532",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Porque en la noche es cuando la gente duerme; y es en la noche que se emborrachan.",
+      "strong": [
+        "G1063",
+        "G3588",
+        "G3588",
+        "G3571",
+        "H1961",
+        "H3588",
+        "G3588",
+        "H1471",
+        "G2518",
+        "G2532",
+        "H1961",
+        "G3588",
+        "G3588",
+        "G3571",
+        "G3588",
+        "G2532"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Pero como nosotros pertenecemos al día, debemos mantener nuestras mentes limpias, ceñidos con la coraza de fe y amor, y usando como casco la esperanza de la salvación.",
+      "strong": [
+        "G1161",
+        "G2532",
+        "G2249",
+        "H0413",
+        "G2250",
+        "H0587",
+        "H2889",
+        "H2296",
+        "G2532",
+        "H1931",
+        "G1161",
+        "G4102",
+        "G2532",
+        "H0160",
+        "G2532",
+        "G2532",
+        "H1931",
+        "G1680",
+        "G1161",
+        "H1931",
+        "G4991"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Porque Dios no nos ha puesto en sitio de castigo, sino que nos ha reservado para salvación por medio de nuestro Señor Jesucristo.",
+      "strong": [
+        "G3754",
+        "G2316",
+        "G3756",
+        "G2316",
+        "H3541",
+        "G5087",
+        "G1519",
+        "H4725",
+        "G1519",
+        "G3709",
+        "H3588",
+        "G3754",
+        "G2316",
+        "H3541",
+        "G1519",
+        "G4991",
+        "G1223",
+        "G1223",
+        "G1519",
+        "G2249",
+        "G2962",
+        "G2424"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Él es quien murió por nosotros para que, ya sea que vivamos o muramos, podamos vivir con él.",
+      "strong": [
+        "G3588",
+        "H1961",
+        "G3588",
+        "H4191",
+        "G4012",
+        "G2249",
+        "G2443",
+        "G3588",
+        "G2198",
+        "G1535",
+        "G3588",
+        "G2198",
+        "G1535",
+        "H4191",
+        "G2198",
+        "G4862",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Así que anímense y fortalézcanse unos a otros, como lo han venido haciendo.",
+      "strong": [
+        "G2532",
+        "G3588",
+        "G2532",
+        "G3588",
+        "H0413",
+        "G3588",
+        "G2531",
+        "G3588",
+        "H4191",
+        "H0935",
+        "G4160"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Hermanos y hermanas, les pedimos que respeten a los que están con ustedes, a quienes los guían en el Señor y les enseñan.",
+      "strong": [
+        "H0251",
+        "G2532",
+        "H0269",
+        "H0413",
+        "H7121",
+        "G3588",
+        "G1722",
+        "G3588",
+        "G3588",
+        "H1961",
+        "G1722",
+        "G1722",
+        "H4310",
+        "G3588",
+        "G1722",
+        "G3588",
+        "G2962",
+        "G2532",
+        "H0413",
+        "H3384"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Deben valorarlos grandemente en amor por la obra que hacen. Vivan en paz unos con otros.",
+      "strong": [
+        "H1419",
+        "G1722",
+        "H0160",
+        "G1223",
+        "G3588",
+        "G2041",
+        "G3588",
+        "H6213",
+        "G1722",
+        "H7965",
+        "G3588",
+        "G1722",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Los exhortamos, hermanos y hermanas, a que adviertan a los que son perezosos, animen a los que están ansiosos, ayuden a los débiles, y sean pacientes con todos.",
+      "strong": [
+        "G3588",
+        "G3870",
+        "H0251",
+        "G1161",
+        "H0269",
+        "G4314",
+        "G3588",
+        "G4314",
+        "G3588",
+        "G3588",
+        "H1961",
+        "G4314",
+        "G3588",
+        "G3588",
+        "H1961",
+        "G4314",
+        "G3588",
+        "G1161",
+        "H1961",
+        "G4314",
+        "G3956"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Asegúrense de que ninguno de ustedes pague mal por mal, sino traten siempre de hacer el bien unos a otros.",
+      "strong": [
+        "G1519",
+        "G3588",
+        "G3361",
+        "G1519",
+        "H7725",
+        "G2556",
+        "G1519",
+        "G2556",
+        "G3361",
+        "G3842",
+        "G1519",
+        "H6213",
+        "G3588",
+        "H2896",
+        "G5100",
+        "G1519",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Estén siempre llenos de alegría,",
+      "strong": [
+        "H1961",
+        "G3842",
+        "H4392",
+        "H4480",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "nunca dejen de orar,",
+      "strong": [
+        "H3808",
+        "H2308",
+        "H4480",
+        "G4336"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "estén agradecidos en todas las situaciones, porque esto es lo que Dios quiere que hagan en Cristo Jesús.",
+      "strong": [
+        "H1961",
+        "G1722",
+        "G3956",
+        "H1992",
+        "G1063",
+        "G3778",
+        "G3778",
+        "H1931",
+        "G1063",
+        "G2316",
+        "G2307",
+        "G1063",
+        "H6213",
+        "G1722",
+        "G5547",
+        "G2424"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "No refrenen al Espíritu,",
+      "strong": [
+        "G3361",
+        "G3588",
+        "G4151"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "no menosprecien la profecía,",
+      "strong": [
+        "G3361",
+        "H1931",
+        "G4394"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "asegúrense de comprobarlo todo. Aférrense a todo lo que sea bueno;",
+      "strong": [
+        "G3588",
+        "G3956",
+        "G1161",
+        "G3956",
+        "G3588",
+        "G3588",
+        "G3588",
+        "G2570"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "y manténganse apartados de todo tipo de mal.",
+      "strong": [
+        "H1571",
+        "H4480",
+        "G3956",
+        "H4480",
+        "G4190"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Que el mismo Dios de paz los santifique por completo, y que todo su ser—cuerpo, mente y espíritu—permanezca irreprochable para el regreso de nuestro Señor Jesucristo.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "H1931",
+        "G2316",
+        "G1722",
+        "G1515",
+        "G3588",
+        "G1722",
+        "G2532",
+        "G3588",
+        "G1722",
+        "G3588",
+        "H5315",
+        "G4983",
+        "G2532",
+        "G4151",
+        "H0539",
+        "G1722",
+        "G3588",
+        "G1722",
+        "G2249",
+        "G2962",
+        "G2424"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Aquél que los llama es fiel, y cumplirá.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G3588",
+        "G2564",
+        "G3739",
+        "G4103",
+        "G2532",
+        "H1584"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Hermanos y hermanas, oren por nosotros.",
+      "strong": [
+        "H0251",
+        "G1473",
+        "H0269",
+        "G4336",
+        "G4012",
+        "G2249"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Saluden a todos los creyentes de allí con afecto.",
+      "strong": [
+        "G1722",
+        "G3956",
+        "G3588",
+        "G1722",
+        "G1722",
+        "G1722"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Les pido, por medio del Señor, que esta carta sea leída a todos los creyentes.",
+      "strong": [
+        "H0413",
+        "G3588",
+        "H8432",
+        "G3588",
+        "G2962",
+        "G3588",
+        "G3588",
+        "G1992",
+        "G3588",
+        "H0413",
+        "G3956",
+        "G3588"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Que la gracia de nuestro Señor Jesucristo esté con ustedes.",
+      "strong": [
+        "G3588",
+        "G3588",
+        "G5485",
+        "G3588",
+        "G2249",
+        "G2962",
+        "G2424",
+        "G3588",
+        "G3326"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,566 @@
-{"version":"spa-vbl","book":"proverbs","chapter":12,"data":[{"verse":"1","text":"Si amas el conocimiento, amarás la disciplina. ¡Todo el que aborrece la corrección es un necio!"},{"verse":"2","text":"El Señor bendice a los que hacen el bien, pero condena a los que conspiran para hacer el mal."},{"verse":"3","text":"La maldad no brinda seguridad, pero los que viven en justicia tienen sus raíces profundas y no serán removidos."},{"verse":"4","text":"Una buena esposa es corona para su esposo, pero la mujer que trae vergüenza es como descomposición en sus huesos."},{"verse":"5","text":"Las personas que hacen el bien, hacen planes justos, pero el consejo de los malvados es engañoso."},{"verse":"6","text":"Las palabras de los malvados son como una emboscada con violencia, pero las palabras de las personas honestas los salvarán."},{"verse":"7","text":"Los malvados son destriudos y olvidados. Pero la familia de los que hacen el bien permanece firme."},{"verse":"8","text":"Las personas son estimadas cuando hablan con sensatez, pero los que tienen mentes perversas son aborrecidos."},{"verse":"9","text":"Mejor es ser humilde y trabajar para ti mismo, que ser un hombre jactancioso y no tener nada para comer."},{"verse":"10","text":"Los justos cuidan de sus animales, pero el cuidado de los malvados es crueldad."},{"verse":"11","text":"Si cultivas la tierra, tendrás abundancia de dinero, pero si vas detrás de cosas inútiles, eres un tonto."},{"verse":"12","text":"Las personas malvadas buscan el grano robado, pero las personas justas lo producen ellas mismas."},{"verse":"13","text":"Los malvados quedan atrapados por sus propias palabras pecaminosas, pero las personas que hacen el bien se libran de los problemas."},{"verse":"14","text":"Tus palabras te traerán recompensa, y tu trabajo regresará a bendecirte."},{"verse":"15","text":"Los necios creen que van por el camino correcto, pero si eres sabio escucharás el consejo."},{"verse":"16","text":"Los necios se enojan con facilidad; pero si eres prudente, ignorarás los insultos."},{"verse":"17","text":"Quien dice la verdad es honesto, pero un testigo falso dirá mentiras."},{"verse":"18","text":"Las palabras apresuradas pueden ser tan cortantes como un cuchillo, pero las palabras de los sabios traen sanidad."},{"verse":"19","text":"Las palabras de verdad duran para siempre, pero las mentiras se olvidan pronto."},{"verse":"20","text":"En la mente de los que maquinan maldad solo hay engaño; pero los que piensan en hacer el bien viven con alegría."},{"verse":"21","text":"A los que hacen el bien no les pasara ningún mal, pero los malvados están llenos de problemas."},{"verse":"22","text":"El Señor aborrece a los mentirosos, pero se alegra con los fieles."},{"verse":"23","text":"Si eres prudente, no presumes de tu conocimiento; pero los tontos anuncian su estupidez."},{"verse":"24","text":"El trabajo duro aporta liderazgo, pero la pereza trae esclavitud."},{"verse":"25","text":"Si vives con ansiedad, te sentirás sobrecargado; pero una palabra de aliento te reconfortará."},{"verse":"26","text":"Las personas que hacen el bien cuidan de sus amigos,12:26.El término hebreo de esta línea no está claro. pero la forma en que viven los malvados lleva a sus amigos a la perdición."},{"verse":"27","text":"Los perezosos no atrapan su presa, pero si trabajas duro te volverás rico.12:27.El significado de este versículo en Hebreo no está claro."},{"verse":"28","text":"El camino de los justos lleva a la vida, nunca te conducirá a la muerte."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 12,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Si amas el conocimiento, amarás la disciplina. ¡Todo el que aborrece la corrección es un necio!",
+      "strong": [
+        "H0518",
+        "H0157",
+        "H1931",
+        "H1847",
+        "H0157",
+        "H1931",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H8130",
+        "H1931",
+        "H4148",
+        "H1961",
+        "H0259",
+        "H1198"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El Señor bendice a los que hacen el bien, pero condena a los que conspiran para hacer el mal.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1288",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H3588",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H5704",
+        "H6213",
+        "H1931",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "La maldad no brinda seguridad, pero los que viven en justicia tienen sus raíces profundas y no serán removidos.",
+      "strong": [
+        "H1931",
+        "H5771",
+        "H3808",
+        "H4009",
+        "H3588",
+        "H0582",
+        "H3808",
+        "H2416",
+        "H5921",
+        "H6662",
+        "H1992",
+        "H1931",
+        "H8328",
+        "H6013",
+        "H1571",
+        "H3808",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Una buena esposa es corona para su esposo, pero la mujer que trae vergüenza es como descomposición en sus huesos.",
+      "strong": [
+        "H0259",
+        "H2896",
+        "H3618",
+        "H1961",
+        "H5850",
+        "H5704",
+        "H1931",
+        "H2860",
+        "H3588",
+        "H1931",
+        "H0802",
+        "H0834",
+        "H0935",
+        "H0955",
+        "H1961",
+        "H0349",
+        "H5921",
+        "H1931",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Las personas que hacen el bien, hacen planes justos, pero el consejo de los malvados es engañoso.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H6213",
+        "H6662",
+        "H3588",
+        "H1931",
+        "H8458",
+        "H6662",
+        "H0582",
+        "H1961",
+        "H4820"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Las palabras de los malvados son como una emboscada con violencia, pero las palabras de las personas honestas los salvarán.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H1697",
+        "H0582",
+        "H6310",
+        "H0349",
+        "H0259",
+        "H6119",
+        "H5973",
+        "H2555",
+        "H3588",
+        "H1992",
+        "H1697",
+        "H1697",
+        "H1992",
+        "H5315",
+        "H0582",
+        "H5337"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los malvados son destriudos y olvidados. Pero la familia de los que hacen el bien permanece firme.",
+      "strong": [
+        "H0582",
+        "H1961",
+        "H1571",
+        "H3588",
+        "H1931",
+        "H1004",
+        "H6662",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H5975",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Las personas son estimadas cuando hablan con sensatez, pero los que tienen mentes perversas son aborrecidos.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H1961",
+        "H1961",
+        "H1696",
+        "H5973",
+        "H3588",
+        "H1961",
+        "H5753",
+        "H1961",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Mejor es ser humilde y trabajar para ti mismo, que ser un hombre jactancioso y no tener nada para comer.",
+      "strong": [
+        "H2896",
+        "H1961",
+        "H5315",
+        "H6041",
+        "H1571",
+        "H6213",
+        "H5704",
+        "H0859",
+        "H1931",
+        "H0834",
+        "H5315",
+        "H0259",
+        "H0376",
+        "H1571",
+        "H3808",
+        "H1961",
+        "H3808",
+        "H5704",
+        "H0398"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Los justos cuidan de sus animales, pero el cuidado de los malvados es crueldad.",
+      "strong": [
+        "H0582",
+        "H6662",
+        "H6662",
+        "H1931",
+        "H0929",
+        "H3588",
+        "H1931",
+        "H3027",
+        "H6662",
+        "H0582",
+        "H1961",
+        "H2555"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Si cultivas la tierra, tendrás abundancia de dinero, pero si vas detrás de cosas inútiles, eres un tonto.",
+      "strong": [
+        "H0518",
+        "H7646",
+        "H0776",
+        "H1961",
+        "H7230",
+        "H7646",
+        "H3701",
+        "H3588",
+        "H0518",
+        "H3212",
+        "H0310",
+        "H7646",
+        "H1697",
+        "H3808",
+        "H0859",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Las personas malvadas buscan el grano robado, pero las personas justas lo producen ellas mismas.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H1245",
+        "H1931",
+        "H1715",
+        "H3588",
+        "H1992",
+        "H5315",
+        "H6664",
+        "H1931",
+        "H5375",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Los malvados quedan atrapados por sus propias palabras pecaminosas, pero las personas que hacen el bien se libran de los problemas.",
+      "strong": [
+        "H0582",
+        "H5921",
+        "H1931",
+        "H1697",
+        "H3588",
+        "H1992",
+        "H5315",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H3045",
+        "H5337",
+        "H6662",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Tus palabras te traerán recompensa, y tu trabajo regresará a bendecirte.",
+      "strong": [
+        "H0859",
+        "H6310",
+        "H0859",
+        "H7725",
+        "H6468",
+        "H1571",
+        "H0859",
+        "H5999",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los necios creen que van por el camino correcto, pero si eres sabio escucharás el consejo.",
+      "strong": [
+        "H2450",
+        "H0995",
+        "H0834",
+        "H1980",
+        "H1870",
+        "H1931",
+        "H1870",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H2450",
+        "H1931",
+        "H6098"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los necios se enojan con facilidad; pero si eres prudente, ignorarás los insultos.",
+      "strong": [
+        "H0582",
+        "H0995",
+        "H3045",
+        "H5973",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H0995",
+        "H3956",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Quien dice la verdad es honesto, pero un testigo falso dirá mentiras.",
+      "strong": [
+        "H4310",
+        "H5002",
+        "H1931",
+        "H0571",
+        "H1961",
+        "H3588",
+        "H0259",
+        "H5707",
+        "H8267",
+        "H0559",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Las palabras apresuradas pueden ser tan cortantes como un cuchillo, pero las palabras de los sabios traen sanidad.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H3201",
+        "H5315",
+        "H3966",
+        "H0349",
+        "H0259",
+        "H2719",
+        "H3588",
+        "H1992",
+        "H1697",
+        "H4480",
+        "H2450",
+        "H2450",
+        "H0935",
+        "H0724"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Las palabras de verdad duran para siempre, pero las mentiras se olvidan pronto.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H5704",
+        "H0571",
+        "H5704",
+        "H5703",
+        "H3588",
+        "H1992",
+        "H8267",
+        "H3045",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "En la mente de los que maquinan maldad solo hay engaño; pero los que piensan en hacer el bien viven con alegría.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H7451",
+        "H0582",
+        "H0834",
+        "H2803",
+        "H7451",
+        "H0910",
+        "H3426",
+        "H4820",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H1897",
+        "H5921",
+        "H6213",
+        "H1931",
+        "H7965",
+        "H2416",
+        "H5973",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "A los que hacen el bien no les pasara ningún mal, pero los malvados están llenos de problemas.",
+      "strong": [
+        "H0413",
+        "H3605",
+        "H3808",
+        "H6213",
+        "H3605",
+        "H2896",
+        "H3808",
+        "H0413",
+        "H5674",
+        "H3605",
+        "H7451",
+        "H3588",
+        "H3605",
+        "H1961",
+        "H4390",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "El Señor aborrece a los mentirosos, pero se alegra con los fieles.",
+      "strong": [
+        "H6213",
+        "H3068",
+        "H8130",
+        "H3068",
+        "H0582",
+        "H8267",
+        "H3588",
+        "H3045",
+        "H8055",
+        "H5973",
+        "H0582",
+        "H0539"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Si eres prudente, no presumes de tu conocimiento; pero los tontos anuncian su estupidez.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H0995",
+        "H3808",
+        "H4480",
+        "H0859",
+        "H1847",
+        "H3588",
+        "H0582",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El trabajo duro aporta liderazgo, pero la pereza trae esclavitud.",
+      "strong": [
+        "H1931",
+        "H5999",
+        "H7186",
+        "H3588",
+        "H1931",
+        "H0935"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Si vives con ansiedad, te sentirás sobrecargado; pero una palabra de aliento te reconfortará.",
+      "strong": [
+        "H0518",
+        "H2416",
+        "H5973",
+        "H0859",
+        "H3588",
+        "H0259",
+        "H1697",
+        "H1697",
+        "H0553",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Las personas que hacen el bien cuidan de sus amigos, pero la forma en que viven los malvados lleva a sus amigos a la perdición.",
+      "strong": [
+        "H1992",
+        "H5315",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H6662",
+        "H1931",
+        "H7453",
+        "H3588",
+        "H1931",
+        "H8389",
+        "H5921",
+        "H0834",
+        "H7563",
+        "H0582",
+        "H5375",
+        "H0413",
+        "H1931",
+        "H7453",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Los perezosos no atrapan su presa, pero si trabajas duro te volverás rico.",
+      "strong": [
+        "H0582",
+        "H3808",
+        "H1931",
+        "H0957",
+        "H3588",
+        "H3808",
+        "H7186",
+        "H0859",
+        "H7725",
+        "H1419"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "El camino de los justos lleva a la vida, nunca te conducirá a la muerte.",
+      "strong": [
+        "H1931",
+        "H1870",
+        "H4480",
+        "H0582",
+        "H6662",
+        "H5375",
+        "H0413",
+        "H1931",
+        "H2416",
+        "H3808",
+        "H0859",
+        "H0413",
+        "H1931",
+        "H4194"
+      ]
+    }
+  ]
+}

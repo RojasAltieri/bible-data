@@ -1,1 +1,292 @@
-{"version":"spa-vbl","book":"job","chapter":35,"data":[{"verse":"1","text":"Entonces Elihú continuó diciendo:"},{"verse":"2","text":"“¿Crees que es honesto afirmar que tienes razón ante Dios?"},{"verse":"3","text":"Y preguntas: ‘¿Qué beneficio obtengo? ¿De qué me ha servido no pecar?’"},{"verse":"4","text":"“¡Te lo diré, y a tus amigos también!"},{"verse":"5","text":"Sólo tienes que mirar al cielo y ver. Observa las nubes en lo alto."},{"verse":"6","text":"Si pecas, ¿en qué perjudica eso a Dios?35:6 Literalmente, “¿qué consigue eso en su contra??”  ¿Cómo afectan tus muchos pecados a Dios?"},{"verse":"7","text":"Si haces lo correcto, ¿qué bien le haces a él?"},{"verse":"8","text":"No. Tus pecados sólo afectan a la gente como tú, y cualquier bien que hagas también les afecta a ellos."},{"verse":"9","text":"“La gente clama a causa de las terribles persecuciones, pide que alguien la salve de sus opresores."},{"verse":"10","text":"Pero nadie pregunta: ‘¿Dónde está mi Dios creador, el que inspira cantos en la noche,"},{"verse":"11","text":"que nos enseña más que los animales y nos hace más sabios que las aves?’"},{"verse":"12","text":"Cuando claman por ayuda, Dios no responde porque son gente orgullosa y malvada."},{"verse":"13","text":"Dios no escucha sus gritos vacíos;35:13 Vacíos en el sentido de que son vanos y poco sinceros. el Todopoderoso no les hace caso."},{"verse":"14","text":"¿Cuánto menos te escuchará Dios cuando le digas que no te ve?35:14 Elihú se dirige directamente a Job y le dice que, puesto que Job dice que Dios no lo ve, por qué debería escucharlo? Tu caso está ante él, así que tienes que esperarlo."},{"verse":"15","text":"“Estás diciendo35:15 Implícito. que Dios no castiga a la gente en su ira y presta poca atención al pecado."},{"verse":"16","text":"Tú, Job, hablas sin sentido, haciendo largos discursos cuando no sabes nada!”"}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 35,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Entonces Elihú continuó diciendo:",
+      "strong": [
+        "H0227",
+        "H8548",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Crees que es honesto afirmar que tienes razón ante Dios?",
+      "strong": [
+        "H0834",
+        "H2063",
+        "H0834",
+        "H5750",
+        "H7218",
+        "H6440",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Y preguntas: ‘¿Qué beneficio obtengo? ¿De qué me ha servido no pecar?’",
+      "strong": [
+        "H3588",
+        "H7592",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3541",
+        "H3588",
+        "H2398"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "“¡Te lo diré, y a tus amigos también!",
+      "strong": [
+        "H5973",
+        "H4405",
+        "H0559",
+        "H1571",
+        "H5973",
+        "H0859",
+        "H7453",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Sólo tienes que mirar al cielo y ver. Observa las nubes en lo alto.",
+      "strong": [
+        "H0910",
+        "H4480",
+        "H4480",
+        "H7200",
+        "H4480",
+        "H8064",
+        "H1571",
+        "H7200",
+        "H1992",
+        "H5387",
+        "H4480",
+        "H1931",
+        "H1361"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Si pecas, ¿en qué perjudica eso a Dios? ¿Cómo afectan tus muchos pecados a Dios?",
+      "strong": [
+        "H0518",
+        "H5921",
+        "H4100",
+        "H3651",
+        "H0413",
+        "H0430",
+        "H4100",
+        "H0859",
+        "H7227",
+        "H6588",
+        "H0413",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Si haces lo correcto, ¿qué bien le haces a él?",
+      "strong": [
+        "H0518",
+        "H6213",
+        "H4100",
+        "H4100",
+        "H2896",
+        "H0413",
+        "H6213",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "No. Tus pecados sólo afectan a la gente como tú, y cualquier bien que hagas también les afecta a ellos.",
+      "strong": [
+        "H3808",
+        "H0859",
+        "H2403",
+        "H0910",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H3644",
+        "H0859",
+        "H1571",
+        "H3605",
+        "H2896",
+        "H1121",
+        "H6213",
+        "H1571",
+        "H0413",
+        "H0413",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "“La gente clama a causa de las terribles persecuciones, pide que alguien la salve de sus opresores.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H2199",
+        "H0413",
+        "H1697",
+        "H4480",
+        "H1992",
+        "H7592",
+        "H0834",
+        "H0376",
+        "H1931",
+        "H3467",
+        "H4480",
+        "H1931",
+        "H6031"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Pero nadie pregunta: ‘¿Dónde está mi Dios creador, el que inspira cantos en la noche,",
+      "strong": [
+        "H3588",
+        "H3808",
+        "H7592",
+        "H0834",
+        "H2063",
+        "H0589",
+        "H0430",
+        "H6213",
+        "H3808",
+        "H5921",
+        "H1931",
+        "H3915"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "que nos enseña más que los animales y nos hace más sabios que las aves?’",
+      "strong": [
+        "H0834",
+        "H0587",
+        "H3384",
+        "H5750",
+        "H0834",
+        "H0582",
+        "H0929",
+        "H1571",
+        "H0587",
+        "H6213",
+        "H5750",
+        "H2450",
+        "H0834",
+        "H1992",
+        "H5775"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Cuando claman por ayuda, Dios no responde porque son gente orgullosa y malvada.",
+      "strong": [
+        "H3588",
+        "H6817",
+        "H6440",
+        "H5828",
+        "H0430",
+        "H3808",
+        "H6030",
+        "H3808",
+        "H3808",
+        "H1471",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Dios no escucha sus gritos vacíos; el Todopoderoso no les hace caso.",
+      "strong": [
+        "H0430",
+        "H3808",
+        "H8085",
+        "H1931",
+        "H8643",
+        "H7387",
+        "H1931",
+        "H7706",
+        "H3808",
+        "H0413",
+        "H6213",
+        "H3820"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "¿Cuánto menos te escuchará Dios cuando le digas que no te ve? Tu caso está ante él, así que tienes que esperarlo.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H8085",
+        "H0430",
+        "H3588",
+        "H0413",
+        "H0559",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H3212",
+        "H0859",
+        "H3820",
+        "H2063",
+        "H6440",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5750",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "“Estás diciendo que Dios no castiga a la gente en su ira y presta poca atención al pecado.",
+      "strong": [
+        "H0428",
+        "H0559",
+        "H3588",
+        "H0430",
+        "H3808",
+        "H3198",
+        "H3588",
+        "H3588",
+        "H1471",
+        "H3588",
+        "H3588",
+        "H2534",
+        "H3588",
+        "H4592",
+        "H0413",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Tú, Job, hablas sin sentido, haciendo largos discursos cuando no sabes nada!”",
+      "strong": [
+        "H0859",
+        "H0347",
+        "H1097",
+        "H6213",
+        "H3588",
+        "H1097",
+        "H3045",
+        "H3808"
+      ]
+    }
+  ]
+}

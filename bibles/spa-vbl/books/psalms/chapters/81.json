@@ -1,1 +1,315 @@
-{"version":"spa-vbl","book":"psalms","chapter":81,"data":[{"verse":"1","text":"Canten a Dios, porque es nuestra fuerza; griten de alegría al Dios de Jacob."},{"verse":"2","text":"¡Comiencen la canción! Toquen la pandereta, la lira de sonido dulce, y el arpa."},{"verse":"3","text":"Soplen la trompeta a la luna nueva, y a la luna llena, para iniciar nuestros festivales,"},{"verse":"4","text":"porque esta es una regla de Israel, un reglamento del Dios de Jacob."},{"verse":"5","text":"Dios hizo este estatuto por José, cuando se opuso a la tierra de Egipto. Escuché una voz que no conocía diciendo:81:5 El significado es confuso. Literalmente, “Escucho labios que no conozco”."},{"verse":"6","text":"“Tomo la carga de tus hombros; libero tus manos de las canastas pesadas."},{"verse":"7","text":"Clamaste a mí en tu sufrimiento, y te salvé. Te respondí desde las nubes tormentosas. Te probé en las aguas de Meriba.81:7 Ver Éxodo 17. Selah."},{"verse":"8","text":"¡Pueblo mío! ¡Escuchen mis avisos! Pueblo de Israel, ¡Escúchenme!"},{"verse":"9","text":"No debe haber dios extraño entre ustedes; no deben postrarse nunca ante dioses extranjeros ni adorarlos."},{"verse":"10","text":"Porque yo soy el Señor su Dios que los sacó de la tierra de Egipto. Abran su boca y yo los saciaré.81:10 En otras palabras, Dios suplirá todas sus necesidades."},{"verse":"11","text":"Pero mi pueblo no me escuchó. Israel no quería nada conmigo."},{"verse":"12","text":"Así que los envié lejos a seguir su pensamiento terco, viviendo como escogieran."},{"verse":"13","text":"¡Si tan solo mi pueblo me escuchara; si tan solo Israel siguiera mis caminos!"},{"verse":"14","text":"No me tomaría tanto tiempo derrotar a sus enemigos, ni derribar a los que están en su contra."},{"verse":"15","text":"Los que odian al Señor se retorcerán frente a él, condenados para siempre."},{"verse":"16","text":"Pero yo, los alimentaría con el mejor trigo, y los satisfaría con miel de la roca”."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 81,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Canten a Dios, porque es nuestra fuerza; griten de alegría al Dios de Jacob.",
+      "strong": [
+        "H7442",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H1961",
+        "H0587",
+        "H3581",
+        "H5921",
+        "H8057",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Comiencen la canción! Toquen la pandereta, la lira de sonido dulce, y el arpa.",
+      "strong": [
+        "H1931",
+        "H7892",
+        "H5060",
+        "H1931",
+        "H1931",
+        "H4480",
+        "H6963",
+        "H4966",
+        "H5797",
+        "H1931",
+        "H3658"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Soplen la trompeta a la luna nueva, y a la luna llena, para iniciar nuestros festivales,",
+      "strong": [
+        "H1931",
+        "H7782",
+        "H5973",
+        "H1931",
+        "H3394",
+        "H2319",
+        "H1571",
+        "H5973",
+        "H1931",
+        "H3394",
+        "H4392",
+        "H5414",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "porque esta es una regla de Israel, un reglamento del Dios de Jacob.",
+      "strong": [
+        "H3588",
+        "H2063",
+        "H1961",
+        "H0259",
+        "H4480",
+        "H3478",
+        "H0259",
+        "H4480",
+        "H0430",
+        "H4480",
+        "H3290"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Dios hizo este estatuto por José, cuando se opuso a la tierra de Egipto. Escuché una voz que no conocía diciendo:",
+      "strong": [
+        "H0430",
+        "H6213",
+        "H1931",
+        "H2706",
+        "H3588",
+        "H3130",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H0776",
+        "H3588",
+        "H4714",
+        "H7181",
+        "H0259",
+        "H6963",
+        "H3588",
+        "H3588",
+        "H3045",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "“Tomo la carga de tus hombros; libero tus manos de las canastas pesadas.",
+      "strong": [
+        "H3947",
+        "H5921",
+        "H7760",
+        "H5921",
+        "H0859",
+        "H7926",
+        "H0859",
+        "H3027",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Clamaste a mí en tu sufrimiento, y te salvé. Te respondí desde las nubes tormentosas. Te probé en las aguas de Meriba. Selah.",
+      "strong": [
+        "H7121",
+        "H0413",
+        "H0589",
+        "H5493",
+        "H0859",
+        "H1571",
+        "H0859",
+        "H3467",
+        "H0859",
+        "H0559",
+        "H4480",
+        "H1992",
+        "H5387",
+        "H0859",
+        "H5493",
+        "H1992",
+        "H4325",
+        "H4480",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¡Pueblo mío! ¡Escuchen mis avisos! Pueblo de Israel, ¡Escúchenme!",
+      "strong": [
+        "H5971",
+        "H5921",
+        "H8085",
+        "H0589",
+        "H5971",
+        "H5921",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "No debe haber dios extraño entre ustedes; no deben postrarse nunca ante dioses extranjeros ni adorarlos.",
+      "strong": [
+        "H3808",
+        "H4135",
+        "H1961",
+        "H0430",
+        "H2213",
+        "H0996",
+        "H3808",
+        "H3808",
+        "H6440",
+        "H0430",
+        "H1616",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Porque yo soy el Señor su Dios que los sacó de la tierra de Egipto. Abran su boca y yo los saciaré.",
+      "strong": [
+        "H3808",
+        "H0589",
+        "H1961",
+        "H1931",
+        "H0113",
+        "H1931",
+        "H0430",
+        "H3808",
+        "H1961",
+        "H3318",
+        "H4480",
+        "H1931",
+        "H0776",
+        "H4480",
+        "H4714",
+        "H1931",
+        "H6310",
+        "H1571",
+        "H0589",
+        "H1961",
+        "H7646"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Pero mi pueblo no me escuchó. Israel no quería nada conmigo.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H5971",
+        "H3808",
+        "H0413",
+        "H8085",
+        "H3478",
+        "H3808",
+        "H6634",
+        "H3808",
+        "H0854"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Así que los envié lejos a seguir su pensamiento terco, viviendo como escogieran.",
+      "strong": [
+        "H3541",
+        "H3808",
+        "H0582",
+        "H7971",
+        "H7350",
+        "H0413",
+        "H0935",
+        "H1931",
+        "H3820",
+        "H2416",
+        "H0349"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "¡Si tan solo mi pueblo me escuchara; si tan solo Israel siguiera mis caminos!",
+      "strong": [
+        "H0518",
+        "H3966",
+        "H0910",
+        "H0589",
+        "H5971",
+        "H0413",
+        "H8085",
+        "H0518",
+        "H3966",
+        "H0910",
+        "H3478",
+        "H0589",
+        "H1870"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "No me tomaría tanto tiempo derrotar a sus enemigos, ni derribar a los que están en su contra.",
+      "strong": [
+        "H3863",
+        "H0413",
+        "H3651",
+        "H6256",
+        "H0413",
+        "H1931",
+        "H0341",
+        "H3808",
+        "H0413",
+        "H0582",
+        "H5971",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H3478"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los que odian al Señor se retorcerán frente a él, condenados para siempre.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0113",
+        "H5921",
+        "H5048",
+        "H5921",
+        "H5921",
+        "H5377",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Pero yo, los alimentaría con el mejor trigo, y los satisfaría con miel de la roca”.",
+      "strong": [
+        "H3588",
+        "H0589",
+        "H1961",
+        "H5973",
+        "H1931",
+        "H2896",
+        "H1715",
+        "H1571",
+        "H1961",
+        "H5973",
+        "H1706",
+        "H6256",
+        "H1931",
+        "H6697"
+      ]
+    }
+  ]
+}

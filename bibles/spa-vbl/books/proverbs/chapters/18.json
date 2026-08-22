@@ -1,1 +1,456 @@
-{"version":"spa-vbl","book":"proverbs","chapter":18,"data":[{"verse":"1","text":"Los egoístas solo se complacen a sí mismos. Atacan todo lo que procede de la inteligencia."},{"verse":"2","text":"A los necios no les importa entender, sino solo expresar sus opiniones."},{"verse":"3","text":"Con la maldad viene el desprecio, y con la deshonra viene la desgracia."},{"verse":"4","text":"Las palabras de las personas pueden ser profundas como las aguas; como una corriente que brota y es la fuente de la sabiduría."},{"verse":"5","text":"No es correcto mostrar preferencia con el culpable y privar al inocente de la justicia."},{"verse":"6","text":"Las palabras de los necios los meten en problemas, como si pidieran a gritos una paliza."},{"verse":"7","text":"Los necios caen por sus propias palabras. Sus propias palabras los enredan en una trampa."},{"verse":"8","text":"Escuchar chismes es como comer bocados de tu comida favorita. Llegan hasta lo más profundo."},{"verse":"9","text":"La pereza y la destrucción son hermanos."},{"verse":"10","text":"El Señor es una torre protectora para los justos, bajo la cual pueden estar seguros."},{"verse":"11","text":"Los ricos ven la riqueza como una ciudad fortificada. Es como un muro alto en su imaginación."},{"verse":"12","text":"El orgullo conduce a la destrucción. La humildad precede a la honra."},{"verse":"13","text":"Responder antes de escuchar es estupidez y vergüenza."},{"verse":"14","text":"Con un espíritu valiente podrás combatir la enfermedad, pero si tu espíritu está quebrantado, será imposible soportarla."},{"verse":"15","text":"Una mente inteligente adquiere conocimiento; los sabios están prestos para escuchar el conocimiento."},{"verse":"16","text":"Un don abrirá puertas para ti, y te llevará a la presencia de personas importantes."},{"verse":"17","text":"La primera persona en alegar un caso estará en lo correcto hasta que alguien llegue a examinarlos."},{"verse":"18","text":"Entre los poderosos echar suertes puede acabar una disputa y mostrar la decisión correcta."},{"verse":"19","text":"Un hermano a quien has ofendido será más difícil de reconquistar que una ciudad fortificada.18:19.El significado hebreo no está claro. Las peleas separan a las personas como barras en las puertas de un castillo."},{"verse":"20","text":"Asegúrate de estar en paz con lo que dices, porque siempre tendrás que vivir con tus palabras.18:20.Hay muchas interpretaciones respecto al significado de este versículo."},{"verse":"21","text":"Tus palabras tienen el poder de traer vida o muerte; aquellos que disfrutan hablar mucho tendrán que vivir con las consecuencias."},{"verse":"22","text":"Si encuentras una esposa has hallado un bien, y serás bendecido por el Señor."},{"verse":"23","text":"Los pobres ruegan por misericordia, pero los ricos responden con dureza."},{"verse":"24","text":"Algunos amigos te abandonarán,18:24.“Te abandonarán”: Literalmente, “vendrán a dañar”. pero hay un amigo que estará más cercano que un hermano."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 18,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Los egoístas solo se complacen a sí mismos. Atacan todo lo que procede de la inteligencia.",
+      "strong": [
+        "H3605",
+        "H0910",
+        "H3045",
+        "H0413",
+        "H0518",
+        "H1992",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H4480",
+        "H3605",
+        "H0998"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "A los necios no les importa entender, sino solo expresar sus opiniones.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0995",
+        "H3808",
+        "H0413",
+        "H7919",
+        "H3588",
+        "H0910",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Con la maldad viene el desprecio, y con la deshonra viene la desgracia.",
+      "strong": [
+        "H5973",
+        "H1571",
+        "H5771",
+        "H0935",
+        "H5973",
+        "H1571",
+        "H5973",
+        "H1571",
+        "H2781",
+        "H0935",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Las palabras de las personas pueden ser profundas como las aguas; como una corriente que brota y es la fuente de la sabiduría.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H1697",
+        "H1992",
+        "H5315",
+        "H3201",
+        "H5315",
+        "H6013",
+        "H0349",
+        "H1992",
+        "H4325",
+        "H0349",
+        "H0259",
+        "H1697",
+        "H6779",
+        "H1571",
+        "H1697",
+        "H2451",
+        "H4726",
+        "H1697",
+        "H2451",
+        "H2451"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "No es correcto mostrar preferencia con el culpable y privar al inocente de la justicia.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H2324",
+        "H5973",
+        "H1931",
+        "H1571",
+        "H0413",
+        "H5355",
+        "H6440",
+        "H1931",
+        "H4941"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Las palabras de los necios los meten en problemas, como si pidieran a gritos una paliza.",
+      "strong": [
+        "H1992",
+        "H6310",
+        "H4480",
+        "H0582",
+        "H0995",
+        "H0582",
+        "H5921",
+        "H0349",
+        "H0518",
+        "H6310",
+        "H8643",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los necios caen por sus propias palabras. Sus propias palabras los enredan en una trampa.",
+      "strong": [
+        "H0582",
+        "H0995",
+        "H7901",
+        "H5921",
+        "H1931",
+        "H6310",
+        "H1931",
+        "H6310",
+        "H0582",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Escuchar chismes es como comer bocados de tu comida favorita. Llegan hasta lo más profundo.",
+      "strong": [
+        "H8085",
+        "H1697",
+        "H0349",
+        "H0398",
+        "H3603",
+        "H1697",
+        "H0859",
+        "H6720",
+        "H5704",
+        "H1697",
+        "H5750",
+        "H8482"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "La pereza y la destrucción son hermanos.",
+      "strong": [
+        "H1931",
+        "H1571",
+        "H1931",
+        "H7701",
+        "H1961",
+        "H0251"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El Señor es una torre protectora para los justos, bajo la cual pueden estar seguros.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1961",
+        "H0259",
+        "H4026",
+        "H5704",
+        "H0582",
+        "H6662",
+        "H8478",
+        "H1931",
+        "H4100",
+        "H3201",
+        "H0983"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Los ricos ven la riqueza como una ciudad fortificada. Es como un muro alto en su imaginación.",
+      "strong": [
+        "H0582",
+        "H3212",
+        "H1931",
+        "H1952",
+        "H0349",
+        "H0259",
+        "H7151",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H2346",
+        "H7682",
+        "H5921",
+        "H1931",
+        "H3336"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "El orgullo conduce a la destrucción. La humildad precede a la honra.",
+      "strong": [
+        "H1931",
+        "H6440",
+        "H1931",
+        "H7701",
+        "H1931",
+        "H6440",
+        "H1931",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Responder antes de escuchar es estupidez y vergüenza.",
+      "strong": [
+        "H7725",
+        "H2962",
+        "H1697",
+        "H8085",
+        "H1931",
+        "H1571",
+        "H3639"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Con un espíritu valiente podrás combatir la enfermedad, pero si tu espíritu está quebrantado, será imposible soportarla.",
+      "strong": [
+        "H5973",
+        "H0259",
+        "H7307",
+        "H1368",
+        "H3201",
+        "H4421",
+        "H1931",
+        "H4245",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H7307",
+        "H2063",
+        "H7665",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Una mente inteligente adquiere conocimiento; los sabios están prestos para escuchar el conocimiento.",
+      "strong": [
+        "H0259",
+        "H7069",
+        "H1847",
+        "H2450",
+        "H2450",
+        "H1961",
+        "H5704",
+        "H8085",
+        "H1931",
+        "H1847"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Un don abrirá puertas para ti, y te llevará a la presencia de personas importantes.",
+      "strong": [
+        "H0259",
+        "H7810",
+        "H6605",
+        "H1817",
+        "H5704",
+        "H0859",
+        "H1571",
+        "H0859",
+        "H5375",
+        "H6440",
+        "H1931",
+        "H6440",
+        "H6440",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "La primera persona en alegar un caso estará en lo correcto hasta que alguien llegue a examinarlos.",
+      "strong": [
+        "H1931",
+        "H7223",
+        "H5315",
+        "H5921",
+        "H0259",
+        "H3820",
+        "H1961",
+        "H5921",
+        "H2713",
+        "H5704",
+        "H0834",
+        "H0376",
+        "H0935",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Entre los poderosos echar suertes puede acabar una disputa y mostrar la decisión correcta.",
+      "strong": [
+        "H0996",
+        "H0582",
+        "H6099",
+        "H3201",
+        "H1486",
+        "H3201",
+        "H3615",
+        "H0259",
+        "H7378",
+        "H1571",
+        "H2324",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Un hermano a quien has ofendido será más difícil de reconquistar que una ciudad fortificada. Las peleas separan a las personas como barras en las puertas de un castillo.",
+      "strong": [
+        "H0259",
+        "H0251",
+        "H0413",
+        "H4310",
+        "H4191",
+        "H6586",
+        "H1961",
+        "H4066",
+        "H3515",
+        "H4480",
+        "H0834",
+        "H0259",
+        "H7151",
+        "H1992",
+        "H0413",
+        "H1992",
+        "H5315",
+        "H0349",
+        "H1280",
+        "H5921",
+        "H1992",
+        "H1817",
+        "H4480",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Asegúrate de estar en paz con lo que dices, porque siempre tendrás que vivir con tus palabras.",
+      "strong": [
+        "H7646",
+        "H5921",
+        "H7965",
+        "H5973",
+        "H1931",
+        "H6310",
+        "H0559",
+        "H3588",
+        "H5769",
+        "H1961",
+        "H6310",
+        "H2421",
+        "H5973",
+        "H0859",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Tus palabras tienen el poder de traer vida o muerte; aquellos que disfrutan hablar mucho tendrán que vivir con las consecuencias.",
+      "strong": [
+        "H0859",
+        "H1697",
+        "H1992",
+        "H1931",
+        "H3027",
+        "H4480",
+        "H5375",
+        "H2416",
+        "H0176",
+        "H4194",
+        "H0479",
+        "H3027",
+        "H1696",
+        "H3966",
+        "H1961",
+        "H3027",
+        "H2421",
+        "H5973",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Si encuentras una esposa has hallado un bien, y serás bendecido por el Señor.",
+      "strong": [
+        "H0518",
+        "H4672",
+        "H3618",
+        "H4191",
+        "H4672",
+        "H0259",
+        "H2896",
+        "H1571",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Los pobres ruegan por misericordia, pero los ricos responden con dureza.",
+      "strong": [
+        "H0582",
+        "H1800",
+        "H5921",
+        "H2617",
+        "H3588",
+        "H0582",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Algunos amigos te abandonarán, pero hay un amigo que estará más cercano que un hermano.",
+      "strong": [
+        "H0582",
+        "H7453",
+        "H7489",
+        "H3588",
+        "H3426",
+        "H0259",
+        "H7453",
+        "H0834",
+        "H1961",
+        "H7453",
+        "H7138",
+        "H0834",
+        "H0259",
+        "H0251"
+      ]
+    }
+  ]
+}

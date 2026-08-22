@@ -1,1 +1,509 @@
-{"version":"spa-vbl","book":"proverbs","chapter":7,"data":[{"verse":"1","text":"Hijo mío, acepta lo que te digo y saca provecho de mis instrucciones."},{"verse":"2","text":"Haz lo que te digo y vivirás. Observa mis enseñanzas, y estímalas como el objetivo principal de tu vida."},{"verse":"3","text":"Átalas a tus dedos y escríbelas en tu mente."},{"verse":"4","text":"A la sabiduría, dile: “Eres mi hermana”, y considera la inteligencia como tu mejor amiga."},{"verse":"5","text":"Ellas te protegerán de la mujer inmoral, y de la prostituta que viene a ti con palabras seductoras."},{"verse":"6","text":"Una vez miré a través de la ventana de mi casa,"},{"verse":"7","text":"y vi entre los jóvenes inmaduros a uno que era totalmente insensato."},{"verse":"8","text":"Este hombre caminaba por la calle cerca a la esquina de la casa de la prostituta, y tomó el sendero que pasaba por su casa."},{"verse":"9","text":"Ya era la hora del crepúsculo, y la luz se desvanecía, mientras llegaba la oscuridad de la noche."},{"verse":"10","text":"Entonces salió esta mujer a su encuentro. Estaba vestida como una prostituta con intenciones engañosas."},{"verse":"11","text":"(Era ruidosa y provocativa, sin deseo de quedarse en casa."},{"verse":"12","text":"Por momentos caminaba por las calles, luego andaba por las plazas, vagabundeando en cada esquina)."},{"verse":"13","text":"Lo agarró y lo besó, y con osadía en su rostro, le dijo:"},{"verse":"14","text":"“Ya presenté mi ofrenda de paz hoy, y pagué mis votos.7:14.Estas ofrendas eran compartidas con el donante. En esencia, esta mujer está diciendo que tiene carne lista para comer."},{"verse":"15","text":"Por eso vine a tu encuentro. ¡Te estaba buscando, y ahora te he encontrado!"},{"verse":"16","text":"Mi cama está lista, con sábanas de colores traídas desde Egipto."},{"verse":"17","text":"En mi cama he rociado perfume, aromas de mirra, aloe y canela."},{"verse":"18","text":"Ven conmigo, y hagamos el amor hasta el amanecer. ¡Disfrutemos el uno del otro haciendo el amor!"},{"verse":"19","text":"Mi esposo no está en casa, pues se ha ido a un largo viaje."},{"verse":"20","text":"Se llevó una bolsa de dinero, y no volverá hasta la luna nueva”."},{"verse":"21","text":"Así lo convenció con sus palabras, y lo sedujo con su hablar."},{"verse":"22","text":"Él la siguió de inmediato, como buey llevado al matadero. Como ciervo atrapado en una trampa"},{"verse":"23","text":"hasta que una lanza traspasa su hígado, como un ave que vuela y queda atrapada, y no sabe que pagará con su vida."},{"verse":"24","text":"Así que escúchame ahora, hijo mío, y presta atención a lo que digo."},{"verse":"25","text":"No pienses ni siquiera en seguir a tal mujer. No camines por su casa."},{"verse":"26","text":"Porque ella ha hecho caer a muchos hombres, y los ha destruido."},{"verse":"27","text":"Su casa conduce a la muerte, y en su planta baja se encuentran las moradas de la muerte."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 7,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Hijo mío, acepta lo que te digo y saca provecho de mis instrucciones.",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H5375",
+        "H1931",
+        "H1121",
+        "H0859",
+        "H0559",
+        "H1571",
+        "H3318",
+        "H3276",
+        "H1121",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Haz lo que te digo y vivirás. Observa mis enseñanzas, y estímalas como el objetivo principal de tu vida.",
+      "strong": [
+        "H6213",
+        "H1931",
+        "H0834",
+        "H5869",
+        "H0559",
+        "H1571",
+        "H2421",
+        "H0589",
+        "H1571",
+        "H0349",
+        "H1931",
+        "H7218",
+        "H5869",
+        "H0859",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Átalas a tus dedos y escríbelas en tu mente.",
+      "strong": [
+        "H7194",
+        "H5921",
+        "H0859",
+        "H0676",
+        "H5921",
+        "H3789",
+        "H5921",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "A la sabiduría, dile: “Eres mi hermana”, y considera la inteligencia como tu mejor amiga.",
+      "strong": [
+        "H0413",
+        "H2451",
+        "H2451",
+        "H0559",
+        "H0859",
+        "H0589",
+        "H0269",
+        "H1571",
+        "H0995",
+        "H2451",
+        "H0998",
+        "H0349",
+        "H0859",
+        "H2896",
+        "H7474"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Ellas te protegerán de la mujer inmoral, y de la prostituta que viene a ti con palabras seductoras.",
+      "strong": [
+        "H1992",
+        "H0859",
+        "H4480",
+        "H8104",
+        "H0802",
+        "H1571",
+        "H4480",
+        "H8104",
+        "H0834",
+        "H0935",
+        "H0413",
+        "H0859",
+        "H5973",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Una vez miré a través de la ventana de mi casa,",
+      "strong": [
+        "H0259",
+        "H6471",
+        "H8259",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0589",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "y vi entre los jóvenes inmaduros a uno que era totalmente insensato.",
+      "strong": [
+        "H1571",
+        "H7200",
+        "H0996",
+        "H1121",
+        "H0413",
+        "H0259",
+        "H1121",
+        "H1121",
+        "H0914",
+        "H0191"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Este hombre caminaba por la calle cerca a la esquina de la casa de la prostituta, y tomó el sendero que pasaba por su casa.",
+      "strong": [
+        "H2088",
+        "H0376",
+        "H3212",
+        "H1870",
+        "H1931",
+        "H2790",
+        "H7138",
+        "H0413",
+        "H1931",
+        "H4480",
+        "H1931",
+        "H1004",
+        "H4480",
+        "H1931",
+        "H1571",
+        "H3947",
+        "H5674",
+        "H0834",
+        "H5674",
+        "H1870",
+        "H1931",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Ya era la hora del crepúsculo, y la luz se desvanecía, mientras llegaba la oscuridad de la noche.",
+      "strong": [
+        "H3528",
+        "H1961",
+        "H1931",
+        "H8160",
+        "H4480",
+        "H1571",
+        "H1931",
+        "H0216",
+        "H3045",
+        "H5704",
+        "H5060",
+        "H1931",
+        "H0653",
+        "H4480",
+        "H1931",
+        "H3915"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Entonces salió esta mujer a su encuentro. Estaba vestida como una prostituta con intenciones engañosas.",
+      "strong": [
+        "H0227",
+        "H3318",
+        "H2063",
+        "H0802",
+        "H0413",
+        "H1931",
+        "H2009",
+        "H2296",
+        "H0349",
+        "H0259",
+        "H5973",
+        "H4820"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "(Era ruidosa y provocativa, sin deseo de quedarse en casa.",
+      "strong": [
+        "H1931",
+        "H1571",
+        "H3808",
+        "H0183",
+        "H4480",
+        "H5921",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Por momentos caminaba por las calles, luego andaba por las plazas, vagabundeando en cada esquina).",
+      "strong": [
+        "H5921",
+        "H3212",
+        "H5921",
+        "H1992",
+        "H7339",
+        "H4994",
+        "H1980",
+        "H5921",
+        "H1992",
+        "H7339",
+        "H5921",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Lo agarró y lo besó, y con osadía en su rostro, le dijo:",
+      "strong": [
+        "H1931",
+        "H1571",
+        "H1931",
+        "H5401",
+        "H1571",
+        "H5973",
+        "H5921",
+        "H1931",
+        "H6440",
+        "H0413",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "“Ya presenté mi ofrenda de paz hoy, y pagué mis votos.",
+      "strong": [
+        "H3528",
+        "H4503",
+        "H5921",
+        "H4503",
+        "H5921",
+        "H7999",
+        "H3117",
+        "H5921",
+        "H7725",
+        "H0589",
+        "H5088"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Por eso vine a tu encuentro. ¡Te estaba buscando, y ahora te he encontrado!",
+      "strong": [
+        "H5921",
+        "H3651",
+        "H0935",
+        "H5921",
+        "H0859",
+        "H5921",
+        "H1961",
+        "H7836",
+        "H5921",
+        "H6258",
+        "H5921",
+        "H4392"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Mi cama está lista, con sábanas de colores traídas desde Egipto.",
+      "strong": [
+        "H0589",
+        "H6210",
+        "H2063",
+        "H5973",
+        "H5466",
+        "H4765",
+        "H4480",
+        "H4714"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "En mi cama he rociado perfume, aromas de mirra, aloe y canela.",
+      "strong": [
+        "H5921",
+        "H0589",
+        "H4904",
+        "H4392",
+        "H7004",
+        "H5219",
+        "H4480",
+        "H4753",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Ven conmigo, y hagamos el amor hasta el amanecer. ¡Disfrutemos el uno del otro haciendo el amor!",
+      "strong": [
+        "H3212",
+        "H0854",
+        "H5704",
+        "H6213",
+        "H1931",
+        "H0160",
+        "H5704",
+        "H1931",
+        "H1931",
+        "H0259",
+        "H4480",
+        "H0259",
+        "H6213",
+        "H1931",
+        "H0160"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Mi esposo no está en casa, pues se ha ido a un largo viaje.",
+      "strong": [
+        "H0589",
+        "H2860",
+        "H3588",
+        "H2063",
+        "H3588",
+        "H1004",
+        "H3588",
+        "H3045",
+        "H3541",
+        "H3212",
+        "H3588",
+        "H0259",
+        "H7230",
+        "H1870"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Se llevó una bolsa de dinero, y no volverá hasta la luna nueva”.",
+      "strong": [
+        "H3045",
+        "H3947",
+        "H0259",
+        "H3599",
+        "H4480",
+        "H3701",
+        "H1571",
+        "H3808",
+        "H7725",
+        "H3117",
+        "H1931",
+        "H3394",
+        "H2319"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Así lo convenció con sus palabras, y lo sedujo con su hablar.",
+      "strong": [
+        "H3541",
+        "H1931",
+        "H5973",
+        "H1931",
+        "H1697",
+        "H1571",
+        "H1931",
+        "H5973",
+        "H1931",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Él la siguió de inmediato, como buey llevado al matadero. Como ciervo atrapado en una trampa",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H7291",
+        "H4480",
+        "H7138",
+        "H0349",
+        "H7794",
+        "H5375",
+        "H0413",
+        "H0349",
+        "H5921",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "hasta que una lanza traspasa su hígado, como un ave que vuela y queda atrapada, y no sabe que pagará con su vida.",
+      "strong": [
+        "H5704",
+        "H3588",
+        "H0259",
+        "H2595",
+        "H5674",
+        "H1931",
+        "H3516",
+        "H3588",
+        "H0259",
+        "H6833",
+        "H3588",
+        "H0082",
+        "H3588",
+        "H7604",
+        "H3588",
+        "H3808",
+        "H3045",
+        "H3588",
+        "H7999",
+        "H3588",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Así que escúchame ahora, hijo mío, y presta atención a lo que digo.",
+      "strong": [
+        "H6258",
+        "H6258",
+        "H8085",
+        "H6258",
+        "H1121",
+        "H0589",
+        "H1571",
+        "H6310",
+        "H1931",
+        "H6258",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "No pienses ni siquiera en seguir a tal mujer. No camines por su casa.",
+      "strong": [
+        "H1870",
+        "H1819",
+        "H3808",
+        "H5921",
+        "H0935",
+        "H0413",
+        "H3651",
+        "H0802",
+        "H1870",
+        "H1870",
+        "H1931",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Porque ella ha hecho caer a muchos hombres, y los ha destruido.",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H3541",
+        "H6213",
+        "H5307",
+        "H3588",
+        "H7227",
+        "H0376",
+        "H3588",
+        "H3605",
+        "H3541",
+        "H7703"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Su casa conduce a la muerte, y en su planta baja se encuentran las moradas de la muerte.",
+      "strong": [
+        "H1931",
+        "H1004",
+        "H0413",
+        "H1931",
+        "H4194",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H7105",
+        "H1004",
+        "H3045",
+        "H1992",
+        "H4908",
+        "H4480",
+        "H1931",
+        "H4194"
+      ]
+    }
+  ]
+}

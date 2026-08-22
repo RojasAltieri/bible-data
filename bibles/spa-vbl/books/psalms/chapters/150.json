@@ -1,1 +1,97 @@
-{"version":"spa-vbl","book":"psalms","chapter":150,"data":[{"verse":"1","text":"¡Alaben al Señor! ¡Alaben a Dios en su lugar santo!150:1 O “santuario”. Alábenle en la gran extensión del cielo!"},{"verse":"2","text":"¡Alábenle por sus grandes obras! ¡Alábenle por su grandeza!"},{"verse":"3","text":"¡Alábenle con sonido de trompetas! ¡Alábenle con liras y arpas!"},{"verse":"4","text":"¡Alábenle con panderetas y danza! ¡Alábenle con instrumentos de cuerdas y flautas!"},{"verse":"5","text":"¡Alábenle con el sonar de los címbalos, con címbalos sonoros!"},{"verse":"6","text":"¡Que todo lo que respire alabe al Señor! ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 150,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor! ¡Alaben a Dios en su lugar santo! Alábenle en la gran extensión del cielo!",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H0113",
+        "H1984",
+        "H0413",
+        "H0430",
+        "H5921",
+        "H1931",
+        "H4725",
+        "H6944",
+        "H5921",
+        "H1931",
+        "H1419",
+        "H4480",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Alábenle por sus grandes obras! ¡Alábenle por su grandeza!",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H1419",
+        "H4639",
+        "H5921",
+        "H1931",
+        "H1433"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¡Alábenle con sonido de trompetas! ¡Alábenle con liras y arpas!",
+      "strong": [
+        "H5973",
+        "H6963",
+        "H5035",
+        "H7782",
+        "H5973",
+        "H1571",
+        "H3658"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡Alábenle con panderetas y danza! ¡Alábenle con instrumentos de cuerdas y flautas!",
+      "strong": [
+        "H5973",
+        "H1571",
+        "H5973",
+        "H3627",
+        "H4480",
+        "H5688",
+        "H1571",
+        "H4517"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¡Alábenle con el sonar de los címbalos, con címbalos sonoros!",
+      "strong": [
+        "H5973",
+        "H1931",
+        "H4480",
+        "H0582",
+        "H4700",
+        "H5973",
+        "H4700"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "¡Que todo lo que respire alabe al Señor! ¡Alaben al Señor!",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H1984",
+        "H0413",
+        "H0113",
+        "H1984",
+        "H0413",
+        "H0113"
+      ]
+    }
+  ]
+}

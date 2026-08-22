@@ -1,1 +1,165 @@
-{"version":"spa-vbl","book":"psalms","chapter":4,"data":[{"verse":"1","text":"Cuando llame, por favor, respóndeme, oh Dios, mi defensor. Cuando estuve rodeado de problemas, tú me mostraste la salida. Dame de tu gracia y escucha mi oración."},{"verse":"2","text":"¿Hasta cuándo, oh pueblo, arruinarás mi reputación? ¿Hasta cuándo amarás la vanidad y las mentiras? Selah."},{"verse":"3","text":"Noten que el Señor otorga favores especiales a los fieles. El Señor escucha cuando lo llamo."},{"verse":"4","text":"Tengan temor,4:4 Algunos traducen esta palabra como “indignación”, pero según el sentido de este versículo, se refiere a comprender el poder de Dios y en consecuencia apartarse del pecado. y no pequen. Mediten sobre esto al acostarse y guarden silencio. Selah."},{"verse":"5","text":"Ofrezcan sacrificios con la actitud correcta. Confíen en el Señor."},{"verse":"6","text":"Muchos dicen: “¿Quién nos mostrará el bien?” Señor, que tu rostro brille sobre nosotros.4:6 Ver Números 6:26."},{"verse":"7","text":"La felicidad que tú me das es mejor que la de aquellos que tienen una cosecha abundante de grano y vino nuevo."},{"verse":"8","text":"Me acostaré en paz y así mismo dormiré, porque tú, Señor, me guardas.4:8 O, “porque tú, Señor, me guardas incluso cuando estoy solo”"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 4,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Cuando llame, por favor, respóndeme, oh Dios, mi defensor. Cuando estuve rodeado de problemas, tú me mostraste la salida. Dame de tu gracia y escucha mi oración.",
+      "strong": [
+        "H3588",
+        "H7121",
+        "H5921",
+        "H7522",
+        "H6030",
+        "H1945",
+        "H0430",
+        "H0589",
+        "H3588",
+        "H5975",
+        "H4480",
+        "H0859",
+        "H0413",
+        "H1931",
+        "H3318",
+        "H5414",
+        "H4480",
+        "H0859",
+        "H2580",
+        "H1571",
+        "H0238",
+        "H0589",
+        "H8605"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¿Hasta cuándo, oh pueblo, arruinarás mi reputación? ¿Hasta cuándo amarás la vanidad y las mentiras? Selah.",
+      "strong": [
+        "H5704",
+        "H3588",
+        "H1945",
+        "H5971",
+        "H6030",
+        "H5704",
+        "H3588",
+        "H0157",
+        "H1931",
+        "H1892",
+        "H1571",
+        "H1992",
+        "H3576",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Noten que el Señor otorga favores especiales a los fieles. El Señor escucha cuando lo llamo.",
+      "strong": [
+        "H4100",
+        "H1121",
+        "H0113",
+        "H5704",
+        "H1121",
+        "H0539",
+        "H1121",
+        "H0113",
+        "H0238",
+        "H4100",
+        "H4100",
+        "H7121"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tengan temor, y no pequen. Mediten sobre esto al acostarse y guarden silencio. Selah.",
+      "strong": [
+        "H3372",
+        "H3588",
+        "H3588",
+        "H0816",
+        "H5921",
+        "H2063",
+        "H0413",
+        "H3588",
+        "H8104",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Ofrezcan sacrificios con la actitud correcta. Confíen en el Señor.",
+      "strong": [
+        "H2077",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0113"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Muchos dicen: “¿Quién nos mostrará el bien?” Señor, que tu rostro brille sobre nosotros.",
+      "strong": [
+        "H7227",
+        "H0559",
+        "H4310",
+        "H0587",
+        "H3045",
+        "H1931",
+        "H2896",
+        "H3068",
+        "H0834",
+        "H0859",
+        "H6440",
+        "H5921",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "La felicidad que tú me das es mejor que la de aquellos que tienen una cosecha abundante de grano y vino nuevo.",
+      "strong": [
+        "H5921",
+        "H4310",
+        "H0859",
+        "H5921",
+        "H5414",
+        "H1961",
+        "H2896",
+        "H4310",
+        "H5921",
+        "H5921",
+        "H0479",
+        "H4310",
+        "H1992",
+        "H0259",
+        "H4306",
+        "H5921",
+        "H1715",
+        "H5921",
+        "H0935",
+        "H2319"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Me acostaré en paz y así mismo dormiré, porque tú, Señor, me guardas.",
+      "strong": [
+        "H0413",
+        "H5921",
+        "H7965",
+        "H1571",
+        "H3541",
+        "H1931",
+        "H7901",
+        "H3588",
+        "H0859",
+        "H0113",
+        "H0413",
+        "H8104"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,628 @@
-{"version":"spa-vbl","book":"proverbs","chapter":11,"data":[{"verse":"1","text":"El Señor odia los pesos falsos, pero el peso acertado le complace."},{"verse":"2","text":"El orgullo trae desgracia, pero la humildad trae sabiduría."},{"verse":"3","text":"La honestidad es la guía de los que hacen el bien, pero el engaño destruye a los mentirosos."},{"verse":"4","text":"La riqueza no te ayudará en el día del juicio, pero la bondad te salvará de la muerte."},{"verse":"5","text":"La bondad del inocente lo mantendrá en el buen camino, pero los malvados tropezarán y caerán por su propia maldad."},{"verse":"6","text":"La bondad de los que viven en rectitud los salvará, pero los deshonestos quedarán atrapados por sus propios deseos."},{"verse":"7","text":"Cuando una persona malvada muere, sus esperanzas mueren con ella; la esperanza de los rebeldes se desvanecerá."},{"verse":"8","text":"Los rectos son librados de las dificultades, pero los malvados estarán en dificultades."},{"verse":"9","text":"Los rebeldes contra Dios discuten su voluntad y destruyen a su prójimo; pero los justos son salvados por la sabiduría."},{"verse":"10","text":"Toda la ciudad celebra cuando los buenos tienen éxito; así mismo gritan de alegría cuando mueren los malvados."},{"verse":"11","text":"Los que viven con ética son una bendición para la ciudad, pero las palabras de los malvados la destruyen."},{"verse":"12","text":"Los que denigran a su prójimo no tienen inteligencia; pero los sensatos guardan silencio."},{"verse":"13","text":"Una persona chismosa anda de aquí para allá divulgando secretos; pero una persona fiel guarda el secreto que le han confiado."},{"verse":"14","text":"Sin una buena guía, la nación cae; pero la nación se salva por los muchos consejos sabios."},{"verse":"15","text":"Si eres fiador de un extranjero, te meterás en problemas. Estarás más seguro si evitas tales promesas."},{"verse":"16","text":"Una mujer refinada se aferra a su honra, así como los hombres implacables se aferran a su riqueza."},{"verse":"17","text":"Si eres bondadoso, obtendrás recompensa; pero si eres cruel, te harás daño a ti mismo."},{"verse":"18","text":"El salario que reciben los malvados es engañoso,11:18.“El salario que reciben los malvados es engañoso”: Literalmente “el pago del engaño”. pero los que siembran bondad, cosecharán una buena recompensa."},{"verse":"19","text":"Haz el bien y vivirás. Busca el mal y morirás."},{"verse":"20","text":"El Señor odia las mentes perversas, pero se complace con los que viven una vida de obediencia."},{"verse":"21","text":"De algo puedes estar seguro: los malvados no se quedaran sin castigo, pero los justos serán salvos."},{"verse":"22","text":"Una mujer hermosa con carencia de buen juicio es como una argolla de oro en el hocico de un cerdo."},{"verse":"23","text":"A las buenas personas les espera lo mejor, pero la esperanza de los malvados terminara en muerte."},{"verse":"24","text":"Si das con generosidad, recibirás más; pero si eres mezquino terminaras en la pobreza."},{"verse":"25","text":"Si eres generoso te volverás rico; dale a los demás un vaso de agua y recibirás uno también."},{"verse":"26","text":"La gente maldice a los que acumulan el trigo, pero bendicen a quienes lo venden."},{"verse":"27","text":"Si procuras hacer el bien, serás estimado; pero si buscas el mal, lo encontraras!"},{"verse":"28","text":"Si pones tu confianza en tus riquezas, caerás; pero si haces el bien, florecerás como hojas verdes."},{"verse":"29","text":"Si eres causa de problemas en tu familia, apenas heredaras aire. Los necios terminan siendo siervos de los que piensan con sabiduría."},{"verse":"30","text":"El fruto de los justos es un árbol de vida. La persona sabia salva a las demás personas."},{"verse":"31","text":"Si los justos reciben recompensa aquí en la tierra, ¡cuanto más los malvados!"}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 11,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El Señor odia los pesos falsos, pero el peso acertado le complace.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0582",
+        "H8267",
+        "H3588",
+        "H1931",
+        "H3976",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El orgullo trae desgracia, pero la humildad trae sabiduría.",
+      "strong": [
+        "H1931",
+        "H0935",
+        "H3588",
+        "H2451",
+        "H0935",
+        "H2451"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "La honestidad es la guía de los que hacen el bien, pero el engaño destruye a los mentirosos.",
+      "strong": [
+        "H1931",
+        "H1961",
+        "H1931",
+        "H5090",
+        "H4480",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H3588",
+        "H1931",
+        "H4820",
+        "H7703",
+        "H0413",
+        "H0582",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "La riqueza no te ayudará en el día del juicio, pero la bondad te salvará de la muerte.",
+      "strong": [
+        "H1931",
+        "H1952",
+        "H3808",
+        "H0859",
+        "H5921",
+        "H1931",
+        "H3117",
+        "H4480",
+        "H4941",
+        "H3588",
+        "H1931",
+        "H2898",
+        "H0859",
+        "H3467",
+        "H4480",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "La bondad del inocente lo mantendrá en el buen camino, pero los malvados tropezarán y caerán por su propia maldad.",
+      "strong": [
+        "H1931",
+        "H2898",
+        "H4480",
+        "H5355",
+        "H1931",
+        "H8549",
+        "H5307",
+        "H2896",
+        "H1870",
+        "H3588",
+        "H0582",
+        "H3782",
+        "H1571",
+        "H5307",
+        "H1870",
+        "H1931",
+        "H7564"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "La bondad de los que viven en rectitud los salvará, pero los deshonestos quedarán atrapados por sus propios deseos.",
+      "strong": [
+        "H1931",
+        "H2898",
+        "H4480",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H0582",
+        "H3467",
+        "H3588",
+        "H0582",
+        "H3427",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Cuando una persona malvada muere, sus esperanzas mueren con ella; la esperanza de los rebeldes se desvanecerá.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H5315",
+        "H1931",
+        "H4191",
+        "H5973",
+        "H1931",
+        "H1931",
+        "H8615",
+        "H4480",
+        "H0582",
+        "H4784",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los rectos son librados de las dificultades, pero los malvados estarán en dificultades.",
+      "strong": [
+        "H0582",
+        "H3477",
+        "H1961",
+        "H5337",
+        "H8478",
+        "H1992",
+        "H3588",
+        "H0582",
+        "H1961",
+        "H8478"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los rebeldes contra Dios discuten su voluntad y destruyen a su prójimo; pero los justos son salvados por la sabiduría.",
+      "strong": [
+        "H0582",
+        "H4784",
+        "H5921",
+        "H0430",
+        "H1931",
+        "H7522",
+        "H1571",
+        "H6310",
+        "H1931",
+        "H7453",
+        "H3588",
+        "H0582",
+        "H6662",
+        "H6310",
+        "H5921",
+        "H1931",
+        "H1847"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Toda la ciudad celebra cuando los buenos tienen éxito; así mismo gritan de alegría cuando mueren los malvados.",
+      "strong": [
+        "H3605",
+        "H1931",
+        "H7151",
+        "H2287",
+        "H3588",
+        "H0582",
+        "H2896",
+        "H1992",
+        "H3541",
+        "H1931",
+        "H6662",
+        "H8057",
+        "H3588",
+        "H4191",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Los que viven con ética son una bendición para la ciudad, pero las palabras de los malvados la destruyen.",
+      "strong": [
+        "H0582",
+        "H6310",
+        "H7563",
+        "H5973",
+        "H6310",
+        "H0259",
+        "H1293",
+        "H5704",
+        "H1931",
+        "H5892",
+        "H3588",
+        "H1992",
+        "H6310",
+        "H4480",
+        "H0582",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Los que denigran a su prójimo no tienen inteligencia; pero los sensatos guardan silencio.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H0413",
+        "H1931",
+        "H7453",
+        "H3808",
+        "H1992",
+        "H8394",
+        "H3588",
+        "H0582",
+        "H8104"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Una persona chismosa anda de aquí para allá divulgando secretos; pero una persona fiel guarda el secreto que le han confiado.",
+      "strong": [
+        "H0259",
+        "H5315",
+        "H1980",
+        "H1697",
+        "H6311",
+        "H5704",
+        "H8033",
+        "H3588",
+        "H0259",
+        "H5315",
+        "H0539",
+        "H8104",
+        "H1931",
+        "H6845",
+        "H1697",
+        "H0413",
+        "H4191",
+        "H0982"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Sin una buena guía, la nación cae; pero la nación se salva por los muchos consejos sabios.",
+      "strong": [
+        "H3808",
+        "H0259",
+        "H2896",
+        "H5090",
+        "H1931",
+        "H1471",
+        "H5307",
+        "H3588",
+        "H1931",
+        "H1471",
+        "H5971",
+        "H3467",
+        "H5921",
+        "H0582",
+        "H7230",
+        "H6098",
+        "H2450"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Si eres fiador de un extranjero, te meterás en problemas. Estarás más seguro si evitas tales promesas.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H3588",
+        "H0259",
+        "H5237",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H1961",
+        "H3588",
+        "H0983",
+        "H3588",
+        "H0428"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Una mujer refinada se aferra a su honra, así como los hombres implacables se aferran a su riqueza.",
+      "strong": [
+        "H0259",
+        "H0802",
+        "H6884",
+        "H3045",
+        "H0413",
+        "H1931",
+        "H3519",
+        "H3541",
+        "H0349",
+        "H0582",
+        "H0376",
+        "H3045",
+        "H0413",
+        "H1931",
+        "H7399"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Si eres bondadoso, obtendrás recompensa; pero si eres cruel, te harás daño a ti mismo.",
+      "strong": [
+        "H5315",
+        "H0859",
+        "H6468",
+        "H3588",
+        "H5315",
+        "H0859",
+        "H0393",
+        "H5315",
+        "H6213",
+        "H8442",
+        "H0413",
+        "H0859",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "El salario que reciben los malvados es engañoso, pero los que siembran bondad, cosecharán una buena recompensa.",
+      "strong": [
+        "H6213",
+        "H0868",
+        "H0834",
+        "H0582",
+        "H1961",
+        "H7423",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H2898",
+        "H0259",
+        "H2896",
+        "H6468"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Haz el bien y vivirás. Busca el mal y morirás.",
+      "strong": [
+        "H6213",
+        "H1931",
+        "H3651",
+        "H1571",
+        "H2421",
+        "H1245",
+        "H1931",
+        "H7451",
+        "H1571",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "El Señor odia las mentes perversas, pero se complace con los que viven una vida de obediencia.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1992",
+        "H3588",
+        "H3045",
+        "H5973",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H0259",
+        "H5315",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "De algo puedes estar seguro: los malvados no se quedaran sin castigo, pero los justos serán salvos.",
+      "strong": [
+        "H6662",
+        "H3920",
+        "H3546",
+        "H0983",
+        "H0582",
+        "H3808",
+        "H3808",
+        "H3427",
+        "H3808",
+        "H5352",
+        "H3588",
+        "H0582",
+        "H6662",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Una mujer hermosa con carencia de buen juicio es como una argolla de oro en el hocico de un cerdo.",
+      "strong": [
+        "H0259",
+        "H0802",
+        "H3303",
+        "H5973",
+        "H4480",
+        "H2896",
+        "H4941",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H4480",
+        "H2091",
+        "H5493",
+        "H1931",
+        "H4480",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "A las buenas personas les espera lo mejor, pero la esperanza de los malvados terminara en muerte.",
+      "strong": [
+        "H0413",
+        "H1992",
+        "H2896",
+        "H5315",
+        "H0413",
+        "H3176",
+        "H1931",
+        "H2896",
+        "H3588",
+        "H1931",
+        "H8615",
+        "H6662",
+        "H0582",
+        "H5921",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Si das con generosidad, recibirás más; pero si eres mezquino terminaras en la pobreza.",
+      "strong": [
+        "H3426",
+        "H5414",
+        "H5973",
+        "H3947",
+        "H5750",
+        "H3588",
+        "H3426",
+        "H0859",
+        "H5750",
+        "H1931",
+        "H7389"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Si eres generoso te volverás rico; dale a los demás un vaso de agua y recibirás uno también.",
+      "strong": [
+        "H1571",
+        "H1931",
+        "H7771",
+        "H5315",
+        "H7725",
+        "H1419",
+        "H0413",
+        "H1931",
+        "H1571",
+        "H0259",
+        "H3627",
+        "H4480",
+        "H4325",
+        "H1571",
+        "H3947",
+        "H0259",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "La gente maldice a los que acumulan el trigo, pero bendicen a quienes lo venden.",
+      "strong": [
+        "H1931",
+        "H1471",
+        "H7043",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1931",
+        "H1250",
+        "H3588",
+        "H1288",
+        "H0413",
+        "H4310",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Si procuras hacer el bien, serás estimado; pero si buscas el mal, lo encontraras!",
+      "strong": [
+        "H0518",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1961",
+        "H2803",
+        "H3588",
+        "H0518",
+        "H1245",
+        "H1931",
+        "H7451",
+        "H1931",
+        "H6293"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Si pones tu confianza en tus riquezas, caerás; pero si haces el bien, florecerás como hojas verdes.",
+      "strong": [
+        "H1931",
+        "H7760",
+        "H0859",
+        "H4009",
+        "H5921",
+        "H0859",
+        "H6239",
+        "H5307",
+        "H3588",
+        "H1931",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1931",
+        "H5929",
+        "H3892"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Si eres causa de problemas en tu familia, apenas heredaras aire. Los necios terminan siendo siervos de los que piensan con sabiduría.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H1697",
+        "H4480",
+        "H5921",
+        "H0859",
+        "H1004",
+        "H5157",
+        "H2450",
+        "H0995",
+        "H1931",
+        "H5650",
+        "H4480",
+        "H2450",
+        "H0834",
+        "H1897",
+        "H5973",
+        "H2451"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "El fruto de los justos es un árbol de vida. La persona sabia salva a las demás personas.",
+      "strong": [
+        "H1931",
+        "H6529",
+        "H6662",
+        "H2450",
+        "H6662",
+        "H1961",
+        "H0259",
+        "H6086",
+        "H6662",
+        "H5315",
+        "H1931",
+        "H5315",
+        "H2450",
+        "H3467",
+        "H0413",
+        "H1992",
+        "H1571",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Si los justos reciben recompensa aquí en la tierra, ¡cuanto más los malvados!",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H6662",
+        "H6468",
+        "H2005",
+        "H3588",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3588",
+        "H3588"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,207 @@
-{"version":"spa-vbl","book":"psalms","chapter":111,"data":[{"verse":"1","text":"¡Alaben al Señor! Le agradeceré a Él con todo mi corazón ante la congregación de los fieles."},{"verse":"2","text":"Todas las maravillas que el Señor ha hecho son estudiadas por quienes lo aman."},{"verse":"3","text":"Su honor y majestad son revelados por sus actos; su bondad perdura para siempre."},{"verse":"4","text":"Él quiere que todas las cosas que ha hecho sean recordadas; el Señor es amable y lleno de gracia."},{"verse":"5","text":"Alimenta a los que lo respetan; siempre tiene presente el acuerdo que hizo."},{"verse":"6","text":"Le demostró a su pueblos las maravillosas cosas que podía hacer al darles las tierras de otras naciones."},{"verse":"7","text":"Todo lo que hace es justo; y sus mandamientos son confiables."},{"verse":"8","text":"Permanecen sólidos para siempre. Estaba en lo correcto al decir lo que debía hacerse."},{"verse":"9","text":"Liberó111:9 Refiriéndose al Éxodo. La misma palabra se usa en Éxodo 23. a su pueblo. Y ordenó que su pacto perdurará para siempre. ¡Su nombre es santo e imponente!"},{"verse":"10","text":"El principio de la sabiduría es honrar al Señor. Los que siguen sus mandamientos les va bien. ¡Su alabanza permanece para siempre!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 111,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor! Le agradeceré a Él con todo mi corazón ante la congregación de los fieles.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H5973",
+        "H3605",
+        "H0589",
+        "H3824",
+        "H6440",
+        "H3605",
+        "H5475",
+        "H4480",
+        "H3605",
+        "H0539"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Todas las maravillas que el Señor ha hecho son estudiadas por quienes lo aman.",
+      "strong": [
+        "H3605",
+        "H1992",
+        "H6381",
+        "H3605",
+        "H3605",
+        "H3068",
+        "H3541",
+        "H4639",
+        "H1961",
+        "H0977",
+        "H5921",
+        "H4310",
+        "H3605",
+        "H2001"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Su honor y majestad son revelados por sus actos; su bondad perdura para siempre.",
+      "strong": [
+        "H1931",
+        "H1571",
+        "H1961",
+        "H5703",
+        "H1931",
+        "H1931",
+        "H2898",
+        "H5703",
+        "H5703"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Él quiere que todas las cosas que ha hecho sean recordadas; el Señor es amable y lleno de gracia.",
+      "strong": [
+        "H6213",
+        "H2654",
+        "H0834",
+        "H3605",
+        "H1992",
+        "H1697",
+        "H0834",
+        "H3541",
+        "H6213",
+        "H1961",
+        "H6213",
+        "H3068",
+        "H1961",
+        "H3700",
+        "H1571",
+        "H4390",
+        "H4480",
+        "H2580"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Alimenta a los que lo respetan; siempre tiene presente el acuerdo que hizo.",
+      "strong": [
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1931",
+        "H5769",
+        "H3426",
+        "H4503",
+        "H1931",
+        "H2374",
+        "H0834",
+        "H5414"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Le demostró a su pueblos las maravillosas cosas que podía hacer al darles las tierras de otras naciones.",
+      "strong": [
+        "H0413",
+        "H0413",
+        "H1931",
+        "H5971",
+        "H1992",
+        "H6381",
+        "H1697",
+        "H5971",
+        "H3201",
+        "H6213",
+        "H0413",
+        "H1992",
+        "H0776",
+        "H5971",
+        "H0312",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Todo lo que hace es justo; y sus mandamientos son confiables.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H3605",
+        "H6213",
+        "H3027",
+        "H6662",
+        "H1571",
+        "H1931",
+        "H6490",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Permanecen sólidos para siempre. Estaba en lo correcto al decir lo que debía hacerse.",
+      "strong": [
+        "H5703",
+        "H5769",
+        "H1961",
+        "H5921",
+        "H6213",
+        "H0413",
+        "H0559",
+        "H6213",
+        "H0834"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Liberó a su pueblo. Y ordenó que su pacto perdurará para siempre. ¡Su nombre es santo e imponente!",
+      "strong": [
+        "H6680",
+        "H1931",
+        "H5971",
+        "H1571",
+        "H6680",
+        "H5971",
+        "H1931",
+        "H1285",
+        "H5971",
+        "H5769",
+        "H1931",
+        "H8034",
+        "H1961",
+        "H6918",
+        "H0834",
+        "H0366"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El principio de la sabiduría es honrar al Señor. Los que siguen sus mandamientos les va bien. ¡Su alabanza permanece para siempre!",
+      "strong": [
+        "H3605",
+        "H7225",
+        "H4480",
+        "H3605",
+        "H2451",
+        "H5975",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H3605",
+        "H1980",
+        "H1931",
+        "H4687",
+        "H0413",
+        "H1980",
+        "H2896",
+        "H1931",
+        "H8416",
+        "H5975",
+        "H5703",
+        "H3605"
+      ]
+    }
+  ]
+}

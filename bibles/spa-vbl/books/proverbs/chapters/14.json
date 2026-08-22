@@ -1,1 +1,670 @@
-{"version":"spa-vbl","book":"proverbs","chapter":14,"data":[{"verse":"1","text":"La mujer sabia construye su casa; pero la mujer necia, la derriba con sus propias manos."},{"verse":"2","text":"Los que viven en rectitud respetan al Señor, pero los que viven con deshonestidad lo aborrecen."},{"verse":"3","text":"Las palabras de los tontos herirán su orgullo, pero las palabras de los sabios los protegerán."},{"verse":"4","text":"Sin bueyes, el pesebre esta vacío; pero una buena cosecha es el fruto de la fuerza de un buey."},{"verse":"5","text":"Un testigo fiel no miente, pero un testigo falso es engañoso."},{"verse":"6","text":"Para el burlador no tiene sentido buscar la sabiduría, pero el conocimiento llega al que entiende."},{"verse":"7","text":"Aléjate de los necios, porque no aprenderás nada de ellos."},{"verse":"8","text":"Los prudentes usan su sabiduría para decidir hacia donde van; pero la estupidez de los necios traicionera."},{"verse":"9","text":"Los necios se burlan del pecado, pero los justos anhelan el perdón."},{"verse":"10","text":"Solo la mente del individuo conoce su propia tristeza; y nadie más puede compartir su alegría."},{"verse":"11","text":"La casa de los malvados será destruida, pero la tienda de los justos prosperará."},{"verse":"12","text":"Hay camino que parece bueno pero al final es camino de muerte."},{"verse":"13","text":"Incluso mientras ríes puedes estar sintiendo tristeza. La alegría puede terminar en llanto."},{"verse":"14","text":"Las personas desleales reciben el pago por sus actos, pero los justos son recompensados."},{"verse":"15","text":"Los necios creen cualquier cosa que les dicen, pero los prudentes piensan en lo que hacen."},{"verse":"16","text":"Los sabios son cuidadosos y evitan el mal, pero los necios andan confiados en su imprudencia."},{"verse":"17","text":"Los irascibles actúan con necedad, mientras que los que conspiran maldad son odiados."},{"verse":"18","text":"La herencia de los tontos es la estupidez, pero los imprudentes son recompensados14:18.“Recompensados”: Literalmente, “coronados”. con conocimiento."},{"verse":"19","text":"Los malvados se inclinan ante los justos, y se arrodillan a las puertas de los justos."},{"verse":"20","text":"Los pobres son aborrecidos incluso por sus vecinos, mientras que los ricos tienen muchos amigos."},{"verse":"21","text":"Los que menosprecian a sus vecinos son pecadores, pero los que son bondadosos con los pobres son bendecidos."},{"verse":"22","text":"¿Acaso no está mal conspirar para hacer maldad? Pero los que piensan en hacer el bien tienen amor y fidelidad."},{"verse":"23","text":"Hay recompensa en el trabajo arduo, pero el mucho hablar solo trae pobreza."},{"verse":"24","text":"Los sabios son recompensados con riqueza, pero los necios reciben estupidez como pago."},{"verse":"25","text":"Un testigo verdadero salva vidas, pero el testigo falso es traicionero."},{"verse":"26","text":"Los que honran al Señor están a salvo; el protegerá a sus hijos."},{"verse":"27","text":"Respetar al Señor es fuente de vida con la cual puedes evadir las trampas de la muerte."},{"verse":"28","text":"La gloria de un rey es la cantidad de súbditos que tiene, porque un gobernante no es nadie sin ellos."},{"verse":"29","text":"Si eres tardo para enojarte, eres sabio; pero si te enojas con facilidad, glorificas la estupidez."},{"verse":"30","text":"Una mente en paz ayuda a la salud de tu cuerpo; pero los celos hacen podrir los huesos."},{"verse":"31","text":"Todo el que oprime al pobre insulta a su Creador; pero todo el que los trata con bondad da honra a su Hacedor."},{"verse":"32","text":"Los malvados son derribados por sus propias acciones, pero los que viven en rectitud están confiados hasta la muerte.14:32.“Hasta la muerte”: La Septuaginta dice: “En integridad”."},{"verse":"33","text":"La sabiduría habita en una mente que entiende, pero no14:33.“No”: Lectura de la Septuaginta. En el hebreo no está la palabra “no”. se encuentra en medio de los necios."},{"verse":"34","text":"Hacer el bien dará éxito a la nación, pero el pecado causa desgracia a cualquier pueblo."},{"verse":"35","text":"El siervo que actúa con sabiduría es estimado por el rey; pero el rey se enojará con el siervo que actúa vergonzosamente."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 14,
+  "data": [
+    {
+      "verse": "1",
+      "text": "La mujer sabia construye su casa; pero la mujer necia, la derriba con sus propias manos.",
+      "strong": [
+        "H1931",
+        "H0802",
+        "H2454",
+        "H1931",
+        "H1004",
+        "H3588",
+        "H1931",
+        "H0802",
+        "H1931",
+        "H3381",
+        "H5973",
+        "H1931",
+        "H3027"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Los que viven en rectitud respetan al Señor, pero los que viven con deshonestidad lo aborrecen.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5921",
+        "H3559",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H2416",
+        "H5973",
+        "H1931",
+        "H8130"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Las palabras de los tontos herirán su orgullo, pero las palabras de los sabios los protegerán.",
+      "strong": [
+        "H1992",
+        "H6310",
+        "H4480",
+        "H2450",
+        "H5221",
+        "H1931",
+        "H3588",
+        "H1992",
+        "H6310",
+        "H4480",
+        "H2450",
+        "H2450",
+        "H2450"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Sin bueyes, el pesebre esta vacío; pero una buena cosecha es el fruto de la fuerza de un buey.",
+      "strong": [
+        "H3808",
+        "H7794",
+        "H1931",
+        "H2063",
+        "H7387",
+        "H3588",
+        "H0259",
+        "H2896",
+        "H1961",
+        "H1931",
+        "H8393",
+        "H4480",
+        "H1931",
+        "H3581",
+        "H4480",
+        "H0259",
+        "H7794"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Un testigo fiel no miente, pero un testigo falso es engañoso.",
+      "strong": [
+        "H0259",
+        "H5707",
+        "H0539",
+        "H3808",
+        "H3588",
+        "H0259",
+        "H5707",
+        "H8267",
+        "H1961",
+        "H3577"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Para el burlador no tiene sentido buscar la sabiduría, pero el conocimiento llega al que entiende.",
+      "strong": [
+        "H5704",
+        "H1931",
+        "H3808",
+        "H3426",
+        "H2451",
+        "H2451",
+        "H3588",
+        "H1931",
+        "H1847",
+        "H6293",
+        "H0413",
+        "H0834",
+        "H0995"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Aléjate de los necios, porque no aprenderás nada de ellos.",
+      "strong": [
+        "H5048",
+        "H0582",
+        "H0995",
+        "H3588",
+        "H1077",
+        "H3925",
+        "H3808",
+        "H5048",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Los prudentes usan su sabiduría para decidir hacia donde van; pero la estupidez de los necios traicionera.",
+      "strong": [
+        "H0582",
+        "H0998",
+        "H1931",
+        "H2451",
+        "H5704",
+        "H1870",
+        "H0834",
+        "H1980",
+        "H3588",
+        "H2451",
+        "H4480",
+        "H0582",
+        "H0995"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los necios se burlan del pecado, pero los justos anhelan el perdón.",
+      "strong": [
+        "H0582",
+        "H0995",
+        "H3045",
+        "H4480",
+        "H2403",
+        "H3588",
+        "H0582",
+        "H6662",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Solo la mente del individuo conoce su propia tristeza; y nadie más puede compartir su alegría.",
+      "strong": [
+        "H0910",
+        "H1931",
+        "H4480",
+        "H3045",
+        "H1931",
+        "H3015",
+        "H1571",
+        "H3808",
+        "H3808",
+        "H3201",
+        "H1931",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "La casa de los malvados será destruida, pero la tienda de los justos prosperará.",
+      "strong": [
+        "H1931",
+        "H1004",
+        "H4480",
+        "H0582",
+        "H1961",
+        "H7703",
+        "H3588",
+        "H1931",
+        "H0168",
+        "H4480",
+        "H0582",
+        "H6662",
+        "H6743"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Hay camino que parece bueno pero al final es camino de muerte.",
+      "strong": [
+        "H3426",
+        "H1870",
+        "H0834",
+        "H2896",
+        "H3588",
+        "H0413",
+        "H3426",
+        "H1870",
+        "H6440",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Incluso mientras ríes puedes estar sintiendo tristeza. La alegría puede terminar en llanto.",
+      "strong": [
+        "H5704",
+        "H3546",
+        "H3015",
+        "H1571",
+        "H8057",
+        "H3201",
+        "H5921",
+        "H1065"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Las personas desleales reciben el pago por sus actos, pero los justos son recompensados.",
+      "strong": [
+        "H5921",
+        "H5315",
+        "H5921",
+        "H6118",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H5921",
+        "H6662",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los necios creen cualquier cosa que les dicen, pero los prudentes piensan en lo que hacen.",
+      "strong": [
+        "H3605",
+        "H0995",
+        "H3605",
+        "H1697",
+        "H1697",
+        "H0413",
+        "H0559",
+        "H3588",
+        "H3605",
+        "H0998",
+        "H1897",
+        "H5921",
+        "H1697",
+        "H1697",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los sabios son cuidadosos y evitan el mal, pero los necios andan confiados en su imprudencia.",
+      "strong": [
+        "H2450",
+        "H2450",
+        "H1961",
+        "H1571",
+        "H5674",
+        "H7451",
+        "H3588",
+        "H2450",
+        "H0995",
+        "H1980",
+        "H5493",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Los irascibles actúan con necedad, mientras que los que conspiran maldad son odiados.",
+      "strong": [
+        "H0582",
+        "H5973",
+        "H0200",
+        "H5704",
+        "H0834",
+        "H0582",
+        "H0834",
+        "H5771",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "La herencia de los tontos es la estupidez, pero los imprudentes son recompensados con conocimiento.",
+      "strong": [
+        "H1931",
+        "H5159",
+        "H4480",
+        "H0582",
+        "H1961",
+        "H1931",
+        "H3588",
+        "H0582",
+        "H1961",
+        "H5973",
+        "H1847"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Los malvados se inclinan ante los justos, y se arrodillan a las puertas de los justos.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H6440",
+        "H5921",
+        "H6662",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H8179",
+        "H5921",
+        "H5921",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Los pobres son aborrecidos incluso por sus vecinos, mientras que los ricos tienen muchos amigos.",
+      "strong": [
+        "H0582",
+        "H1800",
+        "H1961",
+        "H5921",
+        "H1931",
+        "H7934",
+        "H5704",
+        "H1571",
+        "H0582",
+        "H1992",
+        "H7227",
+        "H7453"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Los que menosprecian a sus vecinos son pecadores, pero los que son bondadosos con los pobres son bendecidos.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H0413",
+        "H1931",
+        "H7934",
+        "H1961",
+        "H2400",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H1961",
+        "H5973",
+        "H0582",
+        "H1800",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "¿Acaso no está mal conspirar para hacer maldad? Pero los que piensan en hacer el bien tienen amor y fidelidad.",
+      "strong": [
+        "H0194",
+        "H3808",
+        "H2063",
+        "H7451",
+        "H5704",
+        "H6213",
+        "H7451",
+        "H3588",
+        "H0582",
+        "H3808",
+        "H1897",
+        "H5921",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1992",
+        "H0160",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Hay recompensa en el trabajo arduo, pero el mucho hablar solo trae pobreza.",
+      "strong": [
+        "H1961",
+        "H6468",
+        "H5921",
+        "H3605",
+        "H5999",
+        "H7186",
+        "H3588",
+        "H3605",
+        "H3966",
+        "H1697",
+        "H0910",
+        "H0935",
+        "H7389"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los sabios son recompensados con riqueza, pero los necios reciben estupidez como pago.",
+      "strong": [
+        "H2450",
+        "H2450",
+        "H1961",
+        "H5973",
+        "H7399",
+        "H3588",
+        "H2450",
+        "H0995",
+        "H0349",
+        "H6118"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Un testigo verdadero salva vidas, pero el testigo falso es traicionero.",
+      "strong": [
+        "H0259",
+        "H5707",
+        "H0529",
+        "H3467",
+        "H5315",
+        "H3588",
+        "H1931",
+        "H5707",
+        "H4820",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Los que honran al Señor están a salvo; el protegerá a sus hijos.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H0413",
+        "H3068",
+        "H1961",
+        "H3068",
+        "H3467",
+        "H1121",
+        "H3068",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Respetar al Señor es fuente de vida con la cual puedes evadir las trampas de la muerte.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1961",
+        "H4726",
+        "H4480",
+        "H2416",
+        "H5973",
+        "H1931",
+        "H4100",
+        "H3546",
+        "H1992",
+        "H4480",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "La gloria de un rey es la cantidad de súbditos que tiene, porque un gobernante no es nadie sin ellos.",
+      "strong": [
+        "H1931",
+        "H3519",
+        "H5971",
+        "H0259",
+        "H4428",
+        "H1961",
+        "H1931",
+        "H5971",
+        "H5971",
+        "H3426",
+        "H4428",
+        "H0259",
+        "H3808",
+        "H1961",
+        "H0376",
+        "H3808",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Si eres tardo para enojarte, eres sabio; pero si te enojas con facilidad, glorificas la estupidez.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H0750",
+        "H5704",
+        "H0859",
+        "H2450",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H5973",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Una mente en paz ayuda a la salud de tu cuerpo; pero los celos hacen podrir los huesos.",
+      "strong": [
+        "H0259",
+        "H5921",
+        "H7965",
+        "H5828",
+        "H7068",
+        "H1931",
+        "H4832",
+        "H4480",
+        "H0859",
+        "H5038",
+        "H3588",
+        "H0582",
+        "H7065",
+        "H6213",
+        "H0582",
+        "H6106"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Todo el que oprime al pobre insulta a su Creador; pero todo el que los trata con bondad da honra a su Hacedor.",
+      "strong": [
+        "H3605",
+        "H6213",
+        "H0834",
+        "H0413",
+        "H1800",
+        "H0413",
+        "H1931",
+        "H3588",
+        "H3605",
+        "H6213",
+        "H0834",
+        "H0582",
+        "H1245",
+        "H5973",
+        "H2898",
+        "H5414",
+        "H3513",
+        "H0413",
+        "H1931",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Los malvados son derribados por sus propias acciones, pero los que viven en rectitud están confiados hasta la muerte.",
+      "strong": [
+        "H0582",
+        "H1961",
+        "H2040",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H7563",
+        "H5921",
+        "H3559",
+        "H1961",
+        "H5704",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "La sabiduría habita en una mente que entiende, pero no se encuentra en medio de los necios.",
+      "strong": [
+        "H2451",
+        "H2451",
+        "H3427",
+        "H5921",
+        "H0259",
+        "H3045",
+        "H3045",
+        "H3588",
+        "H3808",
+        "H3045",
+        "H5921",
+        "H7130",
+        "H4480",
+        "H0582",
+        "H0995"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "Hacer el bien dará éxito a la nación, pero el pecado causa desgracia a cualquier pueblo.",
+      "strong": [
+        "H6213",
+        "H1931",
+        "H2896",
+        "H5414",
+        "H0413",
+        "H1931",
+        "H1471",
+        "H3588",
+        "H1931",
+        "H2403",
+        "H1697",
+        "H0413",
+        "H3605",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "35",
+      "text": "El siervo que actúa con sabiduría es estimado por el rey; pero el rey se enojará con el siervo que actúa vergonzosamente.",
+      "strong": [
+        "H1931",
+        "H5650",
+        "H1961",
+        "H5973",
+        "H2451",
+        "H1961",
+        "H2803",
+        "H4428",
+        "H1931",
+        "H4428",
+        "H3588",
+        "H1931",
+        "H4428",
+        "H1961",
+        "H5973",
+        "H1931",
+        "H5650",
+        "H1961"
+      ]
+    }
+  ]
+}

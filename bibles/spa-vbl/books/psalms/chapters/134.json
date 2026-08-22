@@ -1,1 +1,59 @@
-{"version":"spa-vbl","book":"psalms","chapter":134,"data":[{"verse":"1","text":"Alaben al Señor, todos ustedes, sus siervos, que adoran en su casa al anochecer."},{"verse":"2","text":"Levanten sus manos frente al lugar santo y adórenlo."},{"verse":"3","text":"Que el Señor te bendiga desde Sión. Él, que hizo los cielos y la tierra."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 134,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Alaben al Señor, todos ustedes, sus siervos, que adoran en su casa al anochecer.",
+      "strong": [
+        "H3034",
+        "H0413",
+        "H3068",
+        "H3605",
+        "H1931",
+        "H5650",
+        "H3605",
+        "H7812",
+        "H5975",
+        "H1931",
+        "H1004",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Levanten sus manos frente al lugar santo y adórenlo.",
+      "strong": [
+        "H1931",
+        "H3027",
+        "H5048",
+        "H0413",
+        "H4725",
+        "H6944",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Que el Señor te bendiga desde Sión. Él, que hizo los cielos y la tierra.",
+      "strong": [
+        "H0834",
+        "H6213",
+        "H3068",
+        "H0859",
+        "H1288",
+        "H4480",
+        "H6726",
+        "H6213",
+        "H0834",
+        "H6213",
+        "H0582",
+        "H8064",
+        "H1571",
+        "H1931",
+        "H0776"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,152 @@
-{"version":"spa-vbl","book":"isaiah","chapter":12,"data":[{"verse":"1","text":"En ese momento dirás: “¡Te alabaré, Señor! Aunque estabas enojado conmigo, tu ira ha pasado, y ahora me consuelas."},{"verse":"2","text":"¡Mira! ¡Dios es mi salvación! ¡Confiaré en él y no tendré miedo! Porque el Señor es mi fuerza y mi canción, y me ha salvado”."},{"verse":"3","text":"Con gran alegría tomarás agua del pozo de la salvación."},{"verse":"4","text":"En ese momento dirás: “¡Alabad al Señor, gritad su nombre! Cuenten a las naciones lo que ha hecho, que conozcan su carácter maravilloso."},{"verse":"5","text":"Canten al Señor por todas las cosas gloriosas que ha hecho; que todo el mundo lo sepa."},{"verse":"6","text":"Griten con fuerza y cantad de alegría, pueblos de Sión, porque el Santo de Israel es grande y está entre ustedes”."}]}
+{
+  "version": "spa-vbl",
+  "book": "isaiah",
+  "chapter": 12,
+  "data": [
+    {
+      "verse": "1",
+      "text": "En ese momento dirás: “¡Te alabaré, Señor! Aunque estabas enojado conmigo, tu ira ha pasado, y ahora me consuelas.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H7281",
+        "H0559",
+        "H3588",
+        "H3034",
+        "H3068",
+        "H3588",
+        "H1961",
+        "H7107",
+        "H0854",
+        "H0859",
+        "H2534",
+        "H3541",
+        "H5674",
+        "H3588",
+        "H3117",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Mira! ¡Dios es mi salvación! ¡Confiaré en él y no tendré miedo! Porque el Señor es mi fuerza y mi canción, y me ha salvado”.",
+      "strong": [
+        "H2009",
+        "H3068",
+        "H1961",
+        "H2009",
+        "H6413",
+        "H0982",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H1961",
+        "H6342",
+        "H3588",
+        "H3588",
+        "H3068",
+        "H1961",
+        "H2009",
+        "H3581",
+        "H3588",
+        "H2009",
+        "H7892",
+        "H3588",
+        "H3588",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Con gran alegría tomarás agua del pozo de la salvación.",
+      "strong": [
+        "H5973",
+        "H1419",
+        "H8057",
+        "H3947",
+        "H4325",
+        "H4480",
+        "H0875",
+        "H4325",
+        "H1931",
+        "H6413"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "En ese momento dirás: “¡Alabad al Señor, gritad su nombre! Cuenten a las naciones lo que ha hecho, que conozcan su carácter maravilloso.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H7281",
+        "H0559",
+        "H3034",
+        "H0413",
+        "H3068",
+        "H7121",
+        "H1931",
+        "H8034",
+        "H5608",
+        "H3588",
+        "H1992",
+        "H1471",
+        "H1931",
+        "H3588",
+        "H3541",
+        "H6213",
+        "H3588",
+        "H3045",
+        "H1931",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Canten al Señor por todas las cosas gloriosas que ha hecho; que todo el mundo lo sepa.",
+      "strong": [
+        "H7442",
+        "H0413",
+        "H3068",
+        "H3588",
+        "H3605",
+        "H1992",
+        "H3045",
+        "H3588",
+        "H3541",
+        "H6213",
+        "H3588",
+        "H3605",
+        "H3588",
+        "H8398",
+        "H6213",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Griten con fuerza y cantad de alegría, pueblos de Sión, porque el Santo de Israel es grande y está entre ustedes”.",
+      "strong": [
+        "H3588",
+        "H3581",
+        "H3588",
+        "H7442",
+        "H3588",
+        "H8057",
+        "H5971",
+        "H3588",
+        "H6726",
+        "H3588",
+        "H3588",
+        "H6918",
+        "H3588",
+        "H3478",
+        "H3588",
+        "H1419",
+        "H3588",
+        "H3427",
+        "H7130"
+      ]
+    }
+  ]
+}

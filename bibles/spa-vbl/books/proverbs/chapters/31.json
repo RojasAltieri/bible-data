@@ -1,1 +1,562 @@
-{"version":"spa-vbl","book":"proverbs","chapter":31,"data":[{"verse":"1","text":"Estas son las palabras del Rey Lemuel, un oráculo, enseñado por su madre."},{"verse":"2","text":"¿Qué podré enseñarte, hijo mío? Mi hijo a quien parí; el hijo que nació como respuesta a mis votos."},{"verse":"3","text":"No desperdicies tu fuerza durmiendo31:3. “Durmiendo”: implícito. con mujeres; con esas que hacen caer a los reyes."},{"verse":"4","text":"Lemuel, no es digno de los reyes beber vino, ni de los gobernantes beber alcohol.31:4. “Alcohol”: literalmente, “bebida fuerte”."},{"verse":"5","text":"Porque si beben, olvidarán la ley, y pervertirán los derechos de los que sufren."},{"verse":"6","text":"Dale alcohol a los que están muriendo, y vino a los que están sufriendo angustia."},{"verse":"7","text":"Déjalos que beban para que olviden su pobreza, y para que no recuerden más sus problemas."},{"verse":"8","text":"Habla en favor de los que no tienen voz, y lucha por los derechos de los marginados de la sociedad."},{"verse":"9","text":"Habla sin temor y juzga con honestidad, defiende a los pobres y desposeídos."},{"verse":"10","text":"¿Quién podrá encontrar a una mujer fuerte y capaz? ¡Una mujer así es más valiosa que muchas joyas!31:10. “Joyas”: aunque a menudo se traduce como “rubíes”, parece que en esta época aún no se sabía de ellos. Las joyas rojas probablemente eran cornalina o coralina."},{"verse":"11","text":"Su esposo tiene plena confianza en ella, y a su lado este hombre nunca empobrecerá."},{"verse":"12","text":"Durante toda su vida, esta mujer le trae el bien y nunca el mal."},{"verse":"13","text":"Ella consigue la lana y el lino, y con vehemencia elabora prendas de vestir con sus propias manos."},{"verse":"14","text":"Así como la embarcación de un comerciante, ella trae desde lejos la comida."},{"verse":"15","text":"Se levanta antes del amanecer para preparar el desayuno para su familia, y para preparar el trabajo de sus siervas."},{"verse":"16","text":"Ella mira el campo y decide comprarlo. Con su propio salario decide comprar una viña."},{"verse":"17","text":"Está siempre dispuesta y lista, y trabaja arduamente con sus fuertes brazos."},{"verse":"18","text":"Ella reconoce el gran valor de lo que hace. Se mantiene ocupada y su lámpara se apaga tarde, por la noche."},{"verse":"19","text":"Hila las fibras y las teje, convirtiéndolas en telas.31:19. El hebreo se refiere a la rueca y el huso utilizados en el hilado y el tejido, pero no es muy conocido en los tiempos modernos."},{"verse":"20","text":"Es generosa y da a los necesitados."},{"verse":"21","text":"No se preocupa si cae nieve, porque su familia tiene abrigo tibio31:21. “Tibio”: siguiendo el mensaje implícito de la Septuaginta. El hebreo dice “escarlata”, que significa simplemente ropa cara.."},{"verse":"22","text":"Ella se hace abrigos, y se viste con lino fino y ropa de color púrpura."},{"verse":"23","text":"Su esposo es respetado en el concilio a las puertas de la ciudad, donde se sienta con los ancianos."},{"verse":"24","text":"Ella elabora ropas de lino para vender, y es la proveedora de cinturones para los comerciantes."},{"verse":"25","text":"Ella se viste de fuerza y dignidad, y mira el futuro con alegría."},{"verse":"26","text":"Ella habla con sabiduría, y es bondadosa al dar instrucciones."},{"verse":"27","text":"Ella se encarga de las necesidades de su familia, y nunca está desocupada."},{"verse":"28","text":"Sus hijos se apresuran a bendecirla. Su esposo la alaba, diciendo:"},{"verse":"29","text":"“Muchas mujeres hacen grandes cosas, ¡pero tú eres mejor que todas ellas!”"},{"verse":"30","text":"El encanto es engañoso, y la belleza se desvanece; pero la mujer que honra al Señor merece ser alabada."},{"verse":"31","text":"Dale el reconocimiento que se merece; alábala públicamente por lo que ha hecho."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 31,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Estas son las palabras del Rey Lemuel, un oráculo, enseñado por su madre.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1992",
+        "H1697",
+        "H4480",
+        "H4428",
+        "H3927",
+        "H0259",
+        "H1697",
+        "H1931",
+        "H0517"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¿Qué podré enseñarte, hijo mío? Mi hijo a quien parí; el hijo que nació como respuesta a mis votos.",
+      "strong": [
+        "H4100",
+        "H3201",
+        "H1248",
+        "H0589",
+        "H0589",
+        "H1248",
+        "H0413",
+        "H4100",
+        "H3205",
+        "H1931",
+        "H1248",
+        "H4100",
+        "H3205",
+        "H4100",
+        "H1697",
+        "H0413",
+        "H0589",
+        "H5088"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "No desperdicies tu fuerza durmiendo con mujeres; con esas que hacen caer a los reyes.",
+      "strong": [
+        "H1870",
+        "H0859",
+        "H3581",
+        "H3463",
+        "H5973",
+        "H0802",
+        "H5973",
+        "H0834",
+        "H6213",
+        "H3782",
+        "H0413",
+        "H0582",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Lemuel, no es digno de los reyes beber vino, ni de los gobernantes beber alcohol.",
+      "strong": [
+        "H3927",
+        "H3808",
+        "H1961",
+        "H4480",
+        "H0582",
+        "H4428",
+        "H8354",
+        "H3196",
+        "H3808",
+        "H4480",
+        "H0582",
+        "H8354"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Porque si beben, olvidarán la ley, y pervertirán los derechos de los que sufren.",
+      "strong": [
+        "H6435",
+        "H6435",
+        "H8354",
+        "H3605",
+        "H8451",
+        "H1571",
+        "H1121",
+        "H4941",
+        "H8138",
+        "H1121",
+        "H6435"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Dale alcohol a los que están muriendo, y vino a los que están sufriendo angustia.",
+      "strong": [
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1961",
+        "H4191",
+        "H1571",
+        "H3196",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1961",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Déjalos que beban para que olviden su pobreza, y para que no recuerden más sus problemas.",
+      "strong": [
+        "H3808",
+        "H8354",
+        "H5704",
+        "H3808",
+        "H7911",
+        "H1931",
+        "H7389",
+        "H1571",
+        "H5704",
+        "H3808",
+        "H3808",
+        "H5750",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Habla en favor de los que no tienen voz, y lucha por los derechos de los marginados de la sociedad.",
+      "strong": [
+        "H1696",
+        "H5921",
+        "H7522",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3808",
+        "H1992",
+        "H6963",
+        "H1571",
+        "H5921",
+        "H1121",
+        "H4941",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Habla sin temor y juzga con honestidad, defiende a los pobres y desposeídos.",
+      "strong": [
+        "H1696",
+        "H3808",
+        "H3372",
+        "H1571",
+        "H8199",
+        "H5973",
+        "H8199",
+        "H6310",
+        "H0582",
+        "H1800",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Quién podrá encontrar a una mujer fuerte y capaz? ¡Una mujer así es más valiosa que muchas joyas!",
+      "strong": [
+        "H4310",
+        "H3201",
+        "H0413",
+        "H4672",
+        "H0802",
+        "H2428",
+        "H1571",
+        "H4672",
+        "H0802",
+        "H3541",
+        "H1961",
+        "H5750",
+        "H4310",
+        "H7227",
+        "H5141"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Su esposo tiene plena confianza en ella, y a su lado este hombre nunca empobrecerá.",
+      "strong": [
+        "H1931",
+        "H2860",
+        "H3426",
+        "H4009",
+        "H5921",
+        "H1931",
+        "H1571",
+        "H0413",
+        "H1931",
+        "H3802",
+        "H2088",
+        "H0376",
+        "H3808",
+        "H3423"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Durante toda su vida, esta mujer le trae el bien y nunca el mal.",
+      "strong": [
+        "H3605",
+        "H1931",
+        "H2416",
+        "H2063",
+        "H0802",
+        "H0413",
+        "H0935",
+        "H3605",
+        "H2896",
+        "H1571",
+        "H3808",
+        "H3605",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Ella consigue la lana y el lino, y con vehemencia elabora prendas de vestir con sus propias manos.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H6785",
+        "H1571",
+        "H6213",
+        "H6593",
+        "H1571",
+        "H5973",
+        "H6161",
+        "H4480",
+        "H5973",
+        "H1931",
+        "H3709"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Así como la embarcación de un comerciante, ella trae desde lejos la comida.",
+      "strong": [
+        "H3541",
+        "H1961",
+        "H1931",
+        "H4480",
+        "H0259",
+        "H1931",
+        "H0935",
+        "H4480",
+        "H7350",
+        "H1931",
+        "H3899"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Se levanta antes del amanecer para preparar el desayuno para su familia, y para preparar el trabajo de sus siervas.",
+      "strong": [
+        "H3045",
+        "H5375",
+        "H6440",
+        "H4480",
+        "H5414",
+        "H1931",
+        "H5414",
+        "H1931",
+        "H1004",
+        "H1571",
+        "H5414",
+        "H1931",
+        "H5999",
+        "H5750",
+        "H1931",
+        "H0519"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Ella mira el campo y decide comprarlo. Con su propio salario decide comprar una viña.",
+      "strong": [
+        "H1931",
+        "H7200",
+        "H1931",
+        "H7704",
+        "H1571",
+        "H5973",
+        "H1931",
+        "H0868",
+        "H0259",
+        "H3754"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Está siempre dispuesta y lista, y trabaja arduamente con sus fuertes brazos.",
+      "strong": [
+        "H2063",
+        "H5769",
+        "H6213",
+        "H5797",
+        "H5797",
+        "H5998",
+        "H5973",
+        "H1931",
+        "H5797",
+        "H2220"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Ella reconoce el gran valor de lo que hace. Se mantiene ocupada y su lámpara se apaga tarde, por la noche.",
+      "strong": [
+        "H1931",
+        "H5234",
+        "H3588",
+        "H1419",
+        "H3365",
+        "H3588",
+        "H3808",
+        "H3588",
+        "H6213",
+        "H3808",
+        "H3588",
+        "H3588",
+        "H5216",
+        "H3808",
+        "H6153",
+        "H3588",
+        "H3588",
+        "H3915"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Hila las fibras y las teje, convirtiéndolas en telas.",
+      "strong": [
+        "H1992",
+        "H1571",
+        "H1992",
+        "H5921",
+        "H5466"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Es generosa y da a los necesitados.",
+      "strong": [
+        "H3027",
+        "H1571",
+        "H5414",
+        "H0413",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "No se preocupa si cae nieve, porque su familia tiene abrigo tibio .",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H3588",
+        "H5307",
+        "H3588",
+        "H3588",
+        "H1004",
+        "H3426"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Ella se hace abrigos, y se viste con lino fino y ropa de color púrpura.",
+      "strong": [
+        "H1931",
+        "H3045",
+        "H6213",
+        "H1571",
+        "H3045",
+        "H2370",
+        "H5973",
+        "H6593",
+        "H2889",
+        "H1571",
+        "H8071",
+        "H4765",
+        "H5869",
+        "H0713"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Su esposo es respetado en el concilio a las puertas de la ciudad, donde se sienta con los ancianos.",
+      "strong": [
+        "H1931",
+        "H2860",
+        "H1961",
+        "H5973",
+        "H5973",
+        "H5973",
+        "H1992",
+        "H8179",
+        "H5973",
+        "H1931",
+        "H5892",
+        "H0834",
+        "H3045",
+        "H5973",
+        "H3427",
+        "H2205"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Ella elabora ropas de lino para vender, y es la proveedora de cinturones para los comerciantes.",
+      "strong": [
+        "H1931",
+        "H0899",
+        "H5414",
+        "H6593",
+        "H5414",
+        "H1571",
+        "H1961",
+        "H1931",
+        "H5414",
+        "H5414",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Ella se viste de fuerza y dignidad, y mira el futuro con alegría.",
+      "strong": [
+        "H1931",
+        "H3045",
+        "H2370",
+        "H4480",
+        "H3581",
+        "H5797",
+        "H5797",
+        "H7200",
+        "H1931",
+        "H5973",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Ella habla con sabiduría, y es bondadosa al dar instrucciones.",
+      "strong": [
+        "H5921",
+        "H1696",
+        "H5921",
+        "H2451",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5414"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Ella se encarga de las necesidades de su familia, y nunca está desocupada.",
+      "strong": [
+        "H1931",
+        "H3808",
+        "H4480",
+        "H1992",
+        "H4480",
+        "H1931",
+        "H1004",
+        "H1571",
+        "H3808",
+        "H2063"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Sus hijos se apresuran a bendecirla. Su esposo la alaba, diciendo:",
+      "strong": [
+        "H1931",
+        "H1121",
+        "H3045",
+        "H0413",
+        "H1931",
+        "H2860",
+        "H1931",
+        "H1984",
+        "H0559"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "“Muchas mujeres hacen grandes cosas, ¡pero tú eres mejor que todas ellas!”",
+      "strong": [
+        "H7227",
+        "H1323",
+        "H6213",
+        "H7227",
+        "H7227",
+        "H3588",
+        "H6213",
+        "H0859",
+        "H2896",
+        "H5921",
+        "H3605",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "El encanto es engañoso, y la belleza se desvanece; pero la mujer que honra al Señor merece ser alabada.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H7423",
+        "H1571",
+        "H1931",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H0802",
+        "H1931",
+        "H3513",
+        "H0413",
+        "H3068",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Dale el reconocimiento que se merece; alábala públicamente por lo que ha hecho.",
+      "strong": [
+        "H1931",
+        "H3027",
+        "H3045",
+        "H3027",
+        "H1931",
+        "H3027",
+        "H3541",
+        "H4639"
+      ]
+    }
+  ]
+}

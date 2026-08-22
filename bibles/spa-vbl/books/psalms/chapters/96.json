@@ -1,1 +1,297 @@
-{"version":"spa-vbl","book":"psalms","chapter":96,"data":[{"verse":"1","text":"¡Canten al Señor una nueva canción! ¡Canten al Señor, habitantes de toda la tierra!"},{"verse":"2","text":"¡Canten al Señor, y de su maravillosa reputación!96:2 “Reputación”: Literalmente, “nombre”. ¡Cada día háganle saber a todos de su salvación!"},{"verse":"3","text":"Proclamen sus actos de amor a las naciones, las maravillosas cosas que hace entre los pueblos."},{"verse":"4","text":"¡Porque el Señor es grande, y merece la mejor alabanza! Merece el respeto y el temor sobre todos los dioses."},{"verse":"5","text":"Porque todos los dioses de las otras naciones son ídolos; ¡Pero el Señor hizo los cielos!"},{"verse":"6","text":"El esplendor y la majestad son suyos; el poder y la gloria están en santuario."},{"verse":"7","text":"Denle al Señor el crédito, naciones del mundo, denle crédito con gloria y con fuerza."},{"verse":"8","text":"Denle al Señor la gloria que él merece; traigan una ofrenda y entre a sus atrios."},{"verse":"9","text":"Adórenlo en su maravillosa santidad; que toda la tierra tiemble ante su presencia."},{"verse":"10","text":"Díganle a las naciones, “¡El Señor está a cargo!” El mundo se mantiene unido firmemente, y no podrá ser despedazado. Él juzgará a todos justamente."},{"verse":"11","text":"¡Qué los cielos canten de alabanza! ¡Qué la tierra sea feliz, que el mar y todo cuanto existe griten de alabanza!"},{"verse":"12","text":"Qué los campos y todo lo que en ellos está celebren; qué todos los árboles en el bosque canten de alegría."},{"verse":"13","text":"De hecho, que todo lo que esté ante el Señor cante alabanzas,96:13 Ampliado para brindar más claridad. porque él viene, viene a juzgar la tierra. Juzgará al mundo con rectitud, y a las naciones con su verdad."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 96,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Canten al Señor una nueva canción! ¡Canten al Señor, habitantes de toda la tierra!",
+      "strong": [
+        "H7442",
+        "H0413",
+        "H3068",
+        "H0259",
+        "H2319",
+        "H7892",
+        "H7442",
+        "H0413",
+        "H3068",
+        "H3427",
+        "H4480",
+        "H3605",
+        "H3605",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "¡Canten al Señor, y de su maravillosa reputación! ¡Cada día háganle saber a todos de su salvación!",
+      "strong": [
+        "H7442",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H4480",
+        "H1931",
+        "H3117",
+        "H3117",
+        "H5046",
+        "H3068",
+        "H3605",
+        "H4480",
+        "H1931",
+        "H6413"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Proclamen sus actos de amor a las naciones, las maravillosas cosas que hace entre los pueblos.",
+      "strong": [
+        "H1931",
+        "H5971",
+        "H0160",
+        "H0413",
+        "H1992",
+        "H1471",
+        "H1992",
+        "H6381",
+        "H1697",
+        "H5971",
+        "H6213",
+        "H0996",
+        "H3605",
+        "H5971"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¡Porque el Señor es grande, y merece la mejor alabanza! Merece el respeto y el temor sobre todos los dioses.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H3068",
+        "H1931",
+        "H1419",
+        "H3588",
+        "H1931",
+        "H2896",
+        "H1984",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H3372",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H0430"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Porque todos los dioses de las otras naciones son ídolos; ¡Pero el Señor hizo los cielos!",
+      "strong": [
+        "H3588",
+        "H3605",
+        "H3605",
+        "H0430",
+        "H3588",
+        "H1992",
+        "H0312",
+        "H1471",
+        "H3588",
+        "H0457",
+        "H3588",
+        "H3588",
+        "H3068",
+        "H6213",
+        "H3605",
+        "H8064"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "El esplendor y la majestad son suyos; el poder y la gloria están en santuario.",
+      "strong": [
+        "H1931",
+        "H5797",
+        "H1931",
+        "H1961",
+        "H1931",
+        "H1931",
+        "H3027",
+        "H5797",
+        "H1931",
+        "H1935",
+        "H1961",
+        "H5921",
+        "H4720"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Denle al Señor el crédito, naciones del mundo, denle crédito con gloria y con fuerza.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1931",
+        "H1471",
+        "H4480",
+        "H8398",
+        "H5973",
+        "H3519",
+        "H3519",
+        "H5973",
+        "H3581"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Denle al Señor la gloria que él merece; traigan una ofrenda y entre a sus atrios.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1931",
+        "H3519",
+        "H2691",
+        "H1931",
+        "H0935",
+        "H0259",
+        "H4503",
+        "H3519",
+        "H0996",
+        "H3068",
+        "H1931",
+        "H2691"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Adórenlo en su maravillosa santidad; que toda la tierra tiemble ante su presencia.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H6944",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H0776",
+        "H6440",
+        "H1931",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Díganle a las naciones, “¡El Señor está a cargo!” El mundo se mantiene unido firmemente, y no podrá ser despedazado. Él juzgará a todos justamente.",
+      "strong": [
+        "H3068",
+        "H1992",
+        "H1471",
+        "H1931",
+        "H3068",
+        "H2063",
+        "H3068",
+        "H3027",
+        "H1931",
+        "H8398",
+        "H5971",
+        "H3162",
+        "H1571",
+        "H1077",
+        "H3201",
+        "H5315",
+        "H1931",
+        "H1777",
+        "H3068",
+        "H3605",
+        "H6664"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "¡Qué los cielos canten de alabanza! ¡Qué la tierra sea feliz, que el mar y todo cuanto existe griten de alabanza!",
+      "strong": [
+        "H0834",
+        "H0582",
+        "H8064",
+        "H7442",
+        "H4480",
+        "H8416",
+        "H0834",
+        "H1931",
+        "H0776",
+        "H1961",
+        "H0834",
+        "H1931",
+        "H3220",
+        "H1571",
+        "H3605",
+        "H0834",
+        "H4480",
+        "H8416"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Qué los campos y todo lo que en ellos está celebren; qué todos los árboles en el bosque canten de alegría.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H7704",
+        "H1571",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H2063",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H6086",
+        "H5921",
+        "H3605",
+        "H3293",
+        "H7442",
+        "H4480",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "De hecho, que todo lo que esté ante el Señor cante alabanzas, porque él viene, viene a juzgar la tierra. Juzgará al mundo con rectitud, y a las naciones con su verdad.",
+      "strong": [
+        "H3588",
+        "H6213",
+        "H3588",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H2088",
+        "H6440",
+        "H3588",
+        "H3068",
+        "H8426",
+        "H3588",
+        "H3588",
+        "H0935",
+        "H0935",
+        "H6440",
+        "H3588",
+        "H0776",
+        "H8199",
+        "H0413",
+        "H8398",
+        "H3588",
+        "H3559",
+        "H3588",
+        "H6440",
+        "H1992",
+        "H1471",
+        "H3588",
+        "H3588",
+        "H0571"
+      ]
+    }
+  ]
+}

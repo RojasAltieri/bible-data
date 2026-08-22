@@ -1,1 +1,183 @@
-{"version":"spa-vbl","book":"psalms","chapter":137,"data":[{"verse":"1","text":"Cuando nos sentábamos a orillas de los ríos de Babilonia, llorábamos al recordar a Sión."},{"verse":"2","text":"Colgábamos nuestras arpas en los sauces."},{"verse":"3","text":"Porque aquellos que nos habían llevado cautivos nos pedían canciones, nuestros opresores nos pedían que cantáramos cánticos alegres de Jerusalén."},{"verse":"4","text":"Pero, ¿Cómo podríamos cantar una canción dedicada al Señor en tierras paganas?"},{"verse":"5","text":"Si llegara a olvidar a Jerusalén, que mi diestra olvide cómo tocar;"},{"verse":"6","text":"Si no llego a recordarte y si no considero a Jerusalén mi gran alegría, que mi lengua se pegue al techo de mi boca."},{"verse":"7","text":"Señor, recuerda lo que el pueblo de Edom hizo el día que Jerusalén cayó, ellos dijeron “¡Destrúyanla! ¡Destrúyanla hasta los cimientos!”"},{"verse":"8","text":"Hija de Babilonia, ¡serás destruida! ¡Dichoso el que haga pagar lo que nos hiciste, el que haga contigo lo que hiciste a nosotros!"},{"verse":"9","text":"¡Dichoso el que agarre a tus pequeños y los estrelle contra las rocas!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 137,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Cuando nos sentábamos a orillas de los ríos de Babilonia, llorábamos al recordar a Sión.",
+      "strong": [
+        "H1571",
+        "H5921",
+        "H3427",
+        "H5921",
+        "H5921",
+        "H3427",
+        "H5105",
+        "H5921",
+        "H0894",
+        "H5921",
+        "H5921",
+        "H6726"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Colgábamos nuestras arpas en los sauces.",
+      "strong": [
+        "H0587",
+        "H3658",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Porque aquellos que nos habían llevado cautivos nos pedían canciones, nuestros opresores nos pedían que cantáramos cánticos alegres de Jerusalén.",
+      "strong": [
+        "H3588",
+        "H0479",
+        "H3588",
+        "H0587",
+        "H0834",
+        "H5375",
+        "H7628",
+        "H0587",
+        "H7592",
+        "H7892",
+        "H0587",
+        "H6031",
+        "H0587",
+        "H7592",
+        "H3588",
+        "H2158",
+        "H8056",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero, ¿Cómo podríamos cantar una canción dedicada al Señor en tierras paganas?",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H2167",
+        "H0259",
+        "H7892",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Si llegara a olvidar a Jerusalén, que mi diestra olvide cómo tocar;",
+      "strong": [
+        "H0518",
+        "H0935",
+        "H0413",
+        "H0413",
+        "H0834",
+        "H3389",
+        "H3225",
+        "H0349",
+        "H5060"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Si no llego a recordarte y si no considero a Jerusalén mi gran alegría, que mi lengua se pegue al techo de mi boca.",
+      "strong": [
+        "H3808",
+        "H3808",
+        "H5927",
+        "H5921",
+        "H5921",
+        "H3808",
+        "H3808",
+        "H2161",
+        "H5921",
+        "H5921",
+        "H1419",
+        "H8057",
+        "H3808",
+        "H5921",
+        "H3956",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Señor, recuerda lo que el pueblo de Edom hizo el día que Jerusalén cayó, ellos dijeron “¡Destrúyanla! ¡Destrúyanla hasta los cimientos!”",
+      "strong": [
+        "H3068",
+        "H5704",
+        "H5704",
+        "H1121",
+        "H5971",
+        "H5704",
+        "H0123",
+        "H6213",
+        "H1121",
+        "H3117",
+        "H5704",
+        "H5307",
+        "H1992",
+        "H0559",
+        "H5704",
+        "H1121",
+        "H3245"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Hija de Babilonia, ¡serás destruida! ¡Dichoso el que haga pagar lo que nos hiciste, el que haga contigo lo que hiciste a nosotros!",
+      "strong": [
+        "H1323",
+        "H4480",
+        "H0894",
+        "H1961",
+        "H7703",
+        "H0835",
+        "H1931",
+        "H1323",
+        "H6213",
+        "H7999",
+        "H1931",
+        "H1323",
+        "H0587",
+        "H1580",
+        "H1931",
+        "H1323",
+        "H6213",
+        "H5973",
+        "H1931",
+        "H1323",
+        "H1580",
+        "H0413",
+        "H0587"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¡Dichoso el que agarre a tus pequeños y los estrelle contra las rocas!",
+      "strong": [
+        "H0835",
+        "H1931",
+        "H0834",
+        "H0413",
+        "H0859",
+        "H6996",
+        "H1571",
+        "H0582",
+        "H5921",
+        "H1992"
+      ]
+    }
+  ]
+}

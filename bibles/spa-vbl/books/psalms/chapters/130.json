@@ -1,1 +1,140 @@
-{"version":"spa-vbl","book":"psalms","chapter":130,"data":[{"verse":"1","text":"Señor, clamo a ti desde lo más profundo de mi dolor.130:1 “De mi dolor”: implícito."},{"verse":"2","text":"Por favor escucha mi llanto, presta atención a lo que pido."},{"verse":"3","text":"Señor, si guardaras una lista de nuestros pecados, ¿Quién podría escapar de ser condenado?"},{"verse":"4","text":"Pero tú eres un Dios perdonador y por eso debes ser respetado."},{"verse":"5","text":"Yo espero en el Señor, espero ansiosamente, porque confío en su palabra."},{"verse":"6","text":"Anhelo que el Señor vuelva, más que los vigilantes añorando el amanecer."},{"verse":"7","text":"Israel, deposita tus esperanzas en el Señor, porque el Señor nos ama con su inmenso amor, y su salvación no conoce límites."},{"verse":"8","text":"Él redimirá a Israel de todos sus pecados."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 130,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Señor, clamo a ti desde lo más profundo de mi dolor.",
+      "strong": [
+        "H3068",
+        "H7121",
+        "H3068",
+        "H0859",
+        "H4480",
+        "H1931",
+        "H5750",
+        "H8482",
+        "H4480",
+        "H0589",
+        "H2427"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Por favor escucha mi llanto, presta atención a lo que pido.",
+      "strong": [
+        "H5921",
+        "H7522",
+        "H8085",
+        "H1961",
+        "H1065",
+        "H0413",
+        "H1931",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Señor, si guardaras una lista de nuestros pecados, ¿Quién podría escapar de ser condenado?",
+      "strong": [
+        "H0113",
+        "H0518",
+        "H8104",
+        "H0259",
+        "H4480",
+        "H0587",
+        "H5771",
+        "H4310",
+        "H4422",
+        "H4480",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Pero tú eres un Dios perdonador y por eso debes ser respetado.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0859",
+        "H0259",
+        "H0430",
+        "H5375",
+        "H3588",
+        "H3588",
+        "H3651",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Yo espero en el Señor, espero ansiosamente, porque confío en su palabra.",
+      "strong": [
+        "H5315",
+        "H3176",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H3176",
+        "H3588",
+        "H0982",
+        "H5921",
+        "H1931",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Anhelo que el Señor vuelva, más que los vigilantes añorando el amanecer.",
+      "strong": [
+        "H0834",
+        "H1931",
+        "H0113",
+        "H3254",
+        "H5750",
+        "H0834",
+        "H0582",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Israel, deposita tus esperanzas en el Señor, porque el Señor nos ama con su inmenso amor, y su salvación no conoce límites.",
+      "strong": [
+        "H3478",
+        "H0859",
+        "H5973",
+        "H5973",
+        "H3068",
+        "H3588",
+        "H5973",
+        "H3068",
+        "H0587",
+        "H0157",
+        "H5973",
+        "H3588",
+        "H0160",
+        "H3588",
+        "H3588",
+        "H6413",
+        "H3588",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Él redimirá a Israel de todos sus pecados.",
+      "strong": [
+        "H1931",
+        "H6299",
+        "H0413",
+        "H3478",
+        "H4480",
+        "H3605",
+        "H1931",
+        "H5771"
+      ]
+    }
+  ]
+}

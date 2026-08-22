@@ -1,1 +1,228 @@
-{"version":"spa-vbl","book":"psalms","chapter":146,"data":[{"verse":"1","text":"¡Alaben al Señor! ¡Yo alabo al Señor con todo mi ser!"},{"verse":"2","text":"Alabaré al Señor mientras viva. Cantaré alabanzas a Dios mientras respire."},{"verse":"3","text":"No pongan su confianza en los líderes humanos. Ellos no pueden salvarnos."},{"verse":"4","text":"Tan solo después de un suspiro vuelven al polvo, y ese día todos sus planes mueren con ellos."},{"verse":"5","text":"Felices los que tienen al Dios de Jacob como su ayudador. Su esperanza es el Señor su Dios."},{"verse":"6","text":"El que hizo el cielo y la tierra, el mar con todo lo que en ellos hay. Él es fiel para siempre."},{"verse":"7","text":"Él garantiza la justicia para los oprimidos. Él da alimento al hambriento. El Señor libera a los prisioneros."},{"verse":"8","text":"El Señor devuelve la vista a los ciegos; levanta a los agobiados, y ama a los que hacen lo recto."},{"verse":"9","text":"El Señor cuida de los extranjeros que habitan entre nosotros. Él cuida de las viudas y los huérfanos. Sin embargo, no deja prosperar a los malvados."},{"verse":"10","text":"El Señor reinará para siempre. Oh, Sión, él será tu Dios por todas las generaciones. ¡Alaben al Señor!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 146,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Alaben al Señor! ¡Yo alabo al Señor con todo mi ser!",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H3068",
+        "H5315",
+        "H7624",
+        "H0413",
+        "H3068",
+        "H5973",
+        "H3605",
+        "H5315",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Alabaré al Señor mientras viva. Cantaré alabanzas a Dios mientras respire.",
+      "strong": [
+        "H1984",
+        "H0413",
+        "H3068",
+        "H5750",
+        "H2416",
+        "H2167",
+        "H8426",
+        "H3068",
+        "H3068",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "No pongan su confianza en los líderes humanos. Ellos no pueden salvarnos.",
+      "strong": [
+        "H3808",
+        "H5564",
+        "H1931",
+        "H4009",
+        "H5921",
+        "H1121",
+        "H1397",
+        "H1992",
+        "H3808",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Tan solo después de un suspiro vuelven al polvo, y ese día todos sus planes mueren con ellos.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H0310",
+        "H4480",
+        "H0259",
+        "H7725",
+        "H0413",
+        "H6083",
+        "H1571",
+        "H1931",
+        "H3117",
+        "H3605",
+        "H1931",
+        "H4191",
+        "H5973",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Felices los que tienen al Dios de Jacob como su ayudador. Su esperanza es el Señor su Dios.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H1992",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H3290",
+        "H5921",
+        "H1931",
+        "H5826",
+        "H1931",
+        "H8615",
+        "H1961",
+        "H5921",
+        "H3068",
+        "H1931",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "El que hizo el cielo y la tierra, el mar con todo lo que en ellos hay. Él es fiel para siempre.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H6213",
+        "H3605",
+        "H8064",
+        "H1571",
+        "H8104",
+        "H0776",
+        "H3605",
+        "H3220",
+        "H5973",
+        "H3605",
+        "H6213",
+        "H3605",
+        "H5921",
+        "H3605",
+        "H3426",
+        "H3605",
+        "H1961",
+        "H0539",
+        "H5704",
+        "H5769"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Él garantiza la justicia para los oprimidos. Él da alimento al hambriento. El Señor libera a los prisioneros.",
+      "strong": [
+        "H6213",
+        "H1931",
+        "H4941",
+        "H5414",
+        "H0582",
+        "H6231",
+        "H6213",
+        "H5414",
+        "H0400",
+        "H0413",
+        "H8264",
+        "H6213",
+        "H3068",
+        "H3068",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "El Señor devuelve la vista a los ciegos; levanta a los agobiados, y ama a los que hacen lo recto.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1931",
+        "H4758",
+        "H3068",
+        "H0582",
+        "H5787",
+        "H2210",
+        "H3068",
+        "H0582",
+        "H1571",
+        "H0157",
+        "H3068",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H3477"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "El Señor cuida de los extranjeros que habitan entre nosotros. Él cuida de las viudas y los huérfanos. Sin embargo, no deja prosperar a los malvados.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H8104",
+        "H4480",
+        "H0582",
+        "H1616",
+        "H1616",
+        "H3427",
+        "H0996",
+        "H0587",
+        "H1931",
+        "H8104",
+        "H4480",
+        "H1992",
+        "H0490",
+        "H1571",
+        "H0582",
+        "H3490",
+        "H3808",
+        "H1870",
+        "H7971",
+        "H6743",
+        "H3068",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El Señor reinará para siempre. Oh, Sión, él será tu Dios por todas las generaciones. ¡Alaben al Señor!",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H4427",
+        "H5704",
+        "H5769",
+        "H1945",
+        "H6726",
+        "H1931",
+        "H1961",
+        "H0859",
+        "H3068",
+        "H5769",
+        "H1755",
+        "H1992",
+        "H1755",
+        "H1984",
+        "H0413",
+        "H3068"
+      ]
+    }
+  ]
+}

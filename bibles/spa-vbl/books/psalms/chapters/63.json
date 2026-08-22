@@ -1,1 +1,221 @@
-{"version":"spa-vbl","book":"psalms","chapter":63,"data":[{"verse":"1","text":"Dios, tú eres mi Dios y te busco de todo corazón. Mi ser entero te anhela y tiene sed de ti, en medio de esta tierra seca, árida y carente de aguas."},{"verse":"2","text":"Te veo en el Templo. Contemplo tu poder y tu gloria."},{"verse":"3","text":"Tu fidelidad y amor son mejores que la vida misma. Por ello te alabaré."},{"verse":"4","text":"Te agradeceré tanto como viva. Elevo mis manos hacia ti y celebro tu maravilloso carácter.63:4 Literalmente, “tu nombre”."},{"verse":"5","text":"Tú me satisfaces más que el mejor de los alimentos. Te alabaré con canciones alegres."},{"verse":"6","text":"Paso la noche entera pensando en ti desde que me acuesto, meditando sobre ti."},{"verse":"7","text":"Porque eres quien me ayuda, canto feliz bajo tus alas."},{"verse":"8","text":"Me aferro a ti y tus fuertes brazos me levantan."},{"verse":"9","text":"Los que tratan de destruirme irán a la tumba."},{"verse":"10","text":"Morirán a punta de espada y serán alimento para los chacales."},{"verse":"11","text":"Pero el rey vivirá feliz por todo lo que Dios ha hecho. Todos los que siguen a Dios63:11 “Siguen a Dios”: Literalmente, “juran por Dios”. le alabarán, pero los que mienten serán silenciados."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 63,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios, tú eres mi Dios y te busco de todo corazón. Mi ser entero te anhela y tiene sed de ti, en medio de esta tierra seca, árida y carente de aguas.",
+      "strong": [
+        "H0430",
+        "H0859",
+        "H1961",
+        "H1961",
+        "H0430",
+        "H1571",
+        "H0859",
+        "H1875",
+        "H4480",
+        "H3605",
+        "H3820",
+        "H1961",
+        "H5315",
+        "H8549",
+        "H0859",
+        "H7602",
+        "H1571",
+        "H1961",
+        "H1961",
+        "H4480",
+        "H0859",
+        "H5921",
+        "H8432",
+        "H4480",
+        "H1961",
+        "H0776",
+        "H6723",
+        "H3004",
+        "H1571",
+        "H4480",
+        "H4325"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Te veo en el Templo. Contemplo tu poder y tu gloria.",
+      "strong": [
+        "H5315",
+        "H7200",
+        "H3642",
+        "H1931",
+        "H1964",
+        "H0859",
+        "H3027",
+        "H1571",
+        "H0859",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Tu fidelidad y amor son mejores que la vida misma. Por ello te alabaré.",
+      "strong": [
+        "H0859",
+        "H3519",
+        "H0160",
+        "H1961",
+        "H2896",
+        "H0834",
+        "H1931",
+        "H5315",
+        "H4927",
+        "H3651",
+        "H1931",
+        "H0859",
+        "H3034"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Te agradeceré tanto como viva. Elevo mis manos hacia ti y celebro tu maravilloso carácter.",
+      "strong": [
+        "H3588",
+        "H3651",
+        "H3588",
+        "H2416",
+        "H0589",
+        "H3027",
+        "H0413",
+        "H0859",
+        "H3588",
+        "H0859",
+        "H3372"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Tú me satisfaces más que el mejor de los alimentos. Te alabaré con canciones alegres.",
+      "strong": [
+        "H0859",
+        "H0413",
+        "H5750",
+        "H0834",
+        "H1931",
+        "H2896",
+        "H4480",
+        "H0582",
+        "H0400",
+        "H0859",
+        "H3034",
+        "H5973",
+        "H7892",
+        "H8056"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Paso la noche entera pensando en ti desde que me acuesto, meditando sobre ti.",
+      "strong": [
+        "H5674",
+        "H7646",
+        "H3915",
+        "H8549",
+        "H5921",
+        "H0859",
+        "H4480",
+        "H6310",
+        "H0413",
+        "H5921",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Porque eres quien me ayuda, canto feliz bajo tus alas.",
+      "strong": [
+        "H5921",
+        "H0859",
+        "H4310",
+        "H5921",
+        "H5828",
+        "H7891",
+        "H8478",
+        "H0859",
+        "H3671"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Me aferro a ti y tus fuertes brazos me levantan.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H0859",
+        "H4013",
+        "H7070",
+        "H3588",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los que tratan de destruirme irán a la tumba.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H5608",
+        "H4480",
+        "H3212",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Morirán a punta de espada y serán alimento para los chacales.",
+      "strong": [
+        "H4191",
+        "H0413",
+        "H4480",
+        "H2719",
+        "H1571",
+        "H1992",
+        "H0400",
+        "H5704",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Pero el rey vivirá feliz por todo lo que Dios ha hecho. Todos los que siguen a Dios le alabarán, pero los que mienten serán silenciados.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H4428",
+        "H2421",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H5921",
+        "H0430",
+        "H3541",
+        "H1961",
+        "H3605",
+        "H5921",
+        "H5921",
+        "H1980",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H1984",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H8266",
+        "H1961"
+      ]
+    }
+  ]
+}

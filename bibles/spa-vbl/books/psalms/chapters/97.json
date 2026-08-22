@@ -1,1 +1,265 @@
-{"version":"spa-vbl","book":"psalms","chapter":97,"data":[{"verse":"1","text":"¡El Señor reina! ¡Qué la tierra se alegre, y que las costas distantes se llenen de alegría!"},{"verse":"2","text":"Él está rodeado de nubes y densas tinieblas; su trono está fundado en la justicia y la verdad."},{"verse":"3","text":"Las llamas le proceden, quemando a sus enemigos de cada lado."},{"verse":"4","text":"Sus rayos de luz iluminan el mundo; la tierra observa y tiembla."},{"verse":"5","text":"Las montañas se derriten como cera en la presencia del Señor, ante el Señor de toda la tierra."},{"verse":"6","text":"Los cielos proclaman su bondad; todos ven su gloria."},{"verse":"7","text":"Todos aquellos que adoran ídolos son humillados, todos los que están orgullosos de sus ídolos, porque todos los “dioses” se postran ante él."},{"verse":"8","text":"Jerusalén oye esto y celebra; todos los pueblos de Judá están felices por tus juicios, Señor."},{"verse":"9","text":"Porque tú, eres el más grande de todos, que gobierna sobre toda la tierra; tu posición está muy por encima de cualquier otro dios."},{"verse":"10","text":"Tú, que amas al Señor, ¡Odia el mal! Porque él protege las vidas de todos los que le son leales, y los salva del poder de la gente mala."},{"verse":"11","text":"La luz brilla97:11 O, “se propaga”. sobre aquellos que hicieron el bien, llevando alegría a aquellos que vivieron con rectitud."},{"verse":"12","text":"¡Alégrate en el Señor, tú, que haces el bien, y agradécele por su naturaleza santa!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 97,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡El Señor reina! ¡Qué la tierra se alegre, y que las costas distantes se llenen de alegría!",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H4427",
+        "H0834",
+        "H1931",
+        "H0776",
+        "H3045",
+        "H8056",
+        "H1571",
+        "H0834",
+        "H1992",
+        "H3045",
+        "H4480",
+        "H8057"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Él está rodeado de nubes y densas tinieblas; su trono está fundado en la justicia y la verdad.",
+      "strong": [
+        "H1931",
+        "H2063",
+        "H4480",
+        "H6051",
+        "H1571",
+        "H0653",
+        "H2822",
+        "H1931",
+        "H3678",
+        "H2063",
+        "H3247",
+        "H5921",
+        "H1931",
+        "H6664",
+        "H1571",
+        "H1931",
+        "H0571"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Las llamas le proceden, quemando a sus enemigos de cada lado.",
+      "strong": [
+        "H1992",
+        "H3852",
+        "H0413",
+        "H6213",
+        "H6440",
+        "H1931",
+        "H6862",
+        "H6440",
+        "H3605",
+        "H3802"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Sus rayos de luz iluminan el mundo; la tierra observa y tiembla.",
+      "strong": [
+        "H1931",
+        "H7161",
+        "H4480",
+        "H0216",
+        "H1931",
+        "H8398",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H7493"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Las montañas se derriten como cera en la presencia del Señor, ante el Señor de toda la tierra.",
+      "strong": [
+        "H1992",
+        "H3045",
+        "H0349",
+        "H5921",
+        "H3605",
+        "H6440",
+        "H4480",
+        "H3068",
+        "H6440",
+        "H3605",
+        "H3068",
+        "H6440",
+        "H3605",
+        "H3605",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Los cielos proclaman su bondad; todos ven su gloria.",
+      "strong": [
+        "H3605",
+        "H8064",
+        "H1931",
+        "H2898",
+        "H3605",
+        "H7200",
+        "H1931",
+        "H3519"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Todos aquellos que adoran ídolos son humillados, todos los que están orgullosos de sus ídolos, porque todos los “dioses” se postran ante él.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H3605",
+        "H7812",
+        "H0457",
+        "H1961",
+        "H3605",
+        "H3605",
+        "H3605",
+        "H1961",
+        "H4480",
+        "H1931",
+        "H0457",
+        "H3588",
+        "H3605",
+        "H3605",
+        "H0430",
+        "H3045",
+        "H6440",
+        "H3605"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Jerusalén oye esto y celebra; todos los pueblos de Judá están felices por tus juicios, Señor.",
+      "strong": [
+        "H8085",
+        "H2063",
+        "H1571",
+        "H2287",
+        "H3605",
+        "H0582",
+        "H5971",
+        "H4480",
+        "H3063",
+        "H1961",
+        "H4616",
+        "H0859",
+        "H4941",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Porque tú, eres el más grande de todos, que gobierna sobre toda la tierra; tu posición está muy por encima de cualquier otro dios.",
+      "strong": [
+        "H3588",
+        "H0859",
+        "H0859",
+        "H5921",
+        "H3588",
+        "H3966",
+        "H5921",
+        "H3605",
+        "H3588",
+        "H3557",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H0776",
+        "H0859",
+        "H5921",
+        "H3966",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3605",
+        "H0259",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Tú, que amas al Señor, ¡Odia el mal! Porque él protege las vidas de todos los que le son leales, y los salva del poder de la gente mala.",
+      "strong": [
+        "H0859",
+        "H3027",
+        "H0157",
+        "H0413",
+        "H3068",
+        "H1931",
+        "H7451",
+        "H8130",
+        "H1931",
+        "H1992",
+        "H5315",
+        "H7451",
+        "H3605",
+        "H0582",
+        "H3027",
+        "H0413",
+        "H1961",
+        "H1571",
+        "H0582",
+        "H3467",
+        "H4480",
+        "H3027",
+        "H7451",
+        "H8104",
+        "H1471",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "La luz brilla sobre aquellos que hicieron el bien, llevando alegría a aquellos que vivieron con rectitud.",
+      "strong": [
+        "H1931",
+        "H0216",
+        "H5921",
+        "H0479",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H5375",
+        "H8057",
+        "H0413",
+        "H0479",
+        "H0834",
+        "H0748",
+        "H5973",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "¡Alégrate en el Señor, tú, que haces el bien, y agradécele por su naturaleza santa!",
+      "strong": [
+        "H8055",
+        "H5921",
+        "H1931",
+        "H3068",
+        "H0859",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H2896",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H6944"
+      ]
+    }
+  ]
+}

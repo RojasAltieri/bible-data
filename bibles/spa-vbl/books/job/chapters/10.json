@@ -1,1 +1,429 @@
-{"version":"spa-vbl","book":"job","chapter":10,"data":[{"verse":"1","text":"¡Odio mi vida! Permíteme hablar libremente de mis quejas; no puedo guardarme mi amargura."},{"verse":"2","text":"Le diré a Dios: “No te limites a condenarme; dime qué tienes contra mí."},{"verse":"3","text":"¿Te gusta acusarme? ¿Por qué me rechazas a mí, a quien has creado con tus propias manos, y sin embargo te alegras de las maquinaciones de los malvados?"},{"verse":"4","text":"¿Tienes ojos humanos? ¿Ves como los seres humanos?"},{"verse":"5","text":"¿Es tu vida tan corta como la de los mortales? ¿Son tus años tan breves como los de la humanidad,"},{"verse":"6","text":"para que tengas que examinar mis males e investigar mis pecados?"},{"verse":"7","text":"Aunque sabes que no soy culpable, nadie puede salvarme de ti."},{"verse":"8","text":"Me hiciste y me diste forma con tus propias manos, y sin embargo me destruyes."},{"verse":"9","text":"Recuerda que me diste forma como a un pedazo de arcilla; ¿vas a volver a convertirme en polvo?"},{"verse":"10","text":"Me derramaste como la leche, me cuajaste como el queso.10:10 Estas referencias poéticas se refieren a la procreación. La intención es decir que Dios formó a Job en el vientre de su madre."},{"verse":"11","text":"Me vestiste de piel y carne; tejiste mi cuerpo con huesos y músculos."},{"verse":"12","text":"Me diste vida y me mostraste tu bondad; me has cuidado mucho."},{"verse":"13","text":"“Pero guardaste estas cosas en tu corazón. Sé que tu propósito era"},{"verse":"14","text":"vigilarme, y si pecaba, entonces no perdonarías mis males."},{"verse":"15","text":"Si soy culpable, estoy en problemas; si soy inocente, no puedo mantener la cabeza en alto porque estoy totalmente deshonrado al ver mis sufrimientos."},{"verse":"16","text":"Si mantengo la cabeza alta me persigues como un león, mostrando lo poderoso que eres para herirme."},{"verse":"17","text":"Repites tus argumentos contra mí, derramas más y más tu ira contra mí, envías nuevos ejércitos contra mí."},{"verse":"18","text":"“¿Por qué me dejaste nacer?10:18 Literalmente, “sácame del vientre”. Ojalá hubiera muerto y nadie me hubiera visto nunca."},{"verse":"19","text":"Hubiera sido mejor que nunca hubiera existido, llevado directamente del vientre a la tumba."},{"verse":"20","text":"Sólo me quedan unos días, así que ¿por qué no me dejas en paz para que pueda tener un poco de paz"},{"verse":"21","text":"antes de ir al sitio de donde nunca volveré, la tierra de las tinieblas y la sombra de la muerte?"},{"verse":"22","text":"La tierra de la oscuridad total donde se encuentra la sombra de la muerte, un lugar de caos donde la luz misma es oscuridad”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 10,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Odio mi vida! Permíteme hablar libremente de mis quejas; no puedo guardarme mi amargura.",
+      "strong": [
+        "H4895",
+        "H5921",
+        "H5315",
+        "H1696",
+        "H5071",
+        "H5921",
+        "H0589",
+        "H5921",
+        "H3201",
+        "H5921",
+        "H4751"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Le diré a Dios: “No te limites a condenarme; dime qué tienes contra mí.",
+      "strong": [
+        "H5921",
+        "H0559",
+        "H5921",
+        "H0430",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4100",
+        "H3045",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "¿Te gusta acusarme? ¿Por qué me rechazas a mí, a quien has creado con tus propias manos, y sin embargo te alegras de las maquinaciones de los malvados?",
+      "strong": [
+        "H5921",
+        "H2938",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4310",
+        "H4191",
+        "H5921",
+        "H0859",
+        "H3709",
+        "H3588",
+        "H3808",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H4209",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "¿Tienes ojos humanos? ¿Ves como los seres humanos?",
+      "strong": [
+        "H5750",
+        "H5869",
+        "H1397",
+        "H7200",
+        "H0349",
+        "H0582",
+        "H5315",
+        "H1397"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¿Es tu vida tan corta como la de los mortales? ¿Son tus años tan breves como los de la humanidad,",
+      "strong": [
+        "H1961",
+        "H0859",
+        "H3117",
+        "H3966",
+        "H2404",
+        "H0349",
+        "H1931",
+        "H4480",
+        "H0582",
+        "H1961",
+        "H0859",
+        "H8141",
+        "H3966",
+        "H0349",
+        "H0582",
+        "H4480",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "para que tengas que examinar mis males e investigar mis pecados?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5414",
+        "H3588",
+        "H0589",
+        "H7451",
+        "H0834",
+        "H0589",
+        "H2403"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Aunque sabes que no soy culpable, nadie puede salvarme de ti.",
+      "strong": [
+        "H3588",
+        "H3045",
+        "H3588",
+        "H3808",
+        "H0595",
+        "H3808",
+        "H3201",
+        "H5921",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Me hiciste y me diste forma con tus propias manos, y sin embargo me destruyes.",
+      "strong": [
+        "H0413",
+        "H6213",
+        "H1571",
+        "H0413",
+        "H5414",
+        "H8389",
+        "H5973",
+        "H0859",
+        "H3027",
+        "H1571",
+        "H3808",
+        "H0413",
+        "H1104"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Recuerda que me diste forma como a un pedazo de arcilla; ¿vas a volver a convertirme en polvo?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5414",
+        "H8389",
+        "H3588",
+        "H3588",
+        "H0259",
+        "H3588",
+        "H3212",
+        "H3588",
+        "H7725",
+        "H3588",
+        "H3588",
+        "H6083"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Me derramaste como la leche, me cuajaste como el queso.",
+      "strong": [
+        "H0413",
+        "H8210",
+        "H0349",
+        "H5413",
+        "H2461",
+        "H0413",
+        "H0349",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Me vestiste de piel y carne; tejiste mi cuerpo con huesos y músculos.",
+      "strong": [
+        "H0413",
+        "H3847",
+        "H3847",
+        "H5785",
+        "H1571",
+        "H1320",
+        "H0589",
+        "H5038",
+        "H5973",
+        "H6106",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Me diste vida y me mostraste tu bondad; me has cuidado mucho.",
+      "strong": [
+        "H0413",
+        "H5414",
+        "H2416",
+        "H1571",
+        "H0413",
+        "H6213",
+        "H2898",
+        "H0413",
+        "H4191",
+        "H3027",
+        "H3966"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "“Pero guardaste estas cosas en tu corazón. Sé que tu propósito era",
+      "strong": [
+        "H3588",
+        "H8104",
+        "H2063",
+        "H3045",
+        "H5973",
+        "H0859",
+        "H3824",
+        "H3045",
+        "H3588",
+        "H0859",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "vigilarme, y si pecaba, entonces no perdonarías mis males.",
+      "strong": [
+        "H1571",
+        "H3808",
+        "H0227",
+        "H3808",
+        "H0589",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Si soy culpable, estoy en problemas; si soy inocente, no puedo mantener la cabeza en alto porque estoy totalmente deshonrado al ver mis sufrimientos.",
+      "strong": [
+        "H3808",
+        "H0595",
+        "H1961",
+        "H5921",
+        "H3808",
+        "H0595",
+        "H5355",
+        "H3808",
+        "H3201",
+        "H7646",
+        "H7218",
+        "H5921",
+        "H1364",
+        "H3808",
+        "H1961",
+        "H0914",
+        "H0413",
+        "H7200",
+        "H5375"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Si mantengo la cabeza alta me persigues como un león, mostrando lo poderoso que eres para herirme.",
+      "strong": [
+        "H0518",
+        "H1931",
+        "H7218",
+        "H1419",
+        "H0413",
+        "H7291",
+        "H0349",
+        "H0259",
+        "H7826",
+        "H1931",
+        "H1368",
+        "H0834",
+        "H0859",
+        "H5704"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Repites tus argumentos contra mí, derramas más y más tu ira contra mí, envías nuevos ejércitos contra mí.",
+      "strong": [
+        "H0859",
+        "H8394",
+        "H5973",
+        "H0589",
+        "H7235",
+        "H1571",
+        "H7235",
+        "H0859",
+        "H2534",
+        "H5973",
+        "H0589",
+        "H7971",
+        "H2319",
+        "H6635",
+        "H5973",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "“¿Por qué me dejaste nacer? Ojalá hubiera muerto y nadie me hubiera visto nunca.",
+      "strong": [
+        "H4100",
+        "H4100",
+        "H0413",
+        "H0622",
+        "H3863",
+        "H4191",
+        "H1571",
+        "H3808",
+        "H0413",
+        "H7200",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Hubiera sido mejor que nunca hubiera existido, llevado directamente del vientre a la tumba.",
+      "strong": [
+        "H1961",
+        "H2896",
+        "H3808",
+        "H3808",
+        "H2986",
+        "H4480",
+        "H0990",
+        "H0413",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Sólo me quedan unos días, así que ¿por qué no me dejas en paz para que pueda tener un poco de paz",
+      "strong": [
+        "H0910",
+        "H4480",
+        "H0428",
+        "H3117",
+        "H3541",
+        "H4480",
+        "H4480",
+        "H4480",
+        "H3808",
+        "H4480",
+        "H4480",
+        "H7965",
+        "H4480",
+        "H4480",
+        "H3201",
+        "H1961",
+        "H0259",
+        "H4592",
+        "H4480",
+        "H7965"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "antes de ir al sitio de donde nunca volveré, la tierra de las tinieblas y la sombra de la muerte?",
+      "strong": [
+        "H2962",
+        "H4480",
+        "H3212",
+        "H0413",
+        "H4725",
+        "H4480",
+        "H0834",
+        "H3808",
+        "H7725",
+        "H1931",
+        "H0776",
+        "H4480",
+        "H1992",
+        "H2822",
+        "H1571",
+        "H1931",
+        "H6738",
+        "H4480",
+        "H1931",
+        "H6757"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "La tierra de la oscuridad total donde se encuentra la sombra de la muerte, un lugar de caos donde la luz misma es oscuridad”.",
+      "strong": [
+        "H1931",
+        "H0776",
+        "H4480",
+        "H1931",
+        "H5890",
+        "H0834",
+        "H3808",
+        "H1931",
+        "H6738",
+        "H4480",
+        "H1931",
+        "H6757",
+        "H0259",
+        "H4725",
+        "H4480",
+        "H0834",
+        "H1931",
+        "H6757",
+        "H4927",
+        "H1961",
+        "H5890"
+      ]
+    }
+  ]
+}

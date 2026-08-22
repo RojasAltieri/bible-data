@@ -1,1 +1,335 @@
-{"version":"spa-vbl","book":"psalms","chapter":17,"data":[{"verse":"1","text":"¡Señor, por favor escucha mi clamor de justicia! ¡Por favor presta atención a mi llamado de auxilio! ¡Escucha la oración de un hombre honesto!17:1 Literalmente: «que no está entre los labios mentirosos»."},{"verse":"2","text":"Vindícame delante de ti, porque tú ves lo que es correcto."},{"verse":"3","text":"Has conocido mis pensamientos, me has visitado por la noche, me has examinado, y no has encontrado nada malo. Me prometí a mí mismo que no diría nada indebido."},{"verse":"4","text":"Con respecto a las acciones de otros: he hecho lo que me dijiste, y he evitado lo que hacen las personas violentas.17:4 O, “He visto lo que le ocurre a los violentos”."},{"verse":"5","text":"No me he extraviado de tu camino; mis pies no han tropezado."},{"verse":"6","text":"Dios, te hablo a ti porque yo sé que me responderás. Por favor escucha atentamente lo que tengo que decir."},{"verse":"7","text":"Muéstrame cuán maravilloso es realmente tu amor fiel ¡Salvador de todos los que acuden a ti, pidiendo protección contra sus enemigos!"},{"verse":"8","text":"Mantenme a salvo, como a alguien que amas;17:8 Literalmente: «Guárdame como la pupila de tus ojos». y escóndeme bajo tus alas."},{"verse":"9","text":"Protégeme de los ataques de los malvados que quieren destruirme, de los enemigos que me rodean e intentan matarme."},{"verse":"10","text":"Ellos no tienen compasión,17:10 Literalmente: «Ellos han cerrado sus corazones» y solo saben hablar con arrogancia."},{"verse":"11","text":"Ellos me persiguen y me rodean, buscando la oportunidad para golpearme y tirarme al suelo."},{"verse":"12","text":"Son como leones que quieren desgarrar sus presas; como feroces leones agazapados en una emboscada."},{"verse":"13","text":"Señor, ¡levántate y confróntalos! ¡Fuérzalos a volver atrás! ¡Con tu espada, defiéndeme de los malvados!"},{"verse":"14","text":"Señor, por tu poder, sálvame de personas cuyos únicos pensamientos son de este mundo. Que se llenen con lo que tienes reservado para ellos, sus hijos también, ¡con sobras para sus nietos!17:14 El significado de este versículo es incierto. Incluso no está claro si es una bendición o una maldición. Según el contexto, es un llamado a Dios para vindicar a los buenos y castigar a los malos."},{"verse":"15","text":"En cuanto a mí, veré tu rostro en toda su gloria. Cuando despierte, estaré grandemente complacido de verte cara a cara."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 17,
+  "data": [
+    {
+      "verse": "1",
+      "text": "¡Señor, por favor escucha mi clamor de justicia! ¡Por favor presta atención a mi llamado de auxilio! ¡Escucha la oración de un hombre honesto!",
+      "strong": [
+        "H3068",
+        "H5921",
+        "H7522",
+        "H8085",
+        "H0589",
+        "H7440",
+        "H4480",
+        "H6664",
+        "H5921",
+        "H7522",
+        "H3068",
+        "H0589",
+        "H8034",
+        "H4480",
+        "H5833",
+        "H8085",
+        "H1931",
+        "H8605",
+        "H4480",
+        "H0259",
+        "H0376"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Vindícame delante de ti, porque tú ves lo que es correcto.",
+      "strong": [
+        "H6440",
+        "H6440",
+        "H0859",
+        "H6440",
+        "H0859",
+        "H7200",
+        "H1931",
+        "H0834",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Has conocido mis pensamientos, me has visitado por la noche, me has examinado, y no has encontrado nada malo. Me prometí a mí mismo que no diría nada indebido.",
+      "strong": [
+        "H4191",
+        "H3045",
+        "H0589",
+        "H4284",
+        "H0413",
+        "H4191",
+        "H5921",
+        "H1931",
+        "H3915",
+        "H0413",
+        "H4191",
+        "H1571",
+        "H1077",
+        "H4191",
+        "H3808",
+        "H7451",
+        "H0413",
+        "H5087",
+        "H6310",
+        "H0589",
+        "H1931",
+        "H6310",
+        "H1077",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Con respecto a las acciones de otros: he hecho lo que me dijiste, y he evitado lo que hacen las personas violentas.",
+      "strong": [
+        "H5973",
+        "H3282",
+        "H0413",
+        "H1992",
+        "H1697",
+        "H0312",
+        "H4392",
+        "H6213",
+        "H1697",
+        "H1697",
+        "H0413",
+        "H0559",
+        "H1571",
+        "H4392",
+        "H1697",
+        "H1697",
+        "H6213",
+        "H1992",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "No me he extraviado de tu camino; mis pies no han tropezado.",
+      "strong": [
+        "H1077",
+        "H0413",
+        "H4392",
+        "H8582",
+        "H4480",
+        "H0859",
+        "H4570",
+        "H0589",
+        "H6471",
+        "H1077",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Dios, te hablo a ti porque yo sé que me responderás. Por favor escucha atentamente lo que tengo que decir.",
+      "strong": [
+        "H0430",
+        "H3588",
+        "H6030",
+        "H3588",
+        "H0859",
+        "H3588",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H6030",
+        "H3588",
+        "H7522",
+        "H8085",
+        "H8085",
+        "H1931",
+        "H3588",
+        "H2803",
+        "H3588",
+        "H8085"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Muéstrame cuán maravilloso es realmente tu amor fiel ¡Salvador de todos los que acuden a ti, pidiendo protección contra sus enemigos!",
+      "strong": [
+        "H3045",
+        "H4100",
+        "H3372",
+        "H1961",
+        "H0859",
+        "H0160",
+        "H0539",
+        "H3467",
+        "H4480",
+        "H3605",
+        "H0582",
+        "H0834",
+        "H0413",
+        "H0859",
+        "H7592",
+        "H5921",
+        "H1931",
+        "H0341"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Mantenme a salvo, como a alguien que amas; y escóndeme bajo tus alas.",
+      "strong": [
+        "H2963",
+        "H5869",
+        "H3467",
+        "H0349",
+        "H5869",
+        "H0376",
+        "H1323",
+        "H0157",
+        "H1571",
+        "H5641",
+        "H8478",
+        "H0859",
+        "H3671"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Protégeme de los ataques de los malvados que quieren destruirme, de los enemigos que me rodean e intentan matarme.",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H2098",
+        "H5921",
+        "H5921",
+        "H0341",
+        "H2098",
+        "H5921",
+        "H5439",
+        "H0834",
+        "H2803",
+        "H2026"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Ellos no tienen compasión, y solo saben hablar con arrogancia.",
+      "strong": [
+        "H1992",
+        "H3808",
+        "H1992",
+        "H2603",
+        "H1571",
+        "H0910",
+        "H3045",
+        "H1696",
+        "H5973"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Ellos me persiguen y me rodean, buscando la oportunidad para golpearme y tirarme al suelo.",
+      "strong": [
+        "H1992",
+        "H0413",
+        "H7291",
+        "H1571",
+        "H0413",
+        "H5439",
+        "H1245",
+        "H1931",
+        "H6258",
+        "H1571",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Son como leones que quieren desgarrar sus presas; como feroces leones agazapados en una emboscada.",
+      "strong": [
+        "H1961",
+        "H3715",
+        "H0738",
+        "H0834",
+        "H1931",
+        "H3715",
+        "H0738",
+        "H5921",
+        "H0259",
+        "H6119"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Señor, ¡levántate y confróntalos! ¡Fuérzalos a volver atrás! ¡Con tu espada, defiéndeme de los malvados!",
+      "strong": [
+        "H3068",
+        "H6965",
+        "H1571",
+        "H6440",
+        "H7725",
+        "H0268",
+        "H5973",
+        "H0859",
+        "H2719",
+        "H1777",
+        "H6440",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Señor, por tu poder, sálvame de personas cuyos únicos pensamientos son de este mundo. Que se llenen con lo que tienes reservado para ellos, sus hijos también, ¡con sobras para sus nietos!",
+      "strong": [
+        "H3068",
+        "H3027",
+        "H0859",
+        "H3027",
+        "H3467",
+        "H1121",
+        "H5315",
+        "H5921",
+        "H4284",
+        "H1961",
+        "H1121",
+        "H2088",
+        "H8398",
+        "H1121",
+        "H3045",
+        "H5973",
+        "H1931",
+        "H1121",
+        "H5750",
+        "H5704",
+        "H3027",
+        "H1931",
+        "H1121",
+        "H1571",
+        "H5973",
+        "H5704",
+        "H1931",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "En cuanto a mí, veré tu rostro en toda su gloria. Cuando despierte, estaré grandemente complacido de verte cara a cara.",
+      "strong": [
+        "H5921",
+        "H0834",
+        "H6440",
+        "H0589",
+        "H2372",
+        "H0859",
+        "H6440",
+        "H5921",
+        "H3605",
+        "H1931",
+        "H3519",
+        "H3588",
+        "H5782",
+        "H5324",
+        "H1419",
+        "H6440",
+        "H6440",
+        "H6440",
+        "H6440"
+      ]
+    }
+  ]
+}

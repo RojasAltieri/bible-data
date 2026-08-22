@@ -1,1 +1,414 @@
-{"version":"spa-vbl","book":"1-chronicles","chapter":3,"data":[{"verse":"1","text":"Estos fueron los hijos de David que le nacieron en Hebrón: El primogénito fue Amnón, cuya madre fue Ahinoam de Jezreel. El segundo fue Daniel, cuya madre fue Abigail de Carmelo."},{"verse":"2","text":"El tercero fue Absalón, cuya madre fue Maaca, hija de Talmai, rey de Gesur. El cuarto fue Adonías, cuya madre fue Haguit."},{"verse":"3","text":"El quinto fue Sefatías, cuya madre fue Abital. El sexto fue Itream, cuya madre fue Egla, esposa de David."},{"verse":"4","text":"Esos fueron los seis hijos que le nacieron a David en Hebrón, donde reinó siete años y seis meses. David reinó en Jerusalén treinta y tres años más,"},{"verse":"5","text":"y estos fueron los hijos que le nacieron allí:"},{"verse":"6","text":"Además estaban también Ibhar, Elisúa,3:6.En realidad Elisama, una escritura diferente de Elisúa. Elifelet,"},{"verse":"7","text":"Noga, Nefeg, Jafía,"},{"verse":"8","text":"Elisama, Eliada y Elifelet, un total de nueve."},{"verse":"9","text":"Todos estos fueron los hijos de David, aparte de sus hijos de sus concubinas. Su hermana era Tamar."},{"verse":"10","text":"El linaje masculino3:10.“Linaje masculino”: se utiliza este término en lugar de decir repetidamente “su hijo”. desde Salomón fue: Roboam, Abías, Asa,"},{"verse":"11","text":"Joram,3:11.De hecho dice Joram, una escritura diferente de Jehoram. Ocozías, Joás,"},{"verse":"12","text":"Amasías, Azarías, Jotam,"},{"verse":"13","text":"Acaz, Ezequías, Manasés,"},{"verse":"14","text":"Amón, Josías."},{"verse":"15","text":"Los hijos de Josías: Johanán (primogénito), Joaquín (el segundo), Sedequías (el tercero), y Salum (el cuarto)."},{"verse":"16","text":"Los hijos de Joacim: Joaquín3:16.De hecho dice Jeconías, una ortografía diferente de Joaquín. y Sedecías."},{"verse":"17","text":"Los hijos de Joaquín que fueron llevados al cautiverio: Sealtiel,"},{"verse":"18","text":"Malquiram, Pedaías, Senaza, Jecamías, Hosama y Nedabías."},{"verse":"19","text":"Los hijos de Pedaías: Zorobabel y Simei."},{"verse":"20","text":"Otros cinco hijos fueron: Hasuba, Ohel, Berequías, Hasadías y Jushab-Hesed."},{"verse":"21","text":"Los hijos de Hananías: Pelatías y Jesaías, y Los hijos de Refaías, Los hijos de Arnán, Los hijos de Abdías, y Los hijos de Secanías.3:21.El texto tiene dificultades de interpretación."},{"verse":"22","text":"Los hijos de Secanías: Semaías y sus hijos: Hatús, Igal, Barías, Nearías y Safat. En total eran seis."},{"verse":"23","text":"Los hijos de Nearías: Elioenai, Ezequías y Azricam. Eran tres en total."},{"verse":"24","text":"Los hijos de Elioenai: Hodavías, Eliasib, Pelaías, Acub, Johanán, Dalaías, y Anani. En total eran un total de siete."}]}
+{
+  "version": "spa-vbl",
+  "book": "1-chronicles",
+  "chapter": 3,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Estos fueron los hijos de David que le nacieron en Hebrón: El primogénito fue Amnón, cuya madre fue Ahinoam de Jezreel. El segundo fue Daniel, cuya madre fue Abigail de Carmelo.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1732",
+        "H1121",
+        "H0413",
+        "H3205",
+        "H5921",
+        "H2275",
+        "H1121",
+        "H1060",
+        "H1961",
+        "H0550",
+        "H0834",
+        "H0517",
+        "H1961",
+        "H0293",
+        "H1121",
+        "H3157",
+        "H1121",
+        "H8145",
+        "H1961",
+        "H1840",
+        "H0834",
+        "H0517",
+        "H1961",
+        "H0026",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El tercero fue Absalón, cuya madre fue Maaca, hija de Talmai, rey de Gesur. El cuarto fue Adonías, cuya madre fue Haguit.",
+      "strong": [
+        "H1121",
+        "H7992",
+        "H1961",
+        "H0834",
+        "H0517",
+        "H1961",
+        "H1323",
+        "H1121",
+        "H4428",
+        "H1121",
+        "H1121",
+        "H7243",
+        "H1961",
+        "H0138",
+        "H0834",
+        "H0517",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El quinto fue Sefatías, cuya madre fue Abital. El sexto fue Itream, cuya madre fue Egla, esposa de David.",
+      "strong": [
+        "H1931",
+        "H2549",
+        "H1961",
+        "H0834",
+        "H0517",
+        "H1961",
+        "H1931",
+        "H8345",
+        "H1961",
+        "H3507",
+        "H0834",
+        "H0517",
+        "H1961",
+        "H3618",
+        "H4480",
+        "H1732"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Esos fueron los seis hijos que le nacieron a David en Hebrón, donde reinó siete años y seis meses. David reinó en Jerusalén treinta y tres años más,",
+      "strong": [
+        "H1961",
+        "H0582",
+        "H8337",
+        "H1121",
+        "H7651",
+        "H0413",
+        "H3205",
+        "H0413",
+        "H3389",
+        "H5921",
+        "H2275",
+        "H8033",
+        "H4427",
+        "H7651",
+        "H8141",
+        "H1571",
+        "H8337",
+        "H2320",
+        "H3389",
+        "H4427",
+        "H5921",
+        "H7970",
+        "H1571",
+        "H7969",
+        "H8141",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "y estos fueron los hijos que le nacieron allí: Samúa, Sobab, Natán y Salomón. La madre de ellos fue Betsabé, hija de Ammiel.",
+      "strong": [
+        "H1571",
+        "H0428",
+        "H1961",
+        "H0582",
+        "H1121",
+        "H1323",
+        "H0413",
+        "H3205",
+        "H8033",
+        "H8051",
+        "H7727",
+        "H1571",
+        "H8010",
+        "H1931",
+        "H0517",
+        "H4480",
+        "H1992",
+        "H1961",
+        "H1323",
+        "H4480",
+        "H5988"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Además estaban también Ibhar, Elisúa, Elifelet,",
+      "strong": [
+        "H5921",
+        "H1961",
+        "H1571",
+        "H2984",
+        "H0474"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Noga, Nefeg, Jafía,",
+      "strong": [
+        "H5052"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Elisama, Eliada y Elifelet, un total de nueve.",
+      "strong": [
+        "H0476",
+        "H0450",
+        "H1571",
+        "H0259",
+        "H4480",
+        "H8672"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Todos estos fueron los hijos de David, aparte de sus hijos de sus concubinas. Su hermana era Tamar.",
+      "strong": [
+        "H3605",
+        "H3605",
+        "H1732",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1732",
+        "H4513",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1121",
+        "H1931",
+        "H6370",
+        "H1931",
+        "H0269",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "El linaje masculino desde Salomón fue: Roboam, Abías, Asa,",
+      "strong": [
+        "H1121",
+        "H2233",
+        "H4480",
+        "H8010",
+        "H1961",
+        "H7346",
+        "H0029",
+        "H0609"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Joram, Ocozías, Joás,",
+      "strong": [
+        "H3141",
+        "H3101"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Amasías, Azarías, Jotam,",
+      "strong": [
+        "H0558",
+        "H5838"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Acaz, Ezequías, Manasés,",
+      "strong": [
+        "H4519"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Amón, Josías.",
+      "strong": [
+        "H0526",
+        "H2977"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los hijos de Josías: Johanán (primogénito), Joaquín (el segundo), Sedequías (el tercero), y Salum (el cuarto).",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2977",
+        "H3110",
+        "H1060",
+        "H1121",
+        "H8145",
+        "H1121",
+        "H7992",
+        "H1571",
+        "H1121",
+        "H7243"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los hijos de Joacim: Joaquín y Sedecías.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3079",
+        "H1571",
+        "H6667"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Los hijos de Joaquín que fueron llevados al cautiverio: Sealtiel,",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1961",
+        "H0413",
+        "H1546"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Malquiram, Pedaías, Senaza, Jecamías, Hosama y Nedabías.",
+      "strong": [
+        "H1953",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Los hijos de Pedaías: Zorobabel y Simei. Los hijos de Zorobabel: Mesulam y Hananías. Su hermana era Selomit.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2216",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2216",
+        "H1571",
+        "H2608",
+        "H1931",
+        "H0269",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Otros cinco hijos fueron: Hasuba, Ohel, Berequías, Hasadías y Jushab-Hesed.",
+      "strong": [
+        "H0312",
+        "H2568",
+        "H1121",
+        "H1961",
+        "H2807",
+        "H0169",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Los hijos de Hananías: Pelatías y Jesaías, y Los hijos de Refaías, Los hijos de Arnán, Los hijos de Abdías, y Los hijos de Secanías.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H2608",
+        "H6410",
+        "H1571",
+        "H3470",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5662",
+        "H1571",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los hijos de Secanías: Semaías y sus hijos: Hatús, Igal, Barías, Nearías y Safat. En total eran seis.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H8098",
+        "H1571",
+        "H1931",
+        "H1121",
+        "H3008",
+        "H1282",
+        "H5294",
+        "H1571",
+        "H5921",
+        "H1961",
+        "H8337"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Los hijos de Nearías: Elioenai, Ezequías y Azricam. Eran tres en total.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H5294",
+        "H0454",
+        "H1571",
+        "H5840",
+        "H1961",
+        "H7969",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los hijos de Elioenai: Hodavías, Eliasib, Pelaías, Acub, Johanán, Dalaías, y Anani. En total eran un total de siete.",
+      "strong": [
+        "H1121",
+        "H1121",
+        "H1121",
+        "H0454",
+        "H0475",
+        "H6411",
+        "H3110",
+        "H1806",
+        "H1571",
+        "H5921",
+        "H1961",
+        "H0259",
+        "H1121",
+        "H7651"
+      ]
+    }
+  ]
+}

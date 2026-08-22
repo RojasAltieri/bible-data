@@ -1,1 +1,707 @@
-{"version":"spa-vbl","book":"proverbs","chapter":24,"data":[{"verse":"1","text":"No tengas envidia de los malvados, ni desees su compañía,"},{"verse":"2","text":"porque ellos conspiran planes crueles y discuten entre ellos para causar tribulación."},{"verse":"3","text":"Una casa se construye con sabiduría. Su fundamento seguro es la inteligencia."},{"verse":"4","text":"Sus habitaciones están llenas de conocimiento, con todo tipo de hermosos y valiosos objetos."},{"verse":"5","text":"Si tienes sabiduría, serás fuerte. Si tienes inteligencia, tu poder aumentará."},{"verse":"6","text":"Porque con la guía correcta, podrás ir a la guerra, y serás victorioso si tienes muchos buenos consejeros."},{"verse":"7","text":"La sabiduría examina las mentes de los tontos. Ellos no tienen nada que aportar en las discusiones sobre los asuntos importantes.24:7.Literalmente, “él no abre su boca en la puerta”."},{"verse":"8","text":"Todo aquel que hace planes para hacer el mal, será considerado un problemático."},{"verse":"9","text":"Los planes que hacen los tontos son de pecado. Todos aborrecen a los que se burlan de otros."},{"verse":"10","text":"Si te rindes en el momento de la prueba, mostraras cuan débil eres."},{"verse":"11","text":"Rescata a los que son expulsados para ser ejecutados. Salva a los que desfallecen de camino a su muerte."},{"verse":"12","text":"Si dices: “No sabíamos nada sobre esto”, ¿no crees que el Dios que juzga las motivaciones no se dará cuenta de lo que ocurre realmente? El que te mira desde arriba lo sabe todo, y le pagará a todos según sus actos."},{"verse":"13","text":"Hijo mío, comer miel te conviene; el panal de miel tiene un dulce sabor."},{"verse":"14","text":"Del mismo modo, debes saber que te conviene la sabiduría; y que sin la encuentras habrá un futuro para ti que no será frustrado."},{"verse":"15","text":"No seas como el criminal que espera para entrar por sorpresa en las casas de las buenas personas. No ataques el lugar donde viven."},{"verse":"16","text":"Los que hacen el bien podrán caer siete veces, y aun así se levantaran; pero el desastre vendrá para derribar a los malvados."},{"verse":"17","text":"No celebres cuando tu enemigo caiga. No te alegues cuando se tropiece,"},{"verse":"18","text":"porque puede que cuando el Señor lo note, se desagrade de ti y no lo castigue como lo había pensado."},{"verse":"19","text":"No te enojes por causa de los malvados, ni sientas celos por los que hacen el mal,"},{"verse":"20","text":"porque los malvados no tienen futuro. La lámpara de los malvados se apagará."},{"verse":"21","text":"Hijo mío, honra al Señor y al rey, y no te juntes con los rebeldes,"},{"verse":"22","text":"porque el desastre vendrá sobre ellos repentinamente. ¿Quién podrá saber cómo los castigarán el Señor y el rey?24:22.“El Señor y el rey”: Literalmente “ambos”, refiriéndose al versículo previo."},{"verse":"23","text":"Estos son más dichos del sabio: Mostrar preferencias cuando emites un juicio no es bueno."},{"verse":"24","text":"Los que le dicen al culpable: “Eres inocente”, serán malditos por el pueblo y odiados por la nación,"},{"verse":"25","text":"pero los que condenan al culpable serán estimados, y recibirán rica bendición."},{"verse":"26","text":"Una respuesta honesta es como un beso en los labios."},{"verse":"27","text":"Haz primero el trabajo que necesitas hacer afuera y prepárate para sembrar tus campos. Solo después de eso, comienza a construir tu casa."},{"verse":"28","text":"No seas testigo contra tu prójimo sin tener una buena razón, ni digas mentiras."},{"verse":"29","text":"No digas en tu pensamiento: “Voy a hacerle lo mismo que me hizo! ¡Haré que me pague por lo que ha hecho!”"},{"verse":"30","text":"Mientras caminaba, pasé por el campo del hombre perezoso, y por el viñedo de un insensato."},{"verse":"31","text":"Y estaba lleno de monte y espinas, el suelo estaba cubierto de hierba y la piedra angular se había caído."},{"verse":"32","text":"Y mientras veía, pensé y aprendí una lección:"},{"verse":"33","text":"Puedes decir: 24:33.“Puedes decir”: Implícito. “Solo dormiré un poco más, me recostaré apenas un rato, y cruzaré mis brazos para descansar un poco más”,"},{"verse":"34","text":"pero la pobreza te atacará como un ladrón, y la miseria como un guerrero armado.24:34.Los versículos 24:33 y 24:34 son los mismos que 6:10 y 6:11."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 24,
+  "data": [
+    {
+      "verse": "1",
+      "text": "No tengas envidia de los malvados, ni desees su compañía,",
+      "strong": [
+        "H1961",
+        "H5414",
+        "H7065",
+        "H7451",
+        "H1961",
+        "H3808",
+        "H0183",
+        "H1931",
+        "H6951"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "porque ellos conspiran planes crueles y discuten entre ellos para causar tribulación.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H0394",
+        "H3588",
+        "H3588",
+        "H1992",
+        "H3588",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Una casa se construye con sabiduría. Su fundamento seguro es la inteligencia.",
+      "strong": [
+        "H0259",
+        "H1004",
+        "H3045",
+        "H5973",
+        "H2451",
+        "H1931",
+        "H3247",
+        "H0983",
+        "H1961",
+        "H2451",
+        "H8394"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Sus habitaciones están llenas de conocimiento, con todo tipo de hermosos y valiosos objetos.",
+      "strong": [
+        "H1931",
+        "H4186",
+        "H1961",
+        "H4390",
+        "H4480",
+        "H1847",
+        "H5973",
+        "H3605",
+        "H4480",
+        "H4998",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Si tienes sabiduría, serás fuerte. Si tienes inteligencia, tu poder aumentará.",
+      "strong": [
+        "H0518",
+        "H5750",
+        "H1847",
+        "H1961",
+        "H5797",
+        "H0518",
+        "H5750",
+        "H0998",
+        "H0859",
+        "H3581",
+        "H3254"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Porque con la guía correcta, podrás ir a la guerra, y serás victorioso si tienes muchos buenos consejeros.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5090",
+        "H3201",
+        "H3212",
+        "H3588",
+        "H3588",
+        "H4421",
+        "H3588",
+        "H1961",
+        "H3588",
+        "H5750",
+        "H7230",
+        "H2896",
+        "H3289"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "La sabiduría examina las mentes de los tontos. Ellos no tienen nada que aportar en las discusiones sobre los asuntos importantes.",
+      "strong": [
+        "H1931",
+        "H2454",
+        "H6884",
+        "H1992",
+        "H4480",
+        "H0582",
+        "H1992",
+        "H3808",
+        "H1992",
+        "H3808",
+        "H3808",
+        "H5921",
+        "H1992",
+        "H5921",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Todo aquel que hace planes para hacer el mal, será considerado un problemático.",
+      "strong": [
+        "H3605",
+        "H1931",
+        "H0834",
+        "H6213",
+        "H5704",
+        "H6213",
+        "H1931",
+        "H7489",
+        "H1961",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Los planes que hacen los tontos son de pecado. Todos aborrecen a los que se burlan de otros.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H6213",
+        "H0582",
+        "H1961",
+        "H4480",
+        "H2403",
+        "H3605",
+        "H8130",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H3045",
+        "H4480",
+        "H0312"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Si te rindes en el momento de la prueba, mostraras cuan débil eres.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H5921",
+        "H1931",
+        "H7281",
+        "H4480",
+        "H1931",
+        "H0974",
+        "H4100",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Rescata a los que son expulsados para ser ejecutados. Salva a los que desfallecen de camino a su muerte.",
+      "strong": [
+        "H0413",
+        "H0582",
+        "H0834",
+        "H1961",
+        "H5704",
+        "H5315",
+        "H3467",
+        "H0413",
+        "H0582",
+        "H0834",
+        "H3615",
+        "H4480",
+        "H1870",
+        "H0413",
+        "H1931",
+        "H4194"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Si dices: “No sabíamos nada sobre esto”, ¿no crees que el Dios que juzga las motivaciones no se dará cuenta de lo que ocurre realmente? El que te mira desde arriba lo sabe todo, y le pagará a todos según sus actos.",
+      "strong": [
+        "H3588",
+        "H0559",
+        "H3808",
+        "H3808",
+        "H5921",
+        "H2088",
+        "H3808",
+        "H3588",
+        "H1931",
+        "H0430",
+        "H3588",
+        "H8199",
+        "H1992",
+        "H3808",
+        "H3045",
+        "H7725",
+        "H6485",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H3588",
+        "H2005",
+        "H4480",
+        "H4605",
+        "H1931",
+        "H3045",
+        "H3605",
+        "H3588",
+        "H1931",
+        "H7999",
+        "H3588",
+        "H3605",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Hijo mío, comer miel te conviene; el panal de miel tiene un dulce sabor.",
+      "strong": [
+        "H1121",
+        "H5921",
+        "H0398",
+        "H1706",
+        "H5921",
+        "H5000",
+        "H5921",
+        "H5317",
+        "H5921",
+        "H1706",
+        "H3426",
+        "H0259",
+        "H4966",
+        "H2940"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Del mismo modo, debes saber que te conviene la sabiduría; y que sin la encuentras habrá un futuro para ti que no será frustrado.",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H5352",
+        "H3045",
+        "H3808",
+        "H5315",
+        "H5000",
+        "H2451",
+        "H2451",
+        "H1571",
+        "H3808",
+        "H3808",
+        "H2451",
+        "H3426",
+        "H0259",
+        "H5704",
+        "H0859",
+        "H3808",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "No seas como el criminal que espera para entrar por sorpresa en las casas de las buenas personas. No ataques el lugar donde viven.",
+      "strong": [
+        "H7563",
+        "H1961",
+        "H0349",
+        "H1931",
+        "H0834",
+        "H3176",
+        "H5704",
+        "H0935",
+        "H5921",
+        "H5921",
+        "H1992",
+        "H1004",
+        "H6662",
+        "H1992",
+        "H2896",
+        "H5315",
+        "H7563",
+        "H1931",
+        "H4725",
+        "H0834",
+        "H7563"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Los que hacen el bien podrán caer siete veces, y aun así se levantaran; pero el desastre vendrá para derribar a los malvados.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H6213",
+        "H3588",
+        "H3588",
+        "H3201",
+        "H3782",
+        "H7651",
+        "H7651",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3045",
+        "H5927",
+        "H3588",
+        "H3588",
+        "H0611",
+        "H0935",
+        "H3588",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "No celebres cuando tu enemigo caiga. No te alegues cuando se tropiece,",
+      "strong": [
+        "H3808",
+        "H3588",
+        "H0859",
+        "H0341",
+        "H5307",
+        "H3808",
+        "H0859",
+        "H3588",
+        "H3045",
+        "H5062"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "porque puede que cuando el Señor lo note, se desagrade de ti y no lo castigue como lo había pensado.",
+      "strong": [
+        "H5921",
+        "H3201",
+        "H5921",
+        "H3588",
+        "H5921",
+        "H3068",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H6435",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H3335"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "No te enojes por causa de los malvados, ni sientas celos por los que hacen el mal,",
+      "strong": [
+        "H7563",
+        "H7489",
+        "H5921",
+        "H1697",
+        "H4480",
+        "H0582",
+        "H3808",
+        "H7065",
+        "H5921",
+        "H0582",
+        "H0834",
+        "H6213",
+        "H1931",
+        "H7489"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "porque los malvados no tienen futuro. La lámpara de los malvados se apagará.",
+      "strong": [
+        "H3588",
+        "H1961",
+        "H3808",
+        "H1961",
+        "H3588",
+        "H5216",
+        "H3588",
+        "H1961",
+        "H1961",
+        "H3518"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Hijo mío, honra al Señor y al rey, y no te juntes con los rebeldes,",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H3513",
+        "H4428",
+        "H3068",
+        "H1571",
+        "H4428",
+        "H4428",
+        "H1571",
+        "H3808",
+        "H5973",
+        "H5973",
+        "H1121",
+        "H4784"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "porque el desastre vendrá sobre ellos repentinamente. ¿Quién podrá saber cómo los castigarán el Señor y el rey?",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H0611",
+        "H0935",
+        "H5921",
+        "H1992",
+        "H6597",
+        "H4310",
+        "H3201",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H0113",
+        "H3588",
+        "H3588",
+        "H4428"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Estos son más dichos del sabio: Mostrar preferencias cuando emites un juicio no es bueno.",
+      "strong": [
+        "H1571",
+        "H1961",
+        "H1571",
+        "H0561",
+        "H4480",
+        "H2450",
+        "H2324",
+        "H1571",
+        "H0259",
+        "H4941",
+        "H1077",
+        "H1961",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los que le dicen al culpable: “Eres inocente”, serán malditos por el pueblo y odiados por la nación,",
+      "strong": [
+        "H0582",
+        "H5971",
+        "H0413",
+        "H0559",
+        "H0413",
+        "H0859",
+        "H5355",
+        "H1961",
+        "H0779",
+        "H5921",
+        "H1931",
+        "H5971",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "pero los que condenan al culpable serán estimados, y recibirán rica bendición.",
+      "strong": [
+        "H3588",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H7227",
+        "H1293"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Una respuesta honesta es como un beso en los labios.",
+      "strong": [
+        "H0259",
+        "H1697",
+        "H1697",
+        "H0349",
+        "H0259",
+        "H5401",
+        "H5921",
+        "H0582",
+        "H8193"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Haz primero el trabajo que necesitas hacer afuera y prepárate para sembrar tus campos. Solo después de eso, comienza a construir tu casa.",
+      "strong": [
+        "H6213",
+        "H7223",
+        "H1931",
+        "H5999",
+        "H0834",
+        "H6213",
+        "H2351",
+        "H1571",
+        "H5704",
+        "H0859",
+        "H7704",
+        "H0910",
+        "H0310",
+        "H4480",
+        "H3651",
+        "H2490",
+        "H0413",
+        "H0859",
+        "H1004"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "No seas testigo contra tu prójimo sin tener una buena razón, ni digas mentiras.",
+      "strong": [
+        "H1961",
+        "H1961",
+        "H5707",
+        "H1961",
+        "H0859",
+        "H7453",
+        "H3808",
+        "H1961",
+        "H0259",
+        "H2896",
+        "H7218",
+        "H3808",
+        "H0559",
+        "H3576"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "No digas en tu pensamiento: “Voy a hacerle lo mismo que me hizo! ¡Haré que me pague por lo que ha hecho!”",
+      "strong": [
+        "H6213",
+        "H0559",
+        "H5921",
+        "H6213",
+        "H3820",
+        "H1980",
+        "H0413",
+        "H6213",
+        "H6213",
+        "H1931",
+        "H0834",
+        "H0413",
+        "H6213",
+        "H6213",
+        "H0834",
+        "H0413",
+        "H7725",
+        "H3651",
+        "H6213",
+        "H0834",
+        "H3541",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Mientras caminaba, pasé por el campo del hombre perezoso, y por el viñedo de un insensato.",
+      "strong": [
+        "H5704",
+        "H3212",
+        "H5674",
+        "H5921",
+        "H5921",
+        "H7704",
+        "H5921",
+        "H0376",
+        "H6102",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0259",
+        "H0191"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Y estaba lleno de monte y espinas, el suelo estaba cubierto de hierba y la piedra angular se había caído.",
+      "strong": [
+        "H1571",
+        "H2009",
+        "H4390",
+        "H6440",
+        "H2022",
+        "H1571",
+        "H6975",
+        "H3605",
+        "H2009",
+        "H5968",
+        "H6440",
+        "H6212",
+        "H1571",
+        "H3605",
+        "H0068",
+        "H6438",
+        "H3045",
+        "H1961",
+        "H5307"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Y mientras veía, pensé y aprendí una lección:",
+      "strong": [
+        "H1571",
+        "H5704",
+        "H7200",
+        "H2161",
+        "H1571",
+        "H3925",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "Puedes decir: “Solo dormiré un poco más, me recostaré apenas un rato, y cruzaré mis brazos para descansar un poco más”,",
+      "strong": [
+        "H3546",
+        "H0559",
+        "H0910",
+        "H7901",
+        "H0259",
+        "H4592",
+        "H5750",
+        "H0413",
+        "H0259",
+        "H1571",
+        "H0589",
+        "H7070",
+        "H5704",
+        "H0259",
+        "H4592",
+        "H5750"
+      ]
+    },
+    {
+      "verse": "34",
+      "text": "pero la pobreza te atacará como un ladrón, y la miseria como un guerrero armado.",
+      "strong": [
+        "H3588",
+        "H1931",
+        "H7389",
+        "H0859",
+        "H0349",
+        "H0259",
+        "H1590",
+        "H1571",
+        "H1931",
+        "H0349",
+        "H0259",
+        "H1869"
+      ]
+    }
+  ]
+}

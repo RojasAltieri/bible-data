@@ -1,1 +1,574 @@
-{"version":"spa-vbl","book":"proverbs","chapter":19,"data":[{"verse":"1","text":"Mejor es ser pobre y honesto, que un tonto y mentiroso."},{"verse":"2","text":"No es bueno ser de los que no piensan. Si actúas con afán, cometerás errores."},{"verse":"3","text":"La gente destruye su vida por causa de su propia estupidez, y se enojan con el Señor."},{"verse":"4","text":"Si eres rico, tendrás muchos amigos; pero si eres pobre, perderás todos los amigos que tenías."},{"verse":"5","text":"El testigo falso será castigado; los mentirosos no podrán escaparse con sus mentiras."},{"verse":"6","text":"Muchos piden favores a personas importantes, y todos son amigos del que es generoso."},{"verse":"7","text":"Si los familiares del pobre no lo pueden soportar, ¡cuanto menos lo evitarán sus amigos! El tratará de hablarles, pero ellos no lo escucharán.19:7.El significado de la última línea no está claro en el idioma hebreo."},{"verse":"8","text":"Si te vuelves sabio, tendrás amor propio; si aprendes a tener buen juicio, serás exitoso."},{"verse":"9","text":"El testigo falso será castigado, y los mentirosos perecerán."},{"verse":"10","text":"No es correcto que los tontos vivan en medio de lujos, e incluso es peor que un esclavo gobierne por encima de los líderes."},{"verse":"11","text":"Si tienes inteligencia, serás lento para enojarte. Serás respetado al perdonar ofensas."},{"verse":"12","text":"Cuando un rey se enoja, se escucha como un león rugiente. Pero su bondad es tan suave como el rocío sobre la hierba."},{"verse":"13","text":"Un hijo tonto trae miseria a su padre, y una esposa conflictiva es como una gotera que nunca se seca."},{"verse":"14","text":"De tu padre heredarás una casa y riquezas; pero una esposa prudente es un regalo de Dios."},{"verse":"15","text":"Los perezosos se quedan dormidos con frecuencia; pero su holgazanería indica que están hambrientos."},{"verse":"16","text":"Guarda los mandamientos y vivirás. Recházalos y morirás."},{"verse":"17","text":"Si eres bondadoso con el pobre, estarás prestándole al Señor, y él te pagará con creces por lo que has hecho."},{"verse":"18","text":"Disciplina a tu hijo cuando aún hay tiempo, pero no lo mates.19:18.“Pero no lo mates”: o “y no lo dejes destruirse a sí mismo”."},{"verse":"19","text":"Los que se enojan con facilidad tienen que pagar el precio por ello. Si les ayudas, tendrás que hacerlo de nuevo.19:19.El significado de esta línea en hebreo no está claro."},{"verse":"20","text":"Escucha el consejo y acepta la instrucción, para que con el tiempo te vuelvas sabio."},{"verse":"21","text":"Los seres humanos hacen planes en sus mentes, pero la decisión final es del Señor."},{"verse":"22","text":"El deseo más profundo de todas las personas es el amor sincero. Mejor es ser pobre que un mentiroso."},{"verse":"23","text":"Honrar al Señor es vida, y podrás descansar confiado, libre de todo mal."},{"verse":"24","text":"Los perezosos llevan su mano al plato, y ni siquiera la levantan para poner la comida en su boca."},{"verse":"25","text":"Si castigas al burlador, puede que estés instruyendo a un inmaduro. Corrige al sabio, y será más sabio."},{"verse":"26","text":"Un hijo que abusa de su padre y ahuyenta a su madre, acarrea vergüenza y desgracia."},{"verse":"27","text":"Hijo mío, cuando dejes de escuchar mi instrucción pronto dejarás de seguir la sabiduría."},{"verse":"28","text":"El testigo deshonesto se burla de la justicia, y el malvado se sacia de maldad."},{"verse":"29","text":"El castigo está preparado para los burladores, y el azote para las espaldas de los tontos."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 19,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Mejor es ser pobre y honesto, que un tonto y mentiroso.",
+      "strong": [
+        "H2896",
+        "H1931",
+        "H5315",
+        "H7326",
+        "H1571",
+        "H1931",
+        "H0259",
+        "H1571",
+        "H8267"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "No es bueno ser de los que no piensan. Si actúas con afán, cometerás errores.",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H2896",
+        "H5315",
+        "H4480",
+        "H0582",
+        "H3808",
+        "H3808",
+        "H1897",
+        "H1571",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "La gente destruye su vida por causa de su propia estupidez, y se enojan con el Señor.",
+      "strong": [
+        "H5921",
+        "H1471",
+        "H2717",
+        "H1931",
+        "H5315",
+        "H5921",
+        "H1697",
+        "H5921",
+        "H1931",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Si eres rico, tendrás muchos amigos; pero si eres pobre, perderás todos los amigos que tenías.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H1419",
+        "H1961",
+        "H7227",
+        "H7453",
+        "H3588",
+        "H0518",
+        "H0859",
+        "H1800",
+        "H3605",
+        "H0582",
+        "H7453",
+        "H1952",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "El testigo falso será castigado; los mentirosos no podrán escaparse con sus mentiras.",
+      "strong": [
+        "H1931",
+        "H5707",
+        "H8267",
+        "H3808",
+        "H0582",
+        "H8267",
+        "H3808",
+        "H3201",
+        "H4422",
+        "H5973",
+        "H1931",
+        "H3577"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Muchos piden favores a personas importantes, y todos son amigos del que es generoso.",
+      "strong": [
+        "H7227",
+        "H6440",
+        "H5315",
+        "H1571",
+        "H3605",
+        "H1961",
+        "H7453",
+        "H4480",
+        "H3605",
+        "H1961",
+        "H7771"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Si los familiares del pobre no lo pueden soportar, ¡cuanto menos lo evitarán sus amigos! El tratará de hablarles, pero ellos no lo escucharán.",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H5650",
+        "H4480",
+        "H7326",
+        "H3808",
+        "H3808",
+        "H3201",
+        "H3588",
+        "H3588",
+        "H3808",
+        "H1992",
+        "H7453",
+        "H3588",
+        "H4480",
+        "H3588",
+        "H1992",
+        "H3808",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Si te vuelves sabio, tendrás amor propio; si aprendes a tener buen juicio, serás exitoso.",
+      "strong": [
+        "H5315",
+        "H5315",
+        "H7725",
+        "H2450",
+        "H1961",
+        "H0160",
+        "H5315",
+        "H0413",
+        "H1961",
+        "H2896",
+        "H4941",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "El testigo falso será castigado, y los mentirosos perecerán.",
+      "strong": [
+        "H1931",
+        "H5707",
+        "H8267",
+        "H3808",
+        "H1571",
+        "H0582",
+        "H8267",
+        "H0006"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "No es correcto que los tontos vivan en medio de lujos, e incluso es peor que un esclavo gobierne por encima de los líderes.",
+      "strong": [
+        "H3808",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H8432",
+        "H3588",
+        "H0834",
+        "H3588",
+        "H7489",
+        "H3588",
+        "H0259",
+        "H3588",
+        "H4605",
+        "H3588",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Si tienes inteligencia, serás lento para enojarte. Serás respetado al perdonar ofensas.",
+      "strong": [
+        "H5921",
+        "H5750",
+        "H0998",
+        "H1961",
+        "H0750",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5545",
+        "H2399"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Cuando un rey se enoja, se escucha como un león rugiente. Pero su bondad es tan suave como el rocío sobre la hierba.",
+      "strong": [
+        "H3588",
+        "H0259",
+        "H4428",
+        "H5921",
+        "H5921",
+        "H0238",
+        "H5921",
+        "H0259",
+        "H0738",
+        "H5098",
+        "H3588",
+        "H1931",
+        "H2898",
+        "H1961",
+        "H3966",
+        "H5207",
+        "H5921",
+        "H5921",
+        "H2919",
+        "H5921",
+        "H5921",
+        "H6212"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Un hijo tonto trae miseria a su padre, y una esposa conflictiva es como una gotera que nunca se seca.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H0935",
+        "H0413",
+        "H1931",
+        "H0001",
+        "H1571",
+        "H0259",
+        "H3618",
+        "H1961",
+        "H0349",
+        "H0259",
+        "H1812",
+        "H1121",
+        "H3808",
+        "H3045",
+        "H6723"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "De tu padre heredarás una casa y riquezas; pero una esposa prudente es un regalo de Dios.",
+      "strong": [
+        "H4480",
+        "H0859",
+        "H0001",
+        "H5157",
+        "H0259",
+        "H1004",
+        "H1571",
+        "H1952",
+        "H3588",
+        "H0259",
+        "H3618",
+        "H7919",
+        "H1961",
+        "H0259",
+        "H4480",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Los perezosos se quedan dormidos con frecuencia; pero su holgazanería indica que están hambrientos.",
+      "strong": [
+        "H0582",
+        "H3045",
+        "H5973",
+        "H3588",
+        "H1931",
+        "H0834",
+        "H1961",
+        "H7457"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Guarda los mandamientos y vivirás. Recházalos y morirás.",
+      "strong": [
+        "H8104",
+        "H0582",
+        "H4687",
+        "H1571",
+        "H2421",
+        "H1571",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Si eres bondadoso con el pobre, estarás prestándole al Señor, y él te pagará con creces por lo que has hecho.",
+      "strong": [
+        "H0518",
+        "H0859",
+        "H5973",
+        "H1931",
+        "H1800",
+        "H1961",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H1931",
+        "H0859",
+        "H7999",
+        "H5973",
+        "H5921",
+        "H1931",
+        "H0834",
+        "H4191",
+        "H6213"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Disciplina a tu hijo cuando aún hay tiempo, pero no lo mates.",
+      "strong": [
+        "H3588",
+        "H3426",
+        "H1121",
+        "H3588",
+        "H3588",
+        "H3426",
+        "H6256",
+        "H3588",
+        "H3588",
+        "H1931",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Los que se enojan con facilidad tienen que pagar el precio por ello. Si les ayudas, tendrás que hacerlo de nuevo.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H1992",
+        "H3588",
+        "H7999",
+        "H3588",
+        "H3701",
+        "H3588",
+        "H1931",
+        "H3588",
+        "H0413",
+        "H1961",
+        "H3588",
+        "H3201",
+        "H3588",
+        "H2319"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Escucha el consejo y acepta la instrucción, para que con el tiempo te vuelvas sabio.",
+      "strong": [
+        "H8085",
+        "H1931",
+        "H6098",
+        "H1571",
+        "H5375",
+        "H1931",
+        "H4616",
+        "H4616",
+        "H5973",
+        "H1931",
+        "H6256",
+        "H0859",
+        "H7725",
+        "H2449"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Los seres humanos hacen planes en sus mentes, pero la decisión final es del Señor.",
+      "strong": [
+        "H1931",
+        "H5315",
+        "H1397",
+        "H6213",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H4480",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "El deseo más profundo de todas las personas es el amor sincero. Mejor es ser pobre que un mentiroso.",
+      "strong": [
+        "H1931",
+        "H8378",
+        "H5750",
+        "H8482",
+        "H4480",
+        "H3605",
+        "H1992",
+        "H5315",
+        "H1961",
+        "H1931",
+        "H0160",
+        "H2896",
+        "H1961",
+        "H5315",
+        "H7326",
+        "H0834",
+        "H0259",
+        "H3577"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Honrar al Señor es vida, y podrás descansar confiado, libre de todo mal.",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H1961",
+        "H2416",
+        "H1571",
+        "H3201",
+        "H0982",
+        "H2670",
+        "H7451",
+        "H3605",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Los perezosos llevan su mano al plato, y ni siquiera la levantan para poner la comida en su boca.",
+      "strong": [
+        "H0582",
+        "H3212",
+        "H1931",
+        "H3027",
+        "H0413",
+        "H7086",
+        "H1571",
+        "H3808",
+        "H1571",
+        "H5375",
+        "H5704",
+        "H6186",
+        "H1571",
+        "H6720",
+        "H5921",
+        "H1931",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Si castigas al burlador, puede que estés instruyendo a un inmaduro. Corrige al sabio, y será más sabio.",
+      "strong": [
+        "H0518",
+        "H0413",
+        "H3201",
+        "H0834",
+        "H1961",
+        "H0413",
+        "H0259",
+        "H3198",
+        "H0413",
+        "H2450",
+        "H1571",
+        "H1961",
+        "H5750",
+        "H2450"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Un hijo que abusa de su padre y ahuyenta a su madre, acarrea vergüenza y desgracia.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1931",
+        "H0001",
+        "H1571",
+        "H2342",
+        "H0413",
+        "H1931",
+        "H0517",
+        "H5414",
+        "H0955",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Hijo mío, cuando dejes de escuchar mi instrucción pronto dejarás de seguir la sabiduría.",
+      "strong": [
+        "H1121",
+        "H0589",
+        "H3588",
+        "H5146",
+        "H1121",
+        "H8085",
+        "H0589",
+        "H4120",
+        "H5800",
+        "H1121",
+        "H0935",
+        "H1931",
+        "H1847"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "El testigo deshonesto se burla de la justicia, y el malvado se sacia de maldad.",
+      "strong": [
+        "H1931",
+        "H5707",
+        "H2154",
+        "H3045",
+        "H4480",
+        "H1931",
+        "H4941",
+        "H1571",
+        "H1931",
+        "H7451",
+        "H3045",
+        "H4480",
+        "H5771"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "El castigo está preparado para los burladores, y el azote para las espaldas de los tontos.",
+      "strong": [
+        "H1931",
+        "H7110",
+        "H2063",
+        "H5704",
+        "H0582",
+        "H3944",
+        "H1571",
+        "H1931",
+        "H7752",
+        "H5704",
+        "H1992",
+        "H1460",
+        "H4480",
+        "H0582"
+      ]
+    }
+  ]
+}

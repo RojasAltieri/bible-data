@@ -1,1 +1,208 @@
-{"version":"spa-vbl","book":"psalms","chapter":99,"data":[{"verse":"1","text":"El Señor reina; ¡Tiemblen todas las naciones! Porque él se sienta en su trono sobre los querubines; ¡Qué la tierra tiemble!"},{"verse":"2","text":"El Señor gobierna con poder sobre Sión, él es soberano sobre todas las naciones."},{"verse":"3","text":"Alaben su grandeza, y respétenlo por quien es, porque él es santo,"},{"verse":"4","text":"y tiene poder real. Tú amas la justicias; tomas decisiones imparciales. Te has asegurado que todo esté hecho con rectitud y de acuerdo a lo que está bien."},{"verse":"5","text":"¡Brinden respeto al Señor, nuestro Dios! ¡Póstrense a sus pies, porque él es santo!"},{"verse":"6","text":"Moisés y Aaron estuvieron entre sus sacerdotes; Samuel también le rogó. Ellos clamaron al Señor por ayuda, y él les respondió."},{"verse":"7","text":"Les habló desde el pilar de nubes, y ellos guardaron las leyes y los decretos que él les dio."},{"verse":"8","text":"Señor nuestro Dios, tú les respondiste. Fuiste un Dios perdonador con ellos, pero los castigaste cuando hicieron algo mal."},{"verse":"9","text":"Honren al Señor, y alábenlo en su monte santo. ¡Porque el Señor, nuestro Dios, es santo!"}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 99,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El Señor reina; ¡Tiemblen todas las naciones! Porque él se sienta en su trono sobre los querubines; ¡Qué la tierra tiemble!",
+      "strong": [
+        "H3427",
+        "H3068",
+        "H4427",
+        "H7264",
+        "H3605",
+        "H1992",
+        "H1471",
+        "H3588",
+        "H3427",
+        "H5971",
+        "H5921",
+        "H1931",
+        "H3678",
+        "H5921",
+        "H3427",
+        "H3742",
+        "H5971",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "El Señor gobierna con poder sobre Sión, él es soberano sobre todas las naciones.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H3557",
+        "H5921",
+        "H3027",
+        "H5921",
+        "H6726",
+        "H1931",
+        "H1931",
+        "H4605",
+        "H5921",
+        "H3605",
+        "H5921",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Alaben su grandeza, y respétenlo por quien es, porque él es santo,",
+      "strong": [
+        "H3034",
+        "H1931",
+        "H7613",
+        "H1571",
+        "H5921",
+        "H1931",
+        "H1931",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H6918"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "y tiene poder real. Tú amas la justicias; tomas decisiones imparciales. Te has asegurado que todo esté hecho con rectitud y de acuerdo a lo que está bien.",
+      "strong": [
+        "H5797",
+        "H3426",
+        "H3027",
+        "H4428",
+        "H6213",
+        "H0157",
+        "H1931",
+        "H6666",
+        "H0859",
+        "H4191",
+        "H0834",
+        "H3605",
+        "H2088",
+        "H6213",
+        "H5973",
+        "H3559",
+        "H5797",
+        "H4480",
+        "H2374",
+        "H0413",
+        "H6213",
+        "H0834",
+        "H2063",
+        "H2896"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "¡Brinden respeto al Señor, nuestro Dios! ¡Póstrense a sus pies, porque él es santo!",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H0587",
+        "H3068",
+        "H3068",
+        "H1931",
+        "H7272",
+        "H3588",
+        "H1931",
+        "H1931",
+        "H6918"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Moisés y Aaron estuvieron entre sus sacerdotes; Samuel también le rogó. Ellos clamaron al Señor por ayuda, y él les respondió.",
+      "strong": [
+        "H4872",
+        "H1571",
+        "H0175",
+        "H1961",
+        "H0996",
+        "H1931",
+        "H3548",
+        "H8050",
+        "H1571",
+        "H1931",
+        "H1931",
+        "H2199",
+        "H0413",
+        "H3068",
+        "H5921",
+        "H5828",
+        "H1571",
+        "H1931",
+        "H0413",
+        "H6030"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Les habló desde el pilar de nubes, y ellos guardaron las leyes y los decretos que él les dio.",
+      "strong": [
+        "H0413",
+        "H1696",
+        "H4480",
+        "H1931",
+        "H5414",
+        "H6051",
+        "H1571",
+        "H1992",
+        "H8104",
+        "H1992",
+        "H8451",
+        "H1571",
+        "H0582",
+        "H0834",
+        "H1931",
+        "H0413",
+        "H5414"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Señor nuestro Dios, tú les respondiste. Fuiste un Dios perdonador con ellos, pero los castigaste cuando hicieron algo mal.",
+      "strong": [
+        "H3068",
+        "H0587",
+        "H3068",
+        "H0859",
+        "H1992",
+        "H1961",
+        "H0259",
+        "H3068",
+        "H5375",
+        "H5921",
+        "H1992",
+        "H3588",
+        "H1992",
+        "H1961",
+        "H6213",
+        "H3920",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "Honren al Señor, y alábenlo en su monte santo. ¡Porque el Señor, nuestro Dios, es santo!",
+      "strong": [
+        "H0413",
+        "H3068",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H2022",
+        "H6918",
+        "H3588",
+        "H3588",
+        "H3068",
+        "H0587",
+        "H3068",
+        "H3588",
+        "H6918"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,542 @@
-{"version":"spa-vbl","book":"numbers","chapter":34,"data":[{"verse":"1","text":"El Señor le dijo a Moisés,"},{"verse":"2","text":"“Dales esta orden a los israelitas: Cuando entren en el país de Canaán, se les asignarán las posesiones con los siguientes límites:34:2.Otros pasajes que incluyen demarcaciones de límites son: Josué 13:8-33; Josué 14:1—19:51; Ezequiel 47:13-20."},{"verse":"3","text":"“La extensión sur de su país será desde el desierto de Zin a lo largo de la frontera de Edom. Su frontera sur correrá hacia el este desde el final del Mar Muerto,"},{"verse":"4","text":"cruzará al sur del Paso del Escorpión, hasta Zin, y alcanzará su límite sur al sur de Cades-barnea. Luego irá a Hazar-addar y a Azmon."},{"verse":"5","text":"Allí la frontera girará desde Azmon hasta el Wadi de Egipto,34:5.Normalmente se identifica como Wadi El-Arish. No se cree que se refiera al Nilo. terminando en el Mar Mediterráneo."},{"verse":"6","text":"“Su frontera occidental será la costa del Mar Mediterráneo. Este será su límite al oeste."},{"verse":"7","text":"“Tu frontera norte irá desde el Mar Mediterráneo hasta el Monte Hor."},{"verse":"8","text":"Desde el Monte Hor la frontera irá a Lebo-hamat, luego a Zedad,"},{"verse":"9","text":"a Zifrón, terminando en Hazar-enan. Este será su límite al norte."},{"verse":"10","text":"“Su frontera oriental irá directamente de Hazar-enan a Sefan."},{"verse":"11","text":"Luego la frontera bajará de Sefam a Ribla en el lado este de Aín. Pasará a lo largo de las laderas al este del Mar de Galilea."},{"verse":"12","text":"Luego el límite bajará a lo largo del Jordán, terminando en el Mar Muerto. Esta será su tierra con sus fronteras circundantes”."},{"verse":"13","text":"Moisés dio la orden a los israelitas, “Asignen la propiedad de esta tierra por sorteo. El Señor ha ordenado que sea entregada a las nueve tribus y media."},{"verse":"14","text":"Las tribus de Rubén y Gad, junto con la media tribu de Manasés, ya han recibido su asignación."},{"verse":"15","text":"Estas dos tribus y media han recibido su asignación en el lado este del Jordán, frente a Jericó”."},{"verse":"16","text":"El Señor le dijo a Moisés,"},{"verse":"17","text":"“Estos son los nombres de los hombres que se encargarán de asignar la propiedad de la tierra para ustedes: Eleazar el sacerdote y Josué, hijo de Nun."},{"verse":"18","text":"Que un líder de cada tribu ayude en la distribución de la tierra."},{"verse":"19","text":"Estos son sus nombres:"},{"verse":"20","text":"De la tribu de Simeón: Semuel, hijo de Amiud."},{"verse":"21","text":"De la tribu de Benjamín: Elidad, hijo de Quislón."},{"verse":"22","text":"Un líder de la tribu de Dan: Buqui, hijo de Jogli."},{"verse":"23","text":"Un líder de la tribu de Manasés, hijo de José: Haniel, hijo de Efod."},{"verse":"24","text":"Un líder de la tribu de Efraín: Kemuel, hijo de Siftán."},{"verse":"25","text":"Un líder de la tribu de Zabulón: Eli-zafán, hijo de Parnac."},{"verse":"26","text":"Un líder de la tribu de Isacar: Paltiel, hijo de Azán."},{"verse":"27","text":"Un líder de la tribu de Aser: Ahiud, hijo de Selomi."},{"verse":"28","text":"Un líder de la tribu de Neftalí: Pedael, hijo de Amiud”."},{"verse":"29","text":"Estos son los nombres de los que el Señor puso a cargo de la asignación de la propiedad de la tierra en el país de Canaán."}]}
+{
+  "version": "spa-vbl",
+  "book": "numbers",
+  "chapter": 34,
+  "data": [
+    {
+      "verse": "1",
+      "text": "El Señor le dijo a Moisés,",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0413",
+        "H1696",
+        "H3068",
+        "H4872"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“Dales esta orden a los israelitas: Cuando entren en el país de Canaán, se les asignarán las posesiones con los siguientes límites:",
+      "strong": [
+        "H5414",
+        "H2063",
+        "H6680",
+        "H3588",
+        "H1121",
+        "H3588",
+        "H0935",
+        "H3588",
+        "H3588",
+        "H0776",
+        "H3588",
+        "H3667",
+        "H3045",
+        "H6680",
+        "H1992",
+        "H3588",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "“La extensión sur de su país será desde el desierto de Zin a lo largo de la frontera de Edom. Su frontera sur correrá hacia el este desde el final del Mar Muerto,",
+      "strong": [
+        "H5921",
+        "H5921",
+        "H1931",
+        "H0776",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H4057",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H7230",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H0123",
+        "H1931",
+        "H5921",
+        "H5921",
+        "H1961",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3220",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "cruzará al sur del Paso del Escorpión, hasta Zin, y alcanzará su límite sur al sur de Cades-barnea. Luego irá a Hazar-addar y a Azmon.",
+      "strong": [
+        "H0413",
+        "H4480",
+        "H5674",
+        "H4480",
+        "H5704",
+        "H1571",
+        "H4672",
+        "H1931",
+        "H7097",
+        "H0413",
+        "H4480",
+        "H6947",
+        "H3318",
+        "H3318",
+        "H0413",
+        "H1571",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Allí la frontera girará desde Azmon hasta el Wadi de Egipto, terminando en el Mar Mediterráneo.",
+      "strong": [
+        "H8033",
+        "H1366",
+        "H4480",
+        "H5704",
+        "H1931",
+        "H4480",
+        "H4714",
+        "H5921",
+        "H1931",
+        "H3220"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "“Su frontera occidental será la costa del Mar Mediterráneo. Este será su límite al oeste.",
+      "strong": [
+        "H1931",
+        "H3220",
+        "H1961",
+        "H1366",
+        "H4480",
+        "H3220",
+        "H2088",
+        "H1961",
+        "H1931",
+        "H7097",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Tu frontera norte irá desde el Mar Mediterráneo hasta el Monte Hor.",
+      "strong": [
+        "H0859",
+        "H6828",
+        "H2534",
+        "H4480",
+        "H1931",
+        "H3220",
+        "H2088",
+        "H1931",
+        "H2022"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "Desde el Monte Hor la frontera irá a Lebo-hamat, luego a Zedad,",
+      "strong": [
+        "H4480",
+        "H1931",
+        "H2022",
+        "H1366",
+        "H2534",
+        "H0413",
+        "H4994",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "a Zifrón, terminando en Hazar-enan. Este será su límite al norte.",
+      "strong": [
+        "H0413",
+        "H3318",
+        "H2088",
+        "H1961",
+        "H1931",
+        "H7097",
+        "H0413",
+        "H6828"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "“Su frontera oriental irá directamente de Hazar-enan a Sefan.",
+      "strong": [
+        "H1931",
+        "H6924",
+        "H2534",
+        "H4480",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Luego la frontera bajará de Sefam a Ribla en el lado este de Aín. Pasará a lo largo de las laderas al este del Mar de Galilea.",
+      "strong": [
+        "H4994",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H3802",
+        "H2088",
+        "H5921",
+        "H5871",
+        "H5674",
+        "H5921",
+        "H5921",
+        "H7230",
+        "H5921",
+        "H5921",
+        "H5921",
+        "H2088",
+        "H5921",
+        "H3220",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Luego el límite bajará a lo largo del Jordán, terminando en el Mar Muerto. Esta será su tierra con sus fronteras circundantes”.",
+      "strong": [
+        "H4994",
+        "H1931",
+        "H7097",
+        "H0413",
+        "H1931",
+        "H7230",
+        "H4480",
+        "H3383",
+        "H5921",
+        "H1931",
+        "H3220",
+        "H4191",
+        "H2063",
+        "H1961",
+        "H1931",
+        "H0776",
+        "H5973",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Moisés dio la orden a los israelitas, “Asignen la propiedad de esta tierra por sorteo. El Señor ha ordenado que sea entregada a las nueve tribus y media.",
+      "strong": [
+        "H4872",
+        "H5414",
+        "H2063",
+        "H6680",
+        "H3068",
+        "H1121",
+        "H2063",
+        "H1121",
+        "H2063",
+        "H0776",
+        "H5414",
+        "H1121",
+        "H3068",
+        "H3541",
+        "H6680",
+        "H1121",
+        "H1961",
+        "H5414",
+        "H3068",
+        "H1992",
+        "H8672",
+        "H4294",
+        "H1571",
+        "H4074"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Las tribus de Rubén y Gad, junto con la media tribu de Manasés, ya han recibido su asignación.",
+      "strong": [
+        "H1992",
+        "H4294",
+        "H3588",
+        "H7205",
+        "H3588",
+        "H1425",
+        "H5921",
+        "H3588",
+        "H3588",
+        "H4074",
+        "H4294",
+        "H3588",
+        "H4519",
+        "H3528",
+        "H4191",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Estas dos tribus y media han recibido su asignación en el lado este del Jordán, frente a Jericó”.",
+      "strong": [
+        "H0428",
+        "H8147",
+        "H4294",
+        "H1571",
+        "H4074",
+        "H4191",
+        "H1931",
+        "H5921",
+        "H1931",
+        "H5676",
+        "H4217",
+        "H2677",
+        "H3383",
+        "H5048",
+        "H0413",
+        "H3405"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "El Señor le dijo a Moisés,",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0413",
+        "H1696",
+        "H3068",
+        "H4872"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "“Estos son los nombres de los hombres que se encargarán de asignar la propiedad de la tierra para ustedes: Eleazar el sacerdote y Josué, hijo de Nun.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1121",
+        "H8034",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3045",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H0776",
+        "H5704",
+        "H0499",
+        "H1121",
+        "H3548",
+        "H1571",
+        "H3091",
+        "H1121",
+        "H1121",
+        "H5126"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Que un líder de cada tribu ayude en la distribución de la tierra.",
+      "strong": [
+        "H0834",
+        "H0259",
+        "H4480",
+        "H3605",
+        "H4294",
+        "H5921",
+        "H1931",
+        "H4480",
+        "H1931",
+        "H0776"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Estos son sus nombres: “De la tribu de Judá: Caleb, hijo de Jefone.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1931",
+        "H8034",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H3063",
+        "H3612",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "De la tribu de Simeón: Semuel, hijo de Amiud.",
+      "strong": [
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H8095",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "De la tribu de Benjamín: Elidad, hijo de Quislón.",
+      "strong": [
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H1144",
+        "H0449",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Un líder de la tribu de Dan: Buqui, hijo de Jogli.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H1835",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Un líder de la tribu de Manasés, hijo de José: Haniel, hijo de Efod.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H4519",
+        "H1121",
+        "H1121",
+        "H3130",
+        "H2592",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Un líder de la tribu de Efraín: Kemuel, hijo de Siftán.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "Un líder de la tribu de Zabulón: Eli-zafán, hijo de Parnac.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H2074",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "Un líder de la tribu de Isacar: Paltiel, hijo de Azán.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H6409",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Un líder de la tribu de Aser: Ahiud, hijo de Selomi.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H0836",
+        "H0282",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Un líder de la tribu de Neftalí: Pedael, hijo de Amiud”.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H1931",
+        "H4294",
+        "H1121",
+        "H6300",
+        "H1121",
+        "H1121"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "Estos son los nombres de los que el Señor puso a cargo de la asignación de la propiedad de la tierra en el país de Canaán.",
+      "strong": [
+        "H0428",
+        "H1961",
+        "H1121",
+        "H8034",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H1121",
+        "H3068",
+        "H7760",
+        "H3068",
+        "H3027",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H1121",
+        "H1931",
+        "H0776",
+        "H5921",
+        "H1121",
+        "H0776",
+        "H1121",
+        "H3667"
+      ]
+    }
+  ]
+}

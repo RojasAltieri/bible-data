@@ -1,1 +1,644 @@
-{"version":"spa-vbl","book":"proverbs","chapter":15,"data":[{"verse":"1","text":"Una respuesta amable evitará la ira, pero las palabras hirientes aumentarán el enojo."},{"verse":"2","text":"Las palabras de los sabios despertarán interés por el conocimiento; pero los necios hablarán sin sentido."},{"verse":"3","text":"El Señor lo ve todo, y observa el bien y el mal."},{"verse":"4","text":"Las palabras amables son Fuente de vida, pero el decir mentiras causa gran daño."},{"verse":"5","text":"Solo un necio aborrece la instrucción de su padre; pero el prudente acepta la corrección."},{"verse":"6","text":"Hay abundante tesoro donde en la vivienda de los justos; pero el salario de los malvados es causa de tribulación."},{"verse":"7","text":"Los sabios comparten su conocimiento, pero los necios no piensan de esta mima manera."},{"verse":"8","text":"El Señor aborrece el sacrificio de los malvados, pero le complacen las oraciones de los justos."},{"verse":"9","text":"El Señor odia el camino del malvado, pero ama a los que actúan con rectitud."},{"verse":"10","text":"Si abandonas el camino del bien, recibirás disciplina. Todo el que aborrece la corrección morirá."},{"verse":"11","text":"Los muertos15:11.El hebreo solo hace referencia al “Seol” y al “Abadón”, como la tumba y el mundo de los muertos. no tienen secretos que el Señor no sepa. ¡Cuanto más conoce nuestros pensamientos!"},{"verse":"12","text":"Los burladores no aprecian la corrección, por lo tanto no van donde los sabios para pedir consejo."},{"verse":"13","text":"Si estas feliz por dentro, tu rostro lucirá alegre; pero si estas triste, lucirás derrotado."},{"verse":"14","text":"Una mente inteligente busca el conocimiento; pero los necios se alimentan de estupidez."},{"verse":"15","text":"La vida de los pobres es dura, pero si permaneces alegre, la vida es una fiesta sin final."},{"verse":"16","text":"Es mejor respetar al Señor y tener poco, que tener abundancia de dinero y además los problemas que le acompañan."},{"verse":"17","text":"Mejor una cena de vegetales donde hay amor, que comer carne15:17.Literalmente “buey engordado”. con odio."},{"verse":"18","text":"Los irascibles provocan los problemas, pero los que tardan en enojarse ayudan a sosegar los conflictos."},{"verse":"19","text":"El camino de los perezosos está lleno de espinas, pero el camino de los justos es una autopista abierta."},{"verse":"20","text":"Un hijo sabio trae alegría a su padre; pero un hombre necio aborrece a su madre."},{"verse":"21","text":"La necedad alegra a los tontos, pero los prudentes hacen lo recto."},{"verse":"22","text":"Los planes se caen sin el buen consejo, pero hay éxito donde hay muchos consejeros."},{"verse":"23","text":"Una buena respuesta trae alegría a sus oyentes. ¡Cuán bueno es oír la palabra acertada en el momento correcto!"},{"verse":"24","text":"El camino de la vida para los justos va hacia arriba, para que pueden evitar caer en la tumba que esta debajo."},{"verse":"25","text":"El Señor derriba la casa de los orgullosos, pero protege los límites de la casa de la viuda."},{"verse":"26","text":"El Señor odia los pensamientos de los malvados, pero honra las palabras de los puros.15:26.Lectura de la Septuaginta."},{"verse":"27","text":"Los que codician las ganancias ilícitas acarrean problemas para sus familias. Pero los que aborrecen el soborno, vivirán."},{"verse":"28","text":"Los justos piensan en la mejor forma de responder a una pregunta, pero los tontos hablan con maldad."},{"verse":"29","text":"El Señor guarda distancia con los malvados, pero escucha las oraciones de los justos."},{"verse":"30","text":"Los ojos brillantes producen alegría, y las buenas noticias mejoran el ánimo."},{"verse":"31","text":"Si atiendes el buen consejo serás uno más entre los sabios."},{"verse":"32","text":"Si ignoras la instrucción, te aborreces a ti mismo; pero si escuchas la corrección, obtendrás entendimiento."},{"verse":"33","text":"El respeto por el Señor enseña sabiduría; la humildad viene antes de la honra."}]}
+{
+  "version": "spa-vbl",
+  "book": "proverbs",
+  "chapter": 15,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Una respuesta amable evitará la ira, pero las palabras hirientes aumentarán el enojo.",
+      "strong": [
+        "H0259",
+        "H1697",
+        "H3700",
+        "H1931",
+        "H2534",
+        "H3588",
+        "H1992",
+        "H1697",
+        "H1931",
+        "H2534"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Las palabras de los sabios despertarán interés por el conocimiento; pero los necios hablarán sin sentido.",
+      "strong": [
+        "H1992",
+        "H6310",
+        "H4480",
+        "H2450",
+        "H2450",
+        "H5782",
+        "H5921",
+        "H1931",
+        "H1847",
+        "H3588",
+        "H2450",
+        "H0995",
+        "H1696",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "El Señor lo ve todo, y observa el bien y el mal.",
+      "strong": [
+        "H3605",
+        "H3068",
+        "H3605",
+        "H3212",
+        "H3605",
+        "H1571",
+        "H3605",
+        "H2896",
+        "H1571",
+        "H3605",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "Las palabras amables son Fuente de vida, pero el decir mentiras causa gran daño.",
+      "strong": [
+        "H1992",
+        "H1697",
+        "H1961",
+        "H4599",
+        "H4480",
+        "H2416",
+        "H3588",
+        "H1931",
+        "H0559",
+        "H3576",
+        "H1697",
+        "H1419",
+        "H8442"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Solo un necio aborrece la instrucción de su padre; pero el prudente acepta la corrección.",
+      "strong": [
+        "H0910",
+        "H0259",
+        "H3684",
+        "H8130",
+        "H8104",
+        "H4480",
+        "H1931",
+        "H0001",
+        "H3588",
+        "H1931",
+        "H0995",
+        "H5375",
+        "H8104",
+        "H4148"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Hay abundante tesoro donde en la vivienda de los justos; pero el salario de los malvados es causa de tribulación.",
+      "strong": [
+        "H3426",
+        "H4306",
+        "H0214",
+        "H0834",
+        "H5921",
+        "H1931",
+        "H6662",
+        "H0582",
+        "H6662",
+        "H3588",
+        "H1931",
+        "H0868",
+        "H6662",
+        "H0582",
+        "H1961",
+        "H1697",
+        "H6662",
+        "H6869"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "Los sabios comparten su conocimiento, pero los necios no piensan de esta mima manera.",
+      "strong": [
+        "H2450",
+        "H2450",
+        "H1931",
+        "H1847",
+        "H3588",
+        "H2450",
+        "H0995",
+        "H3808",
+        "H1897",
+        "H4480",
+        "H3651",
+        "H7235"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "El Señor aborrece el sacrificio de los malvados, pero le complacen las oraciones de los justos.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H8130",
+        "H1931",
+        "H2077",
+        "H4480",
+        "H0582",
+        "H3588",
+        "H0413",
+        "H1992",
+        "H4480",
+        "H0582",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "El Señor odia el camino del malvado, pero ama a los que actúan con rectitud.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H1931",
+        "H1870",
+        "H4480",
+        "H7451",
+        "H3588",
+        "H0157",
+        "H3068",
+        "H7291",
+        "H0834",
+        "H5973",
+        "H3559"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Si abandonas el camino del bien, recibirás disciplina. Todo el que aborrece la corrección morirá.",
+      "strong": [
+        "H0518",
+        "H1931",
+        "H7451",
+        "H4480",
+        "H2896",
+        "H3947",
+        "H3605",
+        "H1931",
+        "H0834",
+        "H8130",
+        "H1931",
+        "H4148",
+        "H4191"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Los muertos no tienen secretos que el Señor no sepa. ¡Cuanto más conoce nuestros pensamientos!",
+      "strong": [
+        "H1121",
+        "H2491",
+        "H3588",
+        "H1992",
+        "H3588",
+        "H3588",
+        "H3068",
+        "H3588",
+        "H3045",
+        "H3588",
+        "H3588",
+        "H3045",
+        "H0587",
+        "H4284"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Los burladores no aprecian la corrección, por lo tanto no van donde los sabios para pedir consejo.",
+      "strong": [
+        "H2450",
+        "H3944",
+        "H3808",
+        "H1931",
+        "H4148",
+        "H5921",
+        "H3808",
+        "H3651",
+        "H3808",
+        "H1980",
+        "H0834",
+        "H2450",
+        "H2450",
+        "H5704",
+        "H6098"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Si estas feliz por dentro, tu rostro lucirá alegre; pero si estas triste, lucirás derrotado.",
+      "strong": [
+        "H6440",
+        "H0428",
+        "H6440",
+        "H6440",
+        "H0859",
+        "H6440",
+        "H8056",
+        "H3588",
+        "H6440",
+        "H0428",
+        "H5218"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Una mente inteligente busca el conocimiento; pero los necios se alimentan de estupidez.",
+      "strong": [
+        "H0259",
+        "H1245",
+        "H1931",
+        "H1847",
+        "H3588",
+        "H0582",
+        "H0995",
+        "H3045",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "La vida de los pobres es dura, pero si permaneces alegre, la vida es una fiesta sin final.",
+      "strong": [
+        "H3605",
+        "H3117",
+        "H7451",
+        "H3605",
+        "H1800",
+        "H1961",
+        "H7186",
+        "H3588",
+        "H0518",
+        "H2896",
+        "H3605",
+        "H3117",
+        "H1961",
+        "H0259",
+        "H2282",
+        "H3808"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Es mejor respetar al Señor y tener poco, que tener abundancia de dinero y además los problemas que le acompañan.",
+      "strong": [
+        "H1961",
+        "H2896",
+        "H0413",
+        "H3068",
+        "H1571",
+        "H1961",
+        "H4592",
+        "H0834",
+        "H1961",
+        "H7230",
+        "H4480",
+        "H3701",
+        "H1571",
+        "H5921",
+        "H0582",
+        "H0834",
+        "H0413"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Mejor una cena de vegetales donde hay amor, que comer carne con odio.",
+      "strong": [
+        "H2896",
+        "H0259",
+        "H4480",
+        "H8033",
+        "H3426",
+        "H0160",
+        "H0834",
+        "H0398",
+        "H1320",
+        "H5973",
+        "H8135"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Los irascibles provocan los problemas, pero los que tardan en enojarse ayudan a sosegar los conflictos.",
+      "strong": [
+        "H0582",
+        "H0582",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H5921",
+        "H5826",
+        "H0413",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "El camino de los perezosos está lleno de espinas, pero el camino de los justos es una autopista abierta.",
+      "strong": [
+        "H1931",
+        "H1870",
+        "H4480",
+        "H0582",
+        "H2063",
+        "H4390",
+        "H4480",
+        "H6975",
+        "H3588",
+        "H1931",
+        "H1870",
+        "H4480",
+        "H0582",
+        "H6662",
+        "H1961",
+        "H0259",
+        "H6605"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Un hijo sabio trae alegría a su padre; pero un hombre necio aborrece a su madre.",
+      "strong": [
+        "H0259",
+        "H1121",
+        "H2450",
+        "H0935",
+        "H8057",
+        "H0413",
+        "H1931",
+        "H0001",
+        "H3588",
+        "H0259",
+        "H1121",
+        "H3684",
+        "H8130",
+        "H0413",
+        "H1931",
+        "H0517"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "La necedad alegra a los tontos, pero los prudentes hacen lo recto.",
+      "strong": [
+        "H1931",
+        "H0200",
+        "H8055",
+        "H0413",
+        "H0582",
+        "H3588",
+        "H0582",
+        "H0998",
+        "H6213",
+        "H1931",
+        "H3477"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "Los planes se caen sin el buen consejo, pero hay éxito donde hay muchos consejeros.",
+      "strong": [
+        "H0582",
+        "H3045",
+        "H7901",
+        "H3808",
+        "H1931",
+        "H2896",
+        "H3289",
+        "H3588",
+        "H3426",
+        "H0834",
+        "H3426",
+        "H7230",
+        "H3289"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Una buena respuesta trae alegría a sus oyentes. ¡Cuán bueno es oír la palabra acertada en el momento correcto!",
+      "strong": [
+        "H0259",
+        "H2896",
+        "H1697",
+        "H6310",
+        "H8057",
+        "H6310",
+        "H1931",
+        "H4100",
+        "H2896",
+        "H1697",
+        "H8085",
+        "H1931",
+        "H1697",
+        "H5921",
+        "H1931",
+        "H7281"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "El camino de la vida para los justos va hacia arriba, para que pueden evitar caer en la tumba que esta debajo.",
+      "strong": [
+        "H1931",
+        "H1870",
+        "H4480",
+        "H1931",
+        "H2416",
+        "H4616",
+        "H0582",
+        "H6662",
+        "H1980",
+        "H0413",
+        "H4605",
+        "H4616",
+        "H4616",
+        "H3201",
+        "H3782",
+        "H5493",
+        "H1931",
+        "H4616",
+        "H2063",
+        "H4295"
+      ]
+    },
+    {
+      "verse": "25",
+      "text": "El Señor derriba la casa de los orgullosos, pero protege los límites de la casa de la viuda.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H3381",
+        "H1366",
+        "H1004",
+        "H4480",
+        "H0582",
+        "H3588",
+        "H0582",
+        "H4480",
+        "H1366",
+        "H1004",
+        "H4480",
+        "H1366",
+        "H0490"
+      ]
+    },
+    {
+      "verse": "26",
+      "text": "El Señor odia los pensamientos de los malvados, pero honra las palabras de los puros.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H0582",
+        "H4284",
+        "H7451",
+        "H0582",
+        "H3588",
+        "H3513",
+        "H1992",
+        "H1697",
+        "H7451",
+        "H0582"
+      ]
+    },
+    {
+      "verse": "27",
+      "text": "Los que codician las ganancias ilícitas acarrean problemas para sus familias. Pero los que aborrecen el soborno, vivirán.",
+      "strong": [
+        "H0582",
+        "H0834",
+        "H1992",
+        "H5704",
+        "H1931",
+        "H1004",
+        "H3588",
+        "H0582",
+        "H0834",
+        "H8130",
+        "H1931",
+        "H7810",
+        "H2421"
+      ]
+    },
+    {
+      "verse": "28",
+      "text": "Los justos piensan en la mejor forma de responder a una pregunta, pero los tontos hablan con maldad.",
+      "strong": [
+        "H0582",
+        "H6662",
+        "H1897",
+        "H5921",
+        "H1931",
+        "H2896",
+        "H8389",
+        "H6662",
+        "H6030",
+        "H6310",
+        "H0259",
+        "H7592",
+        "H3588",
+        "H0582",
+        "H1696",
+        "H5973",
+        "H7451"
+      ]
+    },
+    {
+      "verse": "29",
+      "text": "El Señor guarda distancia con los malvados, pero escucha las oraciones de los justos.",
+      "strong": [
+        "H1931",
+        "H3068",
+        "H8104",
+        "H7350",
+        "H5973",
+        "H0582",
+        "H3588",
+        "H8085",
+        "H1992",
+        "H6662",
+        "H0582",
+        "H6662"
+      ]
+    },
+    {
+      "verse": "30",
+      "text": "Los ojos brillantes producen alegría, y las buenas noticias mejoran el ánimo.",
+      "strong": [
+        "H0582",
+        "H5869",
+        "H5375",
+        "H8057",
+        "H1571",
+        "H1992",
+        "H2896",
+        "H1931",
+        "H5315"
+      ]
+    },
+    {
+      "verse": "31",
+      "text": "Si atiendes el buen consejo serás uno más entre los sabios.",
+      "strong": [
+        "H0518",
+        "H3885",
+        "H2896",
+        "H6098",
+        "H1961",
+        "H0259",
+        "H5750",
+        "H7130",
+        "H2450",
+        "H2450"
+      ]
+    },
+    {
+      "verse": "32",
+      "text": "Si ignoras la instrucción, te aborreces a ti mismo; pero si escuchas la corrección, obtendrás entendimiento.",
+      "strong": [
+        "H5315",
+        "H3808",
+        "H1931",
+        "H5315",
+        "H8130",
+        "H0413",
+        "H0859",
+        "H1931",
+        "H3588",
+        "H5315",
+        "H1931",
+        "H4148",
+        "H3820"
+      ]
+    },
+    {
+      "verse": "33",
+      "text": "El respeto por el Señor enseña sabiduría; la humildad viene antes de la honra.",
+      "strong": [
+        "H1931",
+        "H6440",
+        "H1931",
+        "H3068",
+        "H3384",
+        "H2451",
+        "H2451",
+        "H0935",
+        "H6440",
+        "H6440",
+        "H2451",
+        "H3519"
+      ]
+    }
+  ]
+}

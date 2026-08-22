@@ -1,1 +1,403 @@
-{"version":"spa-vbl","book":"job","chapter":40,"data":[{"verse":"1","text":"Dios siguió hablando a Job."},{"verse":"2","text":"“¿Todavía vas a pelear con el Todopoderoso y tratar de enderezarlo?40:2 O “¿Acaso un buscador de faltas puede contender con Dios?”  Quien discute con Dios debe dar alguna respuesta”."},{"verse":"3","text":"Job respondió al Señor:"},{"verse":"4","text":"“Yo no soy nada. No tengo respuestas. Pongo mi mano delante de mi boca."},{"verse":"5","text":"Ya he dicho demasiado y no diré nada más”."},{"verse":"6","text":"Entonces el Señor respondió a Job desde el torbellino:"},{"verse":"7","text":"“Prepárate, sé fuerte, porque voy a interrogarte y debes responderme."},{"verse":"8","text":"“¿De verdad vas a decir que mis decisiones están equivocadas?40:8 O “invalidar mi justicia”. ¿Vas a condenarme para tener razón?"},{"verse":"9","text":"¿Eres tan poderoso como yo? ¿Truena tu voz como la mía?"},{"verse":"10","text":"¿Por qué no te vistes de majestad y dignidad, y te revistes de gloria y esplendor?"},{"verse":"11","text":"Da rienda suelta a tu feroz ira. Humilla a los soberbios con una mirada."},{"verse":"12","text":"Derriba a los soberbios con tu mirada; pisotea a los malvados allí donde están."},{"verse":"13","text":"Entiérralos en el polvo; enciérralos en la tumba."},{"verse":"14","text":"Entonces también estaré de acuerdo en que tu propia fuerza puede salvarte."},{"verse":"15","text":"“Considera a Behemot,40:15 Algunos identifican a Behemot con el hipopótamo; otros con una criatura legendaria. Behemot es el plural de la palabra habitual para designar al animal. una criatura que hice igual que a ti. Come hierba como el ganado."},{"verse":"16","text":"Mira sus poderosos lomos, los músculos de su vientre."},{"verse":"17","text":"Dobla su cola como un cedro; los tendones de sus muslos son fuertes."},{"verse":"18","text":"Sus huesos son como tubos de bronce, sus miembros como barras de hierro."},{"verse":"19","text":"Es el ejemplo más importante de lo que Dios puede hacer; sólo el que lo hizo puede acercarse a él con una espada.40:19 El hebreo no es claro. El verso puede significar que sólo su Creador puede derrotarlo."},{"verse":"20","text":"Las colinas producen alimento para él, y todos los animales salvajes juegan allí.40:20 Presumiblemente los otros animales están a salvo del Behemot ya que es vegetariano."},{"verse":"21","text":"Se encuentra bajo el loto;40:21 Algunos lo identifican con la planta del Loto, otros con el árbol del Loto. se esconde en los juncos del pantano."},{"verse":"22","text":"El loto la cubre de sombra; los sauces del valle la rodean."},{"verse":"23","text":"Aunque el río se desborde, no se preocupa; permanece en calma cuando el río Jordán se agita contra él."},{"verse":"24","text":"Nadie puede atraparlo mientras mira, ni perforar su nariz con un lazo”.40:24 O “Puede tomarlo con sus ojos: puede perforar una trampa con su nariz”."}]}
+{
+  "version": "spa-vbl",
+  "book": "job",
+  "chapter": 40,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Dios siguió hablando a Job.",
+      "strong": [
+        "H3068",
+        "H7291",
+        "H1696",
+        "H3068",
+        "H0347"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "“¿Todavía vas a pelear con el Todopoderoso y tratar de enderezarlo? Quien discute con Dios debe dar alguna respuesta”.",
+      "strong": [
+        "H5750",
+        "H3212",
+        "H5973",
+        "H3201",
+        "H5973",
+        "H5973",
+        "H7706",
+        "H1571",
+        "H5973",
+        "H4310",
+        "H5973",
+        "H0430",
+        "H4135",
+        "H5414",
+        "H3605",
+        "H1697"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Job respondió al Señor:",
+      "strong": [
+        "H0347",
+        "H6030",
+        "H0413",
+        "H3068"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "“Yo no soy nada. No tengo respuestas. Pongo mi mano delante de mi boca.",
+      "strong": [
+        "H0589",
+        "H4100",
+        "H0595",
+        "H3808",
+        "H4100",
+        "H2803",
+        "H7760",
+        "H0589",
+        "H3027",
+        "H6440",
+        "H4480",
+        "H0589",
+        "H6310"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Ya he dicho demasiado y no diré nada más”.",
+      "strong": [
+        "H3254",
+        "H4392",
+        "H1696",
+        "H7235",
+        "H1571",
+        "H3808",
+        "H1696",
+        "H3808",
+        "H3254"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Entonces el Señor respondió a Job desde el torbellino:",
+      "strong": [
+        "H0227",
+        "H1931",
+        "H3068",
+        "H6030",
+        "H4480",
+        "H0347",
+        "H4480",
+        "H1931",
+        "H5492"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "“Prepárate, sé fuerte, porque voy a interrogarte y debes responderme.",
+      "strong": [
+        "H3045",
+        "H2389",
+        "H3588",
+        "H1980",
+        "H0413",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "“¿De verdad vas a decir que mis decisiones están equivocadas? ¿Vas a condenarme para tener razón?",
+      "strong": [
+        "H4480",
+        "H0571",
+        "H3212",
+        "H0413",
+        "H0559",
+        "H4616",
+        "H0589",
+        "H1961",
+        "H3212",
+        "H0413",
+        "H4616",
+        "H1961",
+        "H7218"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¿Eres tan poderoso como yo? ¿Truena tu voz como la mía?",
+      "strong": [
+        "H0859",
+        "H3966",
+        "H1368",
+        "H3644",
+        "H0589",
+        "H0859",
+        "H6963",
+        "H3644",
+        "H1931",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "¿Por qué no te vistes de majestad y dignidad, y te revistes de gloria y esplendor?",
+      "strong": [
+        "H5921",
+        "H4994",
+        "H3808",
+        "H0859",
+        "H3847",
+        "H1571",
+        "H1571",
+        "H0859",
+        "H3847",
+        "H1935",
+        "H1571"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Da rienda suelta a tu feroz ira. Humilla a los soberbios con una mirada.",
+      "strong": [
+        "H5414",
+        "H0413",
+        "H0859",
+        "H2534",
+        "H8213",
+        "H0413",
+        "H3605",
+        "H2086",
+        "H5973",
+        "H0259"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Derriba a los soberbios con tu mirada; pisotea a los malvados allí donde están.",
+      "strong": [
+        "H3381",
+        "H8478",
+        "H3605",
+        "H2086",
+        "H5973",
+        "H0859",
+        "H8478",
+        "H3605",
+        "H8033",
+        "H8478",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Entiérralos en el polvo; enciérralos en la tumba.",
+      "strong": [
+        "H5921",
+        "H1931",
+        "H6083",
+        "H5921",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Entonces también estaré de acuerdo en que tu propia fuerza puede salvarte.",
+      "strong": [
+        "H3588",
+        "H1571",
+        "H5324",
+        "H3588",
+        "H2374",
+        "H3588",
+        "H3588",
+        "H0859",
+        "H3581",
+        "H3201"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "“Considera a Behemot, una criatura que hice igual que a ti. Come hierba como el ganado.",
+      "strong": [
+        "H0995",
+        "H5973",
+        "H0259",
+        "H4994",
+        "H6213",
+        "H2505",
+        "H4994",
+        "H5973",
+        "H5973",
+        "H0398",
+        "H2682",
+        "H5973",
+        "H5973",
+        "H4735"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Mira sus poderosos lomos, los músculos de su vientre.",
+      "strong": [
+        "H2009",
+        "H1931",
+        "H3581",
+        "H4975",
+        "H0582",
+        "H4480",
+        "H1931",
+        "H0990"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Dobla su cola como un cedro; los tendones de sus muslos son fuertes.",
+      "strong": [
+        "H2263",
+        "H1931",
+        "H2180",
+        "H3644",
+        "H0259",
+        "H0730",
+        "H0582",
+        "H4480",
+        "H1931",
+        "H1961",
+        "H4013"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Sus huesos son como tubos de bronce, sus miembros como barras de hierro.",
+      "strong": [
+        "H1931",
+        "H6106",
+        "H1961",
+        "H0349",
+        "H6804",
+        "H4480",
+        "H5153",
+        "H1931",
+        "H0083",
+        "H0349",
+        "H1280",
+        "H4480",
+        "H1270"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Es el ejemplo más importante de lo que Dios puede hacer; sólo el que lo hizo puede acercarse a él con una espada.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H5750",
+        "H4480",
+        "H1931",
+        "H1931",
+        "H0430",
+        "H3201",
+        "H6213",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H1931",
+        "H6213",
+        "H3201",
+        "H7132",
+        "H0413",
+        "H1931",
+        "H5973",
+        "H0259",
+        "H2719"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Las colinas producen alimento para él, y todos los animales salvajes juegan allí.",
+      "strong": [
+        "H1992",
+        "H5375",
+        "H0400",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H3605",
+        "H3605",
+        "H2416",
+        "H8033"
+      ]
+    },
+    {
+      "verse": "21",
+      "text": "Se encuentra bajo el loto; se esconde en los juncos del pantano.",
+      "strong": [
+        "H3045",
+        "H8478",
+        "H1931",
+        "H3045",
+        "H5641",
+        "H8478",
+        "H0582",
+        "H4480"
+      ]
+    },
+    {
+      "verse": "22",
+      "text": "El loto la cubre de sombra; los sauces del valle la rodean.",
+      "strong": [
+        "H1931",
+        "H1931",
+        "H3680",
+        "H4480",
+        "H6738",
+        "H0582",
+        "H4480",
+        "H1516",
+        "H1931",
+        "H5439"
+      ]
+    },
+    {
+      "verse": "23",
+      "text": "Aunque el río se desborde, no se preocupa; permanece en calma cuando el río Jordán se agita contra él.",
+      "strong": [
+        "H3588",
+        "H3588",
+        "H5104",
+        "H3808",
+        "H3808",
+        "H3808",
+        "H5975",
+        "H3588",
+        "H3588",
+        "H3588",
+        "H5104",
+        "H3383",
+        "H3808",
+        "H5921",
+        "H3588"
+      ]
+    },
+    {
+      "verse": "24",
+      "text": "Nadie puede atraparlo mientras mira, ni perforar su nariz con un lazo”.",
+      "strong": [
+        "H5869",
+        "H3201",
+        "H5704",
+        "H5869",
+        "H3808",
+        "H1931",
+        "H0639",
+        "H5973",
+        "H0259",
+        "H4170"
+      ]
+    }
+  ]
+}

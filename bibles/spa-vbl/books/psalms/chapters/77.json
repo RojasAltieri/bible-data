@@ -1,1 +1,385 @@
-{"version":"spa-vbl","book":"psalms","chapter":77,"data":[{"verse":"1","text":"Clamo a Dios pidiendo su ayuda. Sí, incluso a gritos. ¡Si tan solo Dios me oyera!"},{"verse":"2","text":"Cuando estuve en aflicción oré al Señor. Toda la noche levanté mis manos al cielo en oración a él, pero no pude hallar consuelo alguno."},{"verse":"3","text":"Medité en Dios con gemidos; pensé en él pero solo siento desconsuelo. Selah."},{"verse":"4","text":"No me dejas dormir. 77:4 Literalmente, “tu atrapas mis párpados”. Estaba tan afligido que no podía ni hablar."},{"verse":"5","text":"Pienso en los viejos tiempos, que fueron hace tantos años."},{"verse":"6","text":"Recuerdo los cantos que solía cantar por las noches. Medito entonces y me pregunto:"},{"verse":"7","text":"¿Se habrá cansado el Señor de mi para siempre?77:7 “de mi”. En estos versículos no hay objeto de la oración. También puede ser “nosotros” o “el pueblo” ¿Volverá nuevamente a agradarse de mi?"},{"verse":"8","text":"¿Se habrá apagado para siempre su amor inagotable? ¿Se acabaron sus promesas?"},{"verse":"9","text":"¿Se ha olvidado Dios de su bondad? ¿Habrá cerrado de un portazo las puertas a su compasión? Selah."},{"verse":"10","text":"Entonces dije: “Lo que más me duele es que el Señor ya no me trata como antes”.77:10 Literalmente, “Y yo dije ‘esta es mi herida: la mano diestra del Altísimo ha cambiado’.”"},{"verse":"11","text":"Recuerdo lo que has hecho, Señor. Recuerdo las maravillas que hiciste hace mucho tiempo."},{"verse":"12","text":"Meditaré en todo lo que has logrado. Pensaré en tus actos."},{"verse":"13","text":"Señor, tus caminos son santos. ¿Hay algún dios tan grande como tú?"},{"verse":"14","text":"Tú eres el Dios que hace maravillas. Has revelado tu poder a las naciones."},{"verse":"15","text":"Con tu fuerza salvaste a tu pueblo, a los descendientes de Jacob y José. Selah."},{"verse":"16","text":"Cuando las aguas te vieron y temblaron. ¡Sí! ¡Temblaron hasta las profundidades!77:16 La palabra usada aquí se menciona en Génesis 1:2. También evoca la división del Mar Rojo, durante el éxodo, una alusión confirmada en el versículo 20."},{"verse":"17","text":"Las nubes derramaron lluvia, el trueno retumbó en los cielos y tus relámpagos volaban como flechas."},{"verse":"18","text":"Tu trueno retumbó desde el torbellino, y los relámpagos iluminaron el mundo. La tierra temblaba y se estremecía."},{"verse":"19","text":"Tu camino conducía al mar, y pasaba por el mar profundo. Aun así tus huellas eran invisibles."},{"verse":"20","text":"Guiaste a tu pueblo como un rebaño, pastoreado por Moisés y Aarón."}]}
+{
+  "version": "spa-vbl",
+  "book": "psalms",
+  "chapter": 77,
+  "data": [
+    {
+      "verse": "1",
+      "text": "Clamo a Dios pidiendo su ayuda. Sí, incluso a gritos. ¡Si tan solo Dios me oyera!",
+      "strong": [
+        "H7121",
+        "H5921",
+        "H0430",
+        "H7592",
+        "H1931",
+        "H5828",
+        "H5921",
+        "H5921",
+        "H8643",
+        "H5921",
+        "H3966",
+        "H0910",
+        "H0430",
+        "H5921"
+      ]
+    },
+    {
+      "verse": "2",
+      "text": "Cuando estuve en aflicción oré al Señor. Toda la noche levanté mis manos al cielo en oración a él, pero no pude hallar consuelo alguno.",
+      "strong": [
+        "H3588",
+        "H5975",
+        "H5921",
+        "H6040",
+        "H6419",
+        "H0413",
+        "H0113",
+        "H3605",
+        "H1931",
+        "H3915",
+        "H7311",
+        "H0589",
+        "H3027",
+        "H0413",
+        "H8064",
+        "H5921",
+        "H8605",
+        "H0413",
+        "H1931",
+        "H3588",
+        "H3808",
+        "H3201",
+        "H4672",
+        "H5162",
+        "H0376"
+      ]
+    },
+    {
+      "verse": "3",
+      "text": "Medité en Dios con gemidos; pensé en él pero solo siento desconsuelo. Selah.",
+      "strong": [
+        "H4427",
+        "H5921",
+        "H0430",
+        "H5973",
+        "H2161",
+        "H5921",
+        "H1931",
+        "H3588",
+        "H0910",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "4",
+      "text": "No me dejas dormir. Estaba tan afligido que no podía ni hablar.",
+      "strong": [
+        "H3808",
+        "H0413",
+        "H1961",
+        "H3966",
+        "H7451",
+        "H0834",
+        "H3808",
+        "H3201",
+        "H3808",
+        "H1696"
+      ]
+    },
+    {
+      "verse": "5",
+      "text": "Pienso en los viejos tiempos, que fueron hace tantos años.",
+      "strong": [
+        "H2803",
+        "H5921",
+        "H0582",
+        "H2205",
+        "H5732",
+        "H3808",
+        "H5869",
+        "H6213",
+        "H8141"
+      ]
+    },
+    {
+      "verse": "6",
+      "text": "Recuerdo los cantos que solía cantar por las noches. Medito entonces y me pregunto:",
+      "strong": [
+        "H2146",
+        "H0582",
+        "H3117",
+        "H2167",
+        "H5769",
+        "H1992",
+        "H3915",
+        "H3117",
+        "H1571",
+        "H0413",
+        "H7592"
+      ]
+    },
+    {
+      "verse": "7",
+      "text": "¿Se habrá cansado el Señor de mi para siempre? ¿Volverá nuevamente a agradarse de mi?",
+      "strong": [
+        "H3045",
+        "H1961",
+        "H5889",
+        "H5973",
+        "H0113",
+        "H5973",
+        "H0589",
+        "H5973",
+        "H5769",
+        "H7725",
+        "H5973",
+        "H5973",
+        "H0589"
+      ]
+    },
+    {
+      "verse": "8",
+      "text": "¿Se habrá apagado para siempre su amor inagotable? ¿Se acabaron sus promesas?",
+      "strong": [
+        "H3808",
+        "H1961",
+        "H5704",
+        "H5769",
+        "H1931",
+        "H0160",
+        "H3808",
+        "H3615",
+        "H1931"
+      ]
+    },
+    {
+      "verse": "9",
+      "text": "¿Se ha olvidado Dios de su bondad? ¿Habrá cerrado de un portazo las puertas a su compasión? Selah.",
+      "strong": [
+        "H3045",
+        "H3541",
+        "H0430",
+        "H4480",
+        "H1931",
+        "H2898",
+        "H1961",
+        "H6113",
+        "H4480",
+        "H0259",
+        "H1992",
+        "H1817",
+        "H0413",
+        "H1931",
+        "H2603",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "10",
+      "text": "Entonces dije: “Lo que más me duele es que el Señor ya no me trata como antes”.",
+      "strong": [
+        "H0227",
+        "H0559",
+        "H1931",
+        "H0834",
+        "H5750",
+        "H0413",
+        "H1961",
+        "H0834",
+        "H1931",
+        "H0113",
+        "H3528",
+        "H3808",
+        "H0413",
+        "H1245",
+        "H0349",
+        "H6440"
+      ]
+    },
+    {
+      "verse": "11",
+      "text": "Recuerdo lo que has hecho, Señor. Recuerdo las maravillas que hiciste hace mucho tiempo.",
+      "strong": [
+        "H2146",
+        "H1931",
+        "H1931",
+        "H4191",
+        "H6213",
+        "H0113",
+        "H2146",
+        "H1992",
+        "H6381",
+        "H1931",
+        "H6213",
+        "H6213",
+        "H3966",
+        "H6256"
+      ]
+    },
+    {
+      "verse": "12",
+      "text": "Meditaré en todo lo que has logrado. Pensaré en tus actos.",
+      "strong": [
+        "H7878",
+        "H3588",
+        "H3605",
+        "H1931",
+        "H3588",
+        "H4191",
+        "H2803",
+        "H3588",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "13",
+      "text": "Señor, tus caminos son santos. ¿Hay algún dios tan grande como tú?",
+      "strong": [
+        "H0113",
+        "H0859",
+        "H1870",
+        "H1961",
+        "H6918",
+        "H3426",
+        "H0259",
+        "H0430",
+        "H3966",
+        "H1419",
+        "H0349",
+        "H0859"
+      ]
+    },
+    {
+      "verse": "14",
+      "text": "Tú eres el Dios que hace maravillas. Has revelado tu poder a las naciones.",
+      "strong": [
+        "H0859",
+        "H0859",
+        "H4310",
+        "H0430",
+        "H4310",
+        "H6213",
+        "H6381",
+        "H4191",
+        "H5046",
+        "H0859",
+        "H3027",
+        "H0413",
+        "H1992",
+        "H1471"
+      ]
+    },
+    {
+      "verse": "15",
+      "text": "Con tu fuerza salvaste a tu pueblo, a los descendientes de Jacob y José. Selah.",
+      "strong": [
+        "H5973",
+        "H6213",
+        "H3581",
+        "H0413",
+        "H6213",
+        "H5971",
+        "H0413",
+        "H0582",
+        "H6631",
+        "H5971",
+        "H3290",
+        "H5797",
+        "H3130",
+        "H5542"
+      ]
+    },
+    {
+      "verse": "16",
+      "text": "Cuando las aguas te vieron y temblaron. ¡Sí! ¡Temblaron hasta las profundidades!",
+      "strong": [
+        "H3588",
+        "H1992",
+        "H4325",
+        "H0859",
+        "H7200",
+        "H1571",
+        "H7264",
+        "H0518",
+        "H7264",
+        "H5704",
+        "H1992"
+      ]
+    },
+    {
+      "verse": "17",
+      "text": "Las nubes derramaron lluvia, el trueno retumbó en los cielos y tus relámpagos volaban como flechas.",
+      "strong": [
+        "H1992",
+        "H5387",
+        "H8210",
+        "H4306",
+        "H1931",
+        "H5921",
+        "H0582",
+        "H8064",
+        "H1571",
+        "H0859",
+        "H1300",
+        "H5774",
+        "H0349"
+      ]
+    },
+    {
+      "verse": "18",
+      "text": "Tu trueno retumbó desde el torbellino, y los relámpagos iluminaron el mundo. La tierra temblaba y se estremecía.",
+      "strong": [
+        "H0859",
+        "H4480",
+        "H1931",
+        "H5492",
+        "H1571",
+        "H0582",
+        "H1300",
+        "H1931",
+        "H8398",
+        "H1931",
+        "H0776",
+        "H1571",
+        "H3045"
+      ]
+    },
+    {
+      "verse": "19",
+      "text": "Tu camino conducía al mar, y pasaba por el mar profundo. Aun así tus huellas eran invisibles.",
+      "strong": [
+        "H0859",
+        "H1870",
+        "H0413",
+        "H3220",
+        "H1571",
+        "H5674",
+        "H5921",
+        "H1931",
+        "H3220",
+        "H8482",
+        "H5750",
+        "H3541",
+        "H0859",
+        "H1961"
+      ]
+    },
+    {
+      "verse": "20",
+      "text": "Guiaste a tu pueblo como un rebaño, pastoreado por Moisés y Aarón.",
+      "strong": [
+        "H5148",
+        "H0413",
+        "H0859",
+        "H7227",
+        "H0349",
+        "H0259",
+        "H6629",
+        "H1870",
+        "H4872",
+        "H1571",
+        "H0175"
+      ]
+    }
+  ]
+}
