@@ -55,8 +55,24 @@ async function chapterStats(folder, n) {
   const res = await fetch(`${CDN}/${encodeURIComponent(folder)}/chapters/${n}.json`);
   if (!res.ok) return { verses: -1, chars: 0 };
   const json = await res.json();
-  const rows = (json?.data ?? []).filter((v) => String(v.text ?? "").trim());
+  const rows = dedupe(json?.data ?? []).filter((v) => String(v.text ?? "").trim());
   return { verses: rows.length, chars: rows.reduce((s, v) => s + v.text.length, 0) };
+}
+
+// Algunas biblias de wldeh traen CADA VERSICULO REPETIDO (es-vbl trae los 36 de
+// Juan 3 dos veces, 72 entradas). Si no se quitan antes de contar, la huella
+// digital sale al doble, no coincide con ningun libro del canon y el emparejado
+// asigna casi todos mal: en la primera pasada de es-vbl salio "hechos ->
+// matthew", "marcos -> 1-corinthians", "santiago -> 1-peter". Se detecto porque
+// 1 Corintios 1:3 decia "Una voz que clama en el desierto", que es Marcos 1:3.
+function dedupe(rows) {
+  const vistos = new Set();
+  return rows.filter((v) => {
+    const k = String(v?.verse ?? "");
+    if (vistos.has(k)) return false;
+    vistos.add(k);
+    return true;
+  });
 }
 
 const folders = await listFolders();
@@ -149,3 +165,44 @@ for (const slug of CANONICAL_ORDER) {
 }
 console.log(JSON.stringify(ordered, null, 2));
 console.error(`\n[${id}] resueltos ${Object.keys(ordered).length}/66`);
+
+// AVISO DE CORDURA. "resueltos 66/66" no significa que esten BIEN: el
+// emparejado por costo minimo siempre encuentra una asignacion, aunque las
+// huellas no se parezcan a nada. En la primera pasada de es-vbl dijo 66/66 con
+// casi todo mal (hechos->matthew, marcos->1-corinthians) porque la fuente traia
+// los versiculos duplicados y los conteos salian al doble.
+//
+// Un error que se anuncia como exito es peor que uno que revienta, asi que se
+// comprueba cuanto se aleja cada huella del canon. Si muchas se alejan mucho,
+// la asignacion no es de fiar por mas que el total cuadre.
+//
+// OJO AL CRITERIO: probado contra el caso real de es-vbl sin deduplicar, la
+// MEDIANA salio 0% igualmente, porque a la mitad de los libros les toco por
+// azar otro de conteo parecido. Lo que delato el desastre fue el RECUENTO de
+// libros muy desviados: 21. No simplifiques esto a "mira la mediana".
+const desviaciones = [];
+for (const { folder, first } of prints) {
+  const slug = mapping[folder];
+  if (!slug) continue;
+  const esperado = CH1_VERSES[slug];
+  if (!esperado || first.verses <= 0) continue;
+  desviaciones.push(Math.abs(first.verses - esperado) / esperado);
+}
+if (desviaciones.length) {
+  desviaciones.sort((a, b) => a - b);
+  const mediana = desviaciones[Math.floor(desviaciones.length / 2)];
+  const lejos = desviaciones.filter((d) => d > 0.5).length;
+  console.error(
+    `[${id}] desviacion mediana del capitulo 1: ${(mediana * 100).toFixed(0)}%` +
+      ` — ${lejos} libros a mas del 50%`,
+  );
+  if (mediana > 0.25 || lejos > 10) {
+    console.error(
+      `\n  !! NO TE FIES DE ESTE MAPA. Las huellas no se parecen al canon.\n` +
+        `     Causa tipica: la fuente trae versiculos repetidos o partidos.\n` +
+        `     Comprueba a mano un capitulo antes de importar nada:\n` +
+        `     curl -sL "${CDN}/<carpeta>/chapters/1.json" | head -c 400`,
+    );
+    process.exitCode = 1;
+  }
+}

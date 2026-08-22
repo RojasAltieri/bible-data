@@ -321,7 +321,87 @@ const PA_FOLDERS = {
   "ਪਰਕਾਸ਼ਦੀਪੋਥੀ": "revelation"
 };
 
+const SPA_VBL_FOLDERS = {
+  "génesis": "genesis",
+  "éxodo": "exodus",
+  "levítico": "leviticus",
+  "números": "numbers",
+  "deuteronomio": "deuteronomy",
+  "josué": "joshua",
+  "jueces": "judges",
+  "rut": "ruth",
+  "1samuel": "1-samuel",
+  "2samuel": "2-samuel",
+  "1reyes": "1-kings",
+  "2reyes": "2-kings",
+  "1crónicas": "1-chronicles",
+  "2crónicas": "2-chronicles",
+  "esdras": "ezra",
+  "nehemías": "nehemiah",
+  "ester": "esther",
+  "job": "job",
+  "salmos": "psalms",
+  "proverbios": "proverbs",
+  "eclesiastés": "ecclesiastes",
+  "cantardeloscantares": "song-of-solomon",
+  "isaías": "isaiah",
+  "jeremías": "jeremiah",
+  "lamentaciones": "lamentations",
+  "ezequiel": "ezekiel",
+  "daniel": "daniel",
+  "oseas": "hosea",
+  "joel": "joel",
+  "amós": "amos",
+  "abdías": "obadiah",
+  "jonás": "jonah",
+  "miqueas": "micah",
+  "nahúm": "nahum",
+  "habacuc": "habakkuk",
+  "sofonías": "zephaniah",
+  "ageo": "haggai",
+  "zacarías": "zechariah",
+  "malaquías": "malachi",
+  "mateo": "matthew",
+  "marcos": "mark",
+  "lucas": "luke",
+  "juan": "john",
+  "hechos": "acts",
+  "romanos": "romans",
+  "1corintios": "1-corinthians",
+  "2corintios": "2-corinthians",
+  "gálatas": "galatians",
+  "efesios": "ephesians",
+  "filipenses": "philippians",
+  "colosenses": "colossians",
+  "1tesalonicenses": "1-thessalonians",
+  "2tesalonicenses": "2-thessalonians",
+  "1timoteo": "1-timothy",
+  "2timoteo": "2-timothy",
+  "tito": "titus",
+  "filemón": "philemon",
+  "hebreos": "hebrews",
+  "santiago": "james",
+  "1pedro": "1-peter",
+  "2pedro": "2-peter",
+  "1juan": "1-john",
+  "2juan": "2-john",
+  "3juan": "3-john",
+  "judas": "jude",
+  "apocalipsis": "revelation",
+};
+
 const SOURCES = {
+  // Versión Biblia Libre (Free Bible Version): la unica traduccion moderna al
+  // español con licencia abierta declarada. CC BY-SA 4.0,
+  // (c) 2018-2020 Jonathan Gallagher y Shelly Barrios de Avila
+  // (Free Bible Ministry, freebibleversion.org). Antiguo y Nuevo completos.
+  //
+  // OJO: eBible.org solo aloja el Nuevo Testamento y titula su edicion
+  // "Versión Biblia Libre, Nuevo Testamento". Mirar solo ahi lleva a concluir
+  // que el Antiguo no existe. El editor publica la Biblia entera (v5.2,
+  // octubre 2025) y el espejo de wldeh trae los 66 libros: verificado
+  // comparando Genesis 1:1 con YouVersion, son identicos.
+  "spa-vbl": { type: "wldeh", id: "es-vbl", folders: SPA_VBL_FOLDERS, name: "Versión Biblia Libre", lang: "es" },
   "zho-cus": { type: "getbible", abbr: "cus", name: "圣经和合本 (简体)", lang: "zh" },
   // japkougo esta incompleta en getBible (faltan 25 capitulos); se usa la
   // clasica de dominio publico: Meiji Motoyaku AT + Taisho Kaiyaku NT.
@@ -355,6 +435,21 @@ const SOURCES = {
 };
 
 const clean = (s) => String(s ?? "").replace(/﻿/g, "").trim();
+
+// Algunas biblias de wldeh traen CADA VERSICULO REPETIDO: es-vbl devuelve los
+// 36 versiculos de Juan 3 dos veces, 72 entradas. Escribirlos tal cual duplica
+// el texto en la app, y contarlos rompe la identificacion de libros por huella
+// digital de generate-wldeh-folders.mjs. Se quita la repeticion aqui tambien
+// para que el arreglo no dependa de acordarse de regenerar el mapa.
+function dedupeVersiculos(rows) {
+  const vistos = new Set();
+  return rows.filter((v) => {
+    const k = String(v?.verse ?? "");
+    if (vistos.has(k)) return false;
+    vistos.add(k);
+    return true;
+  });
+}
 
 async function fetchJson(url, retries = 3) {
   for (let attempt = 1; attempt <= retries; attempt++) {
@@ -426,7 +521,9 @@ async function importWldeh(versionId, cfg) {
     }
     let written = 0;
     for (const { n, json } of results) {
-      const rows = (json?.data ?? []).filter((v) => clean(v.text).length > 0);
+      const rows = dedupeVersiculos(json?.data ?? []).filter(
+        (v) => clean(v.text).length > 0,
+      );
       if (!rows.length) continue;
       if (!bookNames[slug] && rows[0].book) bookNames[slug] = clean(rows[0].book);
       await writeChapter(versionId, slug, n, rows);
