@@ -1,0 +1,117 @@
+História e fidelidade bíblica
+
+Texto português NTB-BR © 2026 BibliaTodo LLC, quanto às suas próprias contribuições. Publicado por BibliaTodo Bible Society, selo editorial da BibliaTodo LLC.
+
+Direção editorial
+
+A Nova Tradução BibliaTodo é um projeto editorial da BibliaTodo, sob a direção de Carlos Colina. Esta apresentação identifica as bases textuais, os critérios e as decisões documentadas da edição portuguesa.
+
+Como a tradução é preparada e revisada
+
+As traduções da BibliaTodo são feitas a partir dos textos das Escrituras em hebraico, aramaico e grego. Nossa metodologia identifica as edições textuais que utilizamos.
+
+A NTB-BR é redigida em português brasileiro a partir das línguas bíblicas, aproveitando a pesquisa editorial compartilhada com a NTBT espanhola. O cotejo considera o capítulo completo, a gramática, os sujeitos, as negações, as quantidades, as repetições e as imagens. Um português atual, reverente e literário serve à precisão: as narrativas devem ser claras, e a poesia, as orações e as passagens memoráveis devem conservar sua cadência e força. As explicações permanecem separadas do texto bíblico.
+
+A NTB-BR é uma tradução feita diretamente do hebraico, do aramaico e do grego. Busca transmitir com fidelidade o sentido dos textos bíblicos e preservar suas nuances e sua forma literária em um português brasileiro claro e natural. A clareza não autoriza acrescentar explicações teológicas nem resolver ambiguidades que o texto e seu contexto preservam. As escolhas de tradução devem ser justificadas pelas línguas bíblicas; explicações, interpretações e aplicações são apresentadas separadamente no material de estudo.
+
+Bases textuais e recursos de consulta
+
+Para o Antigo Testamento, consulta-se a tradição massorética hebraica e aramaica na edição Westminster Leningrad Codex (WLC), junto aos recursos linguísticos da Open Scriptures Hebrew Bible (OSHB). As diferenças entre a forma escrita e a leitura transmitida, conhecidas como ketiv e qere, são examinadas em contexto. O aramaico é consultado nas passagens que pertencem efetivamente a essa língua.
+
+Para o Novo Testamento, a principal base grega é o SBL Greek New Testament (SBLGNT), editado por Michael W. Holmes, versão 1.2. O texto interlinear, a morfologia e os recursos lexicais apoiam o exame do texto; uma glosa isolada não substitui seu sentido em contexto. Essas edições dão acesso aos textos em suas línguas originais, transmitidos pela tradição manuscrita.
+
+Como são tratadas as variantes textuais
+
+Uma variante textual é uma diferença de leitura entre testemunhos do texto. Distingue-se de uma escolha para expressar a mesma leitura em português e de diferenças de pontuação ou numeração. A principal edição grega contém as decisões críticas de seu editor; as exceções adotadas pela NTB-BR são documentadas separadamente.
+
+O exame de uma leitura considera a evidência textual consultada, a gramática e o contexto. Uma frase familiar, a antiguidade de um testemunho, a quantidade de cópias ou uma preferência interpretativa não determinam, por si sós, a decisão. As passagens não são harmonizadas mediante alterações silenciosas de nomes, quantidades ou afirmações do texto.
+
+No Novo Testamento, a NTB-BR conserva certas leituras adicionais documentadas no grego do interlinear de referência, embora não apareçam no texto principal do SBLGNT. Os versículos completos conservados segundo essa convenção ficam entre colchetes; Marcos 16:9–20 também recebe essa marca. Os colchetes identificam essas decisões editoriais e não constituem um inventário exaustivo de todas as variantes textuais da Bíblia.
+
+Exemplos de decisões textuais
+
+Mateus 18:11. A NTB-BR conserva a leitura grega complementar registrada no interlinear de referência e coloca o versículo inteiro entre colchetes. A leitura é traduzida do grego e distinguida do texto principal do SBLGNT.
+
+Marcos 16:9–20. O final longo do Evangelho, impresso com marcação crítica no SBLGNT, é conservado, com cada versículo completo entre colchetes. O final breve adicional impresso depois de Marcos 16:8 nessa edição não é incorporado à NTB-BR.
+
+Mateus 1:7. Asaf na NTBT espanhola, Asaph na BTNT inglesa e Asafe na NTB-BR expressam, em cada língua, a leitura conservada na base grega. Substituí-la por Asa seria adotar outra leitura, e não apenas adaptar o nome ao português. A familiaridade com uma genealogia não justifica, por si só, essa mudança.
+
+João 7:53–8:11. A NTB-BR conserva o relato inteiro e sua convenção atual de colchetes. O SBLGNT imprime essa unidade entre colchetes duplos; vários testemunhos gregos antigos que preservam esse trecho não a contêm, enquanto outros a situam em lugares diferentes. As instruções para os futuros estudos exigem que as notas de João 7:53 e 8:1 expliquem essa questão de transmissão, sem confundi-la com escolhas de redação nem com uma conclusão automática sobre a historicidade do relato. Estudos em português só serão oferecidos depois de completos e verificados.
+
+Romanos 16:25–27. A NTB-BR conserva essa doxologia entre colchetes a partir da leitura grega complementar documentada. Ela não faz parte do corpo da edição SBLGNT consultada. Essa diferença é explicada separadamente de João 7:53–8:11 e das escolhas de pontuação.
+
+Salmos 22:16 (22:17 na numeração hebraica de WLC/OSHB): a leitura massorética é כָּאֲרִי (kaʾarí), “como um leão”, seguida de “minhas mãos e meus pés”. A NTB-BR preserva essa imagem. O segmento hebraico não repete um verbo junto dessas palavras; “cercam” explicita a ação do contexto anterior. A NTBT faz o mesmo em espanhol, e a BTNT conserva a construção elíptica. Identificar a leitura adotada não encerra toda a discussão textual.
+
+Hebreus 2:9: SBLGNT apresenta χωρὶς θεοῦ (chōrís theoû), “à parte de Deus”; as três traduções mantêm essa leitura. “Pela graça de Deus” corresponde a χάριτι θεοῦ (cháriti theoû), uma leitura diferente. A escolha grega pertence a SBLGNT; a redação em cada idioma é responsabilidade da BibliaTodo.
+
+Parágrafos, poesia e numeração
+
+Os parágrafos narrativos, as linhas poéticas e as estrofes são descritos por uma estrutura de capítulo compartilhada pelos leitores e pelas exportações. As introduções narrativas dos poemas distinguem-se do discurso poético. Os títulos antigos dos Salmos, quando presentes na edição, distinguem-se dos títulos editoriais e são identificados com d em USFM e USX.
+
+Salmos 47:9 e 47:10 permanecem dois versículos. Juntos correspondem ao encerramento de Salmos 47:10 na numeração hebraica, que conta o título como versículo 1. A diferença de divisão não omite conteúdo. Cada entrega identifica sua data de corte separadamente do número do catálogo e da licença.
+
+As Escrituras transmitidas através dos séculos
+
+A história manuscrita do Novo Testamento inclui fragmentos antigos, como o Papiro Rylands 52, tradicionalmente datado do século II, e importantes códices, como o Sinaítico e o Vaticano, do século IV. Esses testemunhos ajudam os estudiosos a examinar a transmissão do texto grego através dos séculos.
+
+Para o Antigo Testamento, a tradição massorética preserva o texto hebraico e as passagens aramaicas. O Códice de Leningrado, do século XI, é um testemunho completo fundamental. A antiguidade de um manuscrito e seu valor para uma passagem são considerados junto aos demais testemunhos disponíveis.
+
+Os testemunhos manuscritos oferecem o contexto histórico dessas edições textuais. Sua menção não atribui ao projeto um exame independente de cada códice nem uma reconstrução crítica própria de toda a tradição manuscrita. A documentação editorial distingue as fontes efetivamente consultadas das informações históricas sobre a transmissão.
+
+Por que compartilhamos gratuitamente nossas traduções
+
+Em seu livro Cómo escuchar la voz audible de Dios (Como ouvir a voz audível de Deus), Carlos Colina, fundador da BibliaTodo, relata que, em dezembro de 2021, o Senhor lhe mostrou em uma visão um acontecimento futuro: sua própria morte e chegada ao reino dos céus.
+
+Nessa visão, ele se encontrava em um lugar semelhante a um estádio imenso, repleto de uma multidão de milhões de pessoas louvando a Deus. Então se fez silêncio. Um anjo se levantou, com um livro na mão, e começou a chamar nomes. Os que eram chamados se levantavam em meio à multidão.
+
+Quando o anjo chamou outro nome, Carlos viu um homem se levantar. Podia ver seu rosto, embora não o conhecesse nem soubesse quem era. Então ouviu estas palavras do anjo:
+
+«Cedeu os direitos autorais do filme JESUS, por meio do qual milhões de almas foram alcançadas para o Reino dos Céus».
+
+Depois de despertar da visão, pesquisou sobre o filme e relacionou o homem a Bill Bright, fundador da Campus Crusade for Christ (hoje Cru), que ajudou a levar o filme JESUS (1979) ao público. Entendeu que aquele homem poderia ter obtido uma renda considerável, mas havia escolhido acumular tesouros no reino dos céus.
+
+Carlos compartilha essa experiência como seu testemunho pessoal e relaciona a lição recebida com sua decisão de colocar o trabalho das traduções BibliaTodo a serviço da propagação do evangelho: servir generosamente a Jesus Cristo e ajudar outras pessoas a conhecer sua Palavra.
+
+Nosso maior desejo é que mais pessoas conheçam Jesus Cristo por meio das Escrituras. Compartilhamos nossas traduções sob uma licença gratuita para fins comerciais ou sem fins lucrativos, sem royalties, comissões ou taxas de licença.
+
+Você pode imprimir para uso pessoal, distribuir a tradução completa em formato digital, inclusive em sites e aplicativos pagos, e usar versículos, citações, seleções e livros bíblicos individuais em impressos ou produtos para doar ou vender. Preserve o texto e a atribuição e identifique seus acréscimos.
+
+Antes de imprimir a Bíblia completa, todo o Antigo Testamento ou todo o Novo Testamento para vender, doar ou distribuir a terceiros, faça o cadastro gratuito, verifique seu e-mail e solicite a aprovação por escrito da edição. Envie o protocolo e a diagramação final para info@bibliatodo.org. Não há cobrança de royalties, comissões ou taxas de licença.
+
+Os usos autorizados diretamente não exigem cadastro. O comprovante pessoal e os avisos editoriais são opcionais. Edições aprovadas podem ser reimpressas com a mesma capa, diagramação e conteúdo editorial.
+
+Revisão contínua e atualizações
+
+Cada idioma tem sua própria redação a partir das línguas bíblicas e aproveita a pesquisa editorial compartilhada. Propostas de melhoria serão avaliadas pelo cotejo do original e do contexto. Especialistas com formação verificada serão creditados somente pelos capítulos e revisões efetivamente realizados; uma alternativa igualmente fiel não obriga a mudar uma tradução acertada.
+
+Cada entrega é identificada pela data de corte, distinta da primeira publicação e da versão da licença. Responsáveis cadastrados podem optar por avisos editoriais e cancelá-los sem perder a autorização. A publicação e os avisos exigem verificação e aprovação editorial; o histórico e as descargas oficiais identificam a entrega disponível.
+
+Edições de referência e reconhecimentos documentais
+
+Entre os testemunhos antigos da transmissão do Novo Testamento estão o Papiro Rylands 52 (P52), fragmento do Evangelho de João tradicionalmente situado no século II, cuja datação paleográfica permanece em estudo, e os códices Sinaítico e Vaticano, do século IV. Esses manuscritos documentam a história do texto; as edições identificadas a seguir apoiam o cotejo nas línguas bíblicas.
+
+Antigo Testamento: o texto massorético hebraico e aramaico na edição Westminster Leningrad Codex (WLC), consultado junto aos recursos linguísticos da Open Scriptures Hebrew Bible (OSHB).
+
+Novo Testamento: o SBL Greek New Testament (SBLGNT), editado por Michael W. Holmes, versão 1.2, utilizado no cotejo do grego. As decisões de redação e estilo do texto português da NTB-BR pertencem ao seu próprio trabalho editorial.
+
+Reconhecimento da edição grega consultada: SBL Greek New Testament © 2010 Society of Biblical Literature e Logos Bible Software, sob CC BY 4.0. Este aviso se refere àquela edição grega; os direitos sobre as contribuições originais do texto português da NTB-BR pertencem à BibliaTodo LLC.
+
+Obra original da Open Scriptures Hebrew Bible disponível em https://github.com/openscriptures/morphhb
+
+As licenças abertas dessas edições permitem seu uso com atribuição, inclusive comercial. A identificação documental é compatível com a autorização gratuita de distribuição da NTB-BR e não implica que essas organizações publiquem, patrocinem ou certifiquem esta tradução.
+
+Edição grega SBLGNT e licença: https://www.sblgnt.com/license/
+
+OSHB: reconhecimento e licença CC BY 4.0: https://github.com/openscriptures/morphhb/blob/master/LICENSE.md
+
+Creative Commons Atribuição 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Texto jurídico da CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Introdução e critérios textuais da edição SBLGNT: https://www.sblgnt.com/about/introduction/
+
+WLC / OSHB · Salmos 22: https://github.com/openscriptures/morphhb/blob/master/wlc/Ps.xml
+
+SBLGNT · Hebrews 2:9: https://github.com/LogosBible/SBLGNT/blob/master/data/sblgnt/text/Heb.txt
+
+Atualizações e identificação de entregas: https://www.bibliatodo.org/pt/ntb-br/updates

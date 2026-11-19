@@ -1,4 +1,4 @@
-"""Convert the publisher's NTBT text-only JSON ZIP to the BibleVerse catalog format.
+"""Convert reviewed BibliaTodo text-only JSON ZIPs to the BibleVerse catalog format.
 
 Run with Python 3: python tools/import-ntbt.py /path/to/NTBT-json.zip
 Source: https://downloads.bibliatodo.org/texto/NTBT-json.zip
@@ -7,14 +7,38 @@ Source: https://downloads.bibliatodo.org/texto/NTBT-json.zip
 import hashlib
 import json
 import sys
+from dataclasses import dataclass
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
 
 ROOT = Path(__file__).resolve().parents[1] / "bibles"
-VERSION = "spa-ntbt"
-EDITION = "NTBT-2026-11-06"
-DIGEST = "f6b0d0e01390630bffe9b70decdd523f331c14945efe56572ecf3c92fd945db2"
+@dataclass(frozen=True)
+class Edition:
+    code: str
+    version: str
+    release: str
+    name: str
+    language: str
+    credit: str
+    license: str
+    url: str
+
+
+EDITIONS = {
+    "f6b0d0e01390630bffe9b70decdd523f331c14945efe56572ecf3c92fd945db2": Edition(
+        "NTBT", "spa-ntbt", "NTBT-2026-11-06", "Nueva Traducción BibliaTodo (NTBT)", "es",
+        "Santa Biblia, Nueva Traducción BibliaTodo (NTBT). Publicada por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC. Uso, reproducción y distribución autorizados gratuitamente conforme a la Licencia NTBT.",
+        "BibliaTodo Bible Society · Licencia NTBT", "https://www.bibliatodo.org/es/ntbt/"),
+    "f89fd8fd60ee87e1e38c9c54280ecd26b0654d7295db41ce090b6ada97eb41d8": Edition(
+        "BTNT", "eng-btnt", "BTNT-2026-11-17", "BibliaTodo New Translation (BTNT)", "en",
+        "Holy Bible, BibliaTodo New Translation (BTNT). Published by BibliaTodo Bible Society. Use, reproduction, and distribution are permitted free of charge under the BTNT License.",
+        "BibliaTodo Bible Society · BTNT License", "https://www.bibliatodo.org/en/btnt/"),
+    "301ce5fa4d16a77f8bcccc21730a83c7bb3a3290d6831b90119eef09342810d7": Edition(
+        "NTB-BR", "por-ntb-br", "NTB-BR-2026-11-17", "Nova Tradução BibliaTodo (NTB-BR)", "pt",
+        "Bíblia Sagrada, Nova Tradução BibliaTodo (NTB-BR). Publicada por BibliaTodo Bible Society. Uso, reprodução e distribuição autorizados gratuitamente nos termos da Licença NTB-BR.",
+        "BibliaTodo Bible Society · Licença NTB-BR", "https://www.bibliatodo.org/pt/ntb-br/"),
+}
 BOOK_CODES = """
 GEN EXO LEV NUM DEU JOS JDG RUT 1SA 2SA 1KI 2KI 1CH 2CH EZR NEH EST JOB
 PSA PRO ECC SNG ISA JER LAM EZK DAN HOS JOL AMO OBA JON MIC NAM HAB ZEP HAG
@@ -28,14 +52,16 @@ def encode(value):
 
 
 def convert(source):
-    if hashlib.sha256(source.read_bytes()).hexdigest() != DIGEST:
+    digest = hashlib.sha256(source.read_bytes()).hexdigest()
+    edition = EDITIONS.get(digest)
+    if not edition:
         raise ValueError("The source ZIP differs from the reviewed edition")
     with ZipFile(source) as archive:
-        bible = json.loads(archive.read("NTBT.json"))
-        files = {name: archive.read(name) for name in ("CREDITOS.txt", "LICENCIA.txt", "LEEME.txt")}
+        bible = json.loads(archive.read(f"{edition.code}.json"))
+        files = {name: archive.read(name) for name in archive.namelist() if name.endswith(".txt") and "/" not in name}
 
     canon = json.loads((ROOT / "spa-vbl/booknames.json").read_bytes())["books"]
-    if bible["identificacion"] != EDITION or [b["codigo"] for b in bible["libros"]] != BOOK_CODES:
+    if bible["identificacion"] != edition.release or [b["codigo"] for b in bible["libros"]] != BOOK_CODES:
         raise ValueError("Unexpected edition or book order")
 
     names = {}
@@ -53,26 +79,24 @@ def convert(source):
                 raise ValueError(f"Invalid chapter at {slug} {number}")
             extras = {k: v for k, v in chapter.items() if k not in ("numero", "versiculos")}
             files[f"books/{slug}/chapters/{number}.json"] = encode(
-                {"version": VERSION, "book": slug, "chapter": number, "data": data, **extras}
+                {"version": edition.version, "book": slug, "chapter": number, "data": data, **extras}
             )
             chapters += 1
             verses += len(data)
     if (len(names), chapters, verses) != (66, 1189, 31104):
         raise ValueError("Unexpected canon size")
     files["booknames.json"] = encode({
-        "versionId": VERSION, "name": "Nueva Traducción BibliaTodo (NTBT)", "language": "es",
-        "edition": EDITION, "sourceSha256": DIGEST,
-        "copyright": "Santa Biblia, Nueva Traducción BibliaTodo (NTBT). Publicada por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC. Uso, reproducción y distribución autorizados gratuitamente conforme a la Licencia NTBT. https://www.bibliatodo.org/es/ntbt/",
-        "license": "BibliaTodo Bible Society · Licencia NTBT",
-        "licenseUrl": "https://www.bibliatodo.org/es/ntbt/", "books": names,
+        "versionId": edition.version, "name": edition.name, "language": edition.language,
+        "edition": edition.release, "sourceSha256": digest, "copyright": f"{edition.credit} {edition.url}",
+        "license": edition.license, "licenseUrl": edition.url, "books": names,
     })
-    with ZipFile(ROOT / f"{VERSION}.zip", "w") as output:
+    with ZipFile(ROOT / f"{edition.version}.zip", "w") as output:
         for name, content in sorted(files.items()):
-            path = ROOT / VERSION / name
+            path = ROOT / edition.version / name
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_bytes(content)
             output.writestr(ZipInfo(name), content, compress_type=ZIP_DEFLATED)
-    print(f"{EDITION}: {len(names)} books, {chapters} chapters, {verses} verses")
+    print(f"{edition.release}: {len(names)} books, {chapters} chapters, {verses} verses")
 
 
 if __name__ == "__main__":

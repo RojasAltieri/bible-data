@@ -1,0 +1,117 @@
+History and Biblical Fidelity
+
+English BTNT text © 2026 BibliaTodo LLC, with respect to its own contributions. Published by BibliaTodo Bible Society, an imprint of BibliaTodo LLC.
+
+Editorial direction and review
+
+Editorial direction and review of the BibliaTodo New Translation are led by Carlos Colina, with the support of the collaborating team of BibliaTodo Bible Society.
+
+How the translation is prepared and reviewed
+
+BibliaTodo translations are made from the Hebrew, Aramaic, and Greek texts of Scripture. Our methodology identifies the textual editions we use.
+
+BTNT is drafted in English from the biblical languages, drawing on the editorial research shared with the Spanish NTBT. Review considers the whole chapter, grammar, subjects, negations, quantities, repetitions, and imagery. Contemporary, reverent American English serves precision: narratives should be clear to follow, while poetry, prayers, and memorable passages retain their rhythm and force. Explanations remain separate from the biblical text.
+
+Faithfulness to the meaning of the Hebrew, Aramaic, and Greek is the primary criterion. Clear wording must not introduce theological explanations or resolve ambiguities that the text and its context retain. Translation choices must be justified from the biblical languages; explanations, interpretations, and applications are presented separately in study material.
+
+Textual bases and reference resources
+
+For the Old Testament, the Masoretic Hebrew and Aramaic tradition is consulted in the Westminster Leningrad Codex (WLC), together with the linguistic resources of the Open Scriptures Hebrew Bible (OSHB). Differences between the written form and the transmitted reading, known as ketiv and qere, are examined in context. Aramaic is consulted in the passages that belong to that language.
+
+For the New Testament, the principal Greek base is the SBL Greek New Testament (SBLGNT), edited by Michael W. Holmes, version 1.2. The interlinear text, morphology, and lexical resources support examination of the text; an isolated gloss does not replace its meaning in context. These editions provide access to texts in their original languages as transmitted through the manuscript tradition.
+
+How textual variants are handled
+
+A textual variant is a difference of reading between witnesses to the text. It is distinguished from a choice about expressing the same reading in English and from differences of punctuation or numbering. The principal Greek edition contains its editor’s critical decisions; exceptions adopted by BTNT are documented separately.
+
+Examination of a reading considers the textual evidence consulted, grammar, and context. A familiar phrase, the age of a witness, the number of copies, or an interpretive preference does not determine the decision on its own. Passages are not harmonized by silently changing names, quantities, or statements in the text.
+
+In the New Testament, BTNT preserves certain additional readings documented in the Greek of the reference interlinear, although they do not appear in the main SBLGNT text. Complete verses preserved under this convention are enclosed in brackets; Mark 16:9–20 is also marked this way. The brackets identify these editorial decisions, rather than providing an exhaustive inventory of every textual variant in the Bible.
+
+Examples of textual decisions
+
+Matthew 18:11. BTNT preserves the supplementary Greek reading recorded in the reference interlinear and encloses the entire verse in brackets. The reading is translated from Greek and distinguished from the main SBLGNT text.
+
+Mark 16:9–20. The longer ending of the Gospel, printed with critical marking in SBLGNT, is retained, with each complete verse enclosed in brackets. The additional shorter ending printed after Mark 16:8 in that edition is not incorporated into BTNT.
+
+Matthew 1:7. Asaf in NTBT and Asaph in BTNT express in each language the reading retained in the Greek base. Replacing it with Asa would adopt a different reading, rather than merely adapting the name into Spanish or English. Familiarity with a genealogy does not by itself justify that change.
+
+John 7:53–8:11. BTNT retains the entire account and its existing bracket convention. SBLGNT prints this unit within double brackets; several early Greek witnesses preserving this part do not contain it, while others place it elsewhere. The study instructions require the notes at John 7:53 and 8:1 to explain this transmission issue without confusing it with wording choices or an automatic conclusion about the account’s historicity. English studies are offered only when complete and verified.
+
+Romans 16:25–27. BTNT retains this doxology in brackets from the documented supplementary Greek reading. It is not part of the body of the consulted SBLGNT edition. This difference is explained separately from John 7:53–8:11 and from punctuation choices.
+
+Psalm 22:16 (22:17 in WLC/OSHB Hebrew numbering): the Masoretic reading is כָּאֲרִי (kaʾarí), “like a lion,” followed by “my hands and my feet.” BTNT retains this elliptical image. The Hebrew segment does not repeat a verb alongside those words. Spanish NTBT and Portuguese NTB-BR make the action of surrounding explicit from the preceding context. Identifying the adopted reading does not settle the entire textual debate.
+
+Hebrews 2:9: SBLGNT prints χωρὶς θεοῦ (chōrís theoû), “apart from God”; all three translations retain it. “By the grace of God” represents χάριτι θεοῦ (cháriti theoû), a different reading. The Greek selection belongs to SBLGNT; BibliaTodo is responsible for the wording in each language.
+
+Paragraphs, poetry, and numbering
+
+Narrative paragraphs, poetic lines, and stanzas are described through a shared chapter structure used by readers and exports. Narrative introductions to poems are distinguished from poetic speech. Ancient Psalm superscriptions, where present in the edition, are distinguished from editorial headings and identified with d in USFM and USX.
+
+Psalm 47:9 and 47:10 remain two verses. Together they correspond to the closing verse of Psalm 47:10 in Hebrew numbering, which counts the superscription as verse 1. The difference in division omits no content. Each release identifies its cutoff date separately from the catalog number and license.
+
+Scripture transmitted through the centuries
+
+The manuscript history of the New Testament includes early fragments such as Rylands Papyrus 52, traditionally dated to the second century, and important codices such as Sinaiticus and Vaticanus from the fourth century. These witnesses help scholars study the transmission of the Greek text through the centuries.
+
+For the Old Testament, the Masoretic tradition preserves the Hebrew text and Aramaic passages. The eleventh-century Leningrad Codex is a fundamental complete witness. A manuscript's age and its value for a passage are considered alongside the other available witnesses.
+
+The manuscript witnesses provide the historical setting of these textual editions. Mentioning them does not attribute to the project an independent examination of every codex or its own critical reconstruction of the full manuscript tradition. Editorial documentation distinguishes the sources actually consulted from historical information about transmission.
+
+Why we share our translations freely
+
+In his book Cómo escuchar la voz audible de Dios (How to Hear the Audible Voice of God), Carlos Colina, founder of BibliaTodo, recounts that in December 2021 the Lord showed him a future event in a vision: his own death and arrival in the kingdom of heaven.
+
+In that vision, he found himself in a place resembling an immense stadium, filled with a multitude of millions of people praising God. Then silence fell. An angel stood up, holding a book in his hand, and began to call out names. Those who were called stood up among the multitude.
+
+When the angel called out another name, Carlos saw a man stand up. He could see the man’s face, although he did not know him or know who he was. Then he heard these words from the angel:
+
+«He relinquished the copyright to the film JESUS, through which millions of souls have been reached for the Kingdom of Heaven».
+
+After waking from the vision, he researched the film and connected the man with Bill Bright, who founded Campus Crusade for Christ (now Cru) and helped bring the film JESUS (1979) to audiences. He understood that the man could have earned substantial income but had chosen to store up treasures in the kingdom of heaven.
+
+Carlos shares this experience as his personal testimony and connects the lesson he received with his decision to place the work of the BibliaTodo translations at the service of spreading the gospel: serving Jesus Christ generously and helping others come to know his Word.
+
+Our greatest hope is that more people will come to know Jesus Christ through Scripture. We share our translations under a free license for commercial and nonprofit uses, with no royalties, commissions, or license fees.
+
+You may print for personal use, distribute the full translation digitally, including on paid websites and apps, and use verses, quotations, selections, and individual Bible books in printed materials or products to give away or sell. Preserve the text and attribution and clearly identify your additions.
+
+Before printing a complete Bible, the complete Old Testament, or the complete New Testament for sale, donation, or distribution to third parties, register free of charge, verify your email address, and request written approval of the edition. Send your reference number and the final layout to info@bibliatodo.org. There are no royalties, commissions, or license fees.
+
+Directly permitted uses require no registration. A personal certificate and editorial updates are optional. Approved editions may be reprinted with the same cover, layout, and editorial content.
+
+Continuing review and updates
+
+Each language has its own wording from the biblical languages and draws on shared editorial research. Proposed improvements will be assessed against the original text and its context. Specialists with verified qualifications will be credited only for chapters and reviews actually completed; an equally faithful alternative does not require changing sound wording.
+
+Each delivery is identified by its cutoff date, separately from first publication and license version. Registered responsible parties may opt in to editorial notices and unsubscribe without losing their authorization. Publication and notices require verification and editorial approval; the release history and official downloads identify the available delivery.
+
+Reference editions and documentary acknowledgments
+
+Early witnesses to the transmission of the New Testament include Rylands Papyrus 52 (P52), a fragment of the Gospel of John traditionally assigned to the second century, whose paleographic dating remains a subject of study, and Codex Sinaiticus and Codex Vaticanus from the fourth century. These manuscripts document the history of the text; the editions identified below support comparison in the biblical languages.
+
+Old Testament: the Hebrew and Aramaic Masoretic text in the Westminster Leningrad Codex (WLC) edition, consulted alongside the linguistic resources of the Open Scriptures Hebrew Bible (OSHB).
+
+New Testament: the SBL Greek New Testament (SBLGNT), edited by Michael W. Holmes, version 1.2, used for comparison with the Greek. BTNT's English wording and style decisions belong to its own editorial work.
+
+Acknowledgment of the consulted Greek edition: SBL Greek New Testament © 2010 Society of Biblical Literature and Logos Bible Software, under CC BY 4.0. This notice refers to that Greek edition; rights in the original contributions of the English BTNT text belong to BibliaTodo LLC.
+
+Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb
+
+The open licenses of these editions permit use with attribution, including commercial use. Documentary identification is compatible with BTNT's free distribution authorization and does not imply that those organizations publish, sponsor, or certify this translation.
+
+SBLGNT Greek edition and license: https://www.sblgnt.com/license/
+
+OSHB: acknowledgment and CC BY 4.0 license: https://github.com/openscriptures/morphhb/blob/master/LICENSE.md
+
+Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/
+
+CC BY 4.0 legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Introduction and textual criteria of the SBLGNT edition: https://www.sblgnt.com/about/introduction/
+
+WLC / OSHB · Salmos 22: https://github.com/openscriptures/morphhb/blob/master/wlc/Ps.xml
+
+SBLGNT · Hebrews 2:9: https://github.com/LogosBible/SBLGNT/blob/master/data/sblgnt/text/Heb.txt
+
+Updates and release identification: https://www.bibliatodo.org/en/btnt/updates
